@@ -5,6 +5,10 @@
 #   gem 'sqlite3'
 development:
   adapter: postgresql
+  encoding: unicode
+  database: deliberatorio_development
+  username: dani
+  password:
   pool: 5
   timeout: 5000
 
