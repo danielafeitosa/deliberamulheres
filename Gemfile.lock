@@ -57,6 +57,7 @@ GEM
       treetop (~> 1.4.8)
     mime-types (1.25.1)
     multi_json (1.10.1)
+    nokogiri (1.5.5)
     pg (0.17.1)
     polyglot (0.3.5)
     rack (1.4.5)
@@ -117,6 +118,7 @@ DEPENDENCIES
   carrierwave
   coffee-rails (~> 3.2.1)
   jquery-rails
+  nokogiri (~> 1.5.5)
   pg
   rails (= 3.2.19)
   sass-rails (~> 3.2.3)
