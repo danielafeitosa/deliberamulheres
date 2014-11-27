@@ -1,37 +1,38 @@
-<%= form_for(@proposicao) do |f| %>
-  <% if @proposicao.errors.any? %>
-    <div id="error_explanation">
-      <h2><%= pluralize(@proposicao.errors.count, "error") %> prohibited this proposicao from being saved:</h2>
-
-      <ul>
-      <% @proposicao.errors.full_messages.each do |msg| %>
-        <li><%= msg %></li>
-      <% end %>
-      </ul>
+<%= form_for @proposicao, :html => { :class => 'form-horizontal' } do |f| %>
+  <div class="control-group">
+    <%= f.label :reuniao_id, :class => 'control-label' %>
+    <div class="controls">
+      <%= f.number_field :reuniao_id, :class => 'number_field' %>
     </div>
-  <% end %>
+  </div>
+  <div class="control-group">
+    <%= f.label :sigla, :class => 'control-label' %>
+    <div class="controls">
+      <%= f.text_field :sigla, :class => 'text_field' %>
+    </div>
+  </div>
+  <div class="control-group">
+    <%= f.label :id_proposicao, :class => 'control-label' %>
+    <div class="controls">
+      <%= f.number_field :id_proposicao, :class => 'number_field' %>
+    </div>
+  </div>
+  <div class="control-group">
+    <%= f.label :ementa, :class => 'control-label' %>
+    <div class="controls">
+      <%= f.text_area :ementa, :class => 'text_area' %>
+    </div>
+  </div>
+  <div class="control-group">
+    <%= f.label :resultado, :class => 'control-label' %>
+    <div class="controls">
+      <%= f.text_area :resultado, :class => 'text_area' %>
+    </div>
+  </div>
 
-  <div class="field">
-    <%= f.label :reuniao_id %><br />
-    <%= f.text_field :reuniao_id %>
-  </div>
-  <div class="field">
-    <%= f.label :sigla %><br />
-    <%= f.text_field :sigla %>
-  </div>
-  <div class="field">
-    <%= f.label :id_proposicao %><br />
-    <%= f.number_field :id_proposicao %>
-  </div>
-  <div class="field">
-    <%= f.label :ementa %><br />
-    <%= f.text_area :ementa %>
-  </div>
-  <div class="field">
-    <%= f.label :resultado %><br />
-    <%= f.text_area :resultado %>
-  </div>
-  <div class="actions">
-    <%= f.submit %>
+  <div class="form-actions">
+    <%= f.submit nil, :class => 'btn btn-primary' %>
+    <%= link_to t('.cancel', :default => t("helpers.links.cancel")),
+                proposicaos_path, :class => 'btn' %>
   </div>
 <% end %>

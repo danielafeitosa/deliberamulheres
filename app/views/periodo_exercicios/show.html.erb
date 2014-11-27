@@ -1,45 +1,35 @@
-<p id="notice"><%= notice %></p>
+<%- model_class = PeriodoExercicio -%>
+<div class="page-header">
+  <h1><%=t '.title', :default => model_class.model_name.human.titleize %></h1>
+</div>
 
-<p>
-  <b>Deputado:</b>
-  <%= @periodo_exercicio.deputado_id %>
-</p>
+<dl class="dl-horizontal">
+  <dt><strong><%= model_class.human_attribute_name(:deputado_id) %>:</strong></dt>
+  <dd><%= @periodo_exercicio.deputado_id %></dd>
+  <dt><strong><%= model_class.human_attribute_name(:sigla_uf_representacao) %>:</strong></dt>
+  <dd><%= @periodo_exercicio.sigla_uf_representacao %></dd>
+  <dt><strong><%= model_class.human_attribute_name(:situacao_exercicio) %>:</strong></dt>
+  <dd><%= @periodo_exercicio.situacao_exercicio %></dd>
+  <dt><strong><%= model_class.human_attribute_name(:data_inicio) %>:</strong></dt>
+  <dd><%= @periodo_exercicio.data_inicio %></dd>
+  <dt><strong><%= model_class.human_attribute_name(:data_fim) %>:</strong></dt>
+  <dd><%= @periodo_exercicio.data_fim %></dd>
+  <dt><strong><%= model_class.human_attribute_name(:id_causa_fim_exercicio) %>:</strong></dt>
+  <dd><%= @periodo_exercicio.id_causa_fim_exercicio %></dd>
+  <dt><strong><%= model_class.human_attribute_name(:descricao_causa_fim_exercicio) %>:</strong></dt>
+  <dd><%= @periodo_exercicio.descricao_causa_fim_exercicio %></dd>
+  <dt><strong><%= model_class.human_attribute_name(:id_cadastro_parlamentar_anterior) %>:</strong></dt>
+  <dd><%= @periodo_exercicio.id_cadastro_parlamentar_anterior %></dd>
+</dl>
 
-<p>
-  <b>Sigla uf representacao:</b>
-  <%= @periodo_exercicio.sigla_uf_representacao %>
-</p>
-
-<p>
-  <b>Situacao exercicio:</b>
-  <%= @periodo_exercicio.situacao_exercicio %>
-</p>
-
-<p>
-  <b>Data inicio:</b>
-  <%= @periodo_exercicio.data_inicio %>
-</p>
-
-<p>
-  <b>Data fim:</b>
-  <%= @periodo_exercicio.data_fim %>
-</p>
-
-<p>
-  <b>Id causa fim exercicio:</b>
-  <%= @periodo_exercicio.id_causa_fim_exercicio %>
-</p>
-
-<p>
-  <b>Descricao causa fim exercicio:</b>
-  <%= @periodo_exercicio.descricao_causa_fim_exercicio %>
-</p>
-
-<p>
-  <b>Id cadastro parlamentar anterior:</b>
-  <%= @periodo_exercicio.id_cadastro_parlamentar_anterior %>
-</p>
-
-
-<%= link_to 'Edit', edit_periodo_exercicio_path(@periodo_exercicio) %> |
-<%= link_to 'Back', periodo_exercicios_path %>
+<div class="form-actions">
+  <%= link_to t('.back', :default => t("helpers.links.back")),
+              periodo_exercicios_path, :class => 'btn'  %>
+  <%= link_to t('.edit', :default => t("helpers.links.edit")),
+              edit_periodo_exercicio_path(@periodo_exercicio), :class => 'btn' %>
+  <%= link_to t('.destroy', :default => t("helpers.links.destroy")),
+              periodo_exercicio_path(@periodo_exercicio),
+              :method => 'delete',
+              :data => { :confirm => t('.confirm', :default => t("helpers.links.confirm", :default => 'Are you sure?')) },
+              :class => 'btn btn-danger' %>
+</div>

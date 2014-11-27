@@ -1,6 +1,5 @@
-<h1>Editing periodo_exercicio</h1>
-
-<%= render 'form' %>
-
-<%= link_to 'Show', @periodo_exercicio %> |
-<%= link_to 'Back', periodo_exercicios_path %>
+<%- model_class = PeriodoExercicio -%>
+<div class="page-header">
+  <h1><%=t '.title', :default => [:'helpers.titles.edit', 'Edit %{model}'], :model => model_class.model_name.human.titleize %></h1>
+</div>
+<%= render :partial => 'form' %>

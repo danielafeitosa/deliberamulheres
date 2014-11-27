@@ -1,0 +1,37 @@
+<%- model_class = ReuniaoPautum -%>
+<div class="page-header">
+  <h1><%=t '.title', :default => model_class.model_name.human.titleize %></h1>
+</div>
+
+<dl class="dl-horizontal">
+  <dt><strong><%= model_class.human_attribute_name(:orgao_id) %>:</strong></dt>
+  <dd><%= @reuniao_pautum.orgao_id %></dd>
+  <dt><strong><%= model_class.human_attribute_name(:cod_reuniao) %>:</strong></dt>
+  <dd><%= @reuniao_pautum.cod_reuniao %></dd>
+  <dt><strong><%= model_class.human_attribute_name(:data) %>:</strong></dt>
+  <dd><%= @reuniao_pautum.data %></dd>
+  <dt><strong><%= model_class.human_attribute_name(:horario) %>:</strong></dt>
+  <dd><%= @reuniao_pautum.horario %></dd>
+  <dt><strong><%= model_class.human_attribute_name(:local) %>:</strong></dt>
+  <dd><%= @reuniao_pautum.local %></dd>
+  <dt><strong><%= model_class.human_attribute_name(:estado) %>:</strong></dt>
+  <dd><%= @reuniao_pautum.estado %></dd>
+  <dt><strong><%= model_class.human_attribute_name(:tipo) %>:</strong></dt>
+  <dd><%= @reuniao_pautum.tipo %></dd>
+  <dt><strong><%= model_class.human_attribute_name(:titulo_reuniao) %>:</strong></dt>
+  <dd><%= @reuniao_pautum.titulo_reuniao %></dd>
+  <dt><strong><%= model_class.human_attribute_name(:objeto) %>:</strong></dt>
+  <dd><%= @reuniao_pautum.objeto %></dd>
+</dl>
+
+<div class="form-actions">
+  <%= link_to t('.back', :default => t("helpers.links.back")),
+              reuniao_pautums_path, :class => 'btn'  %>
+  <%= link_to t('.edit', :default => t("helpers.links.edit")),
+              edit_reuniao_pautum_path(@reuniao_pautum), :class => 'btn' %>
+  <%= link_to t('.destroy', :default => t("helpers.links.destroy")),
+              reuniao_pautum_path(@reuniao_pautum),
+              :method => 'delete',
+              :data => { :confirm => t('.confirm', :default => t("helpers.links.confirm", :default => 'Are you sure?')) },
+              :class => 'btn btn-danger' %>
+</div>

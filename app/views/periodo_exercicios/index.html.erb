@@ -1,37 +1,50 @@
-<h1>Listing periodo_exercicios</h1>
-
-<table>
-  <tr>
-    <th>Deputado</th>
-    <th>Sigla uf representacao</th>
-    <th>Situacao exercicio</th>
-    <th>Data inicio</th>
-    <th>Data fim</th>
-    <th>Id causa fim exercicio</th>
-    <th>Descricao causa fim exercicio</th>
-    <th>Id cadastro parlamentar anterior</th>
-    <th></th>
-    <th></th>
-    <th></th>
-  </tr>
-
-<% @periodo_exercicios.each do |periodo_exercicio| %>
-  <tr>
-    <td><%= periodo_exercicio.deputado_id %></td>
-    <td><%= periodo_exercicio.sigla_uf_representacao %></td>
-    <td><%= periodo_exercicio.situacao_exercicio %></td>
-    <td><%= periodo_exercicio.data_inicio %></td>
-    <td><%= periodo_exercicio.data_fim %></td>
-    <td><%= periodo_exercicio.id_causa_fim_exercicio %></td>
-    <td><%= periodo_exercicio.descricao_causa_fim_exercicio %></td>
-    <td><%= periodo_exercicio.id_cadastro_parlamentar_anterior %></td>
-    <td><%= link_to 'Show', periodo_exercicio %></td>
-    <td><%= link_to 'Edit', edit_periodo_exercicio_path(periodo_exercicio) %></td>
-    <td><%= link_to 'Destroy', periodo_exercicio, method: :delete, data: { confirm: 'Are you sure?' } %></td>
-  </tr>
-<% end %>
+<%- model_class = PeriodoExercicio -%>
+<div class="page-header">
+  <h1><%=t '.title', :default => model_class.model_name.human.pluralize.titleize %></h1>
+</div>
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th><%= model_class.human_attribute_name(:id) %></th>
+      <th><%= model_class.human_attribute_name(:deputado_id) %></th>
+      <th><%= model_class.human_attribute_name(:sigla_uf_representacao) %></th>
+      <th><%= model_class.human_attribute_name(:situacao_exercicio) %></th>
+      <th><%= model_class.human_attribute_name(:data_inicio) %></th>
+      <th><%= model_class.human_attribute_name(:data_fim) %></th>
+      <th><%= model_class.human_attribute_name(:id_causa_fim_exercicio) %></th>
+      <th><%= model_class.human_attribute_name(:descricao_causa_fim_exercicio) %></th>
+      <th><%= model_class.human_attribute_name(:id_cadastro_parlamentar_anterior) %></th>
+      <th><%= model_class.human_attribute_name(:created_at) %></th>
+      <th><%=t '.actions', :default => t("helpers.actions") %></th>
+    </tr>
+  </thead>
+  <tbody>
+    <% @periodo_exercicios.each do |periodo_exercicio| %>
+      <tr>
+        <td><%= link_to periodo_exercicio.id, periodo_exercicio_path(periodo_exercicio) %></td>
+        <td><%= periodo_exercicio.deputado_id %></td>
+        <td><%= periodo_exercicio.sigla_uf_representacao %></td>
+        <td><%= periodo_exercicio.situacao_exercicio %></td>
+        <td><%= periodo_exercicio.data_inicio %></td>
+        <td><%= periodo_exercicio.data_fim %></td>
+        <td><%= periodo_exercicio.id_causa_fim_exercicio %></td>
+        <td><%= periodo_exercicio.descricao_causa_fim_exercicio %></td>
+        <td><%= periodo_exercicio.id_cadastro_parlamentar_anterior %></td>
+        <td><%=l periodo_exercicio.created_at %></td>
+        <td>
+          <%= link_to t('.edit', :default => t("helpers.links.edit")),
+                      edit_periodo_exercicio_path(periodo_exercicio), :class => 'btn btn-mini' %>
+          <%= link_to t('.destroy', :default => t("helpers.links.destroy")),
+                      periodo_exercicio_path(periodo_exercicio),
+                      :method => :delete,
+                      :data => { :confirm => t('.confirm', :default => t("helpers.links.confirm", :default => 'Are you sure?')) },
+                      :class => 'btn btn-mini btn-danger' %>
+        </td>
+      </tr>
+    <% end %>
+  </tbody>
 </table>
 
-<br />
-
-<%= link_to 'New Periodo exercicio', new_periodo_exercicio_path %>
+<%= link_to t('.new', :default => t("helpers.links.new")),
+            new_periodo_exercicio_path,
+            :class => 'btn btn-primary' %>

@@ -1,30 +1,29 @@
-<p id="notice"><%= notice %></p>
+<%- model_class = Orgao -%>
+<div class="page-header">
+  <h1><%=t '.title', :default => model_class.model_name.human.titleize %></h1>
+</div>
 
-<p>
-  <b>Name:</b>
-  <%= @orgao.name %>
-</p>
+<dl class="dl-horizontal">
+  <dt><strong><%= model_class.human_attribute_name(:name) %>:</strong></dt>
+  <dd><%= @orgao.name %></dd>
+  <dt><strong><%= model_class.human_attribute_name(:sigla) %>:</strong></dt>
+  <dd><%= @orgao.sigla %></dd>
+  <dt><strong><%= model_class.human_attribute_name(:id_tipo_orgao) %>:</strong></dt>
+  <dd><%= @orgao.id_tipo_orgao %></dd>
+  <dt><strong><%= model_class.human_attribute_name(:id_orgao_legislativo) %>:</strong></dt>
+  <dd><%= @orgao.id_orgao_legislativo %></dd>
+  <dt><strong><%= model_class.human_attribute_name(:descricao) %>:</strong></dt>
+  <dd><%= @orgao.descricao %></dd>
+</dl>
 
-<p>
-  <b>Sigla:</b>
-  <%= @orgao.sigla %>
-</p>
-
-<p>
-  <b>Id tipo orgao:</b>
-  <%= @orgao.id_tipo_orgao %>
-</p>
-
-<p>
-  <b>Id orgao legislativo:</b>
-  <%= @orgao.id_orgao_legislativo %>
-</p>
-
-<p>
-  <b>Descricao:</b>
-  <%= @orgao.descricao %>
-</p>
-
-
-<%= link_to 'Edit', edit_orgao_path(@orgao) %> |
-<%= link_to 'Back', orgaos_path %>
+<div class="form-actions">
+  <%= link_to t('.back', :default => t("helpers.links.back")),
+              orgaos_path, :class => 'btn'  %>
+  <%= link_to t('.edit', :default => t("helpers.links.edit")),
+              edit_orgao_path(@orgao), :class => 'btn' %>
+  <%= link_to t('.destroy', :default => t("helpers.links.destroy")),
+              orgao_path(@orgao),
+              :method => 'delete',
+              :data => { :confirm => t('.confirm', :default => t("helpers.links.confirm", :default => 'Are you sure?')) },
+              :class => 'btn btn-danger' %>
+</div>

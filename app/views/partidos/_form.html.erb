@@ -1,29 +1,26 @@
-<%= form_for(@partido) do |f| %>
-  <% if @partido.errors.any? %>
-    <div id="error_explanation">
-      <h2><%= pluralize(@partido.errors.count, "error") %> prohibited this partido from being saved:</h2>
-
-      <ul>
-      <% @partido.errors.full_messages.each do |msg| %>
-        <li><%= msg %></li>
-      <% end %>
-      </ul>
+<%= form_for @partido, :html => { :class => 'form-horizontal' } do |f| %>
+  <div class="control-group">
+    <%= f.label :name, :class => 'control-label' %>
+    <div class="controls">
+      <%= f.text_field :name, :class => 'text_field' %>
     </div>
-  <% end %>
+  </div>
+  <div class="control-group">
+    <%= f.label :sigla, :class => 'control-label' %>
+    <div class="controls">
+      <%= f.text_field :sigla, :class => 'text_field' %>
+    </div>
+  </div>
+  <div class="control-group">
+    <%= f.label :id_partido, :class => 'control-label' %>
+    <div class="controls">
+      <%= f.text_field :id_partido, :class => 'text_field' %>
+    </div>
+  </div>
 
-  <div class="field">
-    <%= f.label :name %><br />
-    <%= f.text_field :name %>
-  </div>
-  <div class="field">
-    <%= f.label :sigla %><br />
-    <%= f.text_field :sigla %>
-  </div>
-  <div class="field">
-    <%= f.label :id_partido %><br />
-    <%= f.text_field :id_partido %>
-  </div>
-  <div class="actions">
-    <%= f.submit %>
+  <div class="form-actions">
+    <%= f.submit nil, :class => 'btn btn-primary' %>
+    <%= link_to t('.cancel', :default => t("helpers.links.cancel")),
+                partidos_path, :class => 'btn' %>
   </div>
 <% end %>

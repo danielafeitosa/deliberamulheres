@@ -1,20 +1,25 @@
-<p id="notice"><%= notice %></p>
+<%- model_class = Partido -%>
+<div class="page-header">
+  <h1><%=t '.title', :default => model_class.model_name.human.titleize %></h1>
+</div>
 
-<p>
-  <b>Name:</b>
-  <%= @partido.name %>
-</p>
+<dl class="dl-horizontal">
+  <dt><strong><%= model_class.human_attribute_name(:name) %>:</strong></dt>
+  <dd><%= @partido.name %></dd>
+  <dt><strong><%= model_class.human_attribute_name(:sigla) %>:</strong></dt>
+  <dd><%= @partido.sigla %></dd>
+  <dt><strong><%= model_class.human_attribute_name(:id_partido) %>:</strong></dt>
+  <dd><%= @partido.id_partido %></dd>
+</dl>
 
-<p>
-  <b>Sigla:</b>
-  <%= @partido.sigla %>
-</p>
-
-<p>
-  <b>Id partido:</b>
-  <%= @partido.id_partido %>
-</p>
-
-
-<%= link_to 'Edit', edit_partido_path(@partido) %> |
-<%= link_to 'Back', partidos_path %>
+<div class="form-actions">
+  <%= link_to t('.back', :default => t("helpers.links.back")),
+              partidos_path, :class => 'btn'  %>
+  <%= link_to t('.edit', :default => t("helpers.links.edit")),
+              edit_partido_path(@partido), :class => 'btn' %>
+  <%= link_to t('.destroy', :default => t("helpers.links.destroy")),
+              partido_path(@partido),
+              :method => 'delete',
+              :data => { :confirm => t('.confirm', :default => t("helpers.links.confirm", :default => 'Are you sure?')) },
+              :class => 'btn btn-danger' %>
+</div>
