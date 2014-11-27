@@ -1,0 +1,49 @@
+<%= form_for(@periodo_exercicio) do |f| %>
+  <% if @periodo_exercicio.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@periodo_exercicio.errors.count, "error") %> prohibited this periodo_exercicio from being saved:</h2>
+
+      <ul>
+      <% @periodo_exercicio.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :deputado_id %><br />
+    <%= f.text_field :deputado_id %>
+  </div>
+  <div class="field">
+    <%= f.label :sigla_uf_representacao %><br />
+    <%= f.text_field :sigla_uf_representacao %>
+  </div>
+  <div class="field">
+    <%= f.label :situacao_exercicio %><br />
+    <%= f.text_field :situacao_exercicio %>
+  </div>
+  <div class="field">
+    <%= f.label :data_inicio %><br />
+    <%= f.date_select :data_inicio %>
+  </div>
+  <div class="field">
+    <%= f.label :data_fim %><br />
+    <%= f.date_select :data_fim %>
+  </div>
+  <div class="field">
+    <%= f.label :id_causa_fim_exercicio %><br />
+    <%= f.number_field :id_causa_fim_exercicio %>
+  </div>
+  <div class="field">
+    <%= f.label :descricao_causa_fim_exercicio %><br />
+    <%= f.text_area :descricao_causa_fim_exercicio %>
+  </div>
+  <div class="field">
+    <%= f.label :id_cadastro_parlamentar_anterior %><br />
+    <%= f.number_field :id_cadastro_parlamentar_anterior %>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>

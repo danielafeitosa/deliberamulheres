@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: MyString
+  sigla: MyString
+  id_tipo_orgao: 1
+  id_orgao_legislativo: 1
+  descricao: MyText
+
+two:
+  name: MyString
+  sigla: MyString
+  id_tipo_orgao: 1
+  id_orgao_legislativo: 1
+  descricao: MyText

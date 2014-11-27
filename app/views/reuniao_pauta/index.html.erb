@@ -1,0 +1,39 @@
+<h1>Listing reuniao_pauta</h1>
+
+<table>
+  <tr>
+    <th>Orgao</th>
+    <th>Cod reuniao</th>
+    <th>Data</th>
+    <th>Horario</th>
+    <th>Local</th>
+    <th>Estado</th>
+    <th>Tipo</th>
+    <th>Titulo reuniao</th>
+    <th>Objeto</th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<% @reuniao_pauta.each do |reuniao_pautum| %>
+  <tr>
+    <td><%= reuniao_pautum.orgao_id %></td>
+    <td><%= reuniao_pautum.cod_reuniao %></td>
+    <td><%= reuniao_pautum.data %></td>
+    <td><%= reuniao_pautum.horario %></td>
+    <td><%= reuniao_pautum.local %></td>
+    <td><%= reuniao_pautum.estado %></td>
+    <td><%= reuniao_pautum.tipo %></td>
+    <td><%= reuniao_pautum.titulo_reuniao %></td>
+    <td><%= reuniao_pautum.objeto %></td>
+    <td><%= link_to 'Show', reuniao_pautum %></td>
+    <td><%= link_to 'Edit', edit_reuniao_pautum_path(reuniao_pautum) %></td>
+    <td><%= link_to 'Destroy', reuniao_pautum, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New Reuniao pautum', new_reuniao_pautum_path %>

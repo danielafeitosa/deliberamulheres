@@ -1,0 +1,45 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Deputado:</b>
+  <%= @periodo_exercicio.deputado_id %>
+</p>
+
+<p>
+  <b>Sigla uf representacao:</b>
+  <%= @periodo_exercicio.sigla_uf_representacao %>
+</p>
+
+<p>
+  <b>Situacao exercicio:</b>
+  <%= @periodo_exercicio.situacao_exercicio %>
+</p>
+
+<p>
+  <b>Data inicio:</b>
+  <%= @periodo_exercicio.data_inicio %>
+</p>
+
+<p>
+  <b>Data fim:</b>
+  <%= @periodo_exercicio.data_fim %>
+</p>
+
+<p>
+  <b>Id causa fim exercicio:</b>
+  <%= @periodo_exercicio.id_causa_fim_exercicio %>
+</p>
+
+<p>
+  <b>Descricao causa fim exercicio:</b>
+  <%= @periodo_exercicio.descricao_causa_fim_exercicio %>
+</p>
+
+<p>
+  <b>Id cadastro parlamentar anterior:</b>
+  <%= @periodo_exercicio.id_cadastro_parlamentar_anterior %>
+</p>
+
+
+<%= link_to 'Edit', edit_periodo_exercicio_path(@periodo_exercicio) %> |
+<%= link_to 'Back', periodo_exercicios_path %>

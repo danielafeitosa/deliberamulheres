@@ -1,0 +1,69 @@
+<h1>Listing deputados</h1>
+
+<table>
+  <tr>
+    <th>Ide cadastro</th>
+    <th>Status</th>
+    <th>Matricula</th>
+    <th>Id parlamentar</th>
+    <th>Nome</th>
+    <th>Nome parlamentar</th>
+    <th>Url foto</th>
+    <th>Foto</th>
+    <th>Sexo</th>
+    <th>Uf</th>
+    <th>Partido</th>
+    <th>Gabinete</th>
+    <th>Anexo</th>
+    <th>Fone</th>
+    <th>Email</th>
+    <th>Num legislatura</th>
+    <th>Nome profissao</th>
+    <th>Data nascimento</th>
+    <th>Data falecimento</th>
+    <th>Uf representacao atual</th>
+    <th>Status legislatura atual</th>
+    <th>Id parlamentar deprecated</th>
+    <th>Nome parlamentar atual</th>
+    <th>Nome civil</th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<% @deputados.each do |deputado| %>
+  <tr>
+    <td><%= deputado.ide_cadastro %></td>
+    <td><%= deputado.status %></td>
+    <td><%= deputado.matricula %></td>
+    <td><%= deputado.id_parlamentar %></td>
+    <td><%= deputado.nome %></td>
+    <td><%= deputado.nome_parlamentar %></td>
+    <td><%= deputado.url_foto %></td>
+    <td><%= deputado.foto %></td>
+    <td><%= deputado.sexo %></td>
+    <td><%= deputado.uf %></td>
+    <td><%= deputado.partido_id %></td>
+    <td><%= deputado.gabinete %></td>
+    <td><%= deputado.anexo %></td>
+    <td><%= deputado.fone %></td>
+    <td><%= deputado.email %></td>
+    <td><%= deputado.num_legislatura %></td>
+    <td><%= deputado.nome_profissao %></td>
+    <td><%= deputado.data_nascimento %></td>
+    <td><%= deputado.data_falecimento %></td>
+    <td><%= deputado.uf_representacao_atual %></td>
+    <td><%= deputado.situacao_legislatura_atual %></td>
+    <td><%= deputado.id_parlamentar_deprecated %></td>
+    <td><%= deputado.nome_parlamentar_atual %></td>
+    <td><%= deputado.nome_civil %></td>
+    <td><%= link_to 'Show', deputado %></td>
+    <td><%= link_to 'Edit', edit_deputado_path(deputado) %></td>
+    <td><%= link_to 'Destroy', deputado, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New Deputado', new_deputado_path %>

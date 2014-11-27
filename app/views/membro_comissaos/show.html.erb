@@ -1,0 +1,30 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Comissao:</b>
+  <%= @membro_comissao.comissao_id %>
+</p>
+
+<p>
+  <b>Deputado:</b>
+  <%= @membro_comissao.deputado_id %>
+</p>
+
+<p>
+  <b>Condicao membro:</b>
+  <%= @membro_comissao.condicao_membro %>
+</p>
+
+<p>
+  <b>Data entrada:</b>
+  <%= @membro_comissao.data_entrada %>
+</p>
+
+<p>
+  <b>Data saida:</b>
+  <%= @membro_comissao.data_saida %>
+</p>
+
+
+<%= link_to 'Edit', edit_membro_comissao_path(@membro_comissao) %> |
+<%= link_to 'Back', membro_comissaos_path %>

@@ -1,0 +1,31 @@
+<h1>Listing membro_comissaos</h1>
+
+<table>
+  <tr>
+    <th>Comissao</th>
+    <th>Deputado</th>
+    <th>Condicao membro</th>
+    <th>Data entrada</th>
+    <th>Data saida</th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<% @membro_comissaos.each do |membro_comissao| %>
+  <tr>
+    <td><%= membro_comissao.comissao_id %></td>
+    <td><%= membro_comissao.deputado_id %></td>
+    <td><%= membro_comissao.condicao_membro %></td>
+    <td><%= membro_comissao.data_entrada %></td>
+    <td><%= membro_comissao.data_saida %></td>
+    <td><%= link_to 'Show', membro_comissao %></td>
+    <td><%= link_to 'Edit', edit_membro_comissao_path(membro_comissao) %></td>
+    <td><%= link_to 'Destroy', membro_comissao, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New Membro comissao', new_membro_comissao_path %>

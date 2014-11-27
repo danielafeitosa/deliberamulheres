@@ -1,0 +1,29 @@
+<%= form_for(@partido) do |f| %>
+  <% if @partido.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@partido.errors.count, "error") %> prohibited this partido from being saved:</h2>
+
+      <ul>
+      <% @partido.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :name %><br />
+    <%= f.text_field :name %>
+  </div>
+  <div class="field">
+    <%= f.label :sigla %><br />
+    <%= f.text_field :sigla %>
+  </div>
+  <div class="field">
+    <%= f.label :id_partido %><br />
+    <%= f.text_field :id_partido %>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>

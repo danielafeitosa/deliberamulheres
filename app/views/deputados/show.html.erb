@@ -1,0 +1,126 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Ide cadastro:</b>
+  <%= @deputado.ide_cadastro %>
+</p>
+
+<p>
+  <b>Status:</b>
+  <%= @deputado.status %>
+</p>
+
+<p>
+  <b>Matricula:</b>
+  <%= @deputado.matricula %>
+</p>
+
+<p>
+  <b>Id parlamentar:</b>
+  <%= @deputado.id_parlamentar %>
+</p>
+
+<p>
+  <b>Nome:</b>
+  <%= @deputado.nome %>
+</p>
+
+<p>
+  <b>Nome parlamentar:</b>
+  <%= @deputado.nome_parlamentar %>
+</p>
+
+<p>
+  <b>Url foto:</b>
+  <%= @deputado.url_foto %>
+</p>
+
+<p>
+  <b>Foto:</b>
+  <%= @deputado.foto %>
+  <%= image_tag(@deputado.foto_url, :width => 600) if @deputado.foto.present? %>
+</p>
+
+<p>
+  <b>Sexo:</b>
+  <%= @deputado.sexo %>
+</p>
+
+<p>
+  <b>Uf:</b>
+  <%= @deputado.uf %>
+</p>
+
+<p>
+  <b>Partido:</b>
+  <%= @deputado.partido_id %>
+</p>
+
+<p>
+  <b>Gabinete:</b>
+  <%= @deputado.gabinete %>
+</p>
+
+<p>
+  <b>Anexo:</b>
+  <%= @deputado.anexo %>
+</p>
+
+<p>
+  <b>Fone:</b>
+  <%= @deputado.fone %>
+</p>
+
+<p>
+  <b>Email:</b>
+  <%= @deputado.email %>
+</p>
+
+<p>
+  <b>Num legislatura:</b>
+  <%= @deputado.num_legislatura %>
+</p>
+
+<p>
+  <b>Nome profissao:</b>
+  <%= @deputado.nome_profissao %>
+</p>
+
+<p>
+  <b>Data nascimento:</b>
+  <%= @deputado.data_nascimento %>
+</p>
+
+<p>
+  <b>Data falecimento:</b>
+  <%= @deputado.data_falecimento %>
+</p>
+
+<p>
+  <b>Uf representacao atual:</b>
+  <%= @deputado.uf_representacao_atual %>
+</p>
+
+<p>
+  <b>Status legislatura atual:</b>
+  <%= @deputado.status_legislatura_atual %>
+</p>
+
+<p>
+  <b>Id parlamentar deprecated:</b>
+  <%= @deputado.id_parlamentar_deprecated %>
+</p>
+
+<p>
+  <b>Nome parlamentar atual:</b>
+  <%= @deputado.nome_parlamentar_atual %>
+</p>
+
+<p>
+  <b>Nome civil:</b>
+  <%= @deputado.nome_civil %>
+</p>
+
+
+<%= link_to 'Edit', edit_deputado_path(@deputado) %> |
+<%= link_to 'Back', deputados_path %>

@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  comissao_id: 
+  deputado_id: 
+  condicao_membro: MyString
+  data_entrada: 2014-11-23
+  data_saida: 2014-11-23
+
+two:
+  comissao_id: 
+  deputado_id: 
+  condicao_membro: MyString
+  data_entrada: 2014-11-23
+  data_saida: 2014-11-23

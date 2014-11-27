@@ -1,0 +1,53 @@
+<%= form_for(@reuniao_pautum) do |f| %>
+  <% if @reuniao_pautum.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@reuniao_pautum.errors.count, "error") %> prohibited this reuniao_pautum from being saved:</h2>
+
+      <ul>
+      <% @reuniao_pautum.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :orgao_id %><br />
+    <%= f.text_field :orgao_id %>
+  </div>
+  <div class="field">
+    <%= f.label :cod_reuniao %><br />
+    <%= f.number_field :cod_reuniao %>
+  </div>
+  <div class="field">
+    <%= f.label :data %><br />
+    <%= f.date_select :data %>
+  </div>
+  <div class="field">
+    <%= f.label :horario %><br />
+    <%= f.text_field :horario %>
+  </div>
+  <div class="field">
+    <%= f.label :local %><br />
+    <%= f.text_field :local %>
+  </div>
+  <div class="field">
+    <%= f.label :estado %><br />
+    <%= f.text_field :estado %>
+  </div>
+  <div class="field">
+    <%= f.label :tipo %><br />
+    <%= f.text_field :tipo %>
+  </div>
+  <div class="field">
+    <%= f.label :titulo_reuniao %><br />
+    <%= f.text_field :titulo_reuniao %>
+  </div>
+  <div class="field">
+    <%= f.label :objeto %><br />
+    <%= f.text_area :objeto %>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>

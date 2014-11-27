@@ -1,0 +1,27 @@
+<h1>Listing partidos</h1>
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Sigla</th>
+    <th>Id partido</th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<% @partidos.each do |partido| %>
+  <tr>
+    <td><%= partido.name %></td>
+    <td><%= partido.sigla %></td>
+    <td><%= partido.id_partido %></td>
+    <td><%= link_to 'Show', partido %></td>
+    <td><%= link_to 'Edit', edit_partido_path(partido) %></td>
+    <td><%= link_to 'Destroy', partido, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New Partido', new_partido_path %>

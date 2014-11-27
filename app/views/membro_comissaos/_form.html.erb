@@ -1,0 +1,37 @@
+<%= form_for(@membro_comissao) do |f| %>
+  <% if @membro_comissao.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@membro_comissao.errors.count, "error") %> prohibited this membro_comissao from being saved:</h2>
+
+      <ul>
+      <% @membro_comissao.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :comissao_id %><br />
+    <%= f.text_field :comissao_id %>
+  </div>
+  <div class="field">
+    <%= f.label :deputado_id %><br />
+    <%= f.text_field :deputado_id %>
+  </div>
+  <div class="field">
+    <%= f.label :condicao_membro %><br />
+    <%= f.text_field :condicao_membro %>
+  </div>
+  <div class="field">
+    <%= f.label :data_entrada %><br />
+    <%= f.date_select :data_entrada %>
+  </div>
+  <div class="field">
+    <%= f.label :data_saida %><br />
+    <%= f.date_select :data_saida %>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>

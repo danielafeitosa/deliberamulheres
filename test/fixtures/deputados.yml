@@ -1,0 +1,53 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  ide_cadastro: 1
+  status: MyString
+  matricula: 1
+  id_parlamentar: 1
+  nome: MyString
+  nome_parlamentar: MyString
+  url_foto: MyString
+  foto: MyString
+  sexo: MyString
+  uf: MyString
+  partido_id: 
+  gabinete: MyString
+  anexo: MyString
+  fone: MyString
+  email: MyString
+  num_legislatura: 1
+  nome_profissao: MyString
+  data_nascimento: 2014-11-23
+  data_falecimento: 2014-11-23
+  uf_representacao_atual: MyString
+  status_legislatura_atual: MyString
+  id_parlamentar_deprecated: 1
+  nome_parlamentar_atual: MyString
+  nome_civil: MyString
+
+two:
+  ide_cadastro: 1
+  status: MyString
+  matricula: 1
+  id_parlamentar: 1
+  nome: MyString
+  nome_parlamentar: MyString
+  url_foto: MyString
+  foto: MyString
+  sexo: MyString
+  uf: MyString
+  partido_id: 
+  gabinete: MyString
+  anexo: MyString
+  fone: MyString
+  email: MyString
+  num_legislatura: 1
+  nome_profissao: MyString
+  data_nascimento: 2014-11-23
+  data_falecimento: 2014-11-23
+  uf_representacao_atual: MyString
+  status_legislatura_atual: MyString
+  id_parlamentar_deprecated: 1
+  nome_parlamentar_atual: MyString
+  nome_civil: MyString

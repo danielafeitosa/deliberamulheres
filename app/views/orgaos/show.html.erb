@@ -1,0 +1,30 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Name:</b>
+  <%= @orgao.name %>
+</p>
+
+<p>
+  <b>Sigla:</b>
+  <%= @orgao.sigla %>
+</p>
+
+<p>
+  <b>Id tipo orgao:</b>
+  <%= @orgao.id_tipo_orgao %>
+</p>
+
+<p>
+  <b>Id orgao legislativo:</b>
+  <%= @orgao.id_orgao_legislativo %>
+</p>
+
+<p>
+  <b>Descricao:</b>
+  <%= @orgao.descricao %>
+</p>
+
+
+<%= link_to 'Edit', edit_orgao_path(@orgao) %> |
+<%= link_to 'Back', orgaos_path %>

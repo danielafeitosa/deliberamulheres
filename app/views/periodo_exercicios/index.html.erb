@@ -1,0 +1,37 @@
+<h1>Listing periodo_exercicios</h1>
+
+<table>
+  <tr>
+    <th>Deputado</th>
+    <th>Sigla uf representacao</th>
+    <th>Situacao exercicio</th>
+    <th>Data inicio</th>
+    <th>Data fim</th>
+    <th>Id causa fim exercicio</th>
+    <th>Descricao causa fim exercicio</th>
+    <th>Id cadastro parlamentar anterior</th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<% @periodo_exercicios.each do |periodo_exercicio| %>
+  <tr>
+    <td><%= periodo_exercicio.deputado_id %></td>
+    <td><%= periodo_exercicio.sigla_uf_representacao %></td>
+    <td><%= periodo_exercicio.situacao_exercicio %></td>
+    <td><%= periodo_exercicio.data_inicio %></td>
+    <td><%= periodo_exercicio.data_fim %></td>
+    <td><%= periodo_exercicio.id_causa_fim_exercicio %></td>
+    <td><%= periodo_exercicio.descricao_causa_fim_exercicio %></td>
+    <td><%= periodo_exercicio.id_cadastro_parlamentar_anterior %></td>
+    <td><%= link_to 'Show', periodo_exercicio %></td>
+    <td><%= link_to 'Edit', edit_periodo_exercicio_path(periodo_exercicio) %></td>
+    <td><%= link_to 'Destroy', periodo_exercicio, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New Periodo exercicio', new_periodo_exercicio_path %>

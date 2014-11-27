@@ -1,0 +1,31 @@
+<h1>Listing proposicaos</h1>
+
+<table>
+  <tr>
+    <th>Reuniao</th>
+    <th>Sigla</th>
+    <th>Id proposicao</th>
+    <th>Ementa</th>
+    <th>Resultado</th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<% @proposicaos.each do |proposicao| %>
+  <tr>
+    <td><%= proposicao.reuniao_id %></td>
+    <td><%= proposicao.sigla %></td>
+    <td><%= proposicao.id_proposicao %></td>
+    <td><%= proposicao.ementa %></td>
+    <td><%= proposicao.resultado %></td>
+    <td><%= link_to 'Show', proposicao %></td>
+    <td><%= link_to 'Edit', edit_proposicao_path(proposicao) %></td>
+    <td><%= link_to 'Destroy', proposicao, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New Proposicao', new_proposicao_path %>

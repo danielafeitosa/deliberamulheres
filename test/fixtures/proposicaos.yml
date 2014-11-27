@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  reuniao_id: 
+  sigla: MyString
+  id_proposicao: 1
+  ementa: MyText
+  resultado: MyText
+
+two:
+  reuniao_id: 
+  sigla: MyString
+  id_proposicao: 1
+  ementa: MyText
+  resultado: MyText

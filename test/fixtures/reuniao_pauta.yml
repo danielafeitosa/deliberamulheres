@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  orgao_id: 
+  cod_reuniao: 1
+  data: 2014-11-23
+  horario: MyString
+  local: MyString
+  estado: MyString
+  tipo: MyString
+  titulo_reuniao: MyString
+  objeto: MyText
+
+two:
+  orgao_id: 
+  cod_reuniao: 1
+  data: 2014-11-23
+  horario: MyString
+  local: MyString
+  estado: MyString
+  tipo: MyString
+  titulo_reuniao: MyString
+  objeto: MyText

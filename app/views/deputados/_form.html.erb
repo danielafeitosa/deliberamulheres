@@ -1,0 +1,113 @@
+<%= form_for(@deputado, :html => { :multipart => true }) do |f| %>
+  <% if @deputado.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@deputado.errors.count, "error") %> prohibited this deputado from being saved:</h2>
+
+      <ul>
+      <% @deputado.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :ide_cadastro %><br />
+    <%= f.number_field :ide_cadastro %>
+  </div>
+  <div class="field">
+    <%= f.label :status %><br />
+    <%= f.text_field :status %>
+  </div>
+  <div class="field">
+    <%= f.label :matricula %><br />
+    <%= f.number_field :matricula %>
+  </div>
+  <div class="field">
+    <%= f.label :id_parlamentar %><br />
+    <%= f.number_field :id_parlamentar %>
+  </div>
+  <div class="field">
+    <%= f.label :nome %><br />
+    <%= f.text_field :nome %>
+  </div>
+  <div class="field">
+    <%= f.label :nome_parlamentar %><br />
+    <%= f.text_field :nome_parlamentar %>
+  </div>
+  <div class="field">
+    <%= f.label :url_foto %><br />
+    <%= f.text_field :url_foto %>
+  </div>
+  <div class="field">
+    <%= f.label :foto %><br />
+    <%= f.file_field :foto %>
+  </div>
+  <div class="field">
+    <%= f.label :sexo %><br />
+    <%= f.text_field :sexo %>
+  </div>
+  <div class="field">
+    <%= f.label :uf %><br />
+    <%= f.text_field :uf %>
+  </div>
+  <div class="field">
+    <%= f.label :partido_id %><br />
+    <%= f.text_field :partido_id %>
+  </div>
+  <div class="field">
+    <%= f.label :gabinete %><br />
+    <%= f.text_field :gabinete %>
+  </div>
+  <div class="field">
+    <%= f.label :anexo %><br />
+    <%= f.text_field :anexo %>
+  </div>
+  <div class="field">
+    <%= f.label :fone %><br />
+    <%= f.text_field :fone %>
+  </div>
+  <div class="field">
+    <%= f.label :email %><br />
+    <%= f.text_field :email %>
+  </div>
+  <div class="field">
+    <%= f.label :num_legislatura %><br />
+    <%= f.number_field :num_legislatura %>
+  </div>
+  <div class="field">
+    <%= f.label :nome_profissao %><br />
+    <%= f.text_field :nome_profissao %>
+  </div>
+  <div class="field">
+    <%= f.label :data_nascimento %><br />
+    <%= f.date_select :data_nascimento %>
+  </div>
+  <div class="field">
+    <%= f.label :data_falecimento %><br />
+    <%= f.date_select :data_falecimento %>
+  </div>
+  <div class="field">
+    <%= f.label :uf_representacao_atual %><br />
+    <%= f.text_field :uf_representacao_atual %>
+  </div>
+  <div class="field">
+    <%= f.label :status_legislatura_atual %><br />
+    <%= f.text_field :status_legislatura_atual %>
+  </div>
+  <div class="field">
+    <%= f.label :id_parlamentar_deprecated %><br />
+    <%= f.number_field :id_parlamentar_deprecated %>
+  </div>
+  <div class="field">
+    <%= f.label :nome_parlamentar_atual %><br />
+    <%= f.text_field :nome_parlamentar_atual %>
+  </div>
+  <div class="field">
+    <%= f.label :nome_civil %><br />
+    <%= f.text_field :nome_civil %>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>

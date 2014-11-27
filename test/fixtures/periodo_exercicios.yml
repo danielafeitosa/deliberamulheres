@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  deputado_id: 
+  sigla_uf_representacao: MyString
+  situacao_exercicio: MyString
+  data_inicio: 2014-11-23
+  data_fim: 2014-11-23
+  id_causa_fim_exercicio: 1
+  descricao_causa_fim_exercicio: MyText
+  id_cadastro_parlamentar_anterior: 1
+
+two:
+  deputado_id: 
+  sigla_uf_representacao: MyString
+  situacao_exercicio: MyString
+  data_inicio: 2014-11-23
+  data_fim: 2014-11-23
+  id_causa_fim_exercicio: 1
+  descricao_causa_fim_exercicio: MyText
+  id_cadastro_parlamentar_anterior: 1

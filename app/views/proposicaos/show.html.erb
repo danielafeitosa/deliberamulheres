@@ -1,0 +1,30 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Reuniao:</b>
+  <%= @proposicao.reuniao_id %>
+</p>
+
+<p>
+  <b>Sigla:</b>
+  <%= @proposicao.sigla %>
+</p>
+
+<p>
+  <b>Id proposicao:</b>
+  <%= @proposicao.id_proposicao %>
+</p>
+
+<p>
+  <b>Ementa:</b>
+  <%= @proposicao.ementa %>
+</p>
+
+<p>
+  <b>Resultado:</b>
+  <%= @proposicao.resultado %>
+</p>
+
+
+<%= link_to 'Edit', edit_proposicao_path(@proposicao) %> |
+<%= link_to 'Back', proposicaos_path %>

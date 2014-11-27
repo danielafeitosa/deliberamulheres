@@ -1,0 +1,81 @@
+ide_cadastro    <ideCadastro>178387</ideCadastro>                        
+condicao    <condicao>Suplente</condicao>                            
+matricula    <matricula>652</matricula>                               
+id_parlamentar    <idParlamentar>5829239</idParlamentar>                   
+nome     <nome>FRANCISCO DE ASSIS NUNES</nome>                    
+nome_parlamentar    <nomeParlamentar>FRANCISCO DE ASSIS</nomeParlamentar>    
+url_foto    <urlFoto>http://www.camara.gov.br/internet/deputado/bandep/178387.jpg</urlFoto>
+sexo    <sexo>masculino</sexo>                                   
+uf    <uf>SC</uf>
+partido    <partido>PT</partido>                                    
+gabinete    <gabinete>229</gabinete>                                 
+anexo    <anexo>4</anexo>
+fone    <fone>3215-5229</fone>                                   
+email    <email>dep.franciscodeassis@camara.gov.br</email> 
+num_legislatura    <numLegislatura>54</numLegislatura>
+nome_profissao    <nomeProfissao>      </nomeProfissao>
+data_nascimento    <dataNascimento>08/09/1962</dataNascimento>
+data_falecimento    <dataFalecimento> </dataFalecimento>
+uf_representacao_atual    <ufRepresentacaoAtual>SC</ufRepresentacaoAtual>
+situacao_legislatura_atual    <situacaoNaLegislaturaAtual>Em Exercício</situacaoNaLegislaturaAtual>
+id_parlamentar_deprecated    <idParlamentarDeprecated>10277</idParlamentarDeprecated>
+nome_parlamentar_atual    <nomeParlamentarAtual>FRANCISCO DE ASSIS</nomeParlamentarAtual>
+nome_civil    <nomeCivil>FRANCISCO DE ASSIS NUNES</nomeCivil>
+
+deputado belongs_to many commissões
+
+    <comissoes>
+      <titular>
+        <comissao nome="Comissão de Meio Ambiente e Desenvolvimento Sustentável" sigla="CMADS" />
+      </titular>
+      <suplente>
+        <comissao nome="Comissão de Relações Exteriores e de Defesa Nacional" sigla="CREDN" />
+        <comissao nome="Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 53-A, de 2007, do Sr. Jofran Frejat, que &quot;dá nova redação ao § 3º do Art. 39 da Constituição Federal&quot; (garante ao servidor de cargo em comissão de livre nomeação e exoneração, direito a aviso prévio, seguro desemprego, FGTS, entre outros)" sigla="PEC05307" />
+      </suplente>
+    </comissoes>
+
+      <comissao>
+        <idOrgaoLegislativoCD>2010</idOrgaoLegislativoCD>
+        <siglaComissao>CFT</siglaComissao>
+        <nomeComissao>Comissão de Finanças e Tributação</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>03/09/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+
+      <periodoExercicio>
+        <siglaUFRepresentacao>SC</siglaUFRepresentacao>
+        <situacaoExercicio>Suplente</situacaoExercicio>
+        <dataInicio>20/08/2014</dataInicio>
+        <dataFim>
+        </dataFim>
+        <idCausaFimExercicio>
+        </idCausaFimExercicio>
+        <descricaoCausaFimExercicio>
+        </descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>160604</idCadastroParlamentarAnterior>
+      </periodoExercicio>
+
+<codReuniao>31638</codReuniao><data>30/4/2013</data><horario>9:30</horario><local>Anexo II, Plenário 07</local><estado>Cancelada                </estado><tipo>Reunião Deliberativa</tipo><tituloReuniao>Reunião Deliberativa Ordinária</tituloReuniao><objeto>Reunião de Trabalho:
+Discutir a agenda dos trabalhos da Subcomissão.</objeto><proposicoes/>
+
+Reuniao has many proposicoes
+
+rails generate scaffold partido name:string sigla:string id_partido:string
+
+rails generate scaffold deputado ide_cadastro:integer condicao:string matricula:integer id_parlamentar:integer nome:string nome_parlamentar:string url_foto:string foto:string sexo:string uf:string partido_id:references gabinete:string anexo:string fone:string email:string num_legislatura:integer nome_profissao:string data_nascimento:date data_falecimento:date uf_representacao_atual:string situacao_legislatura_atual:string id_parlamentar_deprecated:integer nome_parlamentar_atual:string nome_civil:string
+
+rails generate scaffold orgao name:string sigla:string id_tipo_orgao:integer id_orgao_legislativo:integer descricao:text
+
+rails generate scaffold membro_comissao comissao_id:references deputado_id:references condicao_membro:string data_entrada:date data_saida:date
+
+rails generate scaffold periodo_exercicio deputado_id:references sigla_uf_representacao:string situacao_exercicio:string data_inicio:date data_fim:date id_causa_fim_exercicio:integer descricao_causa_fim_exercicio:text id_cadastro_parlamentar_anterior:integer
+
+rails generate scaffold reuniao_pauta orgao_id:references cod_reuniao:integer data:date horario:string local:string estado:string tipo:string titulo_reuniao:string objeto:text
+
+rails generate scaffold proposicao reuniao_id:references sigla:string id_proposicao:integer ementa:text resultado:text 
+
+rails generate scaffold event category:string description:text title:string
+
+rails generate scaffold goal description:text title:string
