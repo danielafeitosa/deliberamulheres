@@ -122,7 +122,7 @@ end
 
 #get_all_pautas_xml
 
-#load_deputados
+load_deputados
 load_orgaos
 #load_pautas
 
