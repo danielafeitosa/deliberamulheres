@@ -45,20 +45,21 @@ def get_detalhe_deputado_orgao(ide_cadastro)
   "http://www.camara.gov.br/SitCamaraWS/Deputados.asmx/ObterDetalhesDeputado?ideCadastro=#{ide_cadastro}&numLegislatura="
 end
 
-def get_all_pautas_xml(data_ini = '', data_fim = '')
-  data_ini ||= '20/10/2013'
-  data_fim ||= '31/10/2013'
+def get_all_pautas_xml(data_ini = nil, data_fim = nil)
+  data_ini ||= '01/12/2014'
+  data_fim ||= '05/12/2014'
 
   Orgao.all.each do |orgao|
     orgao_id = orgao.id_orgao_legislativo
     url = get_pauta_xml_from(orgao_id, data_ini, data_fim)
-    system("wget -P #{PAUTAS_BY_ORGAO_PATH} #{url} > #{orgao_id}.xml")
+
+    system("wget --output-document=#{orgao_id}.xml -P #{PAUTAS_BY_ORGAO_PATH} '#{url}'")
   end
 end
 
-def get_pauta_xml_from(orgao_id, data_ini = '', data_fim = '')
-  data_ini ||= '20/10/2013'
-  data_fim ||= '31/10/2013'
+def get_pauta_xml_from(orgao_id, data_ini = nil, data_fim = nil)
+  data_ini ||= '01/12/2014'
+  data_fim ||= '05/12/2014'
 "http://www.camara.gov.br/SitCamaraWS/Orgaos.asmx/ObterPauta?IDOrgao=#{orgao_id}&datIni=#{data_ini}&datFim=#{data_fim}"
 end
 
@@ -112,7 +113,37 @@ def load_pautas
     file_path = Rails.root.join('data', 'orgaos',
 "#{orgao.id_orgao_legislativo}.xml")
     orgao_xml = Nokogiri::XML(open(file_path))
+
+    orgao_xml.xpath('//pauta/reuniao/proposicoes/proposicao').each do |link|
+#    orgao_xml.xpath('//pauta/reuniao').each do |link|
+#      reuniao = ReuniaoPautum.new(
+#        :orgao_id => orgao.id,
+#        :cod_reuniao => link.at_xpath('codReuniao').text,
+#        :data => link.at_xpath('data').text.to_date,
+#        :horario => link.at_xpath('horario').text,
+#        :local => link.at_xpath('local').text,
+#        :estado => link.at_xpath('estado').text.strip,
+#        :tipo => link.at_xpath('tipo').text,
+#        :titulo_reuniao => link.at_xpath('tituloReuniao').text,
+#        :objeto => link.at_xpath('objeto').text
+#      )
+#      puts reuniao.inspect
+#      link.at_xpath('proposicoes/proposicao').each do |proposicao|
+        if link.at_xpath('sigla').text =~ /^PL /
+          print '.'
+          pauta = Proposicao.new(
+  #         :reuniao_id => reuniao.id,
+           :sigla => link.at_xpath('sigla').text,
+           :id_proposicao => link.at_xpath('idProposicao').text,
+           :ementa => link.at_xpath('ementa').text,
+           :resultado => orgao.name
+          )
+          pauta.save
+        end
+#      end
+    end
   end
+  puts
 end
 
 #%w[get_deputados_xml get_orgaos_xml].each do |m|
@@ -120,11 +151,11 @@ end
 #  system("wget -P #{TMP_PATH} #{url}")
 #end
 
-#get_all_pautas_xml
+##get_all_pautas_xml
 
-load_deputados
-load_orgaos
-#load_pautas
+#load_deputados
+#load_orgaos
+load_pautas
 
 ####################################################
 #class CamaraService
@@ -221,11 +252,3 @@ load_orgaos
 #  
 #  
 #end
-#
-#service = CamaraService.new
-#service.obter_deputados
-#puts ''
-#service.obter_orgaos
-#puts ''
-#service.obter_pautas(service.orgaos)
-#
