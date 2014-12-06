@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Deputados>
+  <Deputado>
+    <numLegislatura>54</numLegislatura>
+    <email>dep.mariofeitoza@camara.gov.br</email>
+    <nomeProfissao>Agropecuarista, Administrador de Empresas e Empresário</nomeProfissao>
+    <dataNascimento>02/09/1953</dataNascimento>
+    <dataFalecimento>
+    </dataFalecimento>
+    <ufRepresentacaoAtual>CE</ufRepresentacaoAtual>
+    <situacaoNaLegislaturaAtual>Em Exercício</situacaoNaLegislaturaAtual>
+    <ideCadastro>168447</ideCadastro>
+    <idParlamentarDeprecated>10226</idParlamentarDeprecated>
+    <nomeParlamentarAtual>MÁRIO FEITOZA</nomeParlamentarAtual>
+    <nomeCivil>MARIO FEITOZA DE CARVALHO FREITAS</nomeCivil>
+    <sexo>M</sexo>
+    <partidoAtual>
+      <idPartido>PMDB</idPartido>
+      <sigla>PMDB</sigla>
+      <nome>Partido do Movimento Democrático Brasileiro</nome>
+    </partidoAtual>
+    <gabinete>
+      <numero>960</numero>
+      <anexo>4</anexo>
+      <telefone>3215-5960</telefone>
+    </gabinete>
+    <comissoes>
+      <comissao>
+        <idOrgaoLegislativoCD>2008</idOrgaoLegislativoCD>
+        <siglaComissao>CDEIC</siglaComissao>
+        <nomeComissao>Comissão de Desenvolvimento Econômico, Indústria e Comércio</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>07/03/2012</dataEntrada>
+        <dataSaida>29/07/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2008</idOrgaoLegislativoCD>
+        <siglaComissao>CDEIC</siglaComissao>
+        <nomeComissao>Comissão de Desenvolvimento Econômico, Indústria e Comércio</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>05/03/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2008</idOrgaoLegislativoCD>
+        <siglaComissao>CDEIC</siglaComissao>
+        <nomeComissao>Comissão de Desenvolvimento Econômico, Indústria e Comércio</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>12/03/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2010</idOrgaoLegislativoCD>
+        <siglaComissao>CFT</siglaComissao>
+        <nomeComissao>Comissão de Finanças e Tributação</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>07/03/2012</dataEntrada>
+        <dataSaida>29/07/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9136</idOrgaoLegislativoCD>
+        <siglaComissao>SUBPETRO</siglaComissao>
+        <nomeComissao>Subcomissão especial destinada a acompanhar, estudar e propor políticas públicas para promover e ampliar a participação do setor produtivo nacional na cadeia de exploração e refino do petróleo, especialmente na camada do pré-sal.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>24/04/2012</dataEntrada>
+        <dataSaida>29/07/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2010</idOrgaoLegislativoCD>
+        <siglaComissao>CFT</siglaComissao>
+        <nomeComissao>Comissão de Finanças e Tributação</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>05/03/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2010</idOrgaoLegislativoCD>
+        <siglaComissao>CFT</siglaComissao>
+        <nomeComissao>Comissão de Finanças e Tributação</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>25/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+    </comissoes>
+    <cargosComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>2010</idOrgaoLegislativoCD>
+        <siglaComissao>CFT</siglaComissao>
+        <nomeComissao>Comissão de Finanças e Tributação</nomeComissao>
+        <idCargo>4</idCargo>
+        <nomeCargo>3º Vice-Presidente</nomeCargo>
+        <dataEntrada>06/03/2013</dataEntrada>
+        <dataSaida>26/02/2014</dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>2010</idOrgaoLegislativoCD>
+        <siglaComissao>CFT</siglaComissao>
+        <nomeComissao>Comissão de Finanças e Tributação</nomeComissao>
+        <idCargo>1</idCargo>
+        <nomeCargo>Presidente</nomeCargo>
+        <dataEntrada>26/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </cargoComissoes>
+    </cargosComissoes>
+    <periodosExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>CE</siglaUFRepresentacao>
+        <situacaoExercicio>Efetivado</situacaoExercicio>
+        <dataInicio>07/02/2012</dataInicio>
+        <dataFim>29/07/2012</dataFim>
+        <idCausaFimExercicio>53</idCausaFimExercicio>
+        <descricaoCausaFimExercicio>Afastamento</descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>160516</idCadastroParlamentarAnterior>
+      </periodoExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>CE</siglaUFRepresentacao>
+        <situacaoExercicio>Efetivado</situacaoExercicio>
+        <dataInicio>02/01/2013</dataInicio>
+        <dataFim>
+        </dataFim>
+        <idCausaFimExercicio>
+        </idCausaFimExercicio>
+        <descricaoCausaFimExercicio>
+        </descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>160516</idCadastroParlamentarAnterior>
+      </periodoExercicio>
+    </periodosExercicio>
+    <historicoNomeParlamentar />
+    <filiacoesPartidarias />
+    <historicoLider />
+  </Deputado>
+</Deputados>

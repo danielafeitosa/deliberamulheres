@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Deputados>
+  <Deputado>
+    <numLegislatura>54</numLegislatura>
+    <email>dep.viniciusgurgel@camara.gov.br</email>
+    <nomeProfissao>Contador</nomeProfissao>
+    <dataNascimento>31/07/1978</dataNascimento>
+    <dataFalecimento>
+    </dataFalecimento>
+    <ufRepresentacaoAtual>AP</ufRepresentacaoAtual>
+    <situacaoNaLegislaturaAtual>Em Exercício</situacaoNaLegislaturaAtual>
+    <ideCadastro>160591</ideCadastro>
+    <idParlamentarDeprecated>10010</idParlamentarDeprecated>
+    <nomeParlamentarAtual>VINICIUS GURGEL</nomeParlamentarAtual>
+    <nomeCivil>VINICIUS DE AZEVEDO GURGEL</nomeCivil>
+    <sexo>M</sexo>
+    <partidoAtual>
+      <idPartido>PR</idPartido>
+      <sigla>PR</sigla>
+      <nome>Partido da República</nome>
+    </partidoAtual>
+    <gabinete>
+      <numero>852</numero>
+      <anexo>4</anexo>
+      <telefone>3215-5852</telefone>
+    </gabinete>
+    <comissoes>
+      <comissao>
+        <idOrgaoLegislativoCD>2010</idOrgaoLegislativoCD>
+        <siglaComissao>CFT</siglaComissao>
+        <nomeComissao>Comissão de Finanças e Tributação</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>01/03/2011</dataEntrada>
+        <dataSaida>31/01/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6942</idOrgaoLegislativoCD>
+        <siglaComissao>CEALCOOL</siglaComissao>
+        <nomeComissao>Comissão Especial para efetuar estudo sobre as causas e consequências do consumo abusivo de álcool entre cidadãos brasileiros e, especialmente, as razões que determinam o aumento exponencial do consumo dessa substância nos últimos cinco anos.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>26/04/2011</dataEntrada>
+        <dataSaida>27/03/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>07/03/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2015</idOrgaoLegislativoCD>
+        <siglaComissao>CTASP</siglaComissao>
+        <nomeComissao>Comissão de Trabalho, de Administração e Serviço Público</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>05/03/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2012</idOrgaoLegislativoCD>
+        <siglaComissao>CME</siglaComissao>
+        <nomeComissao>Comissão de Minas e Energia</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>01/03/2011</dataEntrada>
+        <dataSaida>31/01/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2008</idOrgaoLegislativoCD>
+        <siglaComissao>CDEIC</siglaComissao>
+        <nomeComissao>Comissão de Desenvolvimento Econômico, Indústria e Comércio</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>07/03/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9148</idOrgaoLegislativoCD>
+        <siglaComissao>PEC11111</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a apreciar e  proferir parecer à Proposta de Emenda à Constituição nº 111-A, de 2011, da Sra. Dalva Figueiredo, que "altera o art. 31 da Emenda Constitucional nº 19, de 4 de junho de 1998, e dá outras providências".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>09/04/2012</dataEntrada>
+        <dataSaida>27/05/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2008</idOrgaoLegislativoCD>
+        <siglaComissao>CDEIC</siglaComissao>
+        <nomeComissao>Comissão de Desenvolvimento Econômico, Indústria e Comércio</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>05/03/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537028</idOrgaoLegislativoCD>
+        <siglaComissao>CEXAMAPA</siglaComissao>
+        <nomeComissao>Comissão Externa para acompanhar as ações e medidas que possam envolver a empresa Anglo Ferrous Amapá Mineração Ltda, o Estado do Amapá e União Federal, para reconstrução do Porto de Minério da ICOMI e demais danos oriundos do grave acidente ocorrido no Estado do Amapá, em 28/03/2013, com ônus para a Câmara dos Deputados</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>03/04/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2016</idOrgaoLegislativoCD>
+        <siglaComissao>CVT</siglaComissao>
+        <nomeComissao>Comissão de Viação e Transportes</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>25/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+    </comissoes>
+    <cargosComissoes />
+    <periodosExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>AP</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2011</dataInicio>
+        <dataFim>
+        </dataFim>
+        <idCausaFimExercicio>
+        </idCausaFimExercicio>
+        <descricaoCausaFimExercicio>
+        </descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+    </periodosExercicio>
+    <historicoNomeParlamentar />
+    <filiacoesPartidarias>
+      <filiacaoPartidaria>
+        <idPartidoAnterior>PRTB</idPartidoAnterior>
+        <siglaPartidoAnterior>PRTB</siglaPartidoAnterior>
+        <nomePartidoAnterior>Partido Renovador Trabalhista Brasileiro</nomePartidoAnterior>
+        <idPartidoPosterior>S.PART.</idPartidoPosterior>
+        <siglaPartidoPosterior>S.PART.</siglaPartidoPosterior>
+        <nomePartidoPosterior>Sem Partido</nomePartidoPosterior>
+        <dataFiliacaoPartidoPosterior>30/08/2011</dataFiliacaoPartidoPosterior>
+      </filiacaoPartidaria>
+      <filiacaoPartidaria>
+        <idPartidoAnterior>S.PART.</idPartidoAnterior>
+        <siglaPartidoAnterior>S.PART.</siglaPartidoAnterior>
+        <nomePartidoAnterior>Sem Partido</nomePartidoAnterior>
+        <idPartidoPosterior>PR</idPartidoPosterior>
+        <siglaPartidoPosterior>PR</siglaPartidoPosterior>
+        <nomePartidoPosterior>Partido da República</nomePartidoPosterior>
+        <dataFiliacaoPartidoPosterior>30/09/2011</dataFiliacaoPartidoPosterior>
+      </filiacaoPartidaria>
+    </filiacoesPartidarias>
+    <historicoLider />
+  </Deputado>
+</Deputados>

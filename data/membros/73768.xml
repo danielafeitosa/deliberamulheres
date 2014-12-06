@@ -1,0 +1,2083 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Deputados>
+  <Deputado>
+    <numLegislatura>53</numLegislatura>
+    <email>
+    </email>
+    <nomeProfissao>Industrial, Bacharel em Direito, Filósofo e Agropecuarista</nomeProfissao>
+    <dataNascimento>26/01/1948</dataNascimento>
+    <dataFalecimento>
+    </dataFalecimento>
+    <ufRepresentacaoAtual>PR</ufRepresentacaoAtual>
+    <situacaoNaLegislaturaAtual>Em Exercício</situacaoNaLegislaturaAtual>
+    <ideCadastro>73768</ideCadastro>
+    <idParlamentarDeprecated>3138</idParlamentarDeprecated>
+    <nomeParlamentarAtual>DILCEU SPERAFICO</nomeParlamentarAtual>
+    <nomeCivil>DILCEU JOÃO SPERAFICO</nomeCivil>
+    <sexo>M</sexo>
+    <partidoAtual>
+      <idPartido>PP</idPartido>
+      <sigla>PP</sigla>
+      <nome>Partido Progressista</nome>
+    </partidoAtual>
+    <gabinete>
+      <numero>
+      </numero>
+      <anexo>
+      </anexo>
+      <telefone>
+      </telefone>
+    </gabinete>
+    <comissoes>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>26/02/2003</dataEntrada>
+        <dataSaida>15/02/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526151</idOrgaoLegislativoCD>
+        <siglaComissao>CEPARMAL</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a averiguar o processo relacionado à crise da Parmalat.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>22/01/2004</dataEntrada>
+        <dataSaida>10/03/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>5438</idOrgaoLegislativoCD>
+        <siglaComissao>CLP</siglaComissao>
+        <nomeComissao>Comissão de Legislação Participativa</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>23/03/2004</dataEntrada>
+        <dataSaida>02/04/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2018</idOrgaoLegislativoCD>
+        <siglaComissao>CREDN</siglaComissao>
+        <nomeComissao>Comissão de Relações Exteriores e de Defesa Nacional</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>02/04/2004</dataEntrada>
+        <dataSaida>01/03/2005</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526176</idOrgaoLegislativoCD>
+        <siglaComissao>PEC27200</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 272-A, de 2000, que "dá nova redação à alínea "c" do inciso I do art. 12 da Constituição e acrescenta artigo ao Ato das Disposições Constitucionais Transitórias, assegurando o registro nos consulados de brasileiros nascidos no estrangeiro".</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>29/06/2004</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2012</idOrgaoLegislativoCD>
+        <siglaComissao>CME</siglaComissao>
+        <nomeComissao>Comissão de Minas e Energia</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>02/03/2005</dataEntrada>
+        <dataSaida>28/03/2006</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2016</idOrgaoLegislativoCD>
+        <siglaComissao>CVT</siglaComissao>
+        <nomeComissao>Comissão de Viação e Transportes</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>29/03/2006</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>26/02/2003</dataEntrada>
+        <dataSaida>15/02/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>525978</idOrgaoLegislativoCD>
+        <siglaComissao>CPICOMB</siglaComissao>
+        <nomeComissao>Comissão Parlamentar de Inquérito com a finalidade de investigar operações no setor de combustíveis, relacionadas com a  sonegação dos tributos, máfia, adulteração e suposta indústria de liminares.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>06/05/2003</dataEntrada>
+        <dataSaida>29/10/2003</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526002</idOrgaoLegislativoCD>
+        <siglaComissao>PEC54402</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a apreciar e proferir parecer à Proposta de Emenda à Constituição nº 544-A, de 2002, que "cria os Tribunais Regionais Federais da 6ª, 7ª, 8ª e 9ª Regiões".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>24/06/2003</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526015</idOrgaoLegislativoCD>
+        <siglaComissao>PEC09295</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a apreciar e proferir parecer à Proposta de Emenda à Constituição nº 92-A, de 1995, que "dá nova redação ao art. 101 da Constituição Federal", determinando que os membros do STF serão escolhidos dentre os membros dos Tribunais Superiores que integrem a carreira da magistratura, menores de sessenta e cinco anos de idade, indicados em lista tríplice pelo próprio Tribunal, com nomeação pelo Presidente da República e aprovação do Senado Federal.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>26/08/2003</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526118</idOrgaoLegislativoCD>
+        <siglaComissao>PL240103</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2401, de 2003, que "estabelece normas de segurança e mecanismos de fiscalização de atividades que envolvam organismos geneticamente modificados - OGM e seus derivados, cria o Conselho Nacional de Biossegurança - CNBS, reestrutura a Comissão Técnica Nacional de Biossegurança - CTNBio, dispõe sobre a Política Nacional de Biossegurança e dá outras providências".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>12/11/2003</dataEntrada>
+        <dataSaida>02/03/2005</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>23/03/2004</dataEntrada>
+        <dataSaida>01/03/2005</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>02/03/2005</dataEntrada>
+        <dataSaida>28/03/2006</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526318</idOrgaoLegislativoCD>
+        <siglaComissao>CEFUNCAF</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a debater e examinar a gestão do FUNCAFÉ, a efetividade e a eficiência da gestão do CDPC nas políticas públicas e privadas do setor, bem como avaliar modelos administrativos alternativos e propor medidas legislativas para aperfeiçoar a legislação do setor.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>13/12/2005</dataEntrada>
+        <dataSaida>13/12/2006</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526338</idOrgaoLegislativoCD>
+        <siglaComissao>PL467901</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 4.679, de 2001, que "dispõe sobre a obrigatoriedade de adição de farinha de mandioca refinada, de farinha de raspa de mandioca ou de fécula de mandioca à farinha de trigo".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>24/04/2006</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526350</idOrgaoLegislativoCD>
+        <siglaComissao>PEC33304</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 333-A, de 2004, do Sr. Pompeo de Mattos, que "modifica a redação do art. 29A e acrescenta art. 29B à Constituição Federal para dispor sobre o limite de despesas e a composição das Câmaras de Vereadores e dá outras providências".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>01/02/2006</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>29/03/2006</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>14/02/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536432</idOrgaoLegislativoCD>
+        <siglaComissao>SUBPOLAG</siglaComissao>
+        <nomeComissao>Subcomissão Permanente para tratar de Renda Rural, Política Agrícola e Endividamento.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>07/03/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>28/02/2008</dataEntrada>
+        <dataSaida>02/02/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536432</idOrgaoLegislativoCD>
+        <siglaComissao>SUBPOLAG</siglaComissao>
+        <nomeComissao>Subcomissão Permanente para tratar de Renda Rural, Política Agrícola e Endividamento.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>19/06/2008</dataEntrada>
+        <dataSaida>02/02/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>04/03/2009</dataEntrada>
+        <dataSaida>01/02/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536836</idOrgaoLegislativoCD>
+        <siglaComissao>SUBFUSAO</siglaComissao>
+        <nomeComissao>Subcomissão  Permanente para acompanhar o processo de fusão entre Perdigão e Sadia, JBS e Bertim, Marfrig e Seara, Citrosuco e Citrovita, e propor medidas que evitem impactos negativos aos trabalhadores, produtores e às regiões onde as empresas estão instaladas.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>13/11/2009</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2004</idOrgaoLegislativoCD>
+        <siglaComissao>CDC</siglaComissao>
+        <nomeComissao>Comissão de Defesa do Consumidor</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>03/03/2010</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>14/02/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536430</idOrgaoLegislativoCD>
+        <siglaComissao>SUBPECUA</siglaComissao>
+        <nomeComissao>Subcomissão Especial para tratar da cadeia de pecuária de corte.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>07/03/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>04/03/2008</dataEntrada>
+        <dataSaida>02/02/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536560</idOrgaoLegislativoCD>
+        <siglaComissao>CMO-08</siglaComissao>
+        <nomeComissao>Comissão Mista de Planos, Orçamentos Públicos e Fiscalização.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>25/03/2008</dataEntrada>
+        <dataSaida>24/03/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>04/03/2009</dataEntrada>
+        <dataSaida>01/02/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536795</idOrgaoLegislativoCD>
+        <siglaComissao>PEC33609</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição 336-A, de 2009,  do Senado Federal, que "altera a redação do inciso IV do caput do art. 29 da Constituição Federal, tratando das disposições relativas à recomposição das Câmaras Municipais".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>08/07/2009</dataEntrada>
+        <dataSaida>22/09/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536811</idOrgaoLegislativoCD>
+        <siglaComissao>PEC35109</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 351-A, de 2009, do Senado Federal, que "altera o art. 100 da Constituição Federal e acrescenta o art. 97 ao Ato das Disposições Constitucionais Transitórias, instituindo regime especial de pagamento de precatórios pelos Estados, Distrito Federal e Municípios"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>16/09/2009</dataEntrada>
+        <dataSaida>09/12/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>03/03/2010</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536855</idOrgaoLegislativoCD>
+        <siglaComissao>CMO-10</siglaComissao>
+        <nomeComissao>Comissão Mista de Planos, Orçamentos Públicos e Fiscalização - CMO</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>26/03/2010</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>01/03/2011</dataEntrada>
+        <dataSaida>31/01/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6963</idOrgaoLegislativoCD>
+        <siglaComissao>SUBFUSAO</siglaComissao>
+        <nomeComissao>Subcomissão para acompanhar o processo de Fusão entre Perdigão e Sadia, JBS e Bertin, Marfrig e Seara, Citrosuco e Citrovita, e propor medidas que evitem impactos negativos aos trabalhadores, produtores e às regiões onde as empresas estão instaladas</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>28/06/2011</dataEntrada>
+        <dataSaida>10/04/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>5973</idOrgaoLegislativoCD>
+        <siglaComissao>MERCOSUL</siglaComissao>
+        <nomeComissao>Representação Brasileira no Parlamento do Mercosul.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>31/08/2011</dataEntrada>
+        <dataSaida>21/05/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9029</idOrgaoLegislativoCD>
+        <siglaComissao>CEAGRIRU</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a efetuar estudos e apresentar propostas com relação ao Projeto de Lei nº 4378, de 1998, do Sr. Milton Mendes, que "regula as relações jurídicas entre a agroindústria e o produtor rural integrado e dá outras providências"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>07/11/2011</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>07/03/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9018</idOrgaoLegislativoCD>
+        <siglaComissao>PEC00511</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a apreciar e  proferir parecer à Proposta de Emenda à Constituição nº 005-A, de 2011, do Sr. Nelson Marquezelli, que "altera o inciso XV do art. 48 e revoga os incisos VII e VIII do art. 49 para estabelecer que os subsídios do Presidente e Vice-Presidente da República, Ministros de Estado, Senadores e Deputados Federais são idênticos aos dos Ministros do Supremo Tribunal Federal"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>10/05/2012</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9145</idOrgaoLegislativoCD>
+        <siglaComissao>PEC19712</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 197-A, de 2012, do Senado Federal, que "altera o § 2º do art. 155 da Constituição Federal, para modificar a sistemática de cobrança do imposto sobre operações relativas à circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e de comunicação incidente sobre as operações e prestações realizadas de forma não presencial e que destinem bens e serviços a consumidor final localizado em outro Estado"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>08/08/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536967</idOrgaoLegislativoCD>
+        <siglaComissao>SUBCANA</siglaComissao>
+        <nomeComissao>Subcomissão especial para acompanhar os problemas afetos à cana-de-açucar, do plantio à industrialização, e propor mudanças à Resolução nº 3.813/2009, do CMN, e ao Decreto nº 6.961/2009.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>21/11/2012</dataEntrada>
+        <dataSaida>02/07/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>05/03/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6855</idOrgaoLegislativoCD>
+        <siglaComissao>CMO</siglaComissao>
+        <nomeComissao>Comissão Mista de Planos, Orçamentos Públicos e Fiscalização</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>11/04/2013</dataEntrada>
+        <dataSaida>25/03/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537046</idOrgaoLegislativoCD>
+        <siglaComissao>PEC56506</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 565-A, de 2006, do Senado Federal, que "altera os arts. 57, 165, 166, e acrescenta art. 165-A, todos da Constituição Federal, tornando de execução obrigatória a programação constante da lei orçamentária anual"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>23/04/2013</dataEntrada>
+        <dataSaida>13/11/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>8917</idOrgaoLegislativoCD>
+        <siglaComissao>CEANISTI</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a acompanhar a aplicação das seguintes Leis de Anistia: Lei nº 8878/1994, que "dispõe sobre a concessão de anistia"; Lei nº 10.790/2003, que "concede anistia a dirigentes ou representantes sindicais e trabalhadores punidos por participação em movimento reivindicatório"; Lei nº 11.282/2006, que "anistia os trabalhadores da Empresa Brasileira de Correios e Telégrafos-ECT punidos em razão da participação em movimento grevista"; e Lei nº 10.559/2002, que "regulamenta o artigo 8º do Ato das Disposições Constitucionais Transitórias e dá outras providências"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>07/05/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537078</idOrgaoLegislativoCD>
+        <siglaComissao>PEC24713</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 247-A de 2013, do Sr. Alessandro Molon, que "altera o Capítulo IV, Das Funções Essenciais à Justiça, do Título IV, Da Organização dos Poderes, e acrescenta artigo ao Ato das Disposições Constitucionais Transitórias da Constituição Federal" (propõe a fixação de um prazo de oito anos, para que a União, os Estados e o Distrito Federal se organizem para poder contar com defensores públicos em todas as unidades jurisdicionais)</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>11/07/2013</dataEntrada>
+        <dataSaida>04/06/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>8631</idOrgaoLegislativoCD>
+        <siglaComissao>PEC08207</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 82-A, de 2007, do Sr. Flávio Dino e outros, que "acresce os arts. 132-A e 135-A e altera o art. 168 da Constituição Federal"  (atribui autonomia funcional e prerrogativas aos membros da Defensoria Pública, Advocacia da União, Procuradoria da Fazenda Nacional, Procuradoria-Geral Federal, Procuradorias das autarquias e às Procuradorias dos Estados, do Distrito Federal e dos Municípios) e apensada</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>17/10/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9161</idOrgaoLegislativoCD>
+        <siglaComissao>PEC21500</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a apreciar e proferir parecer à Proposta de Emenda à Constituição nº 215-A, de 2000, do Sr. Almir Sá e outros, que "acrescenta o inciso XVIII ao art. 49; modifica o § 4º e acrescenta o § 8º ambos no art. 231, da Constituição Federal" (inclui dentre as competências exclusivas do Congresso Nacional a aprovação de demarcação das terras tradicionalmente ocupadas pelos índios e a ratificação das demarcações já homologadas; estabelecendo que os critérios e procedimentos de demarcação serão regulamentados por lei), e apensadas</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>12/12/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537211</idOrgaoLegislativoCD>
+        <siglaComissao>PEC35813</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 358-A, de 2013, do Senado Federal, que "altera os arts. 165 e 166 da Constituição Federal, para tornar obrigatória a execução da programação orçamentária que especifica", e apensada</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>18/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>25/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2018</idOrgaoLegislativoCD>
+        <siglaComissao>CREDN</siglaComissao>
+        <nomeComissao>Comissão de Relações Exteriores e de Defesa Nacional</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>25/02/2014</dataEntrada>
+        <dataSaida>20/03/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537213</idOrgaoLegislativoCD>
+        <siglaComissao>PEC49110</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 491, de 2010, do Sr. Luiz Carlos Hauly e outros, que "acresce incisos ao art. 150, VI e art. 155, X da Constituição Federal" (proíbe a criação de imposto incidente sobre insumos agrícolas, pecuária, alimentos para o consumo humano e medicamentos), e apensadas</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>12/05/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>01/03/2011</dataEntrada>
+        <dataSaida>31/01/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6966</idOrgaoLegislativoCD>
+        <siglaComissao>SUBMERCO</siglaComissao>
+        <nomeComissao>Subcomissão para tratar das assimetrias do Mercosul em relação aos produtores brasileiros e aos do Bloco Econômico</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>09/06/2011</dataEntrada>
+        <dataSaida>22/05/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>8849</idOrgaoLegislativoCD>
+        <siglaComissao>PL533209</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a apreciar e proferir parecer ao Projeto de Lei nº 5332, de 2009, da Sra. Elcione Barbalho, que "cria o 'pão brasileiro', a ser produzido com farinha de trigo adicionada de farinha de mandioca refinada, de farinha de raspa de mandioca ou de fécula de mandioca, adquiridos pelo poder público, e estabelece regime tributário especial para a farinha de trigo misturada, e dá outras providências"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>27/08/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>8906</idOrgaoLegislativoCD>
+        <siglaComissao>PL712310</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 7123, de 2010, do Sr. Assis do Couto, que "institui a Estrada-Parque Caminho do Colono, no Parque Nacional do Iguaçu"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>15/09/2011</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>8873</idOrgaoLegislativoCD>
+        <siglaComissao>PEC44309</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 443-A, de 2009, do Sr. Bonifácio de Andrada, estabelecendo que "o subsídio do grau ou nível máximo das carreiras da Advocacia-Geral da União, das Procuradorias dos Estados e do Distrito Federal corresponderá a noventa inteiros e vinte e cinco centésimos por cento do subsídio mensal, fixado para os Ministros do Supremo Tribunal Federal, e os subsídios dos demais integrantes das respectivas categorias da estrutura da advocacia pública serão fixados em lei e escalonados, não podendo a diferença entre um e outro ser superior a dez por centro ou inferior a cinco por cento, nem exceder a noventa inteiros e vinte e cinco centésimos por cento do subsídio mensal fixado para os Ministros do Supremo Tribunal Federal, obedecido, em qualquer caso, o disposto nos artigos 37, XI, e 39, § 4º"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>25/10/2011</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>07/03/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9170</idOrgaoLegislativoCD>
+        <siglaComissao>PL353812</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 3538, de 2012, do Poder Executivo, que "autoriza a criação da empresa pública Amazônia Azul Tecnologias de Defesa S.A - AMAZUL e dá outras providências"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>02/05/2012</dataEntrada>
+        <dataSaida>08/08/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9127</idOrgaoLegislativoCD>
+        <siglaComissao>PEC05511</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 55-A, de 2011, do Sr. Hugo Motta, que "dá nova redação ao § 8º do art. 144, da Constituição Federal, para disciplinar a carreira dos agentes públicos responsáveis pelo policiamento de trânsito, em âmbito municipal"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>04/05/2013</dataEntrada>
+        <dataSaida>16/07/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536963</idOrgaoLegislativoCD>
+        <siglaComissao>PEC20712</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 207-A de 2012, do Senado Federal, que "altera o art. 134 da Constituição Federal" (garante às Defensorias Públicas da União e do Distrito Federal autonomia funcional e administrativa e a iniciativa de sua proposta orçamentária).</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>18/12/2012</dataEntrada>
+        <dataSaida>06/08/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>05/03/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>5973</idOrgaoLegislativoCD>
+        <siglaComissao>MERCOSUL</siglaComissao>
+        <nomeComissao>Representação Brasileira no Parlamento do Mercosul.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>21/05/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537024</idOrgaoLegislativoCD>
+        <siglaComissao>PEC20912</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 209-A, de 2012, da Srª Rose de Freitas, do Sr. Luiz Pitiman e outros, que "insere o § 1º ao art. 105, da Constituição Federal, e renumera o parágrafo único" (para atribuir requisito de admissibilidade ao recurso especial no âmbito do STJ)</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>21/05/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537130</idOrgaoLegislativoCD>
+        <siglaComissao>SUBCARTL</siglaComissao>
+        <nomeComissao>Subcomissão Permanente de Combate à Cartelização do Agronegócio no Brasil, destinada a discutir e oferecer soluções às práticas monopolistas em prejuízo dos produtores rurais brasileiros.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>14/08/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537230</idOrgaoLegislativoCD>
+        <siglaComissao>CEMEDICA</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a  debater a redução dos impostos sobre os medicamentos</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>14/05/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>25/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+    </comissoes>
+    <cargosComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <idCargo>4</idCargo>
+        <nomeCargo>3º Vice-Presidente</nomeCargo>
+        <dataEntrada>14/02/2007</dataEntrada>
+        <dataSaida>04/03/2008</dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>537130</idOrgaoLegislativoCD>
+        <siglaComissao>SUBCARTL</siglaComissao>
+        <nomeComissao>Subcomissão Permanente de Combate à Cartelização do Agronegócio no Brasil, destinada a discutir e oferecer soluções às práticas monopolistas em prejuízo dos produtores rurais brasileiros.</nomeComissao>
+        <idCargo>2</idCargo>
+        <nomeCargo>1º Vice-Presidente</nomeCargo>
+        <dataEntrada>14/08/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>8906</idOrgaoLegislativoCD>
+        <siglaComissao>PL712310</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 7123, de 2010, do Sr. Assis do Couto, que "institui a Estrada-Parque Caminho do Colono, no Parque Nacional do Iguaçu"</nomeComissao>
+        <idCargo>3</idCargo>
+        <nomeCargo>2º Vice-Presidente</nomeCargo>
+        <dataEntrada>20/09/2011</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </cargoComissoes>
+    </cargosComissoes>
+    <periodosExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>PR</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2003</dataInicio>
+        <dataFim>31/01/2007</dataFim>
+        <idCausaFimExercicio>99</idCausaFimExercicio>
+        <descricaoCausaFimExercicio>Término da Legislatura</descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>PR</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2007</dataInicio>
+        <dataFim>31/01/2011</dataFim>
+        <idCausaFimExercicio>99</idCausaFimExercicio>
+        <descricaoCausaFimExercicio>Término da Legislatura</descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>PR</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2011</dataInicio>
+        <dataFim>
+        </dataFim>
+        <idCausaFimExercicio>
+        </idCausaFimExercicio>
+        <descricaoCausaFimExercicio>
+        </descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+    </periodosExercicio>
+    <historicoNomeParlamentar />
+    <filiacoesPartidarias>
+      <filiacaoPartidaria>
+        <idPartidoAnterior>PPB</idPartidoAnterior>
+        <siglaPartidoAnterior>PPB</siglaPartidoAnterior>
+        <nomePartidoAnterior>Partido Progressista Brasileiro</nomePartidoAnterior>
+        <idPartidoPosterior>PP</idPartidoPosterior>
+        <siglaPartidoPosterior>PP</siglaPartidoPosterior>
+        <nomePartidoPosterior>Partido Progressista</nomePartidoPosterior>
+        <dataFiliacaoPartidoPosterior>02/06/2003</dataFiliacaoPartidoPosterior>
+      </filiacaoPartidaria>
+    </filiacoesPartidarias>
+    <historicoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>73768</idHistoricoLider>
+        <idCargoLideranca>V</idCargoLideranca>
+        <descricaoCargoLideranca>Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>15</numOrdemCargo>
+        <dataDesignacao>09/09/2008</dataDesignacao>
+        <dataTermino>02/09/2010</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PP</siglaUnidadeLideranca>
+        <idBlocoPartido>PP</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>73768</idHistoricoLider>
+        <idCargoLideranca>V</idCargoLideranca>
+        <descricaoCargoLideranca>Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>11</numOrdemCargo>
+        <dataDesignacao>05/03/2013</dataDesignacao>
+        <dataTermino>
+        </dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PP</siglaUnidadeLideranca>
+        <idBlocoPartido>PP</idBlocoPartido>
+      </itemHistoricoLider>
+    </historicoLider>
+  </Deputado>
+  <Deputado>
+    <numLegislatura>52</numLegislatura>
+    <email>dep.dilceusperafico@camara.gov.br</email>
+    <nomeProfissao>Industrial, Bacharel em Direito, Filósofo e Agropecuarista</nomeProfissao>
+    <dataNascimento>26/01/1948</dataNascimento>
+    <dataFalecimento>
+    </dataFalecimento>
+    <ufRepresentacaoAtual>PR</ufRepresentacaoAtual>
+    <situacaoNaLegislaturaAtual>Em Exercício</situacaoNaLegislaturaAtual>
+    <ideCadastro>73768</ideCadastro>
+    <idParlamentarDeprecated>3138</idParlamentarDeprecated>
+    <nomeParlamentarAtual>DILCEU SPERAFICO</nomeParlamentarAtual>
+    <nomeCivil>DILCEU JOÃO SPERAFICO</nomeCivil>
+    <sexo>M</sexo>
+    <partidoAtual>
+      <idPartido>PP</idPartido>
+      <sigla>PP</sigla>
+      <nome>Partido Progressista</nome>
+    </partidoAtual>
+    <gabinete>
+      <numero>
+      </numero>
+      <anexo>
+      </anexo>
+      <telefone>
+      </telefone>
+    </gabinete>
+    <comissoes>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>26/02/2003</dataEntrada>
+        <dataSaida>15/02/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526151</idOrgaoLegislativoCD>
+        <siglaComissao>CEPARMAL</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a averiguar o processo relacionado à crise da Parmalat.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>22/01/2004</dataEntrada>
+        <dataSaida>10/03/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>5438</idOrgaoLegislativoCD>
+        <siglaComissao>CLP</siglaComissao>
+        <nomeComissao>Comissão de Legislação Participativa</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>23/03/2004</dataEntrada>
+        <dataSaida>02/04/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2018</idOrgaoLegislativoCD>
+        <siglaComissao>CREDN</siglaComissao>
+        <nomeComissao>Comissão de Relações Exteriores e de Defesa Nacional</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>02/04/2004</dataEntrada>
+        <dataSaida>01/03/2005</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526176</idOrgaoLegislativoCD>
+        <siglaComissao>PEC27200</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 272-A, de 2000, que "dá nova redação à alínea "c" do inciso I do art. 12 da Constituição e acrescenta artigo ao Ato das Disposições Constitucionais Transitórias, assegurando o registro nos consulados de brasileiros nascidos no estrangeiro".</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>29/06/2004</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2012</idOrgaoLegislativoCD>
+        <siglaComissao>CME</siglaComissao>
+        <nomeComissao>Comissão de Minas e Energia</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>02/03/2005</dataEntrada>
+        <dataSaida>28/03/2006</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2016</idOrgaoLegislativoCD>
+        <siglaComissao>CVT</siglaComissao>
+        <nomeComissao>Comissão de Viação e Transportes</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>29/03/2006</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>26/02/2003</dataEntrada>
+        <dataSaida>15/02/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>525978</idOrgaoLegislativoCD>
+        <siglaComissao>CPICOMB</siglaComissao>
+        <nomeComissao>Comissão Parlamentar de Inquérito com a finalidade de investigar operações no setor de combustíveis, relacionadas com a  sonegação dos tributos, máfia, adulteração e suposta indústria de liminares.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>06/05/2003</dataEntrada>
+        <dataSaida>29/10/2003</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526002</idOrgaoLegislativoCD>
+        <siglaComissao>PEC54402</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a apreciar e proferir parecer à Proposta de Emenda à Constituição nº 544-A, de 2002, que "cria os Tribunais Regionais Federais da 6ª, 7ª, 8ª e 9ª Regiões".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>24/06/2003</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526015</idOrgaoLegislativoCD>
+        <siglaComissao>PEC09295</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a apreciar e proferir parecer à Proposta de Emenda à Constituição nº 92-A, de 1995, que "dá nova redação ao art. 101 da Constituição Federal", determinando que os membros do STF serão escolhidos dentre os membros dos Tribunais Superiores que integrem a carreira da magistratura, menores de sessenta e cinco anos de idade, indicados em lista tríplice pelo próprio Tribunal, com nomeação pelo Presidente da República e aprovação do Senado Federal.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>26/08/2003</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526118</idOrgaoLegislativoCD>
+        <siglaComissao>PL240103</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2401, de 2003, que "estabelece normas de segurança e mecanismos de fiscalização de atividades que envolvam organismos geneticamente modificados - OGM e seus derivados, cria o Conselho Nacional de Biossegurança - CNBS, reestrutura a Comissão Técnica Nacional de Biossegurança - CTNBio, dispõe sobre a Política Nacional de Biossegurança e dá outras providências".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>12/11/2003</dataEntrada>
+        <dataSaida>02/03/2005</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>23/03/2004</dataEntrada>
+        <dataSaida>01/03/2005</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>02/03/2005</dataEntrada>
+        <dataSaida>28/03/2006</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526318</idOrgaoLegislativoCD>
+        <siglaComissao>CEFUNCAF</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a debater e examinar a gestão do FUNCAFÉ, a efetividade e a eficiência da gestão do CDPC nas políticas públicas e privadas do setor, bem como avaliar modelos administrativos alternativos e propor medidas legislativas para aperfeiçoar a legislação do setor.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>13/12/2005</dataEntrada>
+        <dataSaida>13/12/2006</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526338</idOrgaoLegislativoCD>
+        <siglaComissao>PL467901</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 4.679, de 2001, que "dispõe sobre a obrigatoriedade de adição de farinha de mandioca refinada, de farinha de raspa de mandioca ou de fécula de mandioca à farinha de trigo".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>24/04/2006</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526350</idOrgaoLegislativoCD>
+        <siglaComissao>PEC33304</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 333-A, de 2004, do Sr. Pompeo de Mattos, que "modifica a redação do art. 29A e acrescenta art. 29B à Constituição Federal para dispor sobre o limite de despesas e a composição das Câmaras de Vereadores e dá outras providências".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>01/02/2006</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>29/03/2006</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>14/02/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536432</idOrgaoLegislativoCD>
+        <siglaComissao>SUBPOLAG</siglaComissao>
+        <nomeComissao>Subcomissão Permanente para tratar de Renda Rural, Política Agrícola e Endividamento.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>07/03/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>28/02/2008</dataEntrada>
+        <dataSaida>02/02/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536432</idOrgaoLegislativoCD>
+        <siglaComissao>SUBPOLAG</siglaComissao>
+        <nomeComissao>Subcomissão Permanente para tratar de Renda Rural, Política Agrícola e Endividamento.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>19/06/2008</dataEntrada>
+        <dataSaida>02/02/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>04/03/2009</dataEntrada>
+        <dataSaida>01/02/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536836</idOrgaoLegislativoCD>
+        <siglaComissao>SUBFUSAO</siglaComissao>
+        <nomeComissao>Subcomissão  Permanente para acompanhar o processo de fusão entre Perdigão e Sadia, JBS e Bertim, Marfrig e Seara, Citrosuco e Citrovita, e propor medidas que evitem impactos negativos aos trabalhadores, produtores e às regiões onde as empresas estão instaladas.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>13/11/2009</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2004</idOrgaoLegislativoCD>
+        <siglaComissao>CDC</siglaComissao>
+        <nomeComissao>Comissão de Defesa do Consumidor</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>03/03/2010</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>14/02/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536430</idOrgaoLegislativoCD>
+        <siglaComissao>SUBPECUA</siglaComissao>
+        <nomeComissao>Subcomissão Especial para tratar da cadeia de pecuária de corte.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>07/03/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>04/03/2008</dataEntrada>
+        <dataSaida>02/02/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536560</idOrgaoLegislativoCD>
+        <siglaComissao>CMO-08</siglaComissao>
+        <nomeComissao>Comissão Mista de Planos, Orçamentos Públicos e Fiscalização.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>25/03/2008</dataEntrada>
+        <dataSaida>24/03/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>04/03/2009</dataEntrada>
+        <dataSaida>01/02/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536795</idOrgaoLegislativoCD>
+        <siglaComissao>PEC33609</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição 336-A, de 2009,  do Senado Federal, que "altera a redação do inciso IV do caput do art. 29 da Constituição Federal, tratando das disposições relativas à recomposição das Câmaras Municipais".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>08/07/2009</dataEntrada>
+        <dataSaida>22/09/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536811</idOrgaoLegislativoCD>
+        <siglaComissao>PEC35109</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 351-A, de 2009, do Senado Federal, que "altera o art. 100 da Constituição Federal e acrescenta o art. 97 ao Ato das Disposições Constitucionais Transitórias, instituindo regime especial de pagamento de precatórios pelos Estados, Distrito Federal e Municípios"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>16/09/2009</dataEntrada>
+        <dataSaida>09/12/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>03/03/2010</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536855</idOrgaoLegislativoCD>
+        <siglaComissao>CMO-10</siglaComissao>
+        <nomeComissao>Comissão Mista de Planos, Orçamentos Públicos e Fiscalização - CMO</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>26/03/2010</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>01/03/2011</dataEntrada>
+        <dataSaida>31/01/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6963</idOrgaoLegislativoCD>
+        <siglaComissao>SUBFUSAO</siglaComissao>
+        <nomeComissao>Subcomissão para acompanhar o processo de Fusão entre Perdigão e Sadia, JBS e Bertin, Marfrig e Seara, Citrosuco e Citrovita, e propor medidas que evitem impactos negativos aos trabalhadores, produtores e às regiões onde as empresas estão instaladas</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>28/06/2011</dataEntrada>
+        <dataSaida>10/04/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>5973</idOrgaoLegislativoCD>
+        <siglaComissao>MERCOSUL</siglaComissao>
+        <nomeComissao>Representação Brasileira no Parlamento do Mercosul.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>31/08/2011</dataEntrada>
+        <dataSaida>21/05/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9029</idOrgaoLegislativoCD>
+        <siglaComissao>CEAGRIRU</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a efetuar estudos e apresentar propostas com relação ao Projeto de Lei nº 4378, de 1998, do Sr. Milton Mendes, que "regula as relações jurídicas entre a agroindústria e o produtor rural integrado e dá outras providências"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>07/11/2011</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>07/03/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9018</idOrgaoLegislativoCD>
+        <siglaComissao>PEC00511</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a apreciar e  proferir parecer à Proposta de Emenda à Constituição nº 005-A, de 2011, do Sr. Nelson Marquezelli, que "altera o inciso XV do art. 48 e revoga os incisos VII e VIII do art. 49 para estabelecer que os subsídios do Presidente e Vice-Presidente da República, Ministros de Estado, Senadores e Deputados Federais são idênticos aos dos Ministros do Supremo Tribunal Federal"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>10/05/2012</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9145</idOrgaoLegislativoCD>
+        <siglaComissao>PEC19712</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 197-A, de 2012, do Senado Federal, que "altera o § 2º do art. 155 da Constituição Federal, para modificar a sistemática de cobrança do imposto sobre operações relativas à circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e de comunicação incidente sobre as operações e prestações realizadas de forma não presencial e que destinem bens e serviços a consumidor final localizado em outro Estado"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>08/08/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536967</idOrgaoLegislativoCD>
+        <siglaComissao>SUBCANA</siglaComissao>
+        <nomeComissao>Subcomissão especial para acompanhar os problemas afetos à cana-de-açucar, do plantio à industrialização, e propor mudanças à Resolução nº 3.813/2009, do CMN, e ao Decreto nº 6.961/2009.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>21/11/2012</dataEntrada>
+        <dataSaida>02/07/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>05/03/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6855</idOrgaoLegislativoCD>
+        <siglaComissao>CMO</siglaComissao>
+        <nomeComissao>Comissão Mista de Planos, Orçamentos Públicos e Fiscalização</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>11/04/2013</dataEntrada>
+        <dataSaida>25/03/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537046</idOrgaoLegislativoCD>
+        <siglaComissao>PEC56506</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 565-A, de 2006, do Senado Federal, que "altera os arts. 57, 165, 166, e acrescenta art. 165-A, todos da Constituição Federal, tornando de execução obrigatória a programação constante da lei orçamentária anual"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>23/04/2013</dataEntrada>
+        <dataSaida>13/11/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>8917</idOrgaoLegislativoCD>
+        <siglaComissao>CEANISTI</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a acompanhar a aplicação das seguintes Leis de Anistia: Lei nº 8878/1994, que "dispõe sobre a concessão de anistia"; Lei nº 10.790/2003, que "concede anistia a dirigentes ou representantes sindicais e trabalhadores punidos por participação em movimento reivindicatório"; Lei nº 11.282/2006, que "anistia os trabalhadores da Empresa Brasileira de Correios e Telégrafos-ECT punidos em razão da participação em movimento grevista"; e Lei nº 10.559/2002, que "regulamenta o artigo 8º do Ato das Disposições Constitucionais Transitórias e dá outras providências"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>07/05/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537078</idOrgaoLegislativoCD>
+        <siglaComissao>PEC24713</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 247-A de 2013, do Sr. Alessandro Molon, que "altera o Capítulo IV, Das Funções Essenciais à Justiça, do Título IV, Da Organização dos Poderes, e acrescenta artigo ao Ato das Disposições Constitucionais Transitórias da Constituição Federal" (propõe a fixação de um prazo de oito anos, para que a União, os Estados e o Distrito Federal se organizem para poder contar com defensores públicos em todas as unidades jurisdicionais)</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>11/07/2013</dataEntrada>
+        <dataSaida>04/06/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>8631</idOrgaoLegislativoCD>
+        <siglaComissao>PEC08207</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 82-A, de 2007, do Sr. Flávio Dino e outros, que "acresce os arts. 132-A e 135-A e altera o art. 168 da Constituição Federal"  (atribui autonomia funcional e prerrogativas aos membros da Defensoria Pública, Advocacia da União, Procuradoria da Fazenda Nacional, Procuradoria-Geral Federal, Procuradorias das autarquias e às Procuradorias dos Estados, do Distrito Federal e dos Municípios) e apensada</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>17/10/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9161</idOrgaoLegislativoCD>
+        <siglaComissao>PEC21500</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a apreciar e proferir parecer à Proposta de Emenda à Constituição nº 215-A, de 2000, do Sr. Almir Sá e outros, que "acrescenta o inciso XVIII ao art. 49; modifica o § 4º e acrescenta o § 8º ambos no art. 231, da Constituição Federal" (inclui dentre as competências exclusivas do Congresso Nacional a aprovação de demarcação das terras tradicionalmente ocupadas pelos índios e a ratificação das demarcações já homologadas; estabelecendo que os critérios e procedimentos de demarcação serão regulamentados por lei), e apensadas</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>12/12/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537211</idOrgaoLegislativoCD>
+        <siglaComissao>PEC35813</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 358-A, de 2013, do Senado Federal, que "altera os arts. 165 e 166 da Constituição Federal, para tornar obrigatória a execução da programação orçamentária que especifica", e apensada</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>18/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>25/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2018</idOrgaoLegislativoCD>
+        <siglaComissao>CREDN</siglaComissao>
+        <nomeComissao>Comissão de Relações Exteriores e de Defesa Nacional</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>25/02/2014</dataEntrada>
+        <dataSaida>20/03/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537213</idOrgaoLegislativoCD>
+        <siglaComissao>PEC49110</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 491, de 2010, do Sr. Luiz Carlos Hauly e outros, que "acresce incisos ao art. 150, VI e art. 155, X da Constituição Federal" (proíbe a criação de imposto incidente sobre insumos agrícolas, pecuária, alimentos para o consumo humano e medicamentos), e apensadas</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>12/05/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>01/03/2011</dataEntrada>
+        <dataSaida>31/01/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6966</idOrgaoLegislativoCD>
+        <siglaComissao>SUBMERCO</siglaComissao>
+        <nomeComissao>Subcomissão para tratar das assimetrias do Mercosul em relação aos produtores brasileiros e aos do Bloco Econômico</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>09/06/2011</dataEntrada>
+        <dataSaida>22/05/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>8849</idOrgaoLegislativoCD>
+        <siglaComissao>PL533209</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a apreciar e proferir parecer ao Projeto de Lei nº 5332, de 2009, da Sra. Elcione Barbalho, que "cria o 'pão brasileiro', a ser produzido com farinha de trigo adicionada de farinha de mandioca refinada, de farinha de raspa de mandioca ou de fécula de mandioca, adquiridos pelo poder público, e estabelece regime tributário especial para a farinha de trigo misturada, e dá outras providências"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>27/08/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>8906</idOrgaoLegislativoCD>
+        <siglaComissao>PL712310</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 7123, de 2010, do Sr. Assis do Couto, que "institui a Estrada-Parque Caminho do Colono, no Parque Nacional do Iguaçu"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>15/09/2011</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>8873</idOrgaoLegislativoCD>
+        <siglaComissao>PEC44309</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 443-A, de 2009, do Sr. Bonifácio de Andrada, estabelecendo que "o subsídio do grau ou nível máximo das carreiras da Advocacia-Geral da União, das Procuradorias dos Estados e do Distrito Federal corresponderá a noventa inteiros e vinte e cinco centésimos por cento do subsídio mensal, fixado para os Ministros do Supremo Tribunal Federal, e os subsídios dos demais integrantes das respectivas categorias da estrutura da advocacia pública serão fixados em lei e escalonados, não podendo a diferença entre um e outro ser superior a dez por centro ou inferior a cinco por cento, nem exceder a noventa inteiros e vinte e cinco centésimos por cento do subsídio mensal fixado para os Ministros do Supremo Tribunal Federal, obedecido, em qualquer caso, o disposto nos artigos 37, XI, e 39, § 4º"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>25/10/2011</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>07/03/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9170</idOrgaoLegislativoCD>
+        <siglaComissao>PL353812</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 3538, de 2012, do Poder Executivo, que "autoriza a criação da empresa pública Amazônia Azul Tecnologias de Defesa S.A - AMAZUL e dá outras providências"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>02/05/2012</dataEntrada>
+        <dataSaida>08/08/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9127</idOrgaoLegislativoCD>
+        <siglaComissao>PEC05511</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 55-A, de 2011, do Sr. Hugo Motta, que "dá nova redação ao § 8º do art. 144, da Constituição Federal, para disciplinar a carreira dos agentes públicos responsáveis pelo policiamento de trânsito, em âmbito municipal"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>04/05/2013</dataEntrada>
+        <dataSaida>16/07/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536963</idOrgaoLegislativoCD>
+        <siglaComissao>PEC20712</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 207-A de 2012, do Senado Federal, que "altera o art. 134 da Constituição Federal" (garante às Defensorias Públicas da União e do Distrito Federal autonomia funcional e administrativa e a iniciativa de sua proposta orçamentária).</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>18/12/2012</dataEntrada>
+        <dataSaida>06/08/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>05/03/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>5973</idOrgaoLegislativoCD>
+        <siglaComissao>MERCOSUL</siglaComissao>
+        <nomeComissao>Representação Brasileira no Parlamento do Mercosul.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>21/05/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537024</idOrgaoLegislativoCD>
+        <siglaComissao>PEC20912</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 209-A, de 2012, da Srª Rose de Freitas, do Sr. Luiz Pitiman e outros, que "insere o § 1º ao art. 105, da Constituição Federal, e renumera o parágrafo único" (para atribuir requisito de admissibilidade ao recurso especial no âmbito do STJ)</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>21/05/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537130</idOrgaoLegislativoCD>
+        <siglaComissao>SUBCARTL</siglaComissao>
+        <nomeComissao>Subcomissão Permanente de Combate à Cartelização do Agronegócio no Brasil, destinada a discutir e oferecer soluções às práticas monopolistas em prejuízo dos produtores rurais brasileiros.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>14/08/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537230</idOrgaoLegislativoCD>
+        <siglaComissao>CEMEDICA</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a  debater a redução dos impostos sobre os medicamentos</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>14/05/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>25/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+    </comissoes>
+    <cargosComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <idCargo>4</idCargo>
+        <nomeCargo>3º Vice-Presidente</nomeCargo>
+        <dataEntrada>14/02/2007</dataEntrada>
+        <dataSaida>04/03/2008</dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>537130</idOrgaoLegislativoCD>
+        <siglaComissao>SUBCARTL</siglaComissao>
+        <nomeComissao>Subcomissão Permanente de Combate à Cartelização do Agronegócio no Brasil, destinada a discutir e oferecer soluções às práticas monopolistas em prejuízo dos produtores rurais brasileiros.</nomeComissao>
+        <idCargo>2</idCargo>
+        <nomeCargo>1º Vice-Presidente</nomeCargo>
+        <dataEntrada>14/08/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>8906</idOrgaoLegislativoCD>
+        <siglaComissao>PL712310</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 7123, de 2010, do Sr. Assis do Couto, que "institui a Estrada-Parque Caminho do Colono, no Parque Nacional do Iguaçu"</nomeComissao>
+        <idCargo>3</idCargo>
+        <nomeCargo>2º Vice-Presidente</nomeCargo>
+        <dataEntrada>20/09/2011</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </cargoComissoes>
+    </cargosComissoes>
+    <periodosExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>PR</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2003</dataInicio>
+        <dataFim>31/01/2007</dataFim>
+        <idCausaFimExercicio>99</idCausaFimExercicio>
+        <descricaoCausaFimExercicio>Término da Legislatura</descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>PR</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2007</dataInicio>
+        <dataFim>31/01/2011</dataFim>
+        <idCausaFimExercicio>99</idCausaFimExercicio>
+        <descricaoCausaFimExercicio>Término da Legislatura</descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>PR</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2011</dataInicio>
+        <dataFim>
+        </dataFim>
+        <idCausaFimExercicio>
+        </idCausaFimExercicio>
+        <descricaoCausaFimExercicio>
+        </descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+    </periodosExercicio>
+    <historicoNomeParlamentar />
+    <filiacoesPartidarias>
+      <filiacaoPartidaria>
+        <idPartidoAnterior>PPB</idPartidoAnterior>
+        <siglaPartidoAnterior>PPB</siglaPartidoAnterior>
+        <nomePartidoAnterior>Partido Progressista Brasileiro</nomePartidoAnterior>
+        <idPartidoPosterior>PP</idPartidoPosterior>
+        <siglaPartidoPosterior>PP</siglaPartidoPosterior>
+        <nomePartidoPosterior>Partido Progressista</nomePartidoPosterior>
+        <dataFiliacaoPartidoPosterior>02/06/2003</dataFiliacaoPartidoPosterior>
+      </filiacaoPartidaria>
+    </filiacoesPartidarias>
+    <historicoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>73768</idHistoricoLider>
+        <idCargoLideranca>V</idCargoLideranca>
+        <descricaoCargoLideranca>Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>15</numOrdemCargo>
+        <dataDesignacao>09/09/2008</dataDesignacao>
+        <dataTermino>02/09/2010</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PP</siglaUnidadeLideranca>
+        <idBlocoPartido>PP</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>73768</idHistoricoLider>
+        <idCargoLideranca>V</idCargoLideranca>
+        <descricaoCargoLideranca>Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>11</numOrdemCargo>
+        <dataDesignacao>05/03/2013</dataDesignacao>
+        <dataTermino>
+        </dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PP</siglaUnidadeLideranca>
+        <idBlocoPartido>PP</idBlocoPartido>
+      </itemHistoricoLider>
+    </historicoLider>
+  </Deputado>
+  <Deputado>
+    <numLegislatura>54</numLegislatura>
+    <email>dep.dilceusperafico@camara.gov.br</email>
+    <nomeProfissao>Industrial, Bacharel em Direito, Filósofo e Agropecuarista</nomeProfissao>
+    <dataNascimento>26/01/1948</dataNascimento>
+    <dataFalecimento>
+    </dataFalecimento>
+    <ufRepresentacaoAtual>PR</ufRepresentacaoAtual>
+    <situacaoNaLegislaturaAtual>Em Exercício</situacaoNaLegislaturaAtual>
+    <ideCadastro>73768</ideCadastro>
+    <idParlamentarDeprecated>3138</idParlamentarDeprecated>
+    <nomeParlamentarAtual>DILCEU SPERAFICO</nomeParlamentarAtual>
+    <nomeCivil>DILCEU JOÃO SPERAFICO</nomeCivil>
+    <sexo>M</sexo>
+    <partidoAtual>
+      <idPartido>PP</idPartido>
+      <sigla>PP</sigla>
+      <nome>Partido Progressista</nome>
+    </partidoAtual>
+    <gabinete>
+      <numero>746</numero>
+      <anexo>4</anexo>
+      <telefone>3215-5746</telefone>
+    </gabinete>
+    <comissoes>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>26/02/2003</dataEntrada>
+        <dataSaida>15/02/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526151</idOrgaoLegislativoCD>
+        <siglaComissao>CEPARMAL</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a averiguar o processo relacionado à crise da Parmalat.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>22/01/2004</dataEntrada>
+        <dataSaida>10/03/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>5438</idOrgaoLegislativoCD>
+        <siglaComissao>CLP</siglaComissao>
+        <nomeComissao>Comissão de Legislação Participativa</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>23/03/2004</dataEntrada>
+        <dataSaida>02/04/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2018</idOrgaoLegislativoCD>
+        <siglaComissao>CREDN</siglaComissao>
+        <nomeComissao>Comissão de Relações Exteriores e de Defesa Nacional</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>02/04/2004</dataEntrada>
+        <dataSaida>01/03/2005</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526176</idOrgaoLegislativoCD>
+        <siglaComissao>PEC27200</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 272-A, de 2000, que "dá nova redação à alínea "c" do inciso I do art. 12 da Constituição e acrescenta artigo ao Ato das Disposições Constitucionais Transitórias, assegurando o registro nos consulados de brasileiros nascidos no estrangeiro".</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>29/06/2004</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2012</idOrgaoLegislativoCD>
+        <siglaComissao>CME</siglaComissao>
+        <nomeComissao>Comissão de Minas e Energia</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>02/03/2005</dataEntrada>
+        <dataSaida>28/03/2006</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2016</idOrgaoLegislativoCD>
+        <siglaComissao>CVT</siglaComissao>
+        <nomeComissao>Comissão de Viação e Transportes</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>29/03/2006</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>26/02/2003</dataEntrada>
+        <dataSaida>15/02/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>525978</idOrgaoLegislativoCD>
+        <siglaComissao>CPICOMB</siglaComissao>
+        <nomeComissao>Comissão Parlamentar de Inquérito com a finalidade de investigar operações no setor de combustíveis, relacionadas com a  sonegação dos tributos, máfia, adulteração e suposta indústria de liminares.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>06/05/2003</dataEntrada>
+        <dataSaida>29/10/2003</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526002</idOrgaoLegislativoCD>
+        <siglaComissao>PEC54402</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a apreciar e proferir parecer à Proposta de Emenda à Constituição nº 544-A, de 2002, que "cria os Tribunais Regionais Federais da 6ª, 7ª, 8ª e 9ª Regiões".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>24/06/2003</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526015</idOrgaoLegislativoCD>
+        <siglaComissao>PEC09295</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a apreciar e proferir parecer à Proposta de Emenda à Constituição nº 92-A, de 1995, que "dá nova redação ao art. 101 da Constituição Federal", determinando que os membros do STF serão escolhidos dentre os membros dos Tribunais Superiores que integrem a carreira da magistratura, menores de sessenta e cinco anos de idade, indicados em lista tríplice pelo próprio Tribunal, com nomeação pelo Presidente da República e aprovação do Senado Federal.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>26/08/2003</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526118</idOrgaoLegislativoCD>
+        <siglaComissao>PL240103</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2401, de 2003, que "estabelece normas de segurança e mecanismos de fiscalização de atividades que envolvam organismos geneticamente modificados - OGM e seus derivados, cria o Conselho Nacional de Biossegurança - CNBS, reestrutura a Comissão Técnica Nacional de Biossegurança - CTNBio, dispõe sobre a Política Nacional de Biossegurança e dá outras providências".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>12/11/2003</dataEntrada>
+        <dataSaida>02/03/2005</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>23/03/2004</dataEntrada>
+        <dataSaida>01/03/2005</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>02/03/2005</dataEntrada>
+        <dataSaida>28/03/2006</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526318</idOrgaoLegislativoCD>
+        <siglaComissao>CEFUNCAF</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a debater e examinar a gestão do FUNCAFÉ, a efetividade e a eficiência da gestão do CDPC nas políticas públicas e privadas do setor, bem como avaliar modelos administrativos alternativos e propor medidas legislativas para aperfeiçoar a legislação do setor.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>13/12/2005</dataEntrada>
+        <dataSaida>13/12/2006</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526338</idOrgaoLegislativoCD>
+        <siglaComissao>PL467901</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 4.679, de 2001, que "dispõe sobre a obrigatoriedade de adição de farinha de mandioca refinada, de farinha de raspa de mandioca ou de fécula de mandioca à farinha de trigo".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>24/04/2006</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526350</idOrgaoLegislativoCD>
+        <siglaComissao>PEC33304</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 333-A, de 2004, do Sr. Pompeo de Mattos, que "modifica a redação do art. 29A e acrescenta art. 29B à Constituição Federal para dispor sobre o limite de despesas e a composição das Câmaras de Vereadores e dá outras providências".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>01/02/2006</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>29/03/2006</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>14/02/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536432</idOrgaoLegislativoCD>
+        <siglaComissao>SUBPOLAG</siglaComissao>
+        <nomeComissao>Subcomissão Permanente para tratar de Renda Rural, Política Agrícola e Endividamento.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>07/03/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>28/02/2008</dataEntrada>
+        <dataSaida>02/02/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536432</idOrgaoLegislativoCD>
+        <siglaComissao>SUBPOLAG</siglaComissao>
+        <nomeComissao>Subcomissão Permanente para tratar de Renda Rural, Política Agrícola e Endividamento.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>19/06/2008</dataEntrada>
+        <dataSaida>02/02/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>04/03/2009</dataEntrada>
+        <dataSaida>01/02/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536836</idOrgaoLegislativoCD>
+        <siglaComissao>SUBFUSAO</siglaComissao>
+        <nomeComissao>Subcomissão  Permanente para acompanhar o processo de fusão entre Perdigão e Sadia, JBS e Bertim, Marfrig e Seara, Citrosuco e Citrovita, e propor medidas que evitem impactos negativos aos trabalhadores, produtores e às regiões onde as empresas estão instaladas.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>13/11/2009</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2004</idOrgaoLegislativoCD>
+        <siglaComissao>CDC</siglaComissao>
+        <nomeComissao>Comissão de Defesa do Consumidor</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>03/03/2010</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>14/02/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536430</idOrgaoLegislativoCD>
+        <siglaComissao>SUBPECUA</siglaComissao>
+        <nomeComissao>Subcomissão Especial para tratar da cadeia de pecuária de corte.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>07/03/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>04/03/2008</dataEntrada>
+        <dataSaida>02/02/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536560</idOrgaoLegislativoCD>
+        <siglaComissao>CMO-08</siglaComissao>
+        <nomeComissao>Comissão Mista de Planos, Orçamentos Públicos e Fiscalização.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>25/03/2008</dataEntrada>
+        <dataSaida>24/03/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>04/03/2009</dataEntrada>
+        <dataSaida>01/02/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536795</idOrgaoLegislativoCD>
+        <siglaComissao>PEC33609</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição 336-A, de 2009,  do Senado Federal, que "altera a redação do inciso IV do caput do art. 29 da Constituição Federal, tratando das disposições relativas à recomposição das Câmaras Municipais".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>08/07/2009</dataEntrada>
+        <dataSaida>22/09/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536811</idOrgaoLegislativoCD>
+        <siglaComissao>PEC35109</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 351-A, de 2009, do Senado Federal, que "altera o art. 100 da Constituição Federal e acrescenta o art. 97 ao Ato das Disposições Constitucionais Transitórias, instituindo regime especial de pagamento de precatórios pelos Estados, Distrito Federal e Municípios"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>16/09/2009</dataEntrada>
+        <dataSaida>09/12/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>03/03/2010</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536855</idOrgaoLegislativoCD>
+        <siglaComissao>CMO-10</siglaComissao>
+        <nomeComissao>Comissão Mista de Planos, Orçamentos Públicos e Fiscalização - CMO</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>26/03/2010</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>01/03/2011</dataEntrada>
+        <dataSaida>31/01/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6963</idOrgaoLegislativoCD>
+        <siglaComissao>SUBFUSAO</siglaComissao>
+        <nomeComissao>Subcomissão para acompanhar o processo de Fusão entre Perdigão e Sadia, JBS e Bertin, Marfrig e Seara, Citrosuco e Citrovita, e propor medidas que evitem impactos negativos aos trabalhadores, produtores e às regiões onde as empresas estão instaladas</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>28/06/2011</dataEntrada>
+        <dataSaida>10/04/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>5973</idOrgaoLegislativoCD>
+        <siglaComissao>MERCOSUL</siglaComissao>
+        <nomeComissao>Representação Brasileira no Parlamento do Mercosul.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>31/08/2011</dataEntrada>
+        <dataSaida>21/05/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9029</idOrgaoLegislativoCD>
+        <siglaComissao>CEAGRIRU</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a efetuar estudos e apresentar propostas com relação ao Projeto de Lei nº 4378, de 1998, do Sr. Milton Mendes, que "regula as relações jurídicas entre a agroindústria e o produtor rural integrado e dá outras providências"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>07/11/2011</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>07/03/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9018</idOrgaoLegislativoCD>
+        <siglaComissao>PEC00511</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a apreciar e  proferir parecer à Proposta de Emenda à Constituição nº 005-A, de 2011, do Sr. Nelson Marquezelli, que "altera o inciso XV do art. 48 e revoga os incisos VII e VIII do art. 49 para estabelecer que os subsídios do Presidente e Vice-Presidente da República, Ministros de Estado, Senadores e Deputados Federais são idênticos aos dos Ministros do Supremo Tribunal Federal"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>10/05/2012</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9145</idOrgaoLegislativoCD>
+        <siglaComissao>PEC19712</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 197-A, de 2012, do Senado Federal, que "altera o § 2º do art. 155 da Constituição Federal, para modificar a sistemática de cobrança do imposto sobre operações relativas à circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e de comunicação incidente sobre as operações e prestações realizadas de forma não presencial e que destinem bens e serviços a consumidor final localizado em outro Estado"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>08/08/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536967</idOrgaoLegislativoCD>
+        <siglaComissao>SUBCANA</siglaComissao>
+        <nomeComissao>Subcomissão especial para acompanhar os problemas afetos à cana-de-açucar, do plantio à industrialização, e propor mudanças à Resolução nº 3.813/2009, do CMN, e ao Decreto nº 6.961/2009.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>21/11/2012</dataEntrada>
+        <dataSaida>02/07/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>05/03/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6855</idOrgaoLegislativoCD>
+        <siglaComissao>CMO</siglaComissao>
+        <nomeComissao>Comissão Mista de Planos, Orçamentos Públicos e Fiscalização</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>11/04/2013</dataEntrada>
+        <dataSaida>25/03/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537046</idOrgaoLegislativoCD>
+        <siglaComissao>PEC56506</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 565-A, de 2006, do Senado Federal, que "altera os arts. 57, 165, 166, e acrescenta art. 165-A, todos da Constituição Federal, tornando de execução obrigatória a programação constante da lei orçamentária anual"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>23/04/2013</dataEntrada>
+        <dataSaida>13/11/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>8917</idOrgaoLegislativoCD>
+        <siglaComissao>CEANISTI</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a acompanhar a aplicação das seguintes Leis de Anistia: Lei nº 8878/1994, que "dispõe sobre a concessão de anistia"; Lei nº 10.790/2003, que "concede anistia a dirigentes ou representantes sindicais e trabalhadores punidos por participação em movimento reivindicatório"; Lei nº 11.282/2006, que "anistia os trabalhadores da Empresa Brasileira de Correios e Telégrafos-ECT punidos em razão da participação em movimento grevista"; e Lei nº 10.559/2002, que "regulamenta o artigo 8º do Ato das Disposições Constitucionais Transitórias e dá outras providências"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>07/05/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537078</idOrgaoLegislativoCD>
+        <siglaComissao>PEC24713</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 247-A de 2013, do Sr. Alessandro Molon, que "altera o Capítulo IV, Das Funções Essenciais à Justiça, do Título IV, Da Organização dos Poderes, e acrescenta artigo ao Ato das Disposições Constitucionais Transitórias da Constituição Federal" (propõe a fixação de um prazo de oito anos, para que a União, os Estados e o Distrito Federal se organizem para poder contar com defensores públicos em todas as unidades jurisdicionais)</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>11/07/2013</dataEntrada>
+        <dataSaida>04/06/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>8631</idOrgaoLegislativoCD>
+        <siglaComissao>PEC08207</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 82-A, de 2007, do Sr. Flávio Dino e outros, que "acresce os arts. 132-A e 135-A e altera o art. 168 da Constituição Federal"  (atribui autonomia funcional e prerrogativas aos membros da Defensoria Pública, Advocacia da União, Procuradoria da Fazenda Nacional, Procuradoria-Geral Federal, Procuradorias das autarquias e às Procuradorias dos Estados, do Distrito Federal e dos Municípios) e apensada</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>17/10/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9161</idOrgaoLegislativoCD>
+        <siglaComissao>PEC21500</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a apreciar e proferir parecer à Proposta de Emenda à Constituição nº 215-A, de 2000, do Sr. Almir Sá e outros, que "acrescenta o inciso XVIII ao art. 49; modifica o § 4º e acrescenta o § 8º ambos no art. 231, da Constituição Federal" (inclui dentre as competências exclusivas do Congresso Nacional a aprovação de demarcação das terras tradicionalmente ocupadas pelos índios e a ratificação das demarcações já homologadas; estabelecendo que os critérios e procedimentos de demarcação serão regulamentados por lei), e apensadas</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>12/12/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537211</idOrgaoLegislativoCD>
+        <siglaComissao>PEC35813</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 358-A, de 2013, do Senado Federal, que "altera os arts. 165 e 166 da Constituição Federal, para tornar obrigatória a execução da programação orçamentária que especifica", e apensada</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>18/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>25/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2018</idOrgaoLegislativoCD>
+        <siglaComissao>CREDN</siglaComissao>
+        <nomeComissao>Comissão de Relações Exteriores e de Defesa Nacional</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>25/02/2014</dataEntrada>
+        <dataSaida>20/03/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537213</idOrgaoLegislativoCD>
+        <siglaComissao>PEC49110</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 491, de 2010, do Sr. Luiz Carlos Hauly e outros, que "acresce incisos ao art. 150, VI e art. 155, X da Constituição Federal" (proíbe a criação de imposto incidente sobre insumos agrícolas, pecuária, alimentos para o consumo humano e medicamentos), e apensadas</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>12/05/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>01/03/2011</dataEntrada>
+        <dataSaida>31/01/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6966</idOrgaoLegislativoCD>
+        <siglaComissao>SUBMERCO</siglaComissao>
+        <nomeComissao>Subcomissão para tratar das assimetrias do Mercosul em relação aos produtores brasileiros e aos do Bloco Econômico</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>09/06/2011</dataEntrada>
+        <dataSaida>22/05/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>8849</idOrgaoLegislativoCD>
+        <siglaComissao>PL533209</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a apreciar e proferir parecer ao Projeto de Lei nº 5332, de 2009, da Sra. Elcione Barbalho, que "cria o 'pão brasileiro', a ser produzido com farinha de trigo adicionada de farinha de mandioca refinada, de farinha de raspa de mandioca ou de fécula de mandioca, adquiridos pelo poder público, e estabelece regime tributário especial para a farinha de trigo misturada, e dá outras providências"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>27/08/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>8906</idOrgaoLegislativoCD>
+        <siglaComissao>PL712310</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 7123, de 2010, do Sr. Assis do Couto, que "institui a Estrada-Parque Caminho do Colono, no Parque Nacional do Iguaçu"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>15/09/2011</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>8873</idOrgaoLegislativoCD>
+        <siglaComissao>PEC44309</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 443-A, de 2009, do Sr. Bonifácio de Andrada, estabelecendo que "o subsídio do grau ou nível máximo das carreiras da Advocacia-Geral da União, das Procuradorias dos Estados e do Distrito Federal corresponderá a noventa inteiros e vinte e cinco centésimos por cento do subsídio mensal, fixado para os Ministros do Supremo Tribunal Federal, e os subsídios dos demais integrantes das respectivas categorias da estrutura da advocacia pública serão fixados em lei e escalonados, não podendo a diferença entre um e outro ser superior a dez por centro ou inferior a cinco por cento, nem exceder a noventa inteiros e vinte e cinco centésimos por cento do subsídio mensal fixado para os Ministros do Supremo Tribunal Federal, obedecido, em qualquer caso, o disposto nos artigos 37, XI, e 39, § 4º"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>25/10/2011</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>07/03/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9170</idOrgaoLegislativoCD>
+        <siglaComissao>PL353812</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 3538, de 2012, do Poder Executivo, que "autoriza a criação da empresa pública Amazônia Azul Tecnologias de Defesa S.A - AMAZUL e dá outras providências"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>02/05/2012</dataEntrada>
+        <dataSaida>08/08/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9127</idOrgaoLegislativoCD>
+        <siglaComissao>PEC05511</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 55-A, de 2011, do Sr. Hugo Motta, que "dá nova redação ao § 8º do art. 144, da Constituição Federal, para disciplinar a carreira dos agentes públicos responsáveis pelo policiamento de trânsito, em âmbito municipal"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>04/05/2013</dataEntrada>
+        <dataSaida>16/07/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536963</idOrgaoLegislativoCD>
+        <siglaComissao>PEC20712</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 207-A de 2012, do Senado Federal, que "altera o art. 134 da Constituição Federal" (garante às Defensorias Públicas da União e do Distrito Federal autonomia funcional e administrativa e a iniciativa de sua proposta orçamentária).</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>18/12/2012</dataEntrada>
+        <dataSaida>06/08/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>05/03/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>5973</idOrgaoLegislativoCD>
+        <siglaComissao>MERCOSUL</siglaComissao>
+        <nomeComissao>Representação Brasileira no Parlamento do Mercosul.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>21/05/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537024</idOrgaoLegislativoCD>
+        <siglaComissao>PEC20912</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 209-A, de 2012, da Srª Rose de Freitas, do Sr. Luiz Pitiman e outros, que "insere o § 1º ao art. 105, da Constituição Federal, e renumera o parágrafo único" (para atribuir requisito de admissibilidade ao recurso especial no âmbito do STJ)</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>21/05/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537130</idOrgaoLegislativoCD>
+        <siglaComissao>SUBCARTL</siglaComissao>
+        <nomeComissao>Subcomissão Permanente de Combate à Cartelização do Agronegócio no Brasil, destinada a discutir e oferecer soluções às práticas monopolistas em prejuízo dos produtores rurais brasileiros.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>14/08/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537230</idOrgaoLegislativoCD>
+        <siglaComissao>CEMEDICA</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a  debater a redução dos impostos sobre os medicamentos</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>14/05/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>25/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+    </comissoes>
+    <cargosComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <idCargo>4</idCargo>
+        <nomeCargo>3º Vice-Presidente</nomeCargo>
+        <dataEntrada>14/02/2007</dataEntrada>
+        <dataSaida>04/03/2008</dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>537130</idOrgaoLegislativoCD>
+        <siglaComissao>SUBCARTL</siglaComissao>
+        <nomeComissao>Subcomissão Permanente de Combate à Cartelização do Agronegócio no Brasil, destinada a discutir e oferecer soluções às práticas monopolistas em prejuízo dos produtores rurais brasileiros.</nomeComissao>
+        <idCargo>2</idCargo>
+        <nomeCargo>1º Vice-Presidente</nomeCargo>
+        <dataEntrada>14/08/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>8906</idOrgaoLegislativoCD>
+        <siglaComissao>PL712310</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 7123, de 2010, do Sr. Assis do Couto, que "institui a Estrada-Parque Caminho do Colono, no Parque Nacional do Iguaçu"</nomeComissao>
+        <idCargo>3</idCargo>
+        <nomeCargo>2º Vice-Presidente</nomeCargo>
+        <dataEntrada>20/09/2011</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </cargoComissoes>
+    </cargosComissoes>
+    <periodosExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>PR</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2003</dataInicio>
+        <dataFim>31/01/2007</dataFim>
+        <idCausaFimExercicio>99</idCausaFimExercicio>
+        <descricaoCausaFimExercicio>Término da Legislatura</descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>PR</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2007</dataInicio>
+        <dataFim>31/01/2011</dataFim>
+        <idCausaFimExercicio>99</idCausaFimExercicio>
+        <descricaoCausaFimExercicio>Término da Legislatura</descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>PR</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2011</dataInicio>
+        <dataFim>
+        </dataFim>
+        <idCausaFimExercicio>
+        </idCausaFimExercicio>
+        <descricaoCausaFimExercicio>
+        </descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+    </periodosExercicio>
+    <historicoNomeParlamentar />
+    <filiacoesPartidarias>
+      <filiacaoPartidaria>
+        <idPartidoAnterior>PPB</idPartidoAnterior>
+        <siglaPartidoAnterior>PPB</siglaPartidoAnterior>
+        <nomePartidoAnterior>Partido Progressista Brasileiro</nomePartidoAnterior>
+        <idPartidoPosterior>PP</idPartidoPosterior>
+        <siglaPartidoPosterior>PP</siglaPartidoPosterior>
+        <nomePartidoPosterior>Partido Progressista</nomePartidoPosterior>
+        <dataFiliacaoPartidoPosterior>02/06/2003</dataFiliacaoPartidoPosterior>
+      </filiacaoPartidaria>
+    </filiacoesPartidarias>
+    <historicoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>73768</idHistoricoLider>
+        <idCargoLideranca>V</idCargoLideranca>
+        <descricaoCargoLideranca>Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>15</numOrdemCargo>
+        <dataDesignacao>09/09/2008</dataDesignacao>
+        <dataTermino>02/09/2010</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PP</siglaUnidadeLideranca>
+        <idBlocoPartido>PP</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>73768</idHistoricoLider>
+        <idCargoLideranca>V</idCargoLideranca>
+        <descricaoCargoLideranca>Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>11</numOrdemCargo>
+        <dataDesignacao>05/03/2013</dataDesignacao>
+        <dataTermino>
+        </dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PP</siglaUnidadeLideranca>
+        <idBlocoPartido>PP</idBlocoPartido>
+      </itemHistoricoLider>
+    </historicoLider>
+  </Deputado>
+</Deputados>

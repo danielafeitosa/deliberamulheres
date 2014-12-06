@@ -1,0 +1,1671 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Deputados>
+  <Deputado>
+    <numLegislatura>53</numLegislatura>
+    <email>
+    </email>
+    <nomeProfissao>Servidor Público</nomeProfissao>
+    <dataNascimento>04/01/1952</dataNascimento>
+    <dataFalecimento>
+    </dataFalecimento>
+    <ufRepresentacaoAtual>RR</ufRepresentacaoAtual>
+    <situacaoNaLegislaturaAtual>Em Exercício</situacaoNaLegislaturaAtual>
+    <ideCadastro>141417</ideCadastro>
+    <idParlamentarDeprecated>4449</idParlamentarDeprecated>
+    <nomeParlamentarAtual>EDIO LOPES</nomeParlamentarAtual>
+    <nomeCivil>ÉDIO VIEIRA LOPES</nomeCivil>
+    <sexo>M</sexo>
+    <partidoAtual>
+      <idPartido>PMDB</idPartido>
+      <sigla>PMDB</sigla>
+      <nome>Partido do Movimento Democrático Brasileiro</nome>
+    </partidoAtual>
+    <gabinete>
+      <numero>
+      </numero>
+      <anexo>
+      </anexo>
+      <telefone>
+      </telefone>
+    </gabinete>
+    <comissoes>
+      <comissao>
+        <idOrgaoLegislativoCD>2018</idOrgaoLegislativoCD>
+        <siglaComissao>CREDN</siglaComissao>
+        <nomeComissao>Comissão de Relações Exteriores e de Defesa Nacional</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>28/02/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2018</idOrgaoLegislativoCD>
+        <siglaComissao>CREDN</siglaComissao>
+        <nomeComissao>Comissão de Relações Exteriores e de Defesa Nacional</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>04/03/2008</dataEntrada>
+        <dataSaida>02/04/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>03/04/2008</dataEntrada>
+        <dataSaida>02/02/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2012</idOrgaoLegislativoCD>
+        <siglaComissao>CME</siglaComissao>
+        <nomeComissao>Comissão de Minas e Energia</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>04/03/2009</dataEntrada>
+        <dataSaida>01/02/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536758</idOrgaoLegislativoCD>
+        <siglaComissao>SUBREFIN</siglaComissao>
+        <nomeComissao>SUBCOMISSÃO ESPECIAL DESTINADA A ACOMPANHAR E A FISCALIZAR AS OBRAS DE INSTALAÇÃO DAS REFINARIAS DE ITABORAÍ, NO RIO DE JANEIRO; DE IPOJUCA, EM  PERNAMBUCO; E A REFINARIA PREMIUM, NO MARANHÃO, BEM COMO AS OBRAS DA PETROBRAS QUE SE ENCONTRAM COM IRREGULARIDADES APONTADAS PELO TCU.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>08/04/2009</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536767</idOrgaoLegislativoCD>
+        <siglaComissao>SUBSAL</siglaComissao>
+        <nomeComissao>Subcomissão permanente para acompanhamento e debate das questões relativas à exploração das reservas petrolíferas das camadas geológicas do Pré-Sal.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>23/04/2009</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536783</idOrgaoLegislativoCD>
+        <siglaComissao>CPITAELE</siglaComissao>
+        <nomeComissao>Comissão Parlamentar de Inquérito destinada a investigar a formação dos valores das tarifas de energia elétrica no Brasil, a atuação da Agência Nacional de Energia Elétrica (ANEEL) na autorização dos reajustes e reposicionamentos tarifários a título de reequilíbrio econômico-financeiro e esclarecer os motivos pelos quais a tarifa média de energia elétrica no Brasil ser maior do que em nações do chamado G7, grupo dos 7 países mais desenvolvidos do mundo.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>17/06/2009</dataEntrada>
+        <dataSaida>30/06/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536783</idOrgaoLegislativoCD>
+        <siglaComissao>CPITAELE</siglaComissao>
+        <nomeComissao>Comissão Parlamentar de Inquérito destinada a investigar a formação dos valores das tarifas de energia elétrica no Brasil, a atuação da Agência Nacional de Energia Elétrica (ANEEL) na autorização dos reajustes e reposicionamentos tarifários a título de reequilíbrio econômico-financeiro e esclarecer os motivos pelos quais a tarifa média de energia elétrica no Brasil ser maior do que em nações do chamado G7, grupo dos 7 países mais desenvolvidos do mundo.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>10/07/2009</dataEntrada>
+        <dataSaida>30/11/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536497</idOrgaoLegislativoCD>
+        <siglaComissao>PEC09807</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 98-A, de 2007, do Senhor Otávio Leite, que  "acrescenta a alínea (e) ao inciso VI do art. 150 da Constituição Federal", instituindo imunidade tributária sobre os Fonogramas e Videofonogramas musicais produzidos no Brasil, contendo obras musicais ou lítero-musicais de autores brasileiros, e/ou obras em geral interpretadas por artistas brasileiros, bem como os suportes materiais ou arquivos digitais que os contenham.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>05/08/2009</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536807</idOrgaoLegislativoCD>
+        <siglaComissao>PL250207</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2502, de 2007, do Sr. Eduardo Valverde, que "altera a Lei nº 9.478, de 06 de agosto de 1997,que dispõe sobre a política energética nacional, as atividades relativas ao monopólio do petróleo, institui o Conselho Nacional de Política Energética e a Agência Nacional do Petróleo".</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>11/11/2009</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2014</idOrgaoLegislativoCD>
+        <siglaComissao>CSSF</siglaComissao>
+        <nomeComissao>Comissão de Seguridade Social e Família</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>03/03/2010</dataEntrada>
+        <dataSaida>11/03/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2018</idOrgaoLegislativoCD>
+        <siglaComissao>CREDN</siglaComissao>
+        <nomeComissao>Comissão de Relações Exteriores e de Defesa Nacional</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>11/03/2010</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2004</idOrgaoLegislativoCD>
+        <siglaComissao>CDC</siglaComissao>
+        <nomeComissao>Comissão de Defesa do Consumidor</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>23/06/2010</dataEntrada>
+        <dataSaida>02/12/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>14/02/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536433</idOrgaoLegislativoCD>
+        <siglaComissao>SUBSILVI</siglaComissao>
+        <nomeComissao>Subcomissão Permanente para tratar de silvicultura, fruticultura e cacau.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>07/03/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536190</idOrgaoLegislativoCD>
+        <siglaComissao>PL161096</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 1610, de 1996, do Senado Federal, que "dispõe sobre a exploração e o aproveitamento de recursos minerais em terras indígenas, de que tratam os arts. 176, parágrafo primeiro, e 231, parágrafo terceiro, da Constituição Federal".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>05/11/2007</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536469</idOrgaoLegislativoCD>
+        <siglaComissao>CPINDIO</siglaComissao>
+        <nomeComissao>Comissão Parlamentar de Inquérito destinada a investigar as causas, as conseqüências e os responsáveis pela morte de crianças indígenas por subnutrição de 2005 a 2007.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>15/10/2007</dataEntrada>
+        <dataSaida>03/06/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>28/02/2008</dataEntrada>
+        <dataSaida>04/03/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2010</idOrgaoLegislativoCD>
+        <siglaComissao>CFT</siglaComissao>
+        <nomeComissao>Comissão de Finanças e Tributação</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>04/03/2008</dataEntrada>
+        <dataSaida>02/04/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2018</idOrgaoLegislativoCD>
+        <siglaComissao>CREDN</siglaComissao>
+        <nomeComissao>Comissão de Relações Exteriores e de Defesa Nacional</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>02/04/2008</dataEntrada>
+        <dataSaida>02/02/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2016</idOrgaoLegislativoCD>
+        <siglaComissao>CVT</siglaComissao>
+        <nomeComissao>Comissão de Viação e Transportes</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>04/03/2009</dataEntrada>
+        <dataSaida>01/02/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536565</idOrgaoLegislativoCD>
+        <siglaComissao>PEC48805</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 488-A, de 2005, da Sra. Maria Helena, que "dá nova redação ao art. 31 da Emenda Constitucional nº 19, de 1998". (inclui os empregados do extinto Banco de Roraima, cujo vínculo funcional tenha sido reconhecido, no quadro em extinção da Administração Federal. Altera a Constituição Federal de 1988).</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>17/08/2009</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536760</idOrgaoLegislativoCD>
+        <siglaComissao>CEXSERRA</siglaComissao>
+        <nomeComissao>Comissão Externa para acompanhar a desocupação da Reserva Indígena Raposa/Serra do Sol</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>16/04/2009</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536811</idOrgaoLegislativoCD>
+        <siglaComissao>PEC35109</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 351-A, de 2009, do Senado Federal, que "altera o art. 100 da Constituição Federal e acrescenta o art. 97 ao Ato das Disposições Constitucionais Transitórias, instituindo regime especial de pagamento de precatórios pelos Estados, Distrito Federal e Municípios"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>05/10/2009</dataEntrada>
+        <dataSaida>09/12/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536824</idOrgaoLegislativoCD>
+        <siglaComissao>PEC51610</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 516-A, de 2010, do Senado Federal - Romero Jucá, que "altera o art. 31 da Emenda Constitucional nº 19, de 4 de junho de 1998, para dispor sobre o quadro de servidores civis e militares dos ex-Territórios Federais do Amapá e de Roraima, possibilitando que nele sejam incluídos os admitidos regularmente até a data de instalação dos Estados</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>15/04/2010</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536840</idOrgaoLegislativoCD>
+        <siglaComissao>REP-1209</siglaComissao>
+        <nomeComissao>Comissão Representativa do Congresso Nacional prevista no § 4º do art. 58 da Constituição Federal (período 23 de dezembro de 2009 a 1º de fevereiro de 2010)</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>23/12/2009</dataEntrada>
+        <dataSaida>01/02/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6066</idOrgaoLegislativoCD>
+        <siglaComissao>CTUR</siglaComissao>
+        <nomeComissao>Comissão de Turismo</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>03/03/2010</dataEntrada>
+        <dataSaida>03/03/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2002</idOrgaoLegislativoCD>
+        <siglaComissao>CCTCI</siglaComissao>
+        <nomeComissao>Comissão de Ciência e Tecnologia, Comunicação e Informática</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>03/03/2010</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536855</idOrgaoLegislativoCD>
+        <siglaComissao>CMO-10</siglaComissao>
+        <nomeComissao>Comissão Mista de Planos, Orçamentos Públicos e Fiscalização - CMO</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>26/03/2010</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2012</idOrgaoLegislativoCD>
+        <siglaComissao>CME</siglaComissao>
+        <nomeComissao>Comissão de Minas e Energia</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>02/03/2011</dataEntrada>
+        <dataSaida>31/01/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>5503</idOrgaoLegislativoCD>
+        <siglaComissao>CSPCCO</siglaComissao>
+        <nomeComissao>Comissão de Segurança Pública e Combate ao Crime Organizado</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>03/03/2011</dataEntrada>
+        <dataSaida>31/01/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>5971</idOrgaoLegislativoCD>
+        <siglaComissao>COETICA</siglaComissao>
+        <nomeComissao>Conselho de Ética e Decoro Parlamentar da Câmara dos Deputados</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>16/03/2011</dataEntrada>
+        <dataSaida>25/03/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6946</idOrgaoLegislativoCD>
+        <siglaComissao>SUBCOPA</siglaComissao>
+        <nomeComissao>Subcomissão Permanente para Acompanhamento, Fiscalização e Controle dos Recursos Públicos Federais Destinados à Copa de 2014 e às Olimpíadas de 2016.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>23/03/2011</dataEntrada>
+        <dataSaida>02/04/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6986</idOrgaoLegislativoCD>
+        <siglaComissao>SUBARMA</siglaComissao>
+        <nomeComissao>Subcomissão Especial de Controle de Armas e Munições.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>03/05/2011</dataEntrada>
+        <dataSaida>04/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9076</idOrgaoLegislativoCD>
+        <siglaComissao>PEC06111</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 061-A, de 2011, do Poder Executivo, que "altera o art. 76 do Ato das Disposições Constitucionais Transitórias" (prorroga a vigência da DRU até 31 de dezembro de 2015).</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>22/09/2011</dataEntrada>
+        <dataSaida>21/12/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>07/03/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2017</idOrgaoLegislativoCD>
+        <siglaComissao>CINDRA</siglaComissao>
+        <nomeComissao>Comissão de Integração Nacional, Desenvolvimento Regional e da Amazônia</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>07/03/2012</dataEntrada>
+        <dataSaida>07/03/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>5503</idOrgaoLegislativoCD>
+        <siglaComissao>CSPCCO</siglaComissao>
+        <nomeComissao>Comissão de Segurança Pública e Combate ao Crime Organizado</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>07/03/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2017</idOrgaoLegislativoCD>
+        <siglaComissao>CINDRA</siglaComissao>
+        <nomeComissao>Comissão de Integração Nacional, Desenvolvimento Regional e da Amazônia</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>08/03/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9144</idOrgaoLegislativoCD>
+        <siglaComissao>PEC03711</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 37-A, de 2011, do Sr. Lourival Mendes, que "acrescenta o § 10 ao Art. 144 da Constituição Federal para definir a competência para a investigação criminal pelas polícias federal e civis dos Estados e do Distrito Federal"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>04/04/2012</dataEntrada>
+        <dataSaida>25/06/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9148</idOrgaoLegislativoCD>
+        <siglaComissao>PEC11111</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a apreciar e  proferir parecer à Proposta de Emenda à Constituição nº 111-A, de 2011, da Sra. Dalva Figueiredo, que "altera o art. 31 da Emenda Constitucional nº 19, de 4 de junho de 1998, e dá outras providências".</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>09/04/2012</dataEntrada>
+        <dataSaida>27/05/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9170</idOrgaoLegislativoCD>
+        <siglaComissao>PL353812</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 3538, de 2012, do Poder Executivo, que "autoriza a criação da empresa pública Amazônia Azul Tecnologias de Defesa S.A - AMAZUL e dá outras providências"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>02/05/2012</dataEntrada>
+        <dataSaida>08/08/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9184</idOrgaoLegislativoCD>
+        <siglaComissao>CPMIOPCA</siglaComissao>
+        <nomeComissao>Comissão Parlamentar Mista de Inquérito destinada a investigar práticas criminosas do senhor Carlos Augusto Ramos, conhecido vulgarmente como Carlinhos Cachoeira, desvendadas pelas operações "Vegas" e "Monte Carlo", da Polícia Federal.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>24/04/2012</dataEntrada>
+        <dataSaida>04/11/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536967</idOrgaoLegislativoCD>
+        <siglaComissao>SUBCANA</siglaComissao>
+        <nomeComissao>Subcomissão especial para acompanhar os problemas afetos à cana-de-açucar, do plantio à industrialização, e propor mudanças à Resolução nº 3.813/2009, do CMN, e ao Decreto nº 6.961/2009.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>21/11/2012</dataEntrada>
+        <dataSaida>02/07/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536971</idOrgaoLegislativoCD>
+        <siglaComissao>REP-1212</siglaComissao>
+        <nomeComissao>Comissão Representativa do Congresso Nacional prevista no § 4º do art. 58 da Constituição Federal (período de 25 de dezembro de 2012 a 03 de fevereiro de 2013)</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>25/12/2012</dataEntrada>
+        <dataSaida>04/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>5503</idOrgaoLegislativoCD>
+        <siglaComissao>CSPCCO</siglaComissao>
+        <nomeComissao>Comissão de Segurança Pública e Combate ao Crime Organizado</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>05/03/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>5971</idOrgaoLegislativoCD>
+        <siglaComissao>COETICA</siglaComissao>
+        <nomeComissao>Conselho de Ética e Decoro Parlamentar da Câmara dos Deputados</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>02/04/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537015</idOrgaoLegislativoCD>
+        <siglaComissao>CEPENAL</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a efetuar estudo e apresentar propostas em relação à Reforma do Código Penal</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>28/08/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537108</idOrgaoLegislativoCD>
+        <siglaComissao>PL003711</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 37, de 2011, do Sr. Welinton Prado, que "dispõe sobre o regime de aproveitamento das substâncias minerais, com exceção dos minérios nucleares, petróleo, gás natural e outros hidrocarbonetos fluidos e das substâncias minerais submetidas ao regime de licenciamento de que trata o inciso III do art. 2º do Decreto-lei nº 227, de 28 de fevereiro de 1967"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>16/07/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2012</idOrgaoLegislativoCD>
+        <siglaComissao>CME</siglaComissao>
+        <nomeComissao>Comissão de Minas e Energia</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>25/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>5503</idOrgaoLegislativoCD>
+        <siglaComissao>CSPCCO</siglaComissao>
+        <nomeComissao>Comissão de Segurança Pública e Combate ao Crime Organizado</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>27/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537110</idOrgaoLegislativoCD>
+        <siglaComissao>PL569213</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei  nº 5692, de 2013, do Sr. Sérgio Zveiter, que "dispõe sobre o monopólio da União na exploração das riquezas da Amazônia, com a criação do Conselho Nacional de Política da Amazônia e da Agência Nacional de Exploração dos Recursos Naturais da Amazônia, garantindo a proteção ao meio ambiente e a soberania nacional, e dá outras providências"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>19/03/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537297</idOrgaoLegislativoCD>
+        <siglaComissao>SUBDECSE</siglaComissao>
+        <nomeComissao>Subcomissão Permanente de Defesa Civil que visa à desburocratização na liberação dos recursos emergenciais, alterando a legislação vigente para atender Estados e Municípios atingidos por calamidades públicas e acompanhamento e fiscalização dos recursos federais aplicados no combate à seca.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>02/04/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536996</idOrgaoLegislativoCD>
+        <siglaComissao>CCULT</siglaComissao>
+        <nomeComissao>Comissão de Cultura</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>02/06/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537299</idOrgaoLegislativoCD>
+        <siglaComissao>SUBREATO</siglaComissao>
+        <nomeComissao>Subcomissão Especial para propor legislação que possibilite a recuperação dos ativos originários e produtos de crimes, encontrados no exterior, de forma eficiente e célere.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>16/07/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2010</idOrgaoLegislativoCD>
+        <siglaComissao>CFT</siglaComissao>
+        <nomeComissao>Comissão de Finanças e Tributação</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>11/11/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2011</idOrgaoLegislativoCD>
+        <siglaComissao>CFFC</siglaComissao>
+        <nomeComissao>Comissão de Fiscalização Financeira e Controle</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>01/03/2011</dataEntrada>
+        <dataSaida>31/01/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6986</idOrgaoLegislativoCD>
+        <siglaComissao>SUBARMA</siglaComissao>
+        <nomeComissao>Subcomissão Especial de Controle de Armas e Munições.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>02/05/2011</dataEntrada>
+        <dataSaida>03/05/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6943</idOrgaoLegislativoCD>
+        <siglaComissao>CETERCE</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a promover estudos e proposições voltadas à regulamentação do trabalho terceirizado no Brasil.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>31/05/2011</dataEntrada>
+        <dataSaida>23/11/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6982</idOrgaoLegislativoCD>
+        <siglaComissao>SUBSEGPU</siglaComissao>
+        <nomeComissao>Subcomissão Permanente para estudar Políticas, Orçamento e Financiamento da Segurança Pública.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>03/05/2011</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>8951</idOrgaoLegislativoCD>
+        <siglaComissao>CESEGUR</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a analisar as Propostas de Emenda à Constituição que versem sobre Segurança Pública.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>28/06/2011</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9027</idOrgaoLegislativoCD>
+        <siglaComissao>SUBMIHPA</siglaComissao>
+        <nomeComissao>Subcomissão Permanente de acompanhamento da implantação de grandes projetos minerais e hidrelétricos no Estado do Pará, as condicionantes sócio-ambientais e suas consequências.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>15/06/2011</dataEntrada>
+        <dataSaida>13/03/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>8893</idOrgaoLegislativoCD>
+        <siglaComissao>PEC40509</siglaComissao>
+        <nomeComissao>Comissão Especial  destinada a proferir parecer à Proposta de Emenda à Constituição nº 405-A, de 2009,  do Sr. Cleber Verde, que "altera a redação do § 8º do art. 195 da Constituição Federal, para assegurar ao Garimpeiro e ao pequeno minerador o direito à aposentadoria"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>06/03/2012</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9098</idOrgaoLegislativoCD>
+        <siglaComissao>PL233011</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2330, de 2011, do Poder Executivo, que "dispõe sobre as medidas relativas à Copa das Confederações FIFA de 2013 e à Copa do Mundo FIFA de 2014, que serão realizadas no Brasil"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>10/10/2011</dataEntrada>
+        <dataSaida>05/06/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>8190</idOrgaoLegislativoCD>
+        <siglaComissao>PL161096</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 1610, de 1996, do Senado Federal, que "dispõe sobre a exploração e o aproveitamento de recursos minerais em terras indígenas, de que tratam os arts. 176, parágrafo primeiro, e 231, parágrafo terceiro, da Constituição Federal"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>31/10/2011</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2011</idOrgaoLegislativoCD>
+        <siglaComissao>CFFC</siglaComissao>
+        <nomeComissao>Comissão de Fiscalização Financeira e Controle</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>07/03/2012</dataEntrada>
+        <dataSaida>16/05/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6855</idOrgaoLegislativoCD>
+        <siglaComissao>CMO</siglaComissao>
+        <nomeComissao>Comissão Mista de Planos, Orçamentos Públicos e Fiscalização</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>27/03/2012</dataEntrada>
+        <dataSaida>25/03/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9137</idOrgaoLegislativoCD>
+        <siglaComissao>CPITRAPE</siglaComissao>
+        <nomeComissao>Comissão Parlamentar de Inquérito destinada a investigar o tráfico de pessoas no Brasil, suas causas, consequências e responsáveis no período de 2003 a 2011, compreendido na vigência da Convenção de Palermo.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>02/04/2012</dataEntrada>
+        <dataSaida>29/10/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2011</idOrgaoLegislativoCD>
+        <siglaComissao>CFFC</siglaComissao>
+        <nomeComissao>Comissão de Fiscalização Financeira e Controle</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>16/05/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>8919</idOrgaoLegislativoCD>
+        <siglaComissao>PEC50610</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a apreciar e  proferir parecer à Proposta de Emenda à Constituição nº 506-A, de 2010, do Senado Federal, que "acrescenta artigo ao Ato das Disposições Constitucionais Transitórias (ADCT), para dispor sobre a prorrogação dos beneficios para a Zona Franca de Manaus, e dá outras providências" (prorroga até 31 de dezembro de 2029)</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>14/03/2013</dataEntrada>
+        <dataSaida>05/08/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2011</idOrgaoLegislativoCD>
+        <siglaComissao>CFFC</siglaComissao>
+        <nomeComissao>Comissão de Fiscalização Financeira e Controle</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>05/03/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537039</idOrgaoLegislativoCD>
+        <siglaComissao>SUBSECNR</siglaComissao>
+        <nomeComissao>Subcomissão Especial para Acompanhamento e Fiscalização dos Recursos Federais Aplicados no Combate à Seca do Nordeste</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>03/04/2013</dataEntrada>
+        <dataSaida>05/08/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537042</idOrgaoLegislativoCD>
+        <siglaComissao>SUBCOARM</siglaComissao>
+        <nomeComissao>SUBCOMISSÃO ESPECIAL DE CONTROLE DE ARMAS, MUNIÇÕES E EXPLOSIVOS.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>04/04/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537046</idOrgaoLegislativoCD>
+        <siglaComissao>PEC56506</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 565-A, de 2006, do Senado Federal, que "altera os arts. 57, 165, 166, e acrescenta art. 165-A, todos da Constituição Federal, tornando de execução obrigatória a programação constante da lei orçamentária anual"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>23/04/2013</dataEntrada>
+        <dataSaida>13/11/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537060</idOrgaoLegislativoCD>
+        <siglaComissao>GTTERRAS</siglaComissao>
+        <nomeComissao>Grupo de Trabalho destinado a debater a questão das terras indígenas</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>17/04/2013</dataEntrada>
+        <dataSaida>04/09/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9137</idOrgaoLegislativoCD>
+        <siglaComissao>CPITRAPE</siglaComissao>
+        <nomeComissao>Comissão Parlamentar de Inquérito destinada a investigar o tráfico de pessoas no Brasil, suas causas, consequências e responsáveis no período de 2003 a 2011, compreendido na vigência da Convenção de Palermo.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>29/10/2013</dataEntrada>
+        <dataSaida>20/05/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537159</idOrgaoLegislativoCD>
+        <siglaComissao>PEC20412</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 204-A, de 2012, do Sr. João Caldas e outros, que "dá nova redação aos arts. 94, 104, 119 e 120 da Constituição Federal, para alterar a forma de indicação de membros do Ministério Público e advogados às vagas nos Tribunais"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>15/10/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537200</idOrgaoLegislativoCD>
+        <siglaComissao>SUBPAC</siglaComissao>
+        <nomeComissao>Subcomissão Permanente para acompanhamento e fiscalização dos recursos públicos federais aplicados em obras inacabadas e também daquelas em execução no âmbito do Programa de Aceleração do Crescimento - PAC.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>13/11/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537211</idOrgaoLegislativoCD>
+        <siglaComissao>PEC35813</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 358-A, de 2013, do Senado Federal, que "altera os arts. 165 e 166 da Constituição Federal, para tornar obrigatória a execução da programação orçamentária que especifica", e apensada</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>18/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2011</idOrgaoLegislativoCD>
+        <siglaComissao>CFFC</siglaComissao>
+        <nomeComissao>Comissão de Fiscalização Financeira e Controle</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>25/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537248</idOrgaoLegislativoCD>
+        <siglaComissao>PL372212</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 3722, de 2012, do Sr. Rogério Peninha Mendonça, que "disciplina as normas sobre aquisição, posse, porte e circulação de armas de fogo e munições, cominando penalidades e dando providências correlatas" (altera o Decreto-lei nº 2.848, de 1940 e revoga a Lei nº 10.826, de 2003)</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>29/05/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+    </comissoes>
+    <cargosComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>536190</idOrgaoLegislativoCD>
+        <siglaComissao>PL161096</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 1610, de 1996, do Senado Federal, que "dispõe sobre a exploração e o aproveitamento de recursos minerais em terras indígenas, de que tratam os arts. 176, parágrafo primeiro, e 231, parágrafo terceiro, da Constituição Federal".</nomeComissao>
+        <idCargo>1</idCargo>
+        <nomeCargo>Presidente</nomeCargo>
+        <dataEntrada>07/11/2007</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>536565</idOrgaoLegislativoCD>
+        <siglaComissao>PEC48805</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 488-A, de 2005, da Sra. Maria Helena, que "dá nova redação ao art. 31 da Emenda Constitucional nº 19, de 1998". (inclui os empregados do extinto Banco de Roraima, cujo vínculo funcional tenha sido reconhecido, no quadro em extinção da Administração Federal. Altera a Constituição Federal de 1988).</nomeComissao>
+        <idCargo>1</idCargo>
+        <nomeCargo>Presidente</nomeCargo>
+        <dataEntrada>18/08/2009</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>536824</idOrgaoLegislativoCD>
+        <siglaComissao>PEC51610</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 516-A, de 2010, do Senado Federal - Romero Jucá, que "altera o art. 31 da Emenda Constitucional nº 19, de 4 de junho de 1998, para dispor sobre o quadro de servidores civis e militares dos ex-Territórios Federais do Amapá e de Roraima, possibilitando que nele sejam incluídos os admitidos regularmente até a data de instalação dos Estados</nomeComissao>
+        <idCargo>2</idCargo>
+        <nomeCargo>1º Vice-Presidente</nomeCargo>
+        <dataEntrada>27/04/2010</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>537211</idOrgaoLegislativoCD>
+        <siglaComissao>PEC35813</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 358-A, de 2013, do Senado Federal, que "altera os arts. 165 e 166 da Constituição Federal, para tornar obrigatória a execução da programação orçamentária que especifica", e apensada</nomeComissao>
+        <idCargo>50</idCargo>
+        <nomeCargo>Relator</nomeCargo>
+        <dataEntrada>19/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>8919</idOrgaoLegislativoCD>
+        <siglaComissao>PEC50610</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a apreciar e  proferir parecer à Proposta de Emenda à Constituição nº 506-A, de 2010, do Senado Federal, que "acrescenta artigo ao Ato das Disposições Constitucionais Transitórias (ADCT), para dispor sobre a prorrogação dos beneficios para a Zona Franca de Manaus, e dá outras providências" (prorroga até 31 de dezembro de 2029)</nomeComissao>
+        <idCargo>1</idCargo>
+        <nomeCargo>Presidente</nomeCargo>
+        <dataEntrada>19/03/2013</dataEntrada>
+        <dataSaida>05/08/2014</dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>537200</idOrgaoLegislativoCD>
+        <siglaComissao>SUBPAC</siglaComissao>
+        <nomeComissao>Subcomissão Permanente para acompanhamento e fiscalização dos recursos públicos federais aplicados em obras inacabadas e também daquelas em execução no âmbito do Programa de Aceleração do Crescimento - PAC.</nomeComissao>
+        <idCargo>50</idCargo>
+        <nomeCargo>Relator</nomeCargo>
+        <dataEntrada>13/11/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>537046</idOrgaoLegislativoCD>
+        <siglaComissao>PEC56506</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 565-A, de 2006, do Senado Federal, que "altera os arts. 57, 165, 166, e acrescenta art. 165-A, todos da Constituição Federal, tornando de execução obrigatória a programação constante da lei orçamentária anual"</nomeComissao>
+        <idCargo>50</idCargo>
+        <nomeCargo>Relator</nomeCargo>
+        <dataEntrada>24/04/2013</dataEntrada>
+        <dataSaida>13/11/2013</dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>8951</idOrgaoLegislativoCD>
+        <siglaComissao>CESEGUR</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a analisar as Propostas de Emenda à Constituição que versem sobre Segurança Pública.</nomeComissao>
+        <idCargo>50</idCargo>
+        <nomeCargo>Relator</nomeCargo>
+        <dataEntrada>29/06/2011</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>8190</idOrgaoLegislativoCD>
+        <siglaComissao>PL161096</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 1610, de 1996, do Senado Federal, que "dispõe sobre a exploração e o aproveitamento de recursos minerais em terras indígenas, de que tratam os arts. 176, parágrafo primeiro, e 231, parágrafo terceiro, da Constituição Federal"</nomeComissao>
+        <idCargo>50</idCargo>
+        <nomeCargo>Relator</nomeCargo>
+        <dataEntrada>09/11/2011</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>9098</idOrgaoLegislativoCD>
+        <siglaComissao>PL233011</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2330, de 2011, do Poder Executivo, que "dispõe sobre as medidas relativas à Copa das Confederações FIFA de 2013 e à Copa do Mundo FIFA de 2014, que serão realizadas no Brasil"</nomeComissao>
+        <idCargo>2</idCargo>
+        <nomeCargo>1º Vice-Presidente</nomeCargo>
+        <dataEntrada>11/10/2011</dataEntrada>
+        <dataSaida>05/06/2012</dataSaida>
+      </cargoComissoes>
+    </cargosComissoes>
+    <periodosExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>RR</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2007</dataInicio>
+        <dataFim>31/01/2011</dataFim>
+        <idCausaFimExercicio>99</idCausaFimExercicio>
+        <descricaoCausaFimExercicio>Término da Legislatura</descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>RR</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2011</dataInicio>
+        <dataFim>
+        </dataFim>
+        <idCausaFimExercicio>
+        </idCausaFimExercicio>
+        <descricaoCausaFimExercicio>
+        </descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+    </periodosExercicio>
+    <historicoNomeParlamentar />
+    <filiacoesPartidarias />
+    <historicoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>141417</idHistoricoLider>
+        <idCargoLideranca>V</idCargoLideranca>
+        <descricaoCargoLideranca>Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>10</numOrdemCargo>
+        <dataDesignacao>11/04/2012</dataDesignacao>
+        <dataTermino>
+        </dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PMDB</siglaUnidadeLideranca>
+        <idBlocoPartido>PMDB</idBlocoPartido>
+      </itemHistoricoLider>
+    </historicoLider>
+  </Deputado>
+  <Deputado>
+    <numLegislatura>54</numLegislatura>
+    <email>dep.ediolopes@camara.gov.br</email>
+    <nomeProfissao>Servidor Público</nomeProfissao>
+    <dataNascimento>04/01/1952</dataNascimento>
+    <dataFalecimento>
+    </dataFalecimento>
+    <ufRepresentacaoAtual>RR</ufRepresentacaoAtual>
+    <situacaoNaLegislaturaAtual>Em Exercício</situacaoNaLegislaturaAtual>
+    <ideCadastro>141417</ideCadastro>
+    <idParlamentarDeprecated>4449</idParlamentarDeprecated>
+    <nomeParlamentarAtual>EDIO LOPES</nomeParlamentarAtual>
+    <nomeCivil>ÉDIO VIEIRA LOPES</nomeCivil>
+    <sexo>M</sexo>
+    <partidoAtual>
+      <idPartido>PMDB</idPartido>
+      <sigla>PMDB</sigla>
+      <nome>Partido do Movimento Democrático Brasileiro</nome>
+    </partidoAtual>
+    <gabinete>
+      <numero>350</numero>
+      <anexo>4</anexo>
+      <telefone>3215-5350</telefone>
+    </gabinete>
+    <comissoes>
+      <comissao>
+        <idOrgaoLegislativoCD>2018</idOrgaoLegislativoCD>
+        <siglaComissao>CREDN</siglaComissao>
+        <nomeComissao>Comissão de Relações Exteriores e de Defesa Nacional</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>28/02/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2018</idOrgaoLegislativoCD>
+        <siglaComissao>CREDN</siglaComissao>
+        <nomeComissao>Comissão de Relações Exteriores e de Defesa Nacional</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>04/03/2008</dataEntrada>
+        <dataSaida>02/04/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>03/04/2008</dataEntrada>
+        <dataSaida>02/02/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2012</idOrgaoLegislativoCD>
+        <siglaComissao>CME</siglaComissao>
+        <nomeComissao>Comissão de Minas e Energia</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>04/03/2009</dataEntrada>
+        <dataSaida>01/02/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536758</idOrgaoLegislativoCD>
+        <siglaComissao>SUBREFIN</siglaComissao>
+        <nomeComissao>SUBCOMISSÃO ESPECIAL DESTINADA A ACOMPANHAR E A FISCALIZAR AS OBRAS DE INSTALAÇÃO DAS REFINARIAS DE ITABORAÍ, NO RIO DE JANEIRO; DE IPOJUCA, EM  PERNAMBUCO; E A REFINARIA PREMIUM, NO MARANHÃO, BEM COMO AS OBRAS DA PETROBRAS QUE SE ENCONTRAM COM IRREGULARIDADES APONTADAS PELO TCU.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>08/04/2009</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536767</idOrgaoLegislativoCD>
+        <siglaComissao>SUBSAL</siglaComissao>
+        <nomeComissao>Subcomissão permanente para acompanhamento e debate das questões relativas à exploração das reservas petrolíferas das camadas geológicas do Pré-Sal.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>23/04/2009</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536783</idOrgaoLegislativoCD>
+        <siglaComissao>CPITAELE</siglaComissao>
+        <nomeComissao>Comissão Parlamentar de Inquérito destinada a investigar a formação dos valores das tarifas de energia elétrica no Brasil, a atuação da Agência Nacional de Energia Elétrica (ANEEL) na autorização dos reajustes e reposicionamentos tarifários a título de reequilíbrio econômico-financeiro e esclarecer os motivos pelos quais a tarifa média de energia elétrica no Brasil ser maior do que em nações do chamado G7, grupo dos 7 países mais desenvolvidos do mundo.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>17/06/2009</dataEntrada>
+        <dataSaida>30/06/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536783</idOrgaoLegislativoCD>
+        <siglaComissao>CPITAELE</siglaComissao>
+        <nomeComissao>Comissão Parlamentar de Inquérito destinada a investigar a formação dos valores das tarifas de energia elétrica no Brasil, a atuação da Agência Nacional de Energia Elétrica (ANEEL) na autorização dos reajustes e reposicionamentos tarifários a título de reequilíbrio econômico-financeiro e esclarecer os motivos pelos quais a tarifa média de energia elétrica no Brasil ser maior do que em nações do chamado G7, grupo dos 7 países mais desenvolvidos do mundo.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>10/07/2009</dataEntrada>
+        <dataSaida>30/11/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536497</idOrgaoLegislativoCD>
+        <siglaComissao>PEC09807</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 98-A, de 2007, do Senhor Otávio Leite, que  "acrescenta a alínea (e) ao inciso VI do art. 150 da Constituição Federal", instituindo imunidade tributária sobre os Fonogramas e Videofonogramas musicais produzidos no Brasil, contendo obras musicais ou lítero-musicais de autores brasileiros, e/ou obras em geral interpretadas por artistas brasileiros, bem como os suportes materiais ou arquivos digitais que os contenham.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>05/08/2009</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536807</idOrgaoLegislativoCD>
+        <siglaComissao>PL250207</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2502, de 2007, do Sr. Eduardo Valverde, que "altera a Lei nº 9.478, de 06 de agosto de 1997,que dispõe sobre a política energética nacional, as atividades relativas ao monopólio do petróleo, institui o Conselho Nacional de Política Energética e a Agência Nacional do Petróleo".</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>11/11/2009</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2014</idOrgaoLegislativoCD>
+        <siglaComissao>CSSF</siglaComissao>
+        <nomeComissao>Comissão de Seguridade Social e Família</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>03/03/2010</dataEntrada>
+        <dataSaida>11/03/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2018</idOrgaoLegislativoCD>
+        <siglaComissao>CREDN</siglaComissao>
+        <nomeComissao>Comissão de Relações Exteriores e de Defesa Nacional</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>11/03/2010</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2004</idOrgaoLegislativoCD>
+        <siglaComissao>CDC</siglaComissao>
+        <nomeComissao>Comissão de Defesa do Consumidor</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>23/06/2010</dataEntrada>
+        <dataSaida>02/12/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>14/02/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536433</idOrgaoLegislativoCD>
+        <siglaComissao>SUBSILVI</siglaComissao>
+        <nomeComissao>Subcomissão Permanente para tratar de silvicultura, fruticultura e cacau.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>07/03/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536190</idOrgaoLegislativoCD>
+        <siglaComissao>PL161096</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 1610, de 1996, do Senado Federal, que "dispõe sobre a exploração e o aproveitamento de recursos minerais em terras indígenas, de que tratam os arts. 176, parágrafo primeiro, e 231, parágrafo terceiro, da Constituição Federal".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>05/11/2007</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536469</idOrgaoLegislativoCD>
+        <siglaComissao>CPINDIO</siglaComissao>
+        <nomeComissao>Comissão Parlamentar de Inquérito destinada a investigar as causas, as conseqüências e os responsáveis pela morte de crianças indígenas por subnutrição de 2005 a 2007.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>15/10/2007</dataEntrada>
+        <dataSaida>03/06/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>28/02/2008</dataEntrada>
+        <dataSaida>04/03/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2010</idOrgaoLegislativoCD>
+        <siglaComissao>CFT</siglaComissao>
+        <nomeComissao>Comissão de Finanças e Tributação</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>04/03/2008</dataEntrada>
+        <dataSaida>02/04/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2018</idOrgaoLegislativoCD>
+        <siglaComissao>CREDN</siglaComissao>
+        <nomeComissao>Comissão de Relações Exteriores e de Defesa Nacional</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>02/04/2008</dataEntrada>
+        <dataSaida>02/02/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2016</idOrgaoLegislativoCD>
+        <siglaComissao>CVT</siglaComissao>
+        <nomeComissao>Comissão de Viação e Transportes</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>04/03/2009</dataEntrada>
+        <dataSaida>01/02/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536565</idOrgaoLegislativoCD>
+        <siglaComissao>PEC48805</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 488-A, de 2005, da Sra. Maria Helena, que "dá nova redação ao art. 31 da Emenda Constitucional nº 19, de 1998". (inclui os empregados do extinto Banco de Roraima, cujo vínculo funcional tenha sido reconhecido, no quadro em extinção da Administração Federal. Altera a Constituição Federal de 1988).</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>17/08/2009</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536760</idOrgaoLegislativoCD>
+        <siglaComissao>CEXSERRA</siglaComissao>
+        <nomeComissao>Comissão Externa para acompanhar a desocupação da Reserva Indígena Raposa/Serra do Sol</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>16/04/2009</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536811</idOrgaoLegislativoCD>
+        <siglaComissao>PEC35109</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 351-A, de 2009, do Senado Federal, que "altera o art. 100 da Constituição Federal e acrescenta o art. 97 ao Ato das Disposições Constitucionais Transitórias, instituindo regime especial de pagamento de precatórios pelos Estados, Distrito Federal e Municípios"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>05/10/2009</dataEntrada>
+        <dataSaida>09/12/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536824</idOrgaoLegislativoCD>
+        <siglaComissao>PEC51610</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 516-A, de 2010, do Senado Federal - Romero Jucá, que "altera o art. 31 da Emenda Constitucional nº 19, de 4 de junho de 1998, para dispor sobre o quadro de servidores civis e militares dos ex-Territórios Federais do Amapá e de Roraima, possibilitando que nele sejam incluídos os admitidos regularmente até a data de instalação dos Estados</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>15/04/2010</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536840</idOrgaoLegislativoCD>
+        <siglaComissao>REP-1209</siglaComissao>
+        <nomeComissao>Comissão Representativa do Congresso Nacional prevista no § 4º do art. 58 da Constituição Federal (período 23 de dezembro de 2009 a 1º de fevereiro de 2010)</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>23/12/2009</dataEntrada>
+        <dataSaida>01/02/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6066</idOrgaoLegislativoCD>
+        <siglaComissao>CTUR</siglaComissao>
+        <nomeComissao>Comissão de Turismo</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>03/03/2010</dataEntrada>
+        <dataSaida>03/03/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2002</idOrgaoLegislativoCD>
+        <siglaComissao>CCTCI</siglaComissao>
+        <nomeComissao>Comissão de Ciência e Tecnologia, Comunicação e Informática</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>03/03/2010</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536855</idOrgaoLegislativoCD>
+        <siglaComissao>CMO-10</siglaComissao>
+        <nomeComissao>Comissão Mista de Planos, Orçamentos Públicos e Fiscalização - CMO</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>26/03/2010</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2012</idOrgaoLegislativoCD>
+        <siglaComissao>CME</siglaComissao>
+        <nomeComissao>Comissão de Minas e Energia</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>02/03/2011</dataEntrada>
+        <dataSaida>31/01/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>5503</idOrgaoLegislativoCD>
+        <siglaComissao>CSPCCO</siglaComissao>
+        <nomeComissao>Comissão de Segurança Pública e Combate ao Crime Organizado</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>03/03/2011</dataEntrada>
+        <dataSaida>31/01/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>5971</idOrgaoLegislativoCD>
+        <siglaComissao>COETICA</siglaComissao>
+        <nomeComissao>Conselho de Ética e Decoro Parlamentar da Câmara dos Deputados</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>16/03/2011</dataEntrada>
+        <dataSaida>25/03/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6946</idOrgaoLegislativoCD>
+        <siglaComissao>SUBCOPA</siglaComissao>
+        <nomeComissao>Subcomissão Permanente para Acompanhamento, Fiscalização e Controle dos Recursos Públicos Federais Destinados à Copa de 2014 e às Olimpíadas de 2016.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>23/03/2011</dataEntrada>
+        <dataSaida>02/04/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6986</idOrgaoLegislativoCD>
+        <siglaComissao>SUBARMA</siglaComissao>
+        <nomeComissao>Subcomissão Especial de Controle de Armas e Munições.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>03/05/2011</dataEntrada>
+        <dataSaida>04/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9076</idOrgaoLegislativoCD>
+        <siglaComissao>PEC06111</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 061-A, de 2011, do Poder Executivo, que "altera o art. 76 do Ato das Disposições Constitucionais Transitórias" (prorroga a vigência da DRU até 31 de dezembro de 2015).</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>22/09/2011</dataEntrada>
+        <dataSaida>21/12/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>07/03/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2017</idOrgaoLegislativoCD>
+        <siglaComissao>CINDRA</siglaComissao>
+        <nomeComissao>Comissão de Integração Nacional, Desenvolvimento Regional e da Amazônia</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>07/03/2012</dataEntrada>
+        <dataSaida>07/03/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>5503</idOrgaoLegislativoCD>
+        <siglaComissao>CSPCCO</siglaComissao>
+        <nomeComissao>Comissão de Segurança Pública e Combate ao Crime Organizado</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>07/03/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2017</idOrgaoLegislativoCD>
+        <siglaComissao>CINDRA</siglaComissao>
+        <nomeComissao>Comissão de Integração Nacional, Desenvolvimento Regional e da Amazônia</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>08/03/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9144</idOrgaoLegislativoCD>
+        <siglaComissao>PEC03711</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 37-A, de 2011, do Sr. Lourival Mendes, que "acrescenta o § 10 ao Art. 144 da Constituição Federal para definir a competência para a investigação criminal pelas polícias federal e civis dos Estados e do Distrito Federal"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>04/04/2012</dataEntrada>
+        <dataSaida>25/06/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9148</idOrgaoLegislativoCD>
+        <siglaComissao>PEC11111</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a apreciar e  proferir parecer à Proposta de Emenda à Constituição nº 111-A, de 2011, da Sra. Dalva Figueiredo, que "altera o art. 31 da Emenda Constitucional nº 19, de 4 de junho de 1998, e dá outras providências".</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>09/04/2012</dataEntrada>
+        <dataSaida>27/05/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9170</idOrgaoLegislativoCD>
+        <siglaComissao>PL353812</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 3538, de 2012, do Poder Executivo, que "autoriza a criação da empresa pública Amazônia Azul Tecnologias de Defesa S.A - AMAZUL e dá outras providências"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>02/05/2012</dataEntrada>
+        <dataSaida>08/08/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9184</idOrgaoLegislativoCD>
+        <siglaComissao>CPMIOPCA</siglaComissao>
+        <nomeComissao>Comissão Parlamentar Mista de Inquérito destinada a investigar práticas criminosas do senhor Carlos Augusto Ramos, conhecido vulgarmente como Carlinhos Cachoeira, desvendadas pelas operações "Vegas" e "Monte Carlo", da Polícia Federal.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>24/04/2012</dataEntrada>
+        <dataSaida>04/11/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536967</idOrgaoLegislativoCD>
+        <siglaComissao>SUBCANA</siglaComissao>
+        <nomeComissao>Subcomissão especial para acompanhar os problemas afetos à cana-de-açucar, do plantio à industrialização, e propor mudanças à Resolução nº 3.813/2009, do CMN, e ao Decreto nº 6.961/2009.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>21/11/2012</dataEntrada>
+        <dataSaida>02/07/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536971</idOrgaoLegislativoCD>
+        <siglaComissao>REP-1212</siglaComissao>
+        <nomeComissao>Comissão Representativa do Congresso Nacional prevista no § 4º do art. 58 da Constituição Federal (período de 25 de dezembro de 2012 a 03 de fevereiro de 2013)</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>25/12/2012</dataEntrada>
+        <dataSaida>04/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>5503</idOrgaoLegislativoCD>
+        <siglaComissao>CSPCCO</siglaComissao>
+        <nomeComissao>Comissão de Segurança Pública e Combate ao Crime Organizado</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>05/03/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>5971</idOrgaoLegislativoCD>
+        <siglaComissao>COETICA</siglaComissao>
+        <nomeComissao>Conselho de Ética e Decoro Parlamentar da Câmara dos Deputados</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>02/04/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537015</idOrgaoLegislativoCD>
+        <siglaComissao>CEPENAL</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a efetuar estudo e apresentar propostas em relação à Reforma do Código Penal</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>28/08/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537108</idOrgaoLegislativoCD>
+        <siglaComissao>PL003711</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 37, de 2011, do Sr. Welinton Prado, que "dispõe sobre o regime de aproveitamento das substâncias minerais, com exceção dos minérios nucleares, petróleo, gás natural e outros hidrocarbonetos fluidos e das substâncias minerais submetidas ao regime de licenciamento de que trata o inciso III do art. 2º do Decreto-lei nº 227, de 28 de fevereiro de 1967"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>16/07/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2012</idOrgaoLegislativoCD>
+        <siglaComissao>CME</siglaComissao>
+        <nomeComissao>Comissão de Minas e Energia</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>25/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>5503</idOrgaoLegislativoCD>
+        <siglaComissao>CSPCCO</siglaComissao>
+        <nomeComissao>Comissão de Segurança Pública e Combate ao Crime Organizado</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>27/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537110</idOrgaoLegislativoCD>
+        <siglaComissao>PL569213</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei  nº 5692, de 2013, do Sr. Sérgio Zveiter, que "dispõe sobre o monopólio da União na exploração das riquezas da Amazônia, com a criação do Conselho Nacional de Política da Amazônia e da Agência Nacional de Exploração dos Recursos Naturais da Amazônia, garantindo a proteção ao meio ambiente e a soberania nacional, e dá outras providências"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>19/03/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537297</idOrgaoLegislativoCD>
+        <siglaComissao>SUBDECSE</siglaComissao>
+        <nomeComissao>Subcomissão Permanente de Defesa Civil que visa à desburocratização na liberação dos recursos emergenciais, alterando a legislação vigente para atender Estados e Municípios atingidos por calamidades públicas e acompanhamento e fiscalização dos recursos federais aplicados no combate à seca.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>02/04/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536996</idOrgaoLegislativoCD>
+        <siglaComissao>CCULT</siglaComissao>
+        <nomeComissao>Comissão de Cultura</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>02/06/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537299</idOrgaoLegislativoCD>
+        <siglaComissao>SUBREATO</siglaComissao>
+        <nomeComissao>Subcomissão Especial para propor legislação que possibilite a recuperação dos ativos originários e produtos de crimes, encontrados no exterior, de forma eficiente e célere.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>16/07/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2010</idOrgaoLegislativoCD>
+        <siglaComissao>CFT</siglaComissao>
+        <nomeComissao>Comissão de Finanças e Tributação</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>11/11/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2011</idOrgaoLegislativoCD>
+        <siglaComissao>CFFC</siglaComissao>
+        <nomeComissao>Comissão de Fiscalização Financeira e Controle</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>01/03/2011</dataEntrada>
+        <dataSaida>31/01/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6986</idOrgaoLegislativoCD>
+        <siglaComissao>SUBARMA</siglaComissao>
+        <nomeComissao>Subcomissão Especial de Controle de Armas e Munições.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>02/05/2011</dataEntrada>
+        <dataSaida>03/05/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6943</idOrgaoLegislativoCD>
+        <siglaComissao>CETERCE</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a promover estudos e proposições voltadas à regulamentação do trabalho terceirizado no Brasil.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>31/05/2011</dataEntrada>
+        <dataSaida>23/11/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6982</idOrgaoLegislativoCD>
+        <siglaComissao>SUBSEGPU</siglaComissao>
+        <nomeComissao>Subcomissão Permanente para estudar Políticas, Orçamento e Financiamento da Segurança Pública.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>03/05/2011</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>8951</idOrgaoLegislativoCD>
+        <siglaComissao>CESEGUR</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a analisar as Propostas de Emenda à Constituição que versem sobre Segurança Pública.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>28/06/2011</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9027</idOrgaoLegislativoCD>
+        <siglaComissao>SUBMIHPA</siglaComissao>
+        <nomeComissao>Subcomissão Permanente de acompanhamento da implantação de grandes projetos minerais e hidrelétricos no Estado do Pará, as condicionantes sócio-ambientais e suas consequências.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>15/06/2011</dataEntrada>
+        <dataSaida>13/03/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>8893</idOrgaoLegislativoCD>
+        <siglaComissao>PEC40509</siglaComissao>
+        <nomeComissao>Comissão Especial  destinada a proferir parecer à Proposta de Emenda à Constituição nº 405-A, de 2009,  do Sr. Cleber Verde, que "altera a redação do § 8º do art. 195 da Constituição Federal, para assegurar ao Garimpeiro e ao pequeno minerador o direito à aposentadoria"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>06/03/2012</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9098</idOrgaoLegislativoCD>
+        <siglaComissao>PL233011</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2330, de 2011, do Poder Executivo, que "dispõe sobre as medidas relativas à Copa das Confederações FIFA de 2013 e à Copa do Mundo FIFA de 2014, que serão realizadas no Brasil"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>10/10/2011</dataEntrada>
+        <dataSaida>05/06/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>8190</idOrgaoLegislativoCD>
+        <siglaComissao>PL161096</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 1610, de 1996, do Senado Federal, que "dispõe sobre a exploração e o aproveitamento de recursos minerais em terras indígenas, de que tratam os arts. 176, parágrafo primeiro, e 231, parágrafo terceiro, da Constituição Federal"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>31/10/2011</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2011</idOrgaoLegislativoCD>
+        <siglaComissao>CFFC</siglaComissao>
+        <nomeComissao>Comissão de Fiscalização Financeira e Controle</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>07/03/2012</dataEntrada>
+        <dataSaida>16/05/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6855</idOrgaoLegislativoCD>
+        <siglaComissao>CMO</siglaComissao>
+        <nomeComissao>Comissão Mista de Planos, Orçamentos Públicos e Fiscalização</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>27/03/2012</dataEntrada>
+        <dataSaida>25/03/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9137</idOrgaoLegislativoCD>
+        <siglaComissao>CPITRAPE</siglaComissao>
+        <nomeComissao>Comissão Parlamentar de Inquérito destinada a investigar o tráfico de pessoas no Brasil, suas causas, consequências e responsáveis no período de 2003 a 2011, compreendido na vigência da Convenção de Palermo.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>02/04/2012</dataEntrada>
+        <dataSaida>29/10/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2011</idOrgaoLegislativoCD>
+        <siglaComissao>CFFC</siglaComissao>
+        <nomeComissao>Comissão de Fiscalização Financeira e Controle</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>16/05/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>8919</idOrgaoLegislativoCD>
+        <siglaComissao>PEC50610</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a apreciar e  proferir parecer à Proposta de Emenda à Constituição nº 506-A, de 2010, do Senado Federal, que "acrescenta artigo ao Ato das Disposições Constitucionais Transitórias (ADCT), para dispor sobre a prorrogação dos beneficios para a Zona Franca de Manaus, e dá outras providências" (prorroga até 31 de dezembro de 2029)</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>14/03/2013</dataEntrada>
+        <dataSaida>05/08/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2011</idOrgaoLegislativoCD>
+        <siglaComissao>CFFC</siglaComissao>
+        <nomeComissao>Comissão de Fiscalização Financeira e Controle</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>05/03/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537039</idOrgaoLegislativoCD>
+        <siglaComissao>SUBSECNR</siglaComissao>
+        <nomeComissao>Subcomissão Especial para Acompanhamento e Fiscalização dos Recursos Federais Aplicados no Combate à Seca do Nordeste</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>03/04/2013</dataEntrada>
+        <dataSaida>05/08/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537042</idOrgaoLegislativoCD>
+        <siglaComissao>SUBCOARM</siglaComissao>
+        <nomeComissao>SUBCOMISSÃO ESPECIAL DE CONTROLE DE ARMAS, MUNIÇÕES E EXPLOSIVOS.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>04/04/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537046</idOrgaoLegislativoCD>
+        <siglaComissao>PEC56506</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 565-A, de 2006, do Senado Federal, que "altera os arts. 57, 165, 166, e acrescenta art. 165-A, todos da Constituição Federal, tornando de execução obrigatória a programação constante da lei orçamentária anual"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>23/04/2013</dataEntrada>
+        <dataSaida>13/11/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537060</idOrgaoLegislativoCD>
+        <siglaComissao>GTTERRAS</siglaComissao>
+        <nomeComissao>Grupo de Trabalho destinado a debater a questão das terras indígenas</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>17/04/2013</dataEntrada>
+        <dataSaida>04/09/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9137</idOrgaoLegislativoCD>
+        <siglaComissao>CPITRAPE</siglaComissao>
+        <nomeComissao>Comissão Parlamentar de Inquérito destinada a investigar o tráfico de pessoas no Brasil, suas causas, consequências e responsáveis no período de 2003 a 2011, compreendido na vigência da Convenção de Palermo.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>29/10/2013</dataEntrada>
+        <dataSaida>20/05/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537159</idOrgaoLegislativoCD>
+        <siglaComissao>PEC20412</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 204-A, de 2012, do Sr. João Caldas e outros, que "dá nova redação aos arts. 94, 104, 119 e 120 da Constituição Federal, para alterar a forma de indicação de membros do Ministério Público e advogados às vagas nos Tribunais"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>15/10/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537200</idOrgaoLegislativoCD>
+        <siglaComissao>SUBPAC</siglaComissao>
+        <nomeComissao>Subcomissão Permanente para acompanhamento e fiscalização dos recursos públicos federais aplicados em obras inacabadas e também daquelas em execução no âmbito do Programa de Aceleração do Crescimento - PAC.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>13/11/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537211</idOrgaoLegislativoCD>
+        <siglaComissao>PEC35813</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 358-A, de 2013, do Senado Federal, que "altera os arts. 165 e 166 da Constituição Federal, para tornar obrigatória a execução da programação orçamentária que especifica", e apensada</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>18/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2011</idOrgaoLegislativoCD>
+        <siglaComissao>CFFC</siglaComissao>
+        <nomeComissao>Comissão de Fiscalização Financeira e Controle</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>25/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537248</idOrgaoLegislativoCD>
+        <siglaComissao>PL372212</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 3722, de 2012, do Sr. Rogério Peninha Mendonça, que "disciplina as normas sobre aquisição, posse, porte e circulação de armas de fogo e munições, cominando penalidades e dando providências correlatas" (altera o Decreto-lei nº 2.848, de 1940 e revoga a Lei nº 10.826, de 2003)</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>29/05/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+    </comissoes>
+    <cargosComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>536190</idOrgaoLegislativoCD>
+        <siglaComissao>PL161096</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 1610, de 1996, do Senado Federal, que "dispõe sobre a exploração e o aproveitamento de recursos minerais em terras indígenas, de que tratam os arts. 176, parágrafo primeiro, e 231, parágrafo terceiro, da Constituição Federal".</nomeComissao>
+        <idCargo>1</idCargo>
+        <nomeCargo>Presidente</nomeCargo>
+        <dataEntrada>07/11/2007</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>536565</idOrgaoLegislativoCD>
+        <siglaComissao>PEC48805</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 488-A, de 2005, da Sra. Maria Helena, que "dá nova redação ao art. 31 da Emenda Constitucional nº 19, de 1998". (inclui os empregados do extinto Banco de Roraima, cujo vínculo funcional tenha sido reconhecido, no quadro em extinção da Administração Federal. Altera a Constituição Federal de 1988).</nomeComissao>
+        <idCargo>1</idCargo>
+        <nomeCargo>Presidente</nomeCargo>
+        <dataEntrada>18/08/2009</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>536824</idOrgaoLegislativoCD>
+        <siglaComissao>PEC51610</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 516-A, de 2010, do Senado Federal - Romero Jucá, que "altera o art. 31 da Emenda Constitucional nº 19, de 4 de junho de 1998, para dispor sobre o quadro de servidores civis e militares dos ex-Territórios Federais do Amapá e de Roraima, possibilitando que nele sejam incluídos os admitidos regularmente até a data de instalação dos Estados</nomeComissao>
+        <idCargo>2</idCargo>
+        <nomeCargo>1º Vice-Presidente</nomeCargo>
+        <dataEntrada>27/04/2010</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>537211</idOrgaoLegislativoCD>
+        <siglaComissao>PEC35813</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 358-A, de 2013, do Senado Federal, que "altera os arts. 165 e 166 da Constituição Federal, para tornar obrigatória a execução da programação orçamentária que especifica", e apensada</nomeComissao>
+        <idCargo>50</idCargo>
+        <nomeCargo>Relator</nomeCargo>
+        <dataEntrada>19/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>8919</idOrgaoLegislativoCD>
+        <siglaComissao>PEC50610</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a apreciar e  proferir parecer à Proposta de Emenda à Constituição nº 506-A, de 2010, do Senado Federal, que "acrescenta artigo ao Ato das Disposições Constitucionais Transitórias (ADCT), para dispor sobre a prorrogação dos beneficios para a Zona Franca de Manaus, e dá outras providências" (prorroga até 31 de dezembro de 2029)</nomeComissao>
+        <idCargo>1</idCargo>
+        <nomeCargo>Presidente</nomeCargo>
+        <dataEntrada>19/03/2013</dataEntrada>
+        <dataSaida>05/08/2014</dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>537200</idOrgaoLegislativoCD>
+        <siglaComissao>SUBPAC</siglaComissao>
+        <nomeComissao>Subcomissão Permanente para acompanhamento e fiscalização dos recursos públicos federais aplicados em obras inacabadas e também daquelas em execução no âmbito do Programa de Aceleração do Crescimento - PAC.</nomeComissao>
+        <idCargo>50</idCargo>
+        <nomeCargo>Relator</nomeCargo>
+        <dataEntrada>13/11/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>537046</idOrgaoLegislativoCD>
+        <siglaComissao>PEC56506</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 565-A, de 2006, do Senado Federal, que "altera os arts. 57, 165, 166, e acrescenta art. 165-A, todos da Constituição Federal, tornando de execução obrigatória a programação constante da lei orçamentária anual"</nomeComissao>
+        <idCargo>50</idCargo>
+        <nomeCargo>Relator</nomeCargo>
+        <dataEntrada>24/04/2013</dataEntrada>
+        <dataSaida>13/11/2013</dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>8951</idOrgaoLegislativoCD>
+        <siglaComissao>CESEGUR</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a analisar as Propostas de Emenda à Constituição que versem sobre Segurança Pública.</nomeComissao>
+        <idCargo>50</idCargo>
+        <nomeCargo>Relator</nomeCargo>
+        <dataEntrada>29/06/2011</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>8190</idOrgaoLegislativoCD>
+        <siglaComissao>PL161096</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 1610, de 1996, do Senado Federal, que "dispõe sobre a exploração e o aproveitamento de recursos minerais em terras indígenas, de que tratam os arts. 176, parágrafo primeiro, e 231, parágrafo terceiro, da Constituição Federal"</nomeComissao>
+        <idCargo>50</idCargo>
+        <nomeCargo>Relator</nomeCargo>
+        <dataEntrada>09/11/2011</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>9098</idOrgaoLegislativoCD>
+        <siglaComissao>PL233011</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2330, de 2011, do Poder Executivo, que "dispõe sobre as medidas relativas à Copa das Confederações FIFA de 2013 e à Copa do Mundo FIFA de 2014, que serão realizadas no Brasil"</nomeComissao>
+        <idCargo>2</idCargo>
+        <nomeCargo>1º Vice-Presidente</nomeCargo>
+        <dataEntrada>11/10/2011</dataEntrada>
+        <dataSaida>05/06/2012</dataSaida>
+      </cargoComissoes>
+    </cargosComissoes>
+    <periodosExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>RR</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2007</dataInicio>
+        <dataFim>31/01/2011</dataFim>
+        <idCausaFimExercicio>99</idCausaFimExercicio>
+        <descricaoCausaFimExercicio>Término da Legislatura</descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>RR</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2011</dataInicio>
+        <dataFim>
+        </dataFim>
+        <idCausaFimExercicio>
+        </idCausaFimExercicio>
+        <descricaoCausaFimExercicio>
+        </descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+    </periodosExercicio>
+    <historicoNomeParlamentar />
+    <filiacoesPartidarias />
+    <historicoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>141417</idHistoricoLider>
+        <idCargoLideranca>V</idCargoLideranca>
+        <descricaoCargoLideranca>Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>10</numOrdemCargo>
+        <dataDesignacao>11/04/2012</dataDesignacao>
+        <dataTermino>
+        </dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PMDB</siglaUnidadeLideranca>
+        <idBlocoPartido>PMDB</idBlocoPartido>
+      </itemHistoricoLider>
+    </historicoLider>
+  </Deputado>
+</Deputados>

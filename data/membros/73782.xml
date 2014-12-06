@@ -1,0 +1,784 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Deputados>
+  <Deputado>
+    <numLegislatura>53</numLegislatura>
+    <email>
+    </email>
+    <nomeProfissao>Agropecuarista e Empresário</nomeProfissao>
+    <dataNascimento>08/06/1941</dataNascimento>
+    <dataFalecimento>
+    </dataFalecimento>
+    <ufRepresentacaoAtual>PR</ufRepresentacaoAtual>
+    <situacaoNaLegislaturaAtual>Em Exercício</situacaoNaLegislaturaAtual>
+    <ideCadastro>73782</ideCadastro>
+    <idParlamentarDeprecated>3228</idParlamentarDeprecated>
+    <nomeParlamentarAtual>ODÍLIO BALBINOTTI</nomeParlamentarAtual>
+    <nomeCivil>ODILIO BALBINOTTI</nomeCivil>
+    <sexo>M</sexo>
+    <partidoAtual>
+      <idPartido>PMDB</idPartido>
+      <sigla>PMDB</sigla>
+      <nome>Partido do Movimento Democrático Brasileiro</nome>
+    </partidoAtual>
+    <gabinete>
+      <numero>
+      </numero>
+      <anexo>
+      </anexo>
+      <telefone>
+      </telefone>
+    </gabinete>
+    <comissoes>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>26/02/2003</dataEntrada>
+        <dataSaida>15/02/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2008</idOrgaoLegislativoCD>
+        <siglaComissao>CDEIC</siglaComissao>
+        <nomeComissao>Comissão de Desenvolvimento Econômico, Indústria e Comércio</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>17/05/2004</dataEntrada>
+        <dataSaida>01/03/2005</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2010</idOrgaoLegislativoCD>
+        <siglaComissao>CFT</siglaComissao>
+        <nomeComissao>Comissão de Finanças e Tributação</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>02/03/2005</dataEntrada>
+        <dataSaida>28/03/2006</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>05/05/2006</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>26/02/2003</dataEntrada>
+        <dataSaida>15/02/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>23/03/2004</dataEntrada>
+        <dataSaida>01/03/2005</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>02/03/2005</dataEntrada>
+        <dataSaida>28/03/2006</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>29/03/2006</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>14/02/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>01/04/2008</dataEntrada>
+        <dataSaida>02/02/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>04/03/2009</dataEntrada>
+        <dataSaida>01/02/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536836</idOrgaoLegislativoCD>
+        <siglaComissao>SUBFUSAO</siglaComissao>
+        <nomeComissao>Subcomissão  Permanente para acompanhar o processo de fusão entre Perdigão e Sadia, JBS e Bertim, Marfrig e Seara, Citrosuco e Citrovita, e propor medidas que evitem impactos negativos aos trabalhadores, produtores e às regiões onde as empresas estão instaladas.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>13/11/2009</dataEntrada>
+        <dataSaida>09/12/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>03/03/2010</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>14/02/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>04/03/2008</dataEntrada>
+        <dataSaida>02/02/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>04/03/2009</dataEntrada>
+        <dataSaida>01/02/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>03/03/2010</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>07/03/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>8906</idOrgaoLegislativoCD>
+        <siglaComissao>PL712310</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 7123, de 2010, do Sr. Assis do Couto, que "institui a Estrada-Parque Caminho do Colono, no Parque Nacional do Iguaçu"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>19/03/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>25/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>07/03/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>05/03/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>26/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+    </comissoes>
+    <cargosComissoes />
+    <periodosExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>PR</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2003</dataInicio>
+        <dataFim>31/01/2007</dataFim>
+        <idCausaFimExercicio>99</idCausaFimExercicio>
+        <descricaoCausaFimExercicio>Término da Legislatura</descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>PR</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2007</dataInicio>
+        <dataFim>31/01/2011</dataFim>
+        <idCausaFimExercicio>99</idCausaFimExercicio>
+        <descricaoCausaFimExercicio>Término da Legislatura</descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>PR</siglaUFRepresentacao>
+        <situacaoExercicio>Efetivado</situacaoExercicio>
+        <dataInicio>07/02/2012</dataInicio>
+        <dataFim>
+        </dataFim>
+        <idCausaFimExercicio>
+        </idCausaFimExercicio>
+        <descricaoCausaFimExercicio>
+        </descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>74238</idCadastroParlamentarAnterior>
+      </periodoExercicio>
+    </periodosExercicio>
+    <historicoNomeParlamentar>
+      <itemHistoricoNomeParlamentar>
+        <nomeParlamentarAnterior>ODILIO BALBINOTTI</nomeParlamentarAnterior>
+        <nomeParlamentaPosterior>ODÍLIO BALBINOTTI</nomeParlamentaPosterior>
+        <dataInicioVigenciaNomePosterior>10/02/2011</dataInicioVigenciaNomePosterior>
+      </itemHistoricoNomeParlamentar>
+    </historicoNomeParlamentar>
+    <filiacoesPartidarias />
+    <historicoLider />
+  </Deputado>
+  <Deputado>
+    <numLegislatura>52</numLegislatura>
+    <email>dep.odiliobalbinotti@camara.gov.br</email>
+    <nomeProfissao>Agropecuarista e Empresário</nomeProfissao>
+    <dataNascimento>08/06/1941</dataNascimento>
+    <dataFalecimento>
+    </dataFalecimento>
+    <ufRepresentacaoAtual>PR</ufRepresentacaoAtual>
+    <situacaoNaLegislaturaAtual>Em Exercício</situacaoNaLegislaturaAtual>
+    <ideCadastro>73782</ideCadastro>
+    <idParlamentarDeprecated>3228</idParlamentarDeprecated>
+    <nomeParlamentarAtual>ODÍLIO BALBINOTTI</nomeParlamentarAtual>
+    <nomeCivil>ODILIO BALBINOTTI</nomeCivil>
+    <sexo>M</sexo>
+    <partidoAtual>
+      <idPartido>PMDB</idPartido>
+      <sigla>PMDB</sigla>
+      <nome>Partido do Movimento Democrático Brasileiro</nome>
+    </partidoAtual>
+    <gabinete>
+      <numero>
+      </numero>
+      <anexo>
+      </anexo>
+      <telefone>
+      </telefone>
+    </gabinete>
+    <comissoes>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>26/02/2003</dataEntrada>
+        <dataSaida>15/02/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2008</idOrgaoLegislativoCD>
+        <siglaComissao>CDEIC</siglaComissao>
+        <nomeComissao>Comissão de Desenvolvimento Econômico, Indústria e Comércio</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>17/05/2004</dataEntrada>
+        <dataSaida>01/03/2005</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2010</idOrgaoLegislativoCD>
+        <siglaComissao>CFT</siglaComissao>
+        <nomeComissao>Comissão de Finanças e Tributação</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>02/03/2005</dataEntrada>
+        <dataSaida>28/03/2006</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>05/05/2006</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>26/02/2003</dataEntrada>
+        <dataSaida>15/02/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>23/03/2004</dataEntrada>
+        <dataSaida>01/03/2005</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>02/03/2005</dataEntrada>
+        <dataSaida>28/03/2006</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>29/03/2006</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>14/02/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>01/04/2008</dataEntrada>
+        <dataSaida>02/02/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>04/03/2009</dataEntrada>
+        <dataSaida>01/02/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536836</idOrgaoLegislativoCD>
+        <siglaComissao>SUBFUSAO</siglaComissao>
+        <nomeComissao>Subcomissão  Permanente para acompanhar o processo de fusão entre Perdigão e Sadia, JBS e Bertim, Marfrig e Seara, Citrosuco e Citrovita, e propor medidas que evitem impactos negativos aos trabalhadores, produtores e às regiões onde as empresas estão instaladas.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>13/11/2009</dataEntrada>
+        <dataSaida>09/12/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>03/03/2010</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>14/02/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>04/03/2008</dataEntrada>
+        <dataSaida>02/02/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>04/03/2009</dataEntrada>
+        <dataSaida>01/02/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>03/03/2010</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>07/03/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>8906</idOrgaoLegislativoCD>
+        <siglaComissao>PL712310</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 7123, de 2010, do Sr. Assis do Couto, que "institui a Estrada-Parque Caminho do Colono, no Parque Nacional do Iguaçu"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>19/03/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>25/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>07/03/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>05/03/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>26/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+    </comissoes>
+    <cargosComissoes />
+    <periodosExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>PR</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2003</dataInicio>
+        <dataFim>31/01/2007</dataFim>
+        <idCausaFimExercicio>99</idCausaFimExercicio>
+        <descricaoCausaFimExercicio>Término da Legislatura</descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>PR</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2007</dataInicio>
+        <dataFim>31/01/2011</dataFim>
+        <idCausaFimExercicio>99</idCausaFimExercicio>
+        <descricaoCausaFimExercicio>Término da Legislatura</descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>PR</siglaUFRepresentacao>
+        <situacaoExercicio>Efetivado</situacaoExercicio>
+        <dataInicio>07/02/2012</dataInicio>
+        <dataFim>
+        </dataFim>
+        <idCausaFimExercicio>
+        </idCausaFimExercicio>
+        <descricaoCausaFimExercicio>
+        </descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>74238</idCadastroParlamentarAnterior>
+      </periodoExercicio>
+    </periodosExercicio>
+    <historicoNomeParlamentar>
+      <itemHistoricoNomeParlamentar>
+        <nomeParlamentarAnterior>ODILIO BALBINOTTI</nomeParlamentarAnterior>
+        <nomeParlamentaPosterior>ODÍLIO BALBINOTTI</nomeParlamentaPosterior>
+        <dataInicioVigenciaNomePosterior>10/02/2011</dataInicioVigenciaNomePosterior>
+      </itemHistoricoNomeParlamentar>
+    </historicoNomeParlamentar>
+    <filiacoesPartidarias />
+    <historicoLider />
+  </Deputado>
+  <Deputado>
+    <numLegislatura>54</numLegislatura>
+    <email>dep.odiliobalbinotti@camara.gov.br</email>
+    <nomeProfissao>Agropecuarista e Empresário</nomeProfissao>
+    <dataNascimento>08/06/1941</dataNascimento>
+    <dataFalecimento>
+    </dataFalecimento>
+    <ufRepresentacaoAtual>PR</ufRepresentacaoAtual>
+    <situacaoNaLegislaturaAtual>Em Exercício</situacaoNaLegislaturaAtual>
+    <ideCadastro>73782</ideCadastro>
+    <idParlamentarDeprecated>3228</idParlamentarDeprecated>
+    <nomeParlamentarAtual>ODÍLIO BALBINOTTI</nomeParlamentarAtual>
+    <nomeCivil>ODILIO BALBINOTTI</nomeCivil>
+    <sexo>M</sexo>
+    <partidoAtual>
+      <idPartido>PMDB</idPartido>
+      <sigla>PMDB</sigla>
+      <nome>Partido do Movimento Democrático Brasileiro</nome>
+    </partidoAtual>
+    <gabinete>
+      <numero>278</numero>
+      <anexo>3</anexo>
+      <telefone>3215-5278</telefone>
+    </gabinete>
+    <comissoes>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>26/02/2003</dataEntrada>
+        <dataSaida>15/02/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2008</idOrgaoLegislativoCD>
+        <siglaComissao>CDEIC</siglaComissao>
+        <nomeComissao>Comissão de Desenvolvimento Econômico, Indústria e Comércio</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>17/05/2004</dataEntrada>
+        <dataSaida>01/03/2005</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2010</idOrgaoLegislativoCD>
+        <siglaComissao>CFT</siglaComissao>
+        <nomeComissao>Comissão de Finanças e Tributação</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>02/03/2005</dataEntrada>
+        <dataSaida>28/03/2006</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>05/05/2006</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>26/02/2003</dataEntrada>
+        <dataSaida>15/02/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>23/03/2004</dataEntrada>
+        <dataSaida>01/03/2005</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>02/03/2005</dataEntrada>
+        <dataSaida>28/03/2006</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>29/03/2006</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>14/02/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>01/04/2008</dataEntrada>
+        <dataSaida>02/02/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>04/03/2009</dataEntrada>
+        <dataSaida>01/02/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536836</idOrgaoLegislativoCD>
+        <siglaComissao>SUBFUSAO</siglaComissao>
+        <nomeComissao>Subcomissão  Permanente para acompanhar o processo de fusão entre Perdigão e Sadia, JBS e Bertim, Marfrig e Seara, Citrosuco e Citrovita, e propor medidas que evitem impactos negativos aos trabalhadores, produtores e às regiões onde as empresas estão instaladas.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>13/11/2009</dataEntrada>
+        <dataSaida>09/12/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>03/03/2010</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>14/02/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>04/03/2008</dataEntrada>
+        <dataSaida>02/02/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>04/03/2009</dataEntrada>
+        <dataSaida>01/02/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>03/03/2010</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>07/03/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>8906</idOrgaoLegislativoCD>
+        <siglaComissao>PL712310</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 7123, de 2010, do Sr. Assis do Couto, que "institui a Estrada-Parque Caminho do Colono, no Parque Nacional do Iguaçu"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>19/03/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>25/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>07/03/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>05/03/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>26/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+    </comissoes>
+    <cargosComissoes />
+    <periodosExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>PR</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2003</dataInicio>
+        <dataFim>31/01/2007</dataFim>
+        <idCausaFimExercicio>99</idCausaFimExercicio>
+        <descricaoCausaFimExercicio>Término da Legislatura</descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>PR</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2007</dataInicio>
+        <dataFim>31/01/2011</dataFim>
+        <idCausaFimExercicio>99</idCausaFimExercicio>
+        <descricaoCausaFimExercicio>Término da Legislatura</descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>PR</siglaUFRepresentacao>
+        <situacaoExercicio>Efetivado</situacaoExercicio>
+        <dataInicio>07/02/2012</dataInicio>
+        <dataFim>
+        </dataFim>
+        <idCausaFimExercicio>
+        </idCausaFimExercicio>
+        <descricaoCausaFimExercicio>
+        </descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>74238</idCadastroParlamentarAnterior>
+      </periodoExercicio>
+    </periodosExercicio>
+    <historicoNomeParlamentar>
+      <itemHistoricoNomeParlamentar>
+        <nomeParlamentarAnterior>ODILIO BALBINOTTI</nomeParlamentarAnterior>
+        <nomeParlamentaPosterior>ODÍLIO BALBINOTTI</nomeParlamentaPosterior>
+        <dataInicioVigenciaNomePosterior>10/02/2011</dataInicioVigenciaNomePosterior>
+      </itemHistoricoNomeParlamentar>
+    </historicoNomeParlamentar>
+    <filiacoesPartidarias />
+    <historicoLider />
+  </Deputado>
+</Deputados>

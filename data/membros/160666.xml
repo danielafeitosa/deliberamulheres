@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Deputados>
+  <Deputado>
+    <numLegislatura>54</numLegislatura>
+    <email>dep.felixmendoncajunior@camara.gov.br</email>
+    <nomeProfissao>
+    </nomeProfissao>
+    <dataNascimento>29/11/1963</dataNascimento>
+    <dataFalecimento>
+    </dataFalecimento>
+    <ufRepresentacaoAtual>BA</ufRepresentacaoAtual>
+    <situacaoNaLegislaturaAtual>Em Exercício</situacaoNaLegislaturaAtual>
+    <ideCadastro>160666</ideCadastro>
+    <idParlamentarDeprecated>10014</idParlamentarDeprecated>
+    <nomeParlamentarAtual>FÉLIX MENDONÇA JÚNIOR</nomeParlamentarAtual>
+    <nomeCivil>FELIX DE ALMEIDA MENDONÇA JÚNIOR</nomeCivil>
+    <sexo>M</sexo>
+    <partidoAtual>
+      <idPartido>PDT</idPartido>
+      <sigla>PDT</sigla>
+      <nome>Partido Democrático Trabalhista</nome>
+    </partidoAtual>
+    <gabinete>
+      <numero>912</numero>
+      <anexo>4</anexo>
+      <telefone>3215-5912</telefone>
+    </gabinete>
+    <comissoes>
+      <comissao>
+        <idOrgaoLegislativoCD>6912</idOrgaoLegislativoCD>
+        <siglaComissao>CEREFPOL</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a efetuar estudo e apresentar propostas em relação à Reforma Política.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>02/03/2011</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2002</idOrgaoLegislativoCD>
+        <siglaComissao>CCTCI</siglaComissao>
+        <nomeComissao>Comissão de Ciência e Tecnologia, Comunicação e Informática</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>01/03/2011</dataEntrada>
+        <dataSaida>31/01/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6504</idOrgaoLegislativoCD>
+        <siglaComissao>PEC01095</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 10-A, de 1995, do Sr. Adhemar de Barros Filho, que "modifica o art. 45 da Constituição Federal e acrescenta parágrafos ao mesmo artigo", criando o sistema distrital misto</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>26/05/2011</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9042</idOrgaoLegislativoCD>
+        <siglaComissao>SUBRADIG</siglaComissao>
+        <nomeComissao>Subcomissão Especial de Rádio Digital</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>05/07/2011</dataEntrada>
+        <dataSaida>16/04/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9076</idOrgaoLegislativoCD>
+        <siglaComissao>PEC06111</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 061-A, de 2011, do Poder Executivo, que "altera o art. 76 do Ato das Disposições Constitucionais Transitórias" (prorroga a vigência da DRU até 31 de dezembro de 2015).</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>22/09/2011</dataEntrada>
+        <dataSaida>21/12/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2012</idOrgaoLegislativoCD>
+        <siglaComissao>CME</siglaComissao>
+        <nomeComissao>Comissão de Minas e Energia</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>07/03/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6855</idOrgaoLegislativoCD>
+        <siglaComissao>CMO</siglaComissao>
+        <nomeComissao>Comissão Mista de Planos, Orçamentos Públicos e Fiscalização</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>27/03/2012</dataEntrada>
+        <dataSaida>25/03/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>05/03/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>5971</idOrgaoLegislativoCD>
+        <siglaComissao>COETICA</siglaComissao>
+        <nomeComissao>Conselho de Ética e Decoro Parlamentar da Câmara dos Deputados</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>25/03/2013</dataEntrada>
+        <dataSaida>26/03/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>26/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537230</idOrgaoLegislativoCD>
+        <siglaComissao>CEMEDICA</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a  debater a redução dos impostos sobre os medicamentos</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>14/05/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6855</idOrgaoLegislativoCD>
+        <siglaComissao>CMO</siglaComissao>
+        <nomeComissao>Comissão Mista de Planos, Orçamentos Públicos e Fiscalização</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>09/07/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6277</idOrgaoLegislativoCD>
+        <siglaComissao>ALTOSEST</siglaComissao>
+        <nomeComissao>Conselho de Altos Estudos e Avaliação Tecnológica</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>02/03/2011</dataEntrada>
+        <dataSaida>26/03/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>01/03/2011</dataEntrada>
+        <dataSaida>31/01/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6910</idOrgaoLegislativoCD>
+        <siglaComissao>CEDOCSIG</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a apreciar as solicitações de acesso a informações sigilosas produzidas ou recebidas pela Câmara dos Deputados no exercício de suas funções parlamentares e administrativas, assim como sobre o cancelamento ou redução de prazos de sigilo e outras atribuições previstas na Resolução n º 29, de 1993</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>30/03/2011</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>8736</idOrgaoLegislativoCD>
+        <siglaComissao>PL346004</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 3460, de 2004, do Sr. Walter Feldman, que "institui diretrizes para a Política Nacional de Planejamento Regional Urbano, cria o Sistema Nacional de Planejamento e Informações Regionais Urbanas e dá outras providências" (Estatuto da Metrópole)</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>17/04/2012</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9120</idOrgaoLegislativoCD>
+        <siglaComissao>PL256511</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2565, de 2011, do Senado Federal, que "modifica as Leis nº 9.478, de 6 de agosto de 1997, e nº 12.351, de 22 de dezembro de 2010, para determinar novas regras de distribuição entre os entes da Federação dos royalties e da participação especial devidos em função da exploração de petróleo, gás natural e outros hidrocarbonetos fluidos, e para aprimorar o marco regulatório sobre a exploração desses recursos no regime de partilha"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>06/11/2012</dataEntrada>
+        <dataSaida>30/11/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>07/03/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9170</idOrgaoLegislativoCD>
+        <siglaComissao>PL353812</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 3538, de 2012, do Poder Executivo, que "autoriza a criação da empresa pública Amazônia Azul Tecnologias de Defesa S.A - AMAZUL e dá outras providências"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>02/05/2012</dataEntrada>
+        <dataSaida>08/08/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>05/03/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>5971</idOrgaoLegislativoCD>
+        <siglaComissao>COETICA</siglaComissao>
+        <nomeComissao>Conselho de Ética e Decoro Parlamentar da Câmara dos Deputados</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>26/03/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537020</idOrgaoLegislativoCD>
+        <siglaComissao>CEDES</siglaComissao>
+        <nomeComissao>Centro de Estudos e Debates Estratégicos</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>17/04/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9143</idOrgaoLegislativoCD>
+        <siglaComissao>PEC01911</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 19-A, de 2011, do Sr. Wilson Filho, que "altera o art. 40 do Ato das Disposições Constitucionais Transitórias para estabelecer a criação da Zona Franca do Semiárido Nordestino"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>03/04/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>25/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6855</idOrgaoLegislativoCD>
+        <siglaComissao>CMO</siglaComissao>
+        <nomeComissao>Comissão Mista de Planos, Orçamentos Públicos e Fiscalização</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>25/03/2014</dataEntrada>
+        <dataSaida>09/07/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537275</idOrgaoLegislativoCD>
+        <siglaComissao>PEC42614</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 426-A, de 2014, do Senado Federal, que "altera o art. 159 da Constituição Federal, para aumentar a entrega de recursos pela União para o Fundo de Participação dos Municípios</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>13/05/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537301</idOrgaoLegislativoCD>
+        <siglaComissao>REP-0714</siglaComissao>
+        <nomeComissao>Comissão Representativa do Congresso Nacional prevista no § 4º do art. 58 da Constituição Federal (período 18 a 31 de julho de 2014).</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>16/07/2014</dataEntrada>
+        <dataSaida>01/08/2014</dataSaida>
+      </comissao>
+    </comissoes>
+    <cargosComissoes />
+    <periodosExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>BA</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2011</dataInicio>
+        <dataFim>
+        </dataFim>
+        <idCausaFimExercicio>
+        </idCausaFimExercicio>
+        <descricaoCausaFimExercicio>
+        </descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+    </periodosExercicio>
+    <historicoNomeParlamentar>
+      <itemHistoricoNomeParlamentar>
+        <nomeParlamentarAnterior>FÉLIX JÚNIOR</nomeParlamentarAnterior>
+        <nomeParlamentaPosterior>FÉLIX MENDONÇA JÚNIOR</nomeParlamentaPosterior>
+        <dataInicioVigenciaNomePosterior>07/04/2011</dataInicioVigenciaNomePosterior>
+      </itemHistoricoNomeParlamentar>
+    </historicoNomeParlamentar>
+    <filiacoesPartidarias />
+    <historicoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>160666</idHistoricoLider>
+        <idCargoLideranca>V</idCargoLideranca>
+        <descricaoCargoLideranca>Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>4</numOrdemCargo>
+        <dataDesignacao>08/03/2012</dataDesignacao>
+        <dataTermino>08/10/2013</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PDT</siglaUnidadeLideranca>
+        <idBlocoPartido>PDT</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>160666</idHistoricoLider>
+        <idCargoLideranca>1</idCargoLideranca>
+        <descricaoCargoLideranca>1º Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>2</numOrdemCargo>
+        <dataDesignacao>08/10/2013</dataDesignacao>
+        <dataTermino>12/02/2014</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PDT</siglaUnidadeLideranca>
+        <idBlocoPartido>PDT</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>160666</idHistoricoLider>
+        <idCargoLideranca>L</idCargoLideranca>
+        <descricaoCargoLideranca>Líder</descricaoCargoLideranca>
+        <numOrdemCargo>1</numOrdemCargo>
+        <dataDesignacao>14/10/2013</dataDesignacao>
+        <dataTermino>18/10/2013</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PDT</siglaUnidadeLideranca>
+        <idBlocoPartido>PDT</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>160666</idHistoricoLider>
+        <idCargoLideranca>1</idCargoLideranca>
+        <descricaoCargoLideranca>1º Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>2</numOrdemCargo>
+        <dataDesignacao>12/02/2014</dataDesignacao>
+        <dataTermino>01/07/2014</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PDT</siglaUnidadeLideranca>
+        <idBlocoPartido>PDT</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>160666</idHistoricoLider>
+        <idCargoLideranca>L</idCargoLideranca>
+        <descricaoCargoLideranca>Líder</descricaoCargoLideranca>
+        <numOrdemCargo>1</numOrdemCargo>
+        <dataDesignacao>11/03/2014</dataDesignacao>
+        <dataTermino>13/03/2014</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PDT</siglaUnidadeLideranca>
+        <idBlocoPartido>PDT</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>160666</idHistoricoLider>
+        <idCargoLideranca>L</idCargoLideranca>
+        <descricaoCargoLideranca>Líder</descricaoCargoLideranca>
+        <numOrdemCargo>1</numOrdemCargo>
+        <dataDesignacao>01/07/2014</dataDesignacao>
+        <dataTermino>
+        </dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PDT</siglaUnidadeLideranca>
+        <idBlocoPartido>PDT</idBlocoPartido>
+      </itemHistoricoLider>
+    </historicoLider>
+  </Deputado>
+</Deputados>

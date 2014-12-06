@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Deputados>
+  <Deputado>
+    <numLegislatura>53</numLegislatura>
+    <email>
+    </email>
+    <nomeProfissao>Administrador de Empresas</nomeProfissao>
+    <dataNascimento>01/09/1977</dataNascimento>
+    <dataFalecimento>
+    </dataFalecimento>
+    <ufRepresentacaoAtual>RN</ufRepresentacaoAtual>
+    <situacaoNaLegislaturaAtual>Em Exercício</situacaoNaLegislaturaAtual>
+    <ideCadastro>141428</ideCadastro>
+    <idParlamentarDeprecated>4460</idParlamentarDeprecated>
+    <nomeParlamentarAtual>FÁBIO FARIA</nomeParlamentarAtual>
+    <nomeCivil>FÁBIO SALUSTINO MESQUITA DE FARIA</nomeCivil>
+    <sexo>M</sexo>
+    <partidoAtual>
+      <idPartido>PMN</idPartido>
+      <sigla>PMN</sigla>
+      <nome>Partido da Mobilização Nacional</nome>
+    </partidoAtual>
+    <gabinete>
+      <numero>
+      </numero>
+      <anexo>
+      </anexo>
+      <telefone>
+      </telefone>
+    </gabinete>
+    <comissoes>
+      <comissao>
+        <idOrgaoLegislativoCD>2010</idOrgaoLegislativoCD>
+        <siglaComissao>CFT</siglaComissao>
+        <nomeComissao>Comissão de Finanças e Tributação</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>14/02/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6066</idOrgaoLegislativoCD>
+        <siglaComissao>CTUR</siglaComissao>
+        <nomeComissao>Comissão de Turismo</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>04/03/2008</dataEntrada>
+        <dataSaida>02/02/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2002</idOrgaoLegislativoCD>
+        <siglaComissao>CCTCI</siglaComissao>
+        <nomeComissao>Comissão de Ciência e Tecnologia, Comunicação e Informática</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>04/03/2009</dataEntrada>
+        <dataSaida>01/02/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536497</idOrgaoLegislativoCD>
+        <siglaComissao>PEC09807</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 98-A, de 2007, do Senhor Otávio Leite, que  "acrescenta a alínea (e) ao inciso VI do art. 150 da Constituição Federal", instituindo imunidade tributária sobre os Fonogramas e Videofonogramas musicais produzidos no Brasil, contendo obras musicais ou lítero-musicais de autores brasileiros, e/ou obras em geral interpretadas por artistas brasileiros, bem como os suportes materiais ou arquivos digitais que os contenham.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>04/06/2009</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6066</idOrgaoLegislativoCD>
+        <siglaComissao>CTUR</siglaComissao>
+        <nomeComissao>Comissão de Turismo</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>14/02/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536447</idOrgaoLegislativoCD>
+        <siglaComissao>SUBREFLO</siglaComissao>
+        <nomeComissao>Subcomissão especial da reformulação da legislação orçamentária.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>21/03/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536297</idOrgaoLegislativoCD>
+        <siglaComissao>PL518605</siglaComissao>
+        <nomeComissao>Comissão especial destinada a proferir parecer ao Projeto de Lei nº 5.186, de 2005, do Poder Executivo, que "altera a Lei nº 9.615, de 24 de março de 1998, que institui normas gerais sobre desporto e dá outras providências".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>24/06/2008</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6066</idOrgaoLegislativoCD>
+        <siglaComissao>CTUR</siglaComissao>
+        <nomeComissao>Comissão de Turismo</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>04/03/2009</dataEntrada>
+        <dataSaida>01/02/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6066</idOrgaoLegislativoCD>
+        <siglaComissao>CTUR</siglaComissao>
+        <nomeComissao>Comissão de Turismo</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>03/03/2010</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536850</idOrgaoLegislativoCD>
+        <siglaComissao>GTFICHA</siglaComissao>
+        <nomeComissao>Grupo de Trabalho para analisar o PLP 518/09 (Ficha Limpa), apensado ao PLP 168/93.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>03/03/2010</dataEntrada>
+        <dataSaida>04/06/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536869</idOrgaoLegislativoCD>
+        <siglaComissao>SUBCTORC</siglaComissao>
+        <nomeComissao>Subcomissão Especial destinada a acompanhar a execução orçamentária dos setores abrangidos pela temática da Comissão de Turismo e Desporto.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>27/04/2010</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6912</idOrgaoLegislativoCD>
+        <siglaComissao>CEREFPOL</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a efetuar estudo e apresentar propostas em relação à Reforma Política.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>02/03/2011</dataEntrada>
+        <dataSaida>09/03/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>01/03/2011</dataEntrada>
+        <dataSaida>17/08/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2007</idOrgaoLegislativoCD>
+        <siglaComissao>CDHM</siglaComissao>
+        <nomeComissao>Comissão de Direitos Humanos e Minorias</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>01/03/2011</dataEntrada>
+        <dataSaida>31/01/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>5973</idOrgaoLegislativoCD>
+        <siglaComissao>MERCOSUL</siglaComissao>
+        <nomeComissao>Representação Brasileira no Parlamento do Mercosul.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>31/08/2011</dataEntrada>
+        <dataSaida>21/05/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>14/03/2012</dataEntrada>
+        <dataSaida>20/06/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536986</idOrgaoLegislativoCD>
+        <siglaComissao>CEXCOMP</siglaComissao>
+        <nomeComissao>Comissão Externa destinada a acompanhar a execução das medidas de internação compulsória de dependentes no Estado de São Paulo</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>26/03/2013</dataEntrada>
+        <dataSaida>02/04/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6066</idOrgaoLegislativoCD>
+        <siglaComissao>CTUR</siglaComissao>
+        <nomeComissao>Comissão de Turismo</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>01/03/2011</dataEntrada>
+        <dataSaida>31/01/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6912</idOrgaoLegislativoCD>
+        <siglaComissao>CEREFPOL</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a efetuar estudo e apresentar propostas em relação à Reforma Política.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>09/03/2011</dataEntrada>
+        <dataSaida>18/04/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6914</idOrgaoLegislativoCD>
+        <siglaComissao>CEDROGA</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a promover estudos e proposições de políticas públicas e de Projetos de Lei destinados a combater e prevenir os efeitos do Crack e de outras drogas ilícitas.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>28/03/2011</dataEntrada>
+        <dataSaida>07/12/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9098</idOrgaoLegislativoCD>
+        <siglaComissao>PL233011</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2330, de 2011, do Poder Executivo, que "dispõe sobre as medidas relativas à Copa das Confederações FIFA de 2013 e à Copa do Mundo FIFA de 2014, que serão realizadas no Brasil"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>10/10/2011</dataEntrada>
+        <dataSaida>05/06/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6066</idOrgaoLegislativoCD>
+        <siglaComissao>CTUR</siglaComissao>
+        <nomeComissao>Comissão de Turismo</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>14/03/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>5418</idOrgaoLegislativoCD>
+        <siglaComissao>MESA</siglaComissao>
+        <nomeComissao>Mesa Diretora da Câmara dos Deputados</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>04/02/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+    </comissoes>
+    <cargosComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>6066</idOrgaoLegislativoCD>
+        <siglaComissao>CTUR</siglaComissao>
+        <nomeComissao>Comissão de Turismo</nomeComissao>
+        <idCargo>4</idCargo>
+        <nomeCargo>3º Vice-Presidente</nomeCargo>
+        <dataEntrada>14/02/2007</dataEntrada>
+        <dataSaida>04/03/2008</dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>536869</idOrgaoLegislativoCD>
+        <siglaComissao>SUBCTORC</siglaComissao>
+        <nomeComissao>Subcomissão Especial destinada a acompanhar a execução orçamentária dos setores abrangidos pela temática da Comissão de Turismo e Desporto.</nomeComissao>
+        <idCargo>4</idCargo>
+        <nomeCargo>3º Vice-Presidente</nomeCargo>
+        <dataEntrada>07/05/2010</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>5418</idOrgaoLegislativoCD>
+        <siglaComissao>MESA</siglaComissao>
+        <nomeComissao>Mesa Diretora da Câmara dos Deputados</nomeComissao>
+        <idCargo>3</idCargo>
+        <nomeCargo>2º Vice-Presidente</nomeCargo>
+        <dataEntrada>04/02/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </cargoComissoes>
+    </cargosComissoes>
+    <periodosExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>RN</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2007</dataInicio>
+        <dataFim>31/01/2011</dataFim>
+        <idCausaFimExercicio>99</idCausaFimExercicio>
+        <descricaoCausaFimExercicio>Término da Legislatura</descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>RN</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2011</dataInicio>
+        <dataFim>
+        </dataFim>
+        <idCausaFimExercicio>
+        </idCausaFimExercicio>
+        <descricaoCausaFimExercicio>
+        </descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+    </periodosExercicio>
+    <historicoNomeParlamentar />
+    <filiacoesPartidarias>
+      <filiacaoPartidaria>
+        <idPartidoAnterior>PMN</idPartidoAnterior>
+        <siglaPartidoAnterior>PMN</siglaPartidoAnterior>
+        <nomePartidoAnterior>Partido da Mobilização Nacional</nomePartidoAnterior>
+        <idPartidoPosterior>PSD</idPartidoPosterior>
+        <siglaPartidoPosterior>PSD</siglaPartidoPosterior>
+        <nomePartidoPosterior>Partido Social Democrático</nomePartidoPosterior>
+        <dataFiliacaoPartidoPosterior>26/10/2011</dataFiliacaoPartidoPosterior>
+      </filiacaoPartidaria>
+    </filiacoesPartidarias>
+    <historicoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>141428</idHistoricoLider>
+        <idCargoLideranca>L</idCargoLideranca>
+        <descricaoCargoLideranca>Líder</descricaoCargoLideranca>
+        <numOrdemCargo>1</numOrdemCargo>
+        <dataDesignacao>13/02/2008</dataDesignacao>
+        <dataTermino>03/09/2008</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PMN</siglaUnidadeLideranca>
+        <idBlocoPartido>PMN</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>141428</idHistoricoLider>
+        <idCargoLideranca>V</idCargoLideranca>
+        <descricaoCargoLideranca>Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>37</numOrdemCargo>
+        <dataDesignacao>16/04/2008</dataDesignacao>
+        <dataTermino>11/03/2009</dataTermino>
+        <codigoUnidadeLideranca>B</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSB, PCdoB, PRB</siglaUnidadeLideranca>
+        <idBlocoPartido>533</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>141428</idHistoricoLider>
+        <idCargoLideranca>L</idCargoLideranca>
+        <descricaoCargoLideranca>Líder</descricaoCargoLideranca>
+        <numOrdemCargo>2</numOrdemCargo>
+        <dataDesignacao>07/10/2009</dataDesignacao>
+        <dataTermino>29/10/2009</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PMN</siglaUnidadeLideranca>
+        <idBlocoPartido>PMN</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>141428</idHistoricoLider>
+        <idCargoLideranca>R</idCargoLideranca>
+        <descricaoCargoLideranca>Representante</descricaoCargoLideranca>
+        <numOrdemCargo>1</numOrdemCargo>
+        <dataDesignacao>29/10/2009</dataDesignacao>
+        <dataTermino>31/01/2011</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PMN</siglaUnidadeLideranca>
+        <idBlocoPartido>PMN</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>141428</idHistoricoLider>
+        <idCargoLideranca>R</idCargoLideranca>
+        <descricaoCargoLideranca>Representante</descricaoCargoLideranca>
+        <numOrdemCargo>1</numOrdemCargo>
+        <dataDesignacao>01/02/2011</dataDesignacao>
+        <dataTermino>22/02/2011</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PMN</siglaUnidadeLideranca>
+        <idBlocoPartido>PMN</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>141428</idHistoricoLider>
+        <idCargoLideranca>L</idCargoLideranca>
+        <descricaoCargoLideranca>Líder</descricaoCargoLideranca>
+        <numOrdemCargo>1</numOrdemCargo>
+        <dataDesignacao>22/02/2011</dataDesignacao>
+        <dataTermino>16/03/2011</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PMN</siglaUnidadeLideranca>
+        <idBlocoPartido>PMN</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>141428</idHistoricoLider>
+        <idCargoLideranca>R</idCargoLideranca>
+        <descricaoCargoLideranca>Representante</descricaoCargoLideranca>
+        <numOrdemCargo>1</numOrdemCargo>
+        <dataDesignacao>16/03/2011</dataDesignacao>
+        <dataTermino>01/08/2011</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PMN</siglaUnidadeLideranca>
+        <idBlocoPartido>PMN</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>141428</idHistoricoLider>
+        <idCargoLideranca>L</idCargoLideranca>
+        <descricaoCargoLideranca>Líder</descricaoCargoLideranca>
+        <numOrdemCargo>1</numOrdemCargo>
+        <dataDesignacao>01/08/2011</dataDesignacao>
+        <dataTermino>26/10/2011</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PMN</siglaUnidadeLideranca>
+        <idBlocoPartido>PMN</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>141428</idHistoricoLider>
+        <idCargoLideranca>1</idCargoLideranca>
+        <descricaoCargoLideranca>1º Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>2</numOrdemCargo>
+        <dataDesignacao>24/11/2011</dataDesignacao>
+        <dataTermino>01/02/2013</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSD</siglaUnidadeLideranca>
+        <idBlocoPartido>PSD</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>141428</idHistoricoLider>
+        <idCargoLideranca>L</idCargoLideranca>
+        <descricaoCargoLideranca>Líder</descricaoCargoLideranca>
+        <numOrdemCargo>1</numOrdemCargo>
+        <dataDesignacao>19/11/2012</dataDesignacao>
+        <dataTermino>23/11/2012</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSD</siglaUnidadeLideranca>
+        <idBlocoPartido>PSD</idBlocoPartido>
+      </itemHistoricoLider>
+    </historicoLider>
+  </Deputado>
+  <Deputado>
+    <numLegislatura>54</numLegislatura>
+    <email>dep.fabiofaria@camara.gov.br</email>
+    <nomeProfissao>Administrador de Empresas</nomeProfissao>
+    <dataNascimento>01/09/1977</dataNascimento>
+    <dataFalecimento>
+    </dataFalecimento>
+    <ufRepresentacaoAtual>RN</ufRepresentacaoAtual>
+    <situacaoNaLegislaturaAtual>Em Exercício</situacaoNaLegislaturaAtual>
+    <ideCadastro>141428</ideCadastro>
+    <idParlamentarDeprecated>4460</idParlamentarDeprecated>
+    <nomeParlamentarAtual>FÁBIO FARIA</nomeParlamentarAtual>
+    <nomeCivil>FÁBIO SALUSTINO MESQUITA DE FARIA</nomeCivil>
+    <sexo>M</sexo>
+    <partidoAtual>
+      <idPartido>PSD</idPartido>
+      <sigla>PSD</sigla>
+      <nome>Partido Social Democrático</nome>
+    </partidoAtual>
+    <gabinete>
+      <numero>335</numero>
+      <anexo>4</anexo>
+      <telefone>3215-5335</telefone>
+    </gabinete>
+    <comissoes>
+      <comissao>
+        <idOrgaoLegislativoCD>2010</idOrgaoLegislativoCD>
+        <siglaComissao>CFT</siglaComissao>
+        <nomeComissao>Comissão de Finanças e Tributação</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>14/02/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6066</idOrgaoLegislativoCD>
+        <siglaComissao>CTUR</siglaComissao>
+        <nomeComissao>Comissão de Turismo</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>04/03/2008</dataEntrada>
+        <dataSaida>02/02/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2002</idOrgaoLegislativoCD>
+        <siglaComissao>CCTCI</siglaComissao>
+        <nomeComissao>Comissão de Ciência e Tecnologia, Comunicação e Informática</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>04/03/2009</dataEntrada>
+        <dataSaida>01/02/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536497</idOrgaoLegislativoCD>
+        <siglaComissao>PEC09807</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 98-A, de 2007, do Senhor Otávio Leite, que  "acrescenta a alínea (e) ao inciso VI do art. 150 da Constituição Federal", instituindo imunidade tributária sobre os Fonogramas e Videofonogramas musicais produzidos no Brasil, contendo obras musicais ou lítero-musicais de autores brasileiros, e/ou obras em geral interpretadas por artistas brasileiros, bem como os suportes materiais ou arquivos digitais que os contenham.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>04/06/2009</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6066</idOrgaoLegislativoCD>
+        <siglaComissao>CTUR</siglaComissao>
+        <nomeComissao>Comissão de Turismo</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>14/02/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536447</idOrgaoLegislativoCD>
+        <siglaComissao>SUBREFLO</siglaComissao>
+        <nomeComissao>Subcomissão especial da reformulação da legislação orçamentária.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>21/03/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536297</idOrgaoLegislativoCD>
+        <siglaComissao>PL518605</siglaComissao>
+        <nomeComissao>Comissão especial destinada a proferir parecer ao Projeto de Lei nº 5.186, de 2005, do Poder Executivo, que "altera a Lei nº 9.615, de 24 de março de 1998, que institui normas gerais sobre desporto e dá outras providências".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>24/06/2008</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6066</idOrgaoLegislativoCD>
+        <siglaComissao>CTUR</siglaComissao>
+        <nomeComissao>Comissão de Turismo</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>04/03/2009</dataEntrada>
+        <dataSaida>01/02/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6066</idOrgaoLegislativoCD>
+        <siglaComissao>CTUR</siglaComissao>
+        <nomeComissao>Comissão de Turismo</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>03/03/2010</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536850</idOrgaoLegislativoCD>
+        <siglaComissao>GTFICHA</siglaComissao>
+        <nomeComissao>Grupo de Trabalho para analisar o PLP 518/09 (Ficha Limpa), apensado ao PLP 168/93.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>03/03/2010</dataEntrada>
+        <dataSaida>04/06/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536869</idOrgaoLegislativoCD>
+        <siglaComissao>SUBCTORC</siglaComissao>
+        <nomeComissao>Subcomissão Especial destinada a acompanhar a execução orçamentária dos setores abrangidos pela temática da Comissão de Turismo e Desporto.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>27/04/2010</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6912</idOrgaoLegislativoCD>
+        <siglaComissao>CEREFPOL</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a efetuar estudo e apresentar propostas em relação à Reforma Política.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>02/03/2011</dataEntrada>
+        <dataSaida>09/03/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>01/03/2011</dataEntrada>
+        <dataSaida>17/08/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2007</idOrgaoLegislativoCD>
+        <siglaComissao>CDHM</siglaComissao>
+        <nomeComissao>Comissão de Direitos Humanos e Minorias</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>01/03/2011</dataEntrada>
+        <dataSaida>31/01/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>5973</idOrgaoLegislativoCD>
+        <siglaComissao>MERCOSUL</siglaComissao>
+        <nomeComissao>Representação Brasileira no Parlamento do Mercosul.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>31/08/2011</dataEntrada>
+        <dataSaida>21/05/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>14/03/2012</dataEntrada>
+        <dataSaida>20/06/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536986</idOrgaoLegislativoCD>
+        <siglaComissao>CEXCOMP</siglaComissao>
+        <nomeComissao>Comissão Externa destinada a acompanhar a execução das medidas de internação compulsória de dependentes no Estado de São Paulo</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>26/03/2013</dataEntrada>
+        <dataSaida>02/04/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6066</idOrgaoLegislativoCD>
+        <siglaComissao>CTUR</siglaComissao>
+        <nomeComissao>Comissão de Turismo</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>01/03/2011</dataEntrada>
+        <dataSaida>31/01/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6912</idOrgaoLegislativoCD>
+        <siglaComissao>CEREFPOL</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a efetuar estudo e apresentar propostas em relação à Reforma Política.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>09/03/2011</dataEntrada>
+        <dataSaida>18/04/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6914</idOrgaoLegislativoCD>
+        <siglaComissao>CEDROGA</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a promover estudos e proposições de políticas públicas e de Projetos de Lei destinados a combater e prevenir os efeitos do Crack e de outras drogas ilícitas.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>28/03/2011</dataEntrada>
+        <dataSaida>07/12/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9098</idOrgaoLegislativoCD>
+        <siglaComissao>PL233011</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2330, de 2011, do Poder Executivo, que "dispõe sobre as medidas relativas à Copa das Confederações FIFA de 2013 e à Copa do Mundo FIFA de 2014, que serão realizadas no Brasil"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>10/10/2011</dataEntrada>
+        <dataSaida>05/06/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6066</idOrgaoLegislativoCD>
+        <siglaComissao>CTUR</siglaComissao>
+        <nomeComissao>Comissão de Turismo</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>14/03/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>5418</idOrgaoLegislativoCD>
+        <siglaComissao>MESA</siglaComissao>
+        <nomeComissao>Mesa Diretora da Câmara dos Deputados</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>04/02/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+    </comissoes>
+    <cargosComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>6066</idOrgaoLegislativoCD>
+        <siglaComissao>CTUR</siglaComissao>
+        <nomeComissao>Comissão de Turismo</nomeComissao>
+        <idCargo>4</idCargo>
+        <nomeCargo>3º Vice-Presidente</nomeCargo>
+        <dataEntrada>14/02/2007</dataEntrada>
+        <dataSaida>04/03/2008</dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>536869</idOrgaoLegislativoCD>
+        <siglaComissao>SUBCTORC</siglaComissao>
+        <nomeComissao>Subcomissão Especial destinada a acompanhar a execução orçamentária dos setores abrangidos pela temática da Comissão de Turismo e Desporto.</nomeComissao>
+        <idCargo>4</idCargo>
+        <nomeCargo>3º Vice-Presidente</nomeCargo>
+        <dataEntrada>07/05/2010</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>5418</idOrgaoLegislativoCD>
+        <siglaComissao>MESA</siglaComissao>
+        <nomeComissao>Mesa Diretora da Câmara dos Deputados</nomeComissao>
+        <idCargo>3</idCargo>
+        <nomeCargo>2º Vice-Presidente</nomeCargo>
+        <dataEntrada>04/02/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </cargoComissoes>
+    </cargosComissoes>
+    <periodosExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>RN</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2007</dataInicio>
+        <dataFim>31/01/2011</dataFim>
+        <idCausaFimExercicio>99</idCausaFimExercicio>
+        <descricaoCausaFimExercicio>Término da Legislatura</descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>RN</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2011</dataInicio>
+        <dataFim>
+        </dataFim>
+        <idCausaFimExercicio>
+        </idCausaFimExercicio>
+        <descricaoCausaFimExercicio>
+        </descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+    </periodosExercicio>
+    <historicoNomeParlamentar />
+    <filiacoesPartidarias>
+      <filiacaoPartidaria>
+        <idPartidoAnterior>PMN</idPartidoAnterior>
+        <siglaPartidoAnterior>PMN</siglaPartidoAnterior>
+        <nomePartidoAnterior>Partido da Mobilização Nacional</nomePartidoAnterior>
+        <idPartidoPosterior>PSD</idPartidoPosterior>
+        <siglaPartidoPosterior>PSD</siglaPartidoPosterior>
+        <nomePartidoPosterior>Partido Social Democrático</nomePartidoPosterior>
+        <dataFiliacaoPartidoPosterior>26/10/2011</dataFiliacaoPartidoPosterior>
+      </filiacaoPartidaria>
+    </filiacoesPartidarias>
+    <historicoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>141428</idHistoricoLider>
+        <idCargoLideranca>L</idCargoLideranca>
+        <descricaoCargoLideranca>Líder</descricaoCargoLideranca>
+        <numOrdemCargo>1</numOrdemCargo>
+        <dataDesignacao>13/02/2008</dataDesignacao>
+        <dataTermino>03/09/2008</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PMN</siglaUnidadeLideranca>
+        <idBlocoPartido>PMN</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>141428</idHistoricoLider>
+        <idCargoLideranca>V</idCargoLideranca>
+        <descricaoCargoLideranca>Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>37</numOrdemCargo>
+        <dataDesignacao>16/04/2008</dataDesignacao>
+        <dataTermino>11/03/2009</dataTermino>
+        <codigoUnidadeLideranca>B</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSB, PCdoB, PRB</siglaUnidadeLideranca>
+        <idBlocoPartido>533</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>141428</idHistoricoLider>
+        <idCargoLideranca>L</idCargoLideranca>
+        <descricaoCargoLideranca>Líder</descricaoCargoLideranca>
+        <numOrdemCargo>2</numOrdemCargo>
+        <dataDesignacao>07/10/2009</dataDesignacao>
+        <dataTermino>29/10/2009</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PMN</siglaUnidadeLideranca>
+        <idBlocoPartido>PMN</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>141428</idHistoricoLider>
+        <idCargoLideranca>R</idCargoLideranca>
+        <descricaoCargoLideranca>Representante</descricaoCargoLideranca>
+        <numOrdemCargo>1</numOrdemCargo>
+        <dataDesignacao>29/10/2009</dataDesignacao>
+        <dataTermino>31/01/2011</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PMN</siglaUnidadeLideranca>
+        <idBlocoPartido>PMN</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>141428</idHistoricoLider>
+        <idCargoLideranca>R</idCargoLideranca>
+        <descricaoCargoLideranca>Representante</descricaoCargoLideranca>
+        <numOrdemCargo>1</numOrdemCargo>
+        <dataDesignacao>01/02/2011</dataDesignacao>
+        <dataTermino>22/02/2011</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PMN</siglaUnidadeLideranca>
+        <idBlocoPartido>PMN</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>141428</idHistoricoLider>
+        <idCargoLideranca>L</idCargoLideranca>
+        <descricaoCargoLideranca>Líder</descricaoCargoLideranca>
+        <numOrdemCargo>1</numOrdemCargo>
+        <dataDesignacao>22/02/2011</dataDesignacao>
+        <dataTermino>16/03/2011</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PMN</siglaUnidadeLideranca>
+        <idBlocoPartido>PMN</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>141428</idHistoricoLider>
+        <idCargoLideranca>R</idCargoLideranca>
+        <descricaoCargoLideranca>Representante</descricaoCargoLideranca>
+        <numOrdemCargo>1</numOrdemCargo>
+        <dataDesignacao>16/03/2011</dataDesignacao>
+        <dataTermino>01/08/2011</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PMN</siglaUnidadeLideranca>
+        <idBlocoPartido>PMN</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>141428</idHistoricoLider>
+        <idCargoLideranca>L</idCargoLideranca>
+        <descricaoCargoLideranca>Líder</descricaoCargoLideranca>
+        <numOrdemCargo>1</numOrdemCargo>
+        <dataDesignacao>01/08/2011</dataDesignacao>
+        <dataTermino>26/10/2011</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PMN</siglaUnidadeLideranca>
+        <idBlocoPartido>PMN</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>141428</idHistoricoLider>
+        <idCargoLideranca>1</idCargoLideranca>
+        <descricaoCargoLideranca>1º Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>2</numOrdemCargo>
+        <dataDesignacao>24/11/2011</dataDesignacao>
+        <dataTermino>01/02/2013</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSD</siglaUnidadeLideranca>
+        <idBlocoPartido>PSD</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>141428</idHistoricoLider>
+        <idCargoLideranca>L</idCargoLideranca>
+        <descricaoCargoLideranca>Líder</descricaoCargoLideranca>
+        <numOrdemCargo>1</numOrdemCargo>
+        <dataDesignacao>19/11/2012</dataDesignacao>
+        <dataTermino>23/11/2012</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSD</siglaUnidadeLideranca>
+        <idBlocoPartido>PSD</idBlocoPartido>
+      </itemHistoricoLider>
+    </historicoLider>
+  </Deputado>
+</Deputados>

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Deputados>
+  <Deputado>
+    <numLegislatura>54</numLegislatura>
+    <email>dep.aguinaldoribeiro@camara.gov.br</email>
+    <nomeProfissao>Administrador</nomeProfissao>
+    <dataNascimento>13/02/1969</dataNascimento>
+    <dataFalecimento>
+    </dataFalecimento>
+    <ufRepresentacaoAtual>PB</ufRepresentacaoAtual>
+    <situacaoNaLegislaturaAtual>Em Exercício</situacaoNaLegislaturaAtual>
+    <ideCadastro>160527</ideCadastro>
+    <idParlamentarDeprecated>10081</idParlamentarDeprecated>
+    <nomeParlamentarAtual>AGUINALDO RIBEIRO</nomeParlamentarAtual>
+    <nomeCivil>AGUINALDO VELLOSO BORGES RIBEIRO</nomeCivil>
+    <sexo>M</sexo>
+    <partidoAtual>
+      <idPartido>PP</idPartido>
+      <sigla>PP</sigla>
+      <nome>Partido Progressista</nome>
+    </partidoAtual>
+    <gabinete>
+      <numero>735</numero>
+      <anexo>4</anexo>
+      <telefone>3215-5735</telefone>
+    </gabinete>
+    <comissoes>
+      <comissao>
+        <idOrgaoLegislativoCD>2012</idOrgaoLegislativoCD>
+        <siglaComissao>CME</siglaComissao>
+        <nomeComissao>Comissão de Minas e Energia</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>01/03/2011</dataEntrada>
+        <dataSaida>31/01/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6912</idOrgaoLegislativoCD>
+        <siglaComissao>CEREFPOL</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a efetuar estudo e apresentar propostas em relação à Reforma Política.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>31/03/2011</dataEntrada>
+        <dataSaida>28/11/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6975</idOrgaoLegislativoCD>
+        <siglaComissao>SUBSISFI</siglaComissao>
+        <nomeComissao>Subcomissão Permanente do Sistema Financeiro</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>13/04/2011</dataEntrada>
+        <dataSaida>01/04/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6943</idOrgaoLegislativoCD>
+        <siglaComissao>CETERCE</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a promover estudos e proposições voltadas à regulamentação do trabalho terceirizado no Brasil.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>31/05/2011</dataEntrada>
+        <dataSaida>25/10/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6504</idOrgaoLegislativoCD>
+        <siglaComissao>PEC01095</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 10-A, de 1995, do Sr. Adhemar de Barros Filho, que "modifica o art. 45 da Constituição Federal e acrescenta parágrafos ao mesmo artigo", criando o sistema distrital misto</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>26/05/2011</dataEntrada>
+        <dataSaida>28/11/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>5971</idOrgaoLegislativoCD>
+        <siglaComissao>COETICA</siglaComissao>
+        <nomeComissao>Conselho de Ética e Decoro Parlamentar da Câmara dos Deputados</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>14/06/2011</dataEntrada>
+        <dataSaida>24/08/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2010</idOrgaoLegislativoCD>
+        <siglaComissao>CFT</siglaComissao>
+        <nomeComissao>Comissão de Finanças e Tributação</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>01/03/2011</dataEntrada>
+        <dataSaida>11/10/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6972</idOrgaoLegislativoCD>
+        <siglaComissao>SUBRETRI</siglaComissao>
+        <nomeComissao>Subcomissão Especial da Reforma Tributária</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>13/04/2011</dataEntrada>
+        <dataSaida>01/04/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6978</idOrgaoLegislativoCD>
+        <siglaComissao>SUBROYAL</siglaComissao>
+        <nomeComissao>Subcomissão Especial royalties e participação especial sobre recursos oriundos da exploração mineral.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>27/04/2011</dataEntrada>
+        <dataSaida>13/03/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6979</idOrgaoLegislativoCD>
+        <siglaComissao>SUBPRSAL</siglaComissao>
+        <nomeComissao>Subcomissão especial Política nacional relativa à Província Petrolífera do Pré-Sal.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>27/04/2011</dataEntrada>
+        <dataSaida>13/03/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537279</idOrgaoLegislativoCD>
+        <siglaComissao>CPMIPETR</siglaComissao>
+        <nomeComissao>Comissão Parlamentar Mista de Inquérito, com a finalidade de investigar irregularidades envolvendo a empresa Petróleo Brasileiro S/A (PETROBRAS), ocorridas entre os anos de 2005 e 2014 e relacionadas à compra da Refinaria de Pasadena, no Texas (EUA); ao lançamento de plataformas inacabadas; ao pagamento de propina a funcionário da estatal; e ao superfaturamento na construção de refinarias</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>28/05/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+    </comissoes>
+    <cargosComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>6972</idOrgaoLegislativoCD>
+        <siglaComissao>SUBRETRI</siglaComissao>
+        <nomeComissao>Subcomissão Especial da Reforma Tributária</nomeComissao>
+        <idCargo>2</idCargo>
+        <nomeCargo>1º Vice-Presidente</nomeCargo>
+        <dataEntrada>27/04/2011</dataEntrada>
+        <dataSaida>01/04/2014</dataSaida>
+      </cargoComissoes>
+    </cargosComissoes>
+    <periodosExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>PB</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2011</dataInicio>
+        <dataFim>06/02/2012</dataFim>
+        <idCausaFimExercicio>11</idCausaFimExercicio>
+        <descricaoCausaFimExercicio>Ministro de Estado</descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>PB</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>24/03/2014</dataInicio>
+        <dataFim>
+        </dataFim>
+        <idCausaFimExercicio>
+        </idCausaFimExercicio>
+        <descricaoCausaFimExercicio>
+        </descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+    </periodosExercicio>
+    <historicoNomeParlamentar />
+    <filiacoesPartidarias />
+    <historicoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>160527</idHistoricoLider>
+        <idCargoLideranca>V</idCargoLideranca>
+        <descricaoCargoLideranca>Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>2</numOrdemCargo>
+        <dataDesignacao>27/04/2011</dataDesignacao>
+        <dataTermino>11/08/2011</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PP</siglaUnidadeLideranca>
+        <idBlocoPartido>PP</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>160527</idHistoricoLider>
+        <idCargoLideranca>L</idCargoLideranca>
+        <descricaoCargoLideranca>Líder</descricaoCargoLideranca>
+        <numOrdemCargo>1</numOrdemCargo>
+        <dataDesignacao>11/08/2011</dataDesignacao>
+        <dataTermino>06/02/2012</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PP</siglaUnidadeLideranca>
+        <idBlocoPartido>PP</idBlocoPartido>
+      </itemHistoricoLider>
+    </historicoLider>
+  </Deputado>
+</Deputados>

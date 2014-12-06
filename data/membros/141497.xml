@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Deputados>
+  <Deputado>
+    <numLegislatura>53</numLegislatura>
+    <email>
+    </email>
+    <nomeProfissao>ADVOGADO</nomeProfissao>
+    <dataNascimento>23/06/1963</dataNascimento>
+    <dataFalecimento>
+    </dataFalecimento>
+    <ufRepresentacaoAtual>SP</ufRepresentacaoAtual>
+    <situacaoNaLegislaturaAtual>Licenciado</situacaoNaLegislaturaAtual>
+    <ideCadastro>141497</ideCadastro>
+    <idParlamentarDeprecated>4516</idParlamentarDeprecated>
+    <nomeParlamentarAtual>MÁRCIO FRANÇA</nomeParlamentarAtual>
+    <nomeCivil>MÁRCIO LUIZ FRANÇA GOMES</nomeCivil>
+    <sexo>M</sexo>
+    <partidoAtual>
+      <idPartido>PSB</idPartido>
+      <sigla>PSB</sigla>
+      <nome>Partido Socialista Brasileiro</nome>
+    </partidoAtual>
+    <gabinete>
+      <numero>
+      </numero>
+      <anexo>
+      </anexo>
+      <telefone>
+      </telefone>
+    </gabinete>
+    <comissoes>
+      <comissao>
+        <idOrgaoLegislativoCD>2002</idOrgaoLegislativoCD>
+        <siglaComissao>CCTCI</siglaComissao>
+        <nomeComissao>Comissão de Ciência e Tecnologia, Comunicação e Informática</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>14/02/2007</dataEntrada>
+        <dataSaida>20/12/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>28/02/2008</dataEntrada>
+        <dataSaida>02/02/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2011</idOrgaoLegislativoCD>
+        <siglaComissao>CFFC</siglaComissao>
+        <nomeComissao>Comissão de Fiscalização Financeira e Controle</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>04/03/2009</dataEntrada>
+        <dataSaida>01/02/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536585</idOrgaoLegislativoCD>
+        <siglaComissao>PEC05907</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 59-A, de 2007, do Sr. Márcio França, que "acrescenta dispositivos ao art. 144, criando a Polícia Portuária Federal, e dá outras providências".</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>07/04/2009</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536772</idOrgaoLegislativoCD>
+        <siglaComissao>SUBEXEFI</siglaComissao>
+        <nomeComissao>Subcomissão Especial para Acompanhamento, fiscalização e controle das execuções financeiras do Governo Federal.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>29/04/2009</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>03/03/2010</dataEntrada>
+        <dataSaida>10/03/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>14/02/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536477</idOrgaoLegislativoCD>
+        <siglaComissao>REP-0707</siglaComissao>
+        <nomeComissao>Comissão Representativa do Congresso Nacional prevista no § 4º do art. 58 da Constituição Federal (18 a 31 de julho de 2007).</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>18/07/2007</dataEntrada>
+        <dataSaida>31/07/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>04/03/2009</dataEntrada>
+        <dataSaida>01/02/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536720</idOrgaoLegislativoCD>
+        <siglaComissao>CMO-09</siglaComissao>
+        <nomeComissao>Comissão Mista de Planos, Orçamentos Públicos e Fiscalização - CMO</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>24/03/2009</dataEntrada>
+        <dataSaida>30/03/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2011</idOrgaoLegislativoCD>
+        <siglaComissao>CFFC</siglaComissao>
+        <nomeComissao>Comissão de Fiscalização Financeira e Controle</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>03/03/2010</dataEntrada>
+        <dataSaida>10/03/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>10/03/2010</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537015</idOrgaoLegislativoCD>
+        <siglaComissao>CEPENAL</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a efetuar estudo e apresentar propostas em relação à Reforma do Código Penal</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>28/08/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536962</idOrgaoLegislativoCD>
+        <siglaComissao>PEC19612</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 196-A, de 2012, do Senado Federal, que "altera o § 2° do art. 55 da Constituição Federal, para estabelecer que a perda de mandato será decidida por voto aberto nos casos que especifica"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>20/08/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537200</idOrgaoLegislativoCD>
+        <siglaComissao>SUBPAC</siglaComissao>
+        <nomeComissao>Subcomissão Permanente para acompanhamento e fiscalização dos recursos públicos federais aplicados em obras inacabadas e também daquelas em execução no âmbito do Programa de Aceleração do Crescimento - PAC.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>09/04/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>27/06/2012</dataEntrada>
+        <dataSaida>23/08/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6855</idOrgaoLegislativoCD>
+        <siglaComissao>CMO</siglaComissao>
+        <nomeComissao>Comissão Mista de Planos, Orçamentos Públicos e Fiscalização</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>29/11/2012</dataEntrada>
+        <dataSaida>25/03/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>05/03/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536952</idOrgaoLegislativoCD>
+        <siglaComissao>PEC07011</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a apreciar e proferir parecer à Proposta de Emenda à Constituição nº 70-A, de 2011, do Senado Federal, que "altera o procedimento de apreciação das medidas provisórias pelo Congresso Nacional"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>20/08/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537211</idOrgaoLegislativoCD>
+        <siglaComissao>PEC35813</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 358-A, de 2013, do Senado Federal, que "altera os arts. 165 e 166 da Constituição Federal, para tornar obrigatória a execução da programação orçamentária que especifica", e apensada</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>18/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537201</idOrgaoLegislativoCD>
+        <siglaComissao>GTREFTR</siglaComissao>
+        <nomeComissao>Grupo de Trabalho para análise, estudo e formulação de proposições relacionadas à Reforma da Legislação Tributária Nacional</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>20/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2011</idOrgaoLegislativoCD>
+        <siglaComissao>CFFC</siglaComissao>
+        <nomeComissao>Comissão de Fiscalização Financeira e Controle</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>25/02/2014</dataEntrada>
+        <dataSaida>28/05/2014</dataSaida>
+      </comissao>
+    </comissoes>
+    <cargosComissoes />
+    <periodosExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>SP</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2007</dataInicio>
+        <dataFim>01/01/2011</dataFim>
+        <idCausaFimExercicio>12</idCausaFimExercicio>
+        <descricaoCausaFimExercicio>Secretário de Estado</descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>SP</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2011</dataInicio>
+        <dataFim>03/02/2011</dataFim>
+        <idCausaFimExercicio>12</idCausaFimExercicio>
+        <descricaoCausaFimExercicio>Secretário de Estado</descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>SP</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>19/06/2012</dataInicio>
+        <dataFim>
+        </dataFim>
+        <idCausaFimExercicio>
+        </idCausaFimExercicio>
+        <descricaoCausaFimExercicio>
+        </descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+    </periodosExercicio>
+    <historicoNomeParlamentar />
+    <filiacoesPartidarias />
+    <historicoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>141497</idHistoricoLider>
+        <idCargoLideranca>L</idCargoLideranca>
+        <descricaoCargoLideranca>Líder</descricaoCargoLideranca>
+        <numOrdemCargo>1</numOrdemCargo>
+        <dataDesignacao>01/02/2007</dataDesignacao>
+        <dataTermino>01/02/2009</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSB</siglaUnidadeLideranca>
+        <idBlocoPartido>PSB</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>141497</idHistoricoLider>
+        <idCargoLideranca>L</idCargoLideranca>
+        <descricaoCargoLideranca>Líder</descricaoCargoLideranca>
+        <numOrdemCargo>1</numOrdemCargo>
+        <dataDesignacao>01/02/2007</dataDesignacao>
+        <dataTermino>14/06/2007</dataTermino>
+        <codigoUnidadeLideranca>B</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSB, PCdoB, PRB</siglaUnidadeLideranca>
+        <idBlocoPartido>533</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>141497</idHistoricoLider>
+        <idCargoLideranca>V</idCargoLideranca>
+        <descricaoCargoLideranca>Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>26</numOrdemCargo>
+        <dataDesignacao>18/06/2007</dataDesignacao>
+        <dataTermino>28/06/2007</dataTermino>
+        <codigoUnidadeLideranca>B</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSB, PCdoB, PRB</siglaUnidadeLideranca>
+        <idBlocoPartido>533</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>141497</idHistoricoLider>
+        <idCargoLideranca>L</idCargoLideranca>
+        <descricaoCargoLideranca>Líder</descricaoCargoLideranca>
+        <numOrdemCargo>1</numOrdemCargo>
+        <dataDesignacao>28/06/2007</dataDesignacao>
+        <dataTermino>08/08/2007</dataTermino>
+        <codigoUnidadeLideranca>B</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSB, PCdoB, PRB</siglaUnidadeLideranca>
+        <idBlocoPartido>533</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>141497</idHistoricoLider>
+        <idCargoLideranca>1</idCargoLideranca>
+        <descricaoCargoLideranca>1º Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>2</numOrdemCargo>
+        <dataDesignacao>09/08/2007</dataDesignacao>
+        <dataTermino>01/02/2009</dataTermino>
+        <codigoUnidadeLideranca>B</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSB, PCdoB, PRB</siglaUnidadeLideranca>
+        <idBlocoPartido>533</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>141497</idHistoricoLider>
+        <idCargoLideranca>L</idCargoLideranca>
+        <descricaoCargoLideranca>Líder</descricaoCargoLideranca>
+        <numOrdemCargo>1</numOrdemCargo>
+        <dataDesignacao>01/02/2009</dataDesignacao>
+        <dataTermino>10/02/2010</dataTermino>
+        <codigoUnidadeLideranca>B</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSB, PCdoB, PRB</siglaUnidadeLideranca>
+        <idBlocoPartido>533</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>141497</idHistoricoLider>
+        <idCargoLideranca>1</idCargoLideranca>
+        <descricaoCargoLideranca>1º Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>2</numOrdemCargo>
+        <dataDesignacao>10/02/2010</dataDesignacao>
+        <dataTermino>05/10/2010</dataTermino>
+        <codigoUnidadeLideranca>B</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSB, PCdoB, PRB</siglaUnidadeLideranca>
+        <idBlocoPartido>533</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>141497</idHistoricoLider>
+        <idCargoLideranca>L</idCargoLideranca>
+        <descricaoCargoLideranca>Líder</descricaoCargoLideranca>
+        <numOrdemCargo>1</numOrdemCargo>
+        <dataDesignacao>05/10/2010</dataDesignacao>
+        <dataTermino>31/01/2011</dataTermino>
+        <codigoUnidadeLideranca>B</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSB, PCdoB, PRB</siglaUnidadeLideranca>
+        <idBlocoPartido>533</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>141497</idHistoricoLider>
+        <idCargoLideranca>V</idCargoLideranca>
+        <descricaoCargoLideranca>Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>8</numOrdemCargo>
+        <dataDesignacao>18/12/2012</dataDesignacao>
+        <dataTermino>07/02/2013</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSB</siglaUnidadeLideranca>
+        <idBlocoPartido>PSB</idBlocoPartido>
+      </itemHistoricoLider>
+    </historicoLider>
+  </Deputado>
+  <Deputado>
+    <numLegislatura>54</numLegislatura>
+    <email>dep.marciofranca@camara.gov.br</email>
+    <nomeProfissao>ADVOGADO</nomeProfissao>
+    <dataNascimento>23/06/1963</dataNascimento>
+    <dataFalecimento>
+    </dataFalecimento>
+    <ufRepresentacaoAtual>SP</ufRepresentacaoAtual>
+    <situacaoNaLegislaturaAtual>Em Exercício</situacaoNaLegislaturaAtual>
+    <ideCadastro>141497</ideCadastro>
+    <idParlamentarDeprecated>4516</idParlamentarDeprecated>
+    <nomeParlamentarAtual>MÁRCIO FRANÇA</nomeParlamentarAtual>
+    <nomeCivil>MÁRCIO LUIZ FRANÇA GOMES</nomeCivil>
+    <sexo>M</sexo>
+    <partidoAtual>
+      <idPartido>PSB</idPartido>
+      <sigla>PSB</sigla>
+      <nome>Partido Socialista Brasileiro</nome>
+    </partidoAtual>
+    <gabinete>
+      <numero>543</numero>
+      <anexo>4</anexo>
+      <telefone>3215-5543</telefone>
+    </gabinete>
+    <comissoes>
+      <comissao>
+        <idOrgaoLegislativoCD>2002</idOrgaoLegislativoCD>
+        <siglaComissao>CCTCI</siglaComissao>
+        <nomeComissao>Comissão de Ciência e Tecnologia, Comunicação e Informática</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>14/02/2007</dataEntrada>
+        <dataSaida>20/12/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>28/02/2008</dataEntrada>
+        <dataSaida>02/02/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2011</idOrgaoLegislativoCD>
+        <siglaComissao>CFFC</siglaComissao>
+        <nomeComissao>Comissão de Fiscalização Financeira e Controle</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>04/03/2009</dataEntrada>
+        <dataSaida>01/02/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536585</idOrgaoLegislativoCD>
+        <siglaComissao>PEC05907</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 59-A, de 2007, do Sr. Márcio França, que "acrescenta dispositivos ao art. 144, criando a Polícia Portuária Federal, e dá outras providências".</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>07/04/2009</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536772</idOrgaoLegislativoCD>
+        <siglaComissao>SUBEXEFI</siglaComissao>
+        <nomeComissao>Subcomissão Especial para Acompanhamento, fiscalização e controle das execuções financeiras do Governo Federal.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>29/04/2009</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>03/03/2010</dataEntrada>
+        <dataSaida>10/03/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>14/02/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536477</idOrgaoLegislativoCD>
+        <siglaComissao>REP-0707</siglaComissao>
+        <nomeComissao>Comissão Representativa do Congresso Nacional prevista no § 4º do art. 58 da Constituição Federal (18 a 31 de julho de 2007).</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>18/07/2007</dataEntrada>
+        <dataSaida>31/07/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>04/03/2009</dataEntrada>
+        <dataSaida>01/02/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536720</idOrgaoLegislativoCD>
+        <siglaComissao>CMO-09</siglaComissao>
+        <nomeComissao>Comissão Mista de Planos, Orçamentos Públicos e Fiscalização - CMO</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>24/03/2009</dataEntrada>
+        <dataSaida>30/03/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2011</idOrgaoLegislativoCD>
+        <siglaComissao>CFFC</siglaComissao>
+        <nomeComissao>Comissão de Fiscalização Financeira e Controle</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>03/03/2010</dataEntrada>
+        <dataSaida>10/03/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>10/03/2010</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537015</idOrgaoLegislativoCD>
+        <siglaComissao>CEPENAL</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a efetuar estudo e apresentar propostas em relação à Reforma do Código Penal</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>28/08/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536962</idOrgaoLegislativoCD>
+        <siglaComissao>PEC19612</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 196-A, de 2012, do Senado Federal, que "altera o § 2° do art. 55 da Constituição Federal, para estabelecer que a perda de mandato será decidida por voto aberto nos casos que especifica"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>20/08/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537200</idOrgaoLegislativoCD>
+        <siglaComissao>SUBPAC</siglaComissao>
+        <nomeComissao>Subcomissão Permanente para acompanhamento e fiscalização dos recursos públicos federais aplicados em obras inacabadas e também daquelas em execução no âmbito do Programa de Aceleração do Crescimento - PAC.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>09/04/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>27/06/2012</dataEntrada>
+        <dataSaida>23/08/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6855</idOrgaoLegislativoCD>
+        <siglaComissao>CMO</siglaComissao>
+        <nomeComissao>Comissão Mista de Planos, Orçamentos Públicos e Fiscalização</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>29/11/2012</dataEntrada>
+        <dataSaida>25/03/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>05/03/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536952</idOrgaoLegislativoCD>
+        <siglaComissao>PEC07011</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a apreciar e proferir parecer à Proposta de Emenda à Constituição nº 70-A, de 2011, do Senado Federal, que "altera o procedimento de apreciação das medidas provisórias pelo Congresso Nacional"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>20/08/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537211</idOrgaoLegislativoCD>
+        <siglaComissao>PEC35813</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 358-A, de 2013, do Senado Federal, que "altera os arts. 165 e 166 da Constituição Federal, para tornar obrigatória a execução da programação orçamentária que especifica", e apensada</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>18/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537201</idOrgaoLegislativoCD>
+        <siglaComissao>GTREFTR</siglaComissao>
+        <nomeComissao>Grupo de Trabalho para análise, estudo e formulação de proposições relacionadas à Reforma da Legislação Tributária Nacional</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>20/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2011</idOrgaoLegislativoCD>
+        <siglaComissao>CFFC</siglaComissao>
+        <nomeComissao>Comissão de Fiscalização Financeira e Controle</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>25/02/2014</dataEntrada>
+        <dataSaida>28/05/2014</dataSaida>
+      </comissao>
+    </comissoes>
+    <cargosComissoes />
+    <periodosExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>SP</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2007</dataInicio>
+        <dataFim>01/01/2011</dataFim>
+        <idCausaFimExercicio>12</idCausaFimExercicio>
+        <descricaoCausaFimExercicio>Secretário de Estado</descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>SP</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2011</dataInicio>
+        <dataFim>03/02/2011</dataFim>
+        <idCausaFimExercicio>12</idCausaFimExercicio>
+        <descricaoCausaFimExercicio>Secretário de Estado</descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>SP</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>19/06/2012</dataInicio>
+        <dataFim>
+        </dataFim>
+        <idCausaFimExercicio>
+        </idCausaFimExercicio>
+        <descricaoCausaFimExercicio>
+        </descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+    </periodosExercicio>
+    <historicoNomeParlamentar />
+    <filiacoesPartidarias />
+    <historicoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>141497</idHistoricoLider>
+        <idCargoLideranca>L</idCargoLideranca>
+        <descricaoCargoLideranca>Líder</descricaoCargoLideranca>
+        <numOrdemCargo>1</numOrdemCargo>
+        <dataDesignacao>01/02/2007</dataDesignacao>
+        <dataTermino>01/02/2009</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSB</siglaUnidadeLideranca>
+        <idBlocoPartido>PSB</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>141497</idHistoricoLider>
+        <idCargoLideranca>L</idCargoLideranca>
+        <descricaoCargoLideranca>Líder</descricaoCargoLideranca>
+        <numOrdemCargo>1</numOrdemCargo>
+        <dataDesignacao>01/02/2007</dataDesignacao>
+        <dataTermino>14/06/2007</dataTermino>
+        <codigoUnidadeLideranca>B</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSB, PCdoB, PRB</siglaUnidadeLideranca>
+        <idBlocoPartido>533</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>141497</idHistoricoLider>
+        <idCargoLideranca>V</idCargoLideranca>
+        <descricaoCargoLideranca>Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>26</numOrdemCargo>
+        <dataDesignacao>18/06/2007</dataDesignacao>
+        <dataTermino>28/06/2007</dataTermino>
+        <codigoUnidadeLideranca>B</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSB, PCdoB, PRB</siglaUnidadeLideranca>
+        <idBlocoPartido>533</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>141497</idHistoricoLider>
+        <idCargoLideranca>L</idCargoLideranca>
+        <descricaoCargoLideranca>Líder</descricaoCargoLideranca>
+        <numOrdemCargo>1</numOrdemCargo>
+        <dataDesignacao>28/06/2007</dataDesignacao>
+        <dataTermino>08/08/2007</dataTermino>
+        <codigoUnidadeLideranca>B</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSB, PCdoB, PRB</siglaUnidadeLideranca>
+        <idBlocoPartido>533</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>141497</idHistoricoLider>
+        <idCargoLideranca>1</idCargoLideranca>
+        <descricaoCargoLideranca>1º Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>2</numOrdemCargo>
+        <dataDesignacao>09/08/2007</dataDesignacao>
+        <dataTermino>01/02/2009</dataTermino>
+        <codigoUnidadeLideranca>B</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSB, PCdoB, PRB</siglaUnidadeLideranca>
+        <idBlocoPartido>533</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>141497</idHistoricoLider>
+        <idCargoLideranca>L</idCargoLideranca>
+        <descricaoCargoLideranca>Líder</descricaoCargoLideranca>
+        <numOrdemCargo>1</numOrdemCargo>
+        <dataDesignacao>01/02/2009</dataDesignacao>
+        <dataTermino>10/02/2010</dataTermino>
+        <codigoUnidadeLideranca>B</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSB, PCdoB, PRB</siglaUnidadeLideranca>
+        <idBlocoPartido>533</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>141497</idHistoricoLider>
+        <idCargoLideranca>1</idCargoLideranca>
+        <descricaoCargoLideranca>1º Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>2</numOrdemCargo>
+        <dataDesignacao>10/02/2010</dataDesignacao>
+        <dataTermino>05/10/2010</dataTermino>
+        <codigoUnidadeLideranca>B</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSB, PCdoB, PRB</siglaUnidadeLideranca>
+        <idBlocoPartido>533</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>141497</idHistoricoLider>
+        <idCargoLideranca>L</idCargoLideranca>
+        <descricaoCargoLideranca>Líder</descricaoCargoLideranca>
+        <numOrdemCargo>1</numOrdemCargo>
+        <dataDesignacao>05/10/2010</dataDesignacao>
+        <dataTermino>31/01/2011</dataTermino>
+        <codigoUnidadeLideranca>B</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSB, PCdoB, PRB</siglaUnidadeLideranca>
+        <idBlocoPartido>533</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>141497</idHistoricoLider>
+        <idCargoLideranca>V</idCargoLideranca>
+        <descricaoCargoLideranca>Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>8</numOrdemCargo>
+        <dataDesignacao>18/12/2012</dataDesignacao>
+        <dataTermino>07/02/2013</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSB</siglaUnidadeLideranca>
+        <idBlocoPartido>PSB</idBlocoPartido>
+      </itemHistoricoLider>
+    </historicoLider>
+  </Deputado>
+</Deputados>

@@ -1,0 +1,2830 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Deputados>
+  <Deputado>
+    <numLegislatura>53</numLegislatura>
+    <email>
+    </email>
+    <nomeProfissao>Bancário</nomeProfissao>
+    <dataNascimento>12/06/1970</dataNascimento>
+    <dataFalecimento>
+    </dataFalecimento>
+    <ufRepresentacaoAtual>RJ</ufRepresentacaoAtual>
+    <situacaoNaLegislaturaAtual>Em Exercício</situacaoNaLegislaturaAtual>
+    <ideCadastro>74693</ideCadastro>
+    <idParlamentarDeprecated>3603</idParlamentarDeprecated>
+    <nomeParlamentarAtual>RODRIGO MAIA</nomeParlamentarAtual>
+    <nomeCivil>RODRIGO FELINTO IBARRA EPITÁCIO MAIA</nomeCivil>
+    <sexo>M</sexo>
+    <partidoAtual>
+      <idPartido>DEM</idPartido>
+      <sigla>DEM</sigla>
+      <nome>Democratas</nome>
+    </partidoAtual>
+    <gabinete>
+      <numero>
+      </numero>
+      <anexo>
+      </anexo>
+      <telefone>
+      </telefone>
+    </gabinete>
+    <comissoes>
+      <comissao>
+        <idOrgaoLegislativoCD>2010</idOrgaoLegislativoCD>
+        <siglaComissao>CFT</siglaComissao>
+        <nomeComissao>Comissão de Finanças e Tributação</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>26/02/2003</dataEntrada>
+        <dataSaida>15/02/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>525968</idOrgaoLegislativoCD>
+        <siglaComissao>REFPOLIT</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a efetuar estudo em relação às matérias em tramitação na Casa, cujo tema abranja a Reforma Política.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>26/02/2003</dataEntrada>
+        <dataSaida>05/03/2003</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526020</idOrgaoLegislativoCD>
+        <siglaComissao>PEC04103</siglaComissao>
+        <nomeComissao>Altera o Sistema Tributário Nacional e dá outras providências.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>22/08/2003</dataEntrada>
+        <dataSaida>25/08/2003</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526081</idOrgaoLegislativoCD>
+        <siglaComissao>CPIGRUPO</siglaComissao>
+        <nomeComissao>Comissão Parlamentar de Inquérito destinada a "investigar a ação criminosa das milícias privadas e dos grupos de extermínio em toda a Região Nordeste".</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>14/11/2003</dataEntrada>
+        <dataSaida>22/11/2005</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>525360</idOrgaoLegislativoCD>
+        <siglaComissao>PEC00399</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição, nº 3-A, de 1999, que "altera os arts. 27, 28, 29, 44 e 82 da Constituição Federal, e introduz disposições transitórias, de forma a fazer coincidir os mandatos eletivos que menciona e atribuir-lhes novo período de duração" e apensadas.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>11/12/2003</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526122</idOrgaoLegislativoCD>
+        <siglaComissao>PEC10103</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 101-A, de 2003, que "dá nova redação ao § 4º do art. 57 da Constituição Federal" (autorizando a reeleição dos membros das Mesas Diretoras da Câmara dos Deputados e do Senado Federal).</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>24/03/2004</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>24/03/2004</dataEntrada>
+        <dataSaida>22/04/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2011</idOrgaoLegislativoCD>
+        <siglaComissao>CFFC</siglaComissao>
+        <nomeComissao>Comissão de Fiscalização Financeira e Controle</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>24/03/2004</dataEntrada>
+        <dataSaida>26/03/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526139</idOrgaoLegislativoCD>
+        <siglaComissao>PL487401</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a oferecer parecer às emendas de Plenário recebidas pelo Projeto de Lei nº 4874, de 2001, que "institui o Estatuto do Desporto".</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>19/05/2004</dataEntrada>
+        <dataSaida>11/05/2005</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526189</idOrgaoLegislativoCD>
+        <siglaComissao>PL333704</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 3.337, de 2004, que "dispõe sobre a gestão, a organização e o controle social das Agências Reguladoras, acresce e altera dispositivos das Leis nº 9.472, de 16 de julho de 1997, nº 9.478, de 6 de agosto de 1997, nº 9.782, de 26 de janeiro de 1999, nº 9.961, de 28 de janeiro de 2000, nº 9.984, de 17 de julho de 2000, nº 9.986, de 18 de julho de 2000, e nº 10.233, de 5 de junho de 2001, da Medida Provisória nº 2.228-1, de 6 de setembro de 2001, e dá outras providências".</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>11/05/2004</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6165</idOrgaoLegislativoCD>
+        <siglaComissao>CMO-04</siglaComissao>
+        <nomeComissao>Comissão Mista de Planos, Orçamentos Públicos e Fiscalização.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>18/05/2004</dataEntrada>
+        <dataSaida>30/05/2005</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526102</idOrgaoLegislativoCD>
+        <siglaComissao>PL210999</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2109, de 1999, que "dispõe sobre a constituição de patrimônio de afetação nas incorporações imobiliárias de que trata a Lei nº 4.591, de 16 de dezembro de 1964".</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>13/05/2004</dataEntrada>
+        <dataSaida>02/08/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526301</idOrgaoLegislativoCD>
+        <siglaComissao>PEC54802</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 548-A, de 2002, que "dá nova redação ao § 1º do art. 17 da Constituição Federal, para disciplinar as coligações eleitorais".</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>02/06/2005</dataEntrada>
+        <dataSaida>08/02/2006</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2010</idOrgaoLegislativoCD>
+        <siglaComissao>CFT</siglaComissao>
+        <nomeComissao>Comissão de Finanças e Tributação</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>14/07/2005</dataEntrada>
+        <dataSaida>28/03/2006</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2011</idOrgaoLegislativoCD>
+        <siglaComissao>CFFC</siglaComissao>
+        <nomeComissao>Comissão de Fiscalização Financeira e Controle</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>14/07/2005</dataEntrada>
+        <dataSaida>28/03/2006</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2015</idOrgaoLegislativoCD>
+        <siglaComissao>CTASP</siglaComissao>
+        <nomeComissao>Comissão de Trabalho, de Administração e Serviço Público</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>26/02/2003</dataEntrada>
+        <dataSaida>03/06/2003</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>525997</idOrgaoLegislativoCD>
+        <siglaComissao>CPIPIRAT</siglaComissao>
+        <nomeComissao>Comissão Parlamentar de Inquérito  com a finalidade de investigar fatos relacionados à pirataria de produtos industrializados e sonegação fiscal.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>30/05/2003</dataEntrada>
+        <dataSaida>11/06/2003</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>03/06/2003</dataEntrada>
+        <dataSaida>28/08/2003</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526045</idOrgaoLegislativoCD>
+        <siglaComissao>CPMIDIVI</siglaComissao>
+        <nomeComissao>Comissão Parlamentar Mista de Inquérito com a finalidade de " apurar as responsabilidades sobre a evasão de divisas do Brasil, especificamente para os chamados paraísos fiscais, em razão de denúncias veiculadas pela imprensa, reveladas pela Operação Macuco, realizada pela Polícia Federal, a qual  apurou a evasão de US$ 30 bilhões"efetuada entre 1996 e 2002, por meio das chamadas contas CC5".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>18/06/2003</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2015</idOrgaoLegislativoCD>
+        <siglaComissao>CTASP</siglaComissao>
+        <nomeComissao>Comissão de Trabalho, de Administração e Serviço Público</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>28/08/2003</dataEntrada>
+        <dataSaida>10/09/2003</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526072</idOrgaoLegislativoCD>
+        <siglaComissao>PLP07603</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei Complementar nº 76, de 2003, que "institui, na forma do art. 43 da Constituição, a Superintendência do Desenvolvimento do Nordeste - SUDENE, estabelece a sua composição, natureza jurídica, objetivos, área de competência e instrumentos de ação".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>03/09/2003</dataEntrada>
+        <dataSaida>17/09/2003</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>10/09/2003</dataEntrada>
+        <dataSaida>03/11/2003</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526081</idOrgaoLegislativoCD>
+        <siglaComissao>CPIGRUPO</siglaComissao>
+        <nomeComissao>Comissão Parlamentar de Inquérito destinada a "investigar a ação criminosa das milícias privadas e dos grupos de extermínio em toda a Região Nordeste".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>23/09/2003</dataEntrada>
+        <dataSaida>14/11/2003</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2015</idOrgaoLegislativoCD>
+        <siglaComissao>CTASP</siglaComissao>
+        <nomeComissao>Comissão de Trabalho, de Administração e Serviço Público</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>03/11/2003</dataEntrada>
+        <dataSaida>15/02/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526118</idOrgaoLegislativoCD>
+        <siglaComissao>PL240103</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2401, de 2003, que "estabelece normas de segurança e mecanismos de fiscalização de atividades que envolvam organismos geneticamente modificados - OGM e seus derivados, cria o Conselho Nacional de Biossegurança - CNBS, reestrutura a Comissão Técnica Nacional de Biossegurança - CTNBio, dispõe sobre a Política Nacional de Biossegurança e dá outras providências".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>12/11/2003</dataEntrada>
+        <dataSaida>13/11/2003</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526124</idOrgaoLegislativoCD>
+        <siglaComissao>REP-1203</siglaComissao>
+        <nomeComissao>Comissão Representativa do Congresso Nacional prevista no § 4º do art. 58 da Constituição Federal (período de 16 de dezembro de 2003 a 14 de fevereiro de 2004).</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>24/12/2003</dataEntrada>
+        <dataSaida>19/01/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526140</idOrgaoLegislativoCD>
+        <siglaComissao>PL254603</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2546, de 2003, que "institui normas gerais para licitação e contratação de parceria público-privada, no âmbito da Administração Pública".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>21/01/2004</dataEntrada>
+        <dataSaida>05/02/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526122</idOrgaoLegislativoCD>
+        <siglaComissao>PEC10103</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 101-A, de 2003, que "dá nova redação ao § 4º do art. 57 da Constituição Federal" (autorizando a reeleição dos membros das Mesas Diretoras da Câmara dos Deputados e do Senado Federal).</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>23/03/2004</dataEntrada>
+        <dataSaida>24/03/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2015</idOrgaoLegislativoCD>
+        <siglaComissao>CTASP</siglaComissao>
+        <nomeComissao>Comissão de Trabalho, de Administração e Serviço Público</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>24/03/2004</dataEntrada>
+        <dataSaida>01/03/2005</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526102</idOrgaoLegislativoCD>
+        <siglaComissao>PL210999</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2109, de 1999, que "dispõe sobre a constituição de patrimônio de afetação nas incorporações imobiliárias de que trata a Lei nº 4.591, de 16 de dezembro de 1964".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>11/05/2004</dataEntrada>
+        <dataSaida>13/05/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526199</idOrgaoLegislativoCD>
+        <siglaComissao>PL347604</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 3.476, de 2004, que "dispõe sobre incentivos à inovação e à pesquisa científica e tecnológica no ambiente produtivo, e dá outras providências".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>08/06/2004</dataEntrada>
+        <dataSaida>02/12/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526123</idOrgaoLegislativoCD>
+        <siglaComissao>CPIBIOPI</siglaComissao>
+        <nomeComissao>Comissão Parlamentar de Inquérito destinada a "investigar o tráfico de animais e plantas silvestres brasileiros, a exploração e comércio ilegal de madeira e a biopirataria no País".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>25/08/2004</dataEntrada>
+        <dataSaida>15/09/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526324</idOrgaoLegislativoCD>
+        <siglaComissao>PEC536-A</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 536-A, de 1997, que "modifica o artigo 60 do Ato das Disposições Constitucionais Transitórias" (estabelecendo que a União complementará os recursos dos Fundos de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério, de modo a que seja atingido o valor mínimo por aluno definido nacionalmente e não haja redução do gasto por aluno do ensino fundamental que foi praticado até dezembro do ano de 1997, em cada Município, Estado ou DF, alterando a nova Constituição Federal).</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>29/11/2005</dataEntrada>
+        <dataSaida>30/11/2005</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526341</idOrgaoLegislativoCD>
+        <siglaComissao>REP-1205</siglaComissao>
+        <nomeComissao>Comissão Representativa do Congresso Nacional prevista no § 4º do art. 58 da Constituição Federal (dezembro de 2005 a fevereiro de 2006).</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>16/12/2005</dataEntrada>
+        <dataSaida>14/02/2006</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2010</idOrgaoLegislativoCD>
+        <siglaComissao>CFT</siglaComissao>
+        <nomeComissao>Comissão de Finanças e Tributação</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>14/02/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2002</idOrgaoLegislativoCD>
+        <siglaComissao>CCTCI</siglaComissao>
+        <nomeComissao>Comissão de Ciência e Tecnologia, Comunicação e Informática</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>08/07/2008</dataEntrada>
+        <dataSaida>08/07/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2015</idOrgaoLegislativoCD>
+        <siglaComissao>CTASP</siglaComissao>
+        <nomeComissao>Comissão de Trabalho, de Administração e Serviço Público</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>04/03/2009</dataEntrada>
+        <dataSaida>10/03/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>5438</idOrgaoLegislativoCD>
+        <siglaComissao>CLP</siglaComissao>
+        <nomeComissao>Comissão de Legislação Participativa</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>10/03/2009</dataEntrada>
+        <dataSaida>01/02/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2007</idOrgaoLegislativoCD>
+        <siglaComissao>CDHM</siglaComissao>
+        <nomeComissao>Comissão de Direitos Humanos e Minorias</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>09/03/2010</dataEntrada>
+        <dataSaida>31/03/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2015</idOrgaoLegislativoCD>
+        <siglaComissao>CTASP</siglaComissao>
+        <nomeComissao>Comissão de Trabalho, de Administração e Serviço Público</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>08/03/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2014</idOrgaoLegislativoCD>
+        <siglaComissao>CSSF</siglaComissao>
+        <nomeComissao>Comissão de Seguridade Social e Família</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>04/03/2008</dataEntrada>
+        <dataSaida>08/07/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2002</idOrgaoLegislativoCD>
+        <siglaComissao>CCTCI</siglaComissao>
+        <nomeComissao>Comissão de Ciência e Tecnologia, Comunicação e Informática</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>08/07/2008</dataEntrada>
+        <dataSaida>11/07/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2002</idOrgaoLegislativoCD>
+        <siglaComissao>CCTCI</siglaComissao>
+        <nomeComissao>Comissão de Ciência e Tecnologia, Comunicação e Informática</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>16/07/2008</dataEntrada>
+        <dataSaida>17/07/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2011</idOrgaoLegislativoCD>
+        <siglaComissao>CFFC</siglaComissao>
+        <nomeComissao>Comissão de Fiscalização Financeira e Controle</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>04/03/2009</dataEntrada>
+        <dataSaida>01/02/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536739</idOrgaoLegislativoCD>
+        <siglaComissao>SUBCOPA</siglaComissao>
+        <nomeComissao>Subcomissão Permanente para acompanhamento, fiscalização e controle dos Recursos Públicos Federais destinados à Copa de 2014 e das Olimpíadas de 2016.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>27/03/2009</dataEntrada>
+        <dataSaida>10/03/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536745</idOrgaoLegislativoCD>
+        <siglaComissao>SUBFIPAC</siglaComissao>
+        <nomeComissao>Subcomissão Permanente de Acompanhamento, Fiscalização e Controle da Execução Orçamentária e Financeira  do Programa de Aceleração do Crescimento - PAC</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>02/04/2009</dataEntrada>
+        <dataSaida>10/03/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536807</idOrgaoLegislativoCD>
+        <siglaComissao>PL250207</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2502, de 2007, do Sr. Eduardo Valverde, que "altera a Lei nº 9.478, de 06 de agosto de 1997,que dispõe sobre a política energética nacional, as atividades relativas ao monopólio do petróleo, institui o Conselho Nacional de Política Energética e a Agência Nacional do Petróleo".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>16/09/2009</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2011</idOrgaoLegislativoCD>
+        <siglaComissao>CFFC</siglaComissao>
+        <nomeComissao>Comissão de Fiscalização Financeira e Controle</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>03/03/2010</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536858</idOrgaoLegislativoCD>
+        <siglaComissao>CEXEMEND</siglaComissao>
+        <nomeComissao>Comissão Externa integrada pelos Deputados do Rio de Janeiro e Espírito Santo, para participarem  de ato público, em decorrência da aprovação da emenda nº 387 ao Projeto de Lei nº 2502, de 2007, que redistribuiu a divisão dos royalties do petróleo, a realizar-se no Rio de Janeiro.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>16/03/2010</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2002</idOrgaoLegislativoCD>
+        <siglaComissao>CCTCI</siglaComissao>
+        <nomeComissao>Comissão de Ciência e Tecnologia, Comunicação e Informática</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>01/03/2011</dataEntrada>
+        <dataSaida>31/01/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6972</idOrgaoLegislativoCD>
+        <siglaComissao>SUBRETRI</siglaComissao>
+        <nomeComissao>Subcomissão Especial da Reforma Tributária</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>13/04/2011</dataEntrada>
+        <dataSaida>01/04/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2009</idOrgaoLegislativoCD>
+        <siglaComissao>CE</siglaComissao>
+        <nomeComissao>Comissão de Educação</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>12/07/2011</dataEntrada>
+        <dataSaida>13/07/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2011</idOrgaoLegislativoCD>
+        <siglaComissao>CFFC</siglaComissao>
+        <nomeComissao>Comissão de Fiscalização Financeira e Controle</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>07/03/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2010</idOrgaoLegislativoCD>
+        <siglaComissao>CFT</siglaComissao>
+        <nomeComissao>Comissão de Finanças e Tributação</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>05/03/2013</dataEntrada>
+        <dataSaida>12/12/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537105</idOrgaoLegislativoCD>
+        <siglaComissao>PEC09011</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 90-A, de 2011, da Sra Luiza Erundina, que "dá nova redação ao art. 6º da Constituição Federal, para introduzir o transporte como direito social"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>28/08/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537199</idOrgaoLegislativoCD>
+        <siglaComissao>PL520113</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 5201, de 2013, do Sr.  André Figueiredo, que "altera a Lei nº 11.345, de 14 de setembro de 2006, para modificar a destinação dos valores arrecadados no concurso de prognóstico denominado Timemania com o objetivo de torná-la mais atraente para seus apostadores e de aumentar a capacidade de pagamento das entidades desportivas quanto às suas dívidas fiscais junto à União, e dá outras providências " e apensado</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>26/11/2013</dataEntrada>
+        <dataSaida>11/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2010</idOrgaoLegislativoCD>
+        <siglaComissao>CFT</siglaComissao>
+        <nomeComissao>Comissão de Finanças e Tributação</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>12/12/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2010</idOrgaoLegislativoCD>
+        <siglaComissao>CFT</siglaComissao>
+        <nomeComissao>Comissão de Finanças e Tributação</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>25/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537103</idOrgaoLegislativoCD>
+        <siglaComissao>CMCLF</siglaComissao>
+        <nomeComissao>Comissão Mista destinada a consolidar a legislação federal e a regulamentar dispositivos da Constituição Federal.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>11/03/2014</dataEntrada>
+        <dataSaida>11/11/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537110</idOrgaoLegislativoCD>
+        <siglaComissao>PL569213</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei  nº 5692, de 2013, do Sr. Sérgio Zveiter, que "dispõe sobre o monopólio da União na exploração das riquezas da Amazônia, com a criação do Conselho Nacional de Política da Amazônia e da Agência Nacional de Exploração dos Recursos Naturais da Amazônia, garantindo a proteção ao meio ambiente e a soberania nacional, e dá outras providências"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>02/04/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2008</idOrgaoLegislativoCD>
+        <siglaComissao>CDEIC</siglaComissao>
+        <nomeComissao>Comissão de Desenvolvimento Econômico, Indústria e Comércio</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>15/04/2014</dataEntrada>
+        <dataSaida>22/04/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2012</idOrgaoLegislativoCD>
+        <siglaComissao>CME</siglaComissao>
+        <nomeComissao>Comissão de Minas e Energia</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>29/04/2014</dataEntrada>
+        <dataSaida>16/07/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2010</idOrgaoLegislativoCD>
+        <siglaComissao>CFT</siglaComissao>
+        <nomeComissao>Comissão de Finanças e Tributação</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>01/03/2011</dataEntrada>
+        <dataSaida>03/05/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6722</idOrgaoLegislativoCD>
+        <siglaComissao>CMMC</siglaComissao>
+        <nomeComissao>Comissão Mista Permanente sobre Mudanças Climáticas - CMMC</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>30/03/2011</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6973</idOrgaoLegislativoCD>
+        <siglaComissao>SUBASFED</siglaComissao>
+        <nomeComissao>Subcomissão Permanente de Assuntos Federativos</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>13/04/2011</dataEntrada>
+        <dataSaida>01/04/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2011</idOrgaoLegislativoCD>
+        <siglaComissao>CFFC</siglaComissao>
+        <nomeComissao>Comissão de Fiscalização Financeira e Controle</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>03/05/2011</dataEntrada>
+        <dataSaida>13/05/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2011</idOrgaoLegislativoCD>
+        <siglaComissao>CFFC</siglaComissao>
+        <nomeComissao>Comissão de Fiscalização Financeira e Controle</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>17/05/2011</dataEntrada>
+        <dataSaida>27/05/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2010</idOrgaoLegislativoCD>
+        <siglaComissao>CFT</siglaComissao>
+        <nomeComissao>Comissão de Finanças e Tributação</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>27/05/2011</dataEntrada>
+        <dataSaida>07/06/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2011</idOrgaoLegislativoCD>
+        <siglaComissao>CFFC</siglaComissao>
+        <nomeComissao>Comissão de Fiscalização Financeira e Controle</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>07/06/2011</dataEntrada>
+        <dataSaida>09/06/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2010</idOrgaoLegislativoCD>
+        <siglaComissao>CFT</siglaComissao>
+        <nomeComissao>Comissão de Finanças e Tributação</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>09/06/2011</dataEntrada>
+        <dataSaida>02/08/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2011</idOrgaoLegislativoCD>
+        <siglaComissao>CFFC</siglaComissao>
+        <nomeComissao>Comissão de Fiscalização Financeira e Controle</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>02/08/2011</dataEntrada>
+        <dataSaida>04/08/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2010</idOrgaoLegislativoCD>
+        <siglaComissao>CFT</siglaComissao>
+        <nomeComissao>Comissão de Finanças e Tributação</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>04/08/2011</dataEntrada>
+        <dataSaida>16/08/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2011</idOrgaoLegislativoCD>
+        <siglaComissao>CFFC</siglaComissao>
+        <nomeComissao>Comissão de Fiscalização Financeira e Controle</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>16/08/2011</dataEntrada>
+        <dataSaida>23/08/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2010</idOrgaoLegislativoCD>
+        <siglaComissao>CFT</siglaComissao>
+        <nomeComissao>Comissão de Finanças e Tributação</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>23/08/2011</dataEntrada>
+        <dataSaida>07/12/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9076</idOrgaoLegislativoCD>
+        <siglaComissao>PEC06111</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 061-A, de 2011, do Poder Executivo, que "altera o art. 76 do Ato das Disposições Constitucionais Transitórias" (prorroga a vigência da DRU até 31 de dezembro de 2015).</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>27/09/2011</dataEntrada>
+        <dataSaida>19/10/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9109</idOrgaoLegislativoCD>
+        <siglaComissao>CEXJUVE</siglaComissao>
+        <nomeComissao>Comissão Externa para auxiliar, orientar, organizar, fiscalizar e acompanhar os preparativos da Jornada Mundial da Juventude 2013, que ocorrerá no Rio de Janeiro.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>04/10/2011</dataEntrada>
+        <dataSaida>28/07/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9098</idOrgaoLegislativoCD>
+        <siglaComissao>PL233011</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2330, de 2011, do Poder Executivo, que "dispõe sobre as medidas relativas à Copa das Confederações FIFA de 2013 e à Copa do Mundo FIFA de 2014, que serão realizadas no Brasil"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>10/10/2011</dataEntrada>
+        <dataSaida>25/10/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9098</idOrgaoLegislativoCD>
+        <siglaComissao>PL233011</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2330, de 2011, do Poder Executivo, que "dispõe sobre as medidas relativas à Copa das Confederações FIFA de 2013 e à Copa do Mundo FIFA de 2014, que serão realizadas no Brasil"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>26/10/2011</dataEntrada>
+        <dataSaida>05/06/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9120</idOrgaoLegislativoCD>
+        <siglaComissao>PL256511</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2565, de 2011, do Senado Federal, que "modifica as Leis nº 9.478, de 6 de agosto de 1997, e nº 12.351, de 22 de dezembro de 2010, para determinar novas regras de distribuição entre os entes da Federação dos royalties e da participação especial devidos em função da exploração de petróleo, gás natural e outros hidrocarbonetos fluidos, e para aprimorar o marco regulatório sobre a exploração desses recursos no regime de partilha"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>06/11/2012</dataEntrada>
+        <dataSaida>30/11/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2010</idOrgaoLegislativoCD>
+        <siglaComissao>CFT</siglaComissao>
+        <nomeComissao>Comissão de Finanças e Tributação</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>08/12/2011</dataEntrada>
+        <dataSaida>31/01/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2011</idOrgaoLegislativoCD>
+        <siglaComissao>CFFC</siglaComissao>
+        <nomeComissao>Comissão de Fiscalização Financeira e Controle</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>07/12/2011</dataEntrada>
+        <dataSaida>08/12/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2010</idOrgaoLegislativoCD>
+        <siglaComissao>CFT</siglaComissao>
+        <nomeComissao>Comissão de Finanças e Tributação</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>07/03/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9065</idOrgaoLegislativoCD>
+        <siglaComissao>PL157211</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 1572, de 2011, do Sr. Vicente Candido, que "institui o Código Comercial"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>20/03/2012</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2016</idOrgaoLegislativoCD>
+        <siglaComissao>CVT</siglaComissao>
+        <nomeComissao>Comissão de Viação e Transportes</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>05/03/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537114</idOrgaoLegislativoCD>
+        <siglaComissao>GTREFPOL</siglaComissao>
+        <nomeComissao>Grupo de Trabalho destinado a estudar e elaborar propostas referentes à Reforma Política e à consulta popular sobre o tema</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>09/07/2013</dataEntrada>
+        <dataSaida>05/11/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537098</idOrgaoLegislativoCD>
+        <siglaComissao>PEC14712</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 147-A, de 2012, do Sr. Amauri Teixeira, que "fixa parâmetros para a remuneração dos Auditores Fiscais da Receita Federal do Brasil, dos Auditores Fiscais do Trabalho e do grau ou nível máximo da carreira dos servidores do Banco Central do Brasil"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>28/11/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537199</idOrgaoLegislativoCD>
+        <siglaComissao>PL520113</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 5201, de 2013, do Sr.  André Figueiredo, que "altera a Lei nº 11.345, de 14 de setembro de 2006, para modificar a destinação dos valores arrecadados no concurso de prognóstico denominado Timemania com o objetivo de torná-la mais atraente para seus apostadores e de aumentar a capacidade de pagamento das entidades desportivas quanto às suas dívidas fiscais junto à União, e dá outras providências " e apensado</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>11/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537229</idOrgaoLegislativoCD>
+        <siglaComissao>CEXMORCI</siglaComissao>
+        <nomeComissao>Comissão Externa, sem ônus para a Câmara dos Deputados, destinada a acompanhar e se informar de todo o andamento do processo em relação ao crime que aconteceu com o cinegrafista da TV Bandeirantes, Santiago Ilídio Andrade.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>12/02/2014</dataEntrada>
+        <dataSaida>26/03/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2016</idOrgaoLegislativoCD>
+        <siglaComissao>CVT</siglaComissao>
+        <nomeComissao>Comissão de Viação e Transportes</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>25/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537110</idOrgaoLegislativoCD>
+        <siglaComissao>PL569213</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei  nº 5692, de 2013, do Sr. Sérgio Zveiter, que "dispõe sobre o monopólio da União na exploração das riquezas da Amazônia, com a criação do Conselho Nacional de Política da Amazônia e da Agência Nacional de Exploração dos Recursos Naturais da Amazônia, garantindo a proteção ao meio ambiente e a soberania nacional, e dá outras providências"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>17/03/2014</dataEntrada>
+        <dataSaida>02/04/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537197</idOrgaoLegislativoCD>
+        <siglaComissao>PEC30913</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 309-A, de 2013, do Sr. Padre João e outros, que  "altera o § 8º do art. 195 da Constituição Federal, para dispor sobre a contribuição para a seguridade social do catador de material reciclável que exerça suas atividades em regime de economia familiar"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>06/05/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537279</idOrgaoLegislativoCD>
+        <siglaComissao>CPMIPETR</siglaComissao>
+        <nomeComissao>Comissão Parlamentar Mista de Inquérito, com a finalidade de investigar irregularidades envolvendo a empresa Petróleo Brasileiro S/A (PETROBRAS), ocorridas entre os anos de 2005 e 2014 e relacionadas à compra da Refinaria de Pasadena, no Texas (EUA); ao lançamento de plataformas inacabadas; ao pagamento de propina a funcionário da estatal; e ao superfaturamento na construção de refinarias</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>28/05/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537256</idOrgaoLegislativoCD>
+        <siglaComissao>PL710814</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 7108, de 2014, do Senado Federal, que "altera a Lei nº 9.307, de 23 de setembro de 1996, e a Lei nº 6.404, de 15 de dezembro de 1976, para ampliar o  âmbito de aplicação da arbitragem e dispor sobre a escolha dos árbitros quando as partes recorrem a órgão arbitral, a interrupção da prescrição pela instituição da arbitragem, a concessão de tutelas cautelares e de urgência nos casos de arbitragem, a carta arbitral, a sentença arbitral e o incentivo ao estudo do instituto da arbitragem; e revoga dispositivos da Lei nº 9.307, de 23 de setembro de 1996".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>20/05/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+    </comissoes>
+    <cargosComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>2016</idOrgaoLegislativoCD>
+        <siglaComissao>CVT</siglaComissao>
+        <nomeComissao>Comissão de Viação e Transportes</nomeComissao>
+        <idCargo>1</idCargo>
+        <nomeCargo>Presidente</nomeCargo>
+        <dataEntrada>06/03/2013</dataEntrada>
+        <dataSaida>26/02/2014</dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>9109</idOrgaoLegislativoCD>
+        <siglaComissao>CEXJUVE</siglaComissao>
+        <nomeComissao>Comissão Externa para auxiliar, orientar, organizar, fiscalizar e acompanhar os preparativos da Jornada Mundial da Juventude 2013, que ocorrerá no Rio de Janeiro.</nomeComissao>
+        <idCargo>14</idCargo>
+        <nomeCargo>Coordenador</nomeCargo>
+        <dataEntrada>11/10/2011</dataEntrada>
+        <dataSaida>28/07/2013</dataSaida>
+      </cargoComissoes>
+    </cargosComissoes>
+    <periodosExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>RJ</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2003</dataInicio>
+        <dataFim>31/01/2007</dataFim>
+        <idCausaFimExercicio>99</idCausaFimExercicio>
+        <descricaoCausaFimExercicio>Término da Legislatura</descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>RJ</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2007</dataInicio>
+        <dataFim>31/01/2011</dataFim>
+        <idCausaFimExercicio>99</idCausaFimExercicio>
+        <descricaoCausaFimExercicio>Término da Legislatura</descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>RJ</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2011</dataInicio>
+        <dataFim>
+        </dataFim>
+        <idCausaFimExercicio>
+        </idCausaFimExercicio>
+        <descricaoCausaFimExercicio>
+        </descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+    </periodosExercicio>
+    <historicoNomeParlamentar />
+    <filiacoesPartidarias>
+      <filiacaoPartidaria>
+        <idPartidoAnterior>PFL</idPartidoAnterior>
+        <siglaPartidoAnterior>PFL</siglaPartidoAnterior>
+        <nomePartidoAnterior>Partido da Frente Liberal</nomePartidoAnterior>
+        <idPartidoPosterior>DEM</idPartidoPosterior>
+        <siglaPartidoPosterior>DEM</siglaPartidoPosterior>
+        <nomePartidoPosterior>Democratas</nomePartidoPosterior>
+        <dataFiliacaoPartidoPosterior>23/04/2007</dataFiliacaoPartidoPosterior>
+      </filiacaoPartidaria>
+    </filiacoesPartidarias>
+    <historicoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>74693</idHistoricoLider>
+        <idCargoLideranca>1</idCargoLideranca>
+        <descricaoCargoLideranca>1º Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>5</numOrdemCargo>
+        <dataDesignacao>18/02/2003</dataDesignacao>
+        <dataTermino>03/02/2005</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>DEM</siglaUnidadeLideranca>
+        <idBlocoPartido>DEM</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>74693</idHistoricoLider>
+        <idCargoLideranca>L</idCargoLideranca>
+        <descricaoCargoLideranca>Líder</descricaoCargoLideranca>
+        <numOrdemCargo>1</numOrdemCargo>
+        <dataDesignacao>19/10/2004</dataDesignacao>
+        <dataTermino>20/10/2004</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>DEM</siglaUnidadeLideranca>
+        <idBlocoPartido>DEM</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>74693</idHistoricoLider>
+        <idCargoLideranca>L</idCargoLideranca>
+        <descricaoCargoLideranca>Líder</descricaoCargoLideranca>
+        <numOrdemCargo>1</numOrdemCargo>
+        <dataDesignacao>03/02/2005</dataDesignacao>
+        <dataTermino>06/02/2007</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PFL</siglaUnidadeLideranca>
+        <idBlocoPartido>PFL</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>74693</idHistoricoLider>
+        <idCargoLideranca>L</idCargoLideranca>
+        <descricaoCargoLideranca>Líder</descricaoCargoLideranca>
+        <numOrdemCargo>1</numOrdemCargo>
+        <dataDesignacao>03/02/2005</dataDesignacao>
+        <dataTermino>31/01/2007</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>DEM</siglaUnidadeLideranca>
+        <idBlocoPartido>DEM</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>74693</idHistoricoLider>
+        <idCargoLideranca>V</idCargoLideranca>
+        <descricaoCargoLideranca>Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>5</numOrdemCargo>
+        <dataDesignacao>07/02/2007</dataDesignacao>
+        <dataTermino>06/03/2007</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PFL</siglaUnidadeLideranca>
+        <idBlocoPartido>PFL</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>74693</idHistoricoLider>
+        <idCargoLideranca>V</idCargoLideranca>
+        <descricaoCargoLideranca>Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>13</numOrdemCargo>
+        <dataDesignacao>07/04/2011</dataDesignacao>
+        <dataTermino>11/05/2011</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>DEM</siglaUnidadeLideranca>
+        <idBlocoPartido>DEM</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>74693</idHistoricoLider>
+        <idCargoLideranca>V</idCargoLideranca>
+        <descricaoCargoLideranca>Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>8</numOrdemCargo>
+        <dataDesignacao>17/05/2011</dataDesignacao>
+        <dataTermino>01/02/2013</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>DEM</siglaUnidadeLideranca>
+        <idBlocoPartido>DEM</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>74693</idHistoricoLider>
+        <idCargoLideranca>V</idCargoLideranca>
+        <descricaoCargoLideranca>Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>8</numOrdemCargo>
+        <dataDesignacao>05/02/2013</dataDesignacao>
+        <dataTermino>
+        </dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>DEM</siglaUnidadeLideranca>
+        <idBlocoPartido>DEM</idBlocoPartido>
+      </itemHistoricoLider>
+    </historicoLider>
+  </Deputado>
+  <Deputado>
+    <numLegislatura>52</numLegislatura>
+    <email>dep.rodrigomaia@camara.gov.br</email>
+    <nomeProfissao>Bancário</nomeProfissao>
+    <dataNascimento>12/06/1970</dataNascimento>
+    <dataFalecimento>
+    </dataFalecimento>
+    <ufRepresentacaoAtual>RJ</ufRepresentacaoAtual>
+    <situacaoNaLegislaturaAtual>Em Exercício</situacaoNaLegislaturaAtual>
+    <ideCadastro>74693</ideCadastro>
+    <idParlamentarDeprecated>3603</idParlamentarDeprecated>
+    <nomeParlamentarAtual>RODRIGO MAIA</nomeParlamentarAtual>
+    <nomeCivil>RODRIGO FELINTO IBARRA EPITÁCIO MAIA</nomeCivil>
+    <sexo>M</sexo>
+    <partidoAtual>
+      <idPartido>DEM</idPartido>
+      <sigla>DEM</sigla>
+      <nome>Democratas</nome>
+    </partidoAtual>
+    <gabinete>
+      <numero>
+      </numero>
+      <anexo>
+      </anexo>
+      <telefone>
+      </telefone>
+    </gabinete>
+    <comissoes>
+      <comissao>
+        <idOrgaoLegislativoCD>2010</idOrgaoLegislativoCD>
+        <siglaComissao>CFT</siglaComissao>
+        <nomeComissao>Comissão de Finanças e Tributação</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>26/02/2003</dataEntrada>
+        <dataSaida>15/02/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>525968</idOrgaoLegislativoCD>
+        <siglaComissao>REFPOLIT</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a efetuar estudo em relação às matérias em tramitação na Casa, cujo tema abranja a Reforma Política.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>26/02/2003</dataEntrada>
+        <dataSaida>05/03/2003</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526020</idOrgaoLegislativoCD>
+        <siglaComissao>PEC04103</siglaComissao>
+        <nomeComissao>Altera o Sistema Tributário Nacional e dá outras providências.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>22/08/2003</dataEntrada>
+        <dataSaida>25/08/2003</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526081</idOrgaoLegislativoCD>
+        <siglaComissao>CPIGRUPO</siglaComissao>
+        <nomeComissao>Comissão Parlamentar de Inquérito destinada a "investigar a ação criminosa das milícias privadas e dos grupos de extermínio em toda a Região Nordeste".</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>14/11/2003</dataEntrada>
+        <dataSaida>22/11/2005</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>525360</idOrgaoLegislativoCD>
+        <siglaComissao>PEC00399</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição, nº 3-A, de 1999, que "altera os arts. 27, 28, 29, 44 e 82 da Constituição Federal, e introduz disposições transitórias, de forma a fazer coincidir os mandatos eletivos que menciona e atribuir-lhes novo período de duração" e apensadas.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>11/12/2003</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526122</idOrgaoLegislativoCD>
+        <siglaComissao>PEC10103</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 101-A, de 2003, que "dá nova redação ao § 4º do art. 57 da Constituição Federal" (autorizando a reeleição dos membros das Mesas Diretoras da Câmara dos Deputados e do Senado Federal).</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>24/03/2004</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>24/03/2004</dataEntrada>
+        <dataSaida>22/04/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2011</idOrgaoLegislativoCD>
+        <siglaComissao>CFFC</siglaComissao>
+        <nomeComissao>Comissão de Fiscalização Financeira e Controle</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>24/03/2004</dataEntrada>
+        <dataSaida>26/03/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526139</idOrgaoLegislativoCD>
+        <siglaComissao>PL487401</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a oferecer parecer às emendas de Plenário recebidas pelo Projeto de Lei nº 4874, de 2001, que "institui o Estatuto do Desporto".</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>19/05/2004</dataEntrada>
+        <dataSaida>11/05/2005</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526189</idOrgaoLegislativoCD>
+        <siglaComissao>PL333704</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 3.337, de 2004, que "dispõe sobre a gestão, a organização e o controle social das Agências Reguladoras, acresce e altera dispositivos das Leis nº 9.472, de 16 de julho de 1997, nº 9.478, de 6 de agosto de 1997, nº 9.782, de 26 de janeiro de 1999, nº 9.961, de 28 de janeiro de 2000, nº 9.984, de 17 de julho de 2000, nº 9.986, de 18 de julho de 2000, e nº 10.233, de 5 de junho de 2001, da Medida Provisória nº 2.228-1, de 6 de setembro de 2001, e dá outras providências".</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>11/05/2004</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6165</idOrgaoLegislativoCD>
+        <siglaComissao>CMO-04</siglaComissao>
+        <nomeComissao>Comissão Mista de Planos, Orçamentos Públicos e Fiscalização.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>18/05/2004</dataEntrada>
+        <dataSaida>30/05/2005</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526102</idOrgaoLegislativoCD>
+        <siglaComissao>PL210999</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2109, de 1999, que "dispõe sobre a constituição de patrimônio de afetação nas incorporações imobiliárias de que trata a Lei nº 4.591, de 16 de dezembro de 1964".</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>13/05/2004</dataEntrada>
+        <dataSaida>02/08/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526301</idOrgaoLegislativoCD>
+        <siglaComissao>PEC54802</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 548-A, de 2002, que "dá nova redação ao § 1º do art. 17 da Constituição Federal, para disciplinar as coligações eleitorais".</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>02/06/2005</dataEntrada>
+        <dataSaida>08/02/2006</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2010</idOrgaoLegislativoCD>
+        <siglaComissao>CFT</siglaComissao>
+        <nomeComissao>Comissão de Finanças e Tributação</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>14/07/2005</dataEntrada>
+        <dataSaida>28/03/2006</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2011</idOrgaoLegislativoCD>
+        <siglaComissao>CFFC</siglaComissao>
+        <nomeComissao>Comissão de Fiscalização Financeira e Controle</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>14/07/2005</dataEntrada>
+        <dataSaida>28/03/2006</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2015</idOrgaoLegislativoCD>
+        <siglaComissao>CTASP</siglaComissao>
+        <nomeComissao>Comissão de Trabalho, de Administração e Serviço Público</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>26/02/2003</dataEntrada>
+        <dataSaida>03/06/2003</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>525997</idOrgaoLegislativoCD>
+        <siglaComissao>CPIPIRAT</siglaComissao>
+        <nomeComissao>Comissão Parlamentar de Inquérito  com a finalidade de investigar fatos relacionados à pirataria de produtos industrializados e sonegação fiscal.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>30/05/2003</dataEntrada>
+        <dataSaida>11/06/2003</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>03/06/2003</dataEntrada>
+        <dataSaida>28/08/2003</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526045</idOrgaoLegislativoCD>
+        <siglaComissao>CPMIDIVI</siglaComissao>
+        <nomeComissao>Comissão Parlamentar Mista de Inquérito com a finalidade de " apurar as responsabilidades sobre a evasão de divisas do Brasil, especificamente para os chamados paraísos fiscais, em razão de denúncias veiculadas pela imprensa, reveladas pela Operação Macuco, realizada pela Polícia Federal, a qual  apurou a evasão de US$ 30 bilhões"efetuada entre 1996 e 2002, por meio das chamadas contas CC5".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>18/06/2003</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2015</idOrgaoLegislativoCD>
+        <siglaComissao>CTASP</siglaComissao>
+        <nomeComissao>Comissão de Trabalho, de Administração e Serviço Público</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>28/08/2003</dataEntrada>
+        <dataSaida>10/09/2003</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526072</idOrgaoLegislativoCD>
+        <siglaComissao>PLP07603</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei Complementar nº 76, de 2003, que "institui, na forma do art. 43 da Constituição, a Superintendência do Desenvolvimento do Nordeste - SUDENE, estabelece a sua composição, natureza jurídica, objetivos, área de competência e instrumentos de ação".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>03/09/2003</dataEntrada>
+        <dataSaida>17/09/2003</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>10/09/2003</dataEntrada>
+        <dataSaida>03/11/2003</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526081</idOrgaoLegislativoCD>
+        <siglaComissao>CPIGRUPO</siglaComissao>
+        <nomeComissao>Comissão Parlamentar de Inquérito destinada a "investigar a ação criminosa das milícias privadas e dos grupos de extermínio em toda a Região Nordeste".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>23/09/2003</dataEntrada>
+        <dataSaida>14/11/2003</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2015</idOrgaoLegislativoCD>
+        <siglaComissao>CTASP</siglaComissao>
+        <nomeComissao>Comissão de Trabalho, de Administração e Serviço Público</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>03/11/2003</dataEntrada>
+        <dataSaida>15/02/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526118</idOrgaoLegislativoCD>
+        <siglaComissao>PL240103</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2401, de 2003, que "estabelece normas de segurança e mecanismos de fiscalização de atividades que envolvam organismos geneticamente modificados - OGM e seus derivados, cria o Conselho Nacional de Biossegurança - CNBS, reestrutura a Comissão Técnica Nacional de Biossegurança - CTNBio, dispõe sobre a Política Nacional de Biossegurança e dá outras providências".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>12/11/2003</dataEntrada>
+        <dataSaida>13/11/2003</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526124</idOrgaoLegislativoCD>
+        <siglaComissao>REP-1203</siglaComissao>
+        <nomeComissao>Comissão Representativa do Congresso Nacional prevista no § 4º do art. 58 da Constituição Federal (período de 16 de dezembro de 2003 a 14 de fevereiro de 2004).</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>24/12/2003</dataEntrada>
+        <dataSaida>19/01/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526140</idOrgaoLegislativoCD>
+        <siglaComissao>PL254603</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2546, de 2003, que "institui normas gerais para licitação e contratação de parceria público-privada, no âmbito da Administração Pública".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>21/01/2004</dataEntrada>
+        <dataSaida>05/02/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526122</idOrgaoLegislativoCD>
+        <siglaComissao>PEC10103</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 101-A, de 2003, que "dá nova redação ao § 4º do art. 57 da Constituição Federal" (autorizando a reeleição dos membros das Mesas Diretoras da Câmara dos Deputados e do Senado Federal).</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>23/03/2004</dataEntrada>
+        <dataSaida>24/03/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2015</idOrgaoLegislativoCD>
+        <siglaComissao>CTASP</siglaComissao>
+        <nomeComissao>Comissão de Trabalho, de Administração e Serviço Público</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>24/03/2004</dataEntrada>
+        <dataSaida>01/03/2005</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526102</idOrgaoLegislativoCD>
+        <siglaComissao>PL210999</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2109, de 1999, que "dispõe sobre a constituição de patrimônio de afetação nas incorporações imobiliárias de que trata a Lei nº 4.591, de 16 de dezembro de 1964".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>11/05/2004</dataEntrada>
+        <dataSaida>13/05/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526199</idOrgaoLegislativoCD>
+        <siglaComissao>PL347604</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 3.476, de 2004, que "dispõe sobre incentivos à inovação e à pesquisa científica e tecnológica no ambiente produtivo, e dá outras providências".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>08/06/2004</dataEntrada>
+        <dataSaida>02/12/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526123</idOrgaoLegislativoCD>
+        <siglaComissao>CPIBIOPI</siglaComissao>
+        <nomeComissao>Comissão Parlamentar de Inquérito destinada a "investigar o tráfico de animais e plantas silvestres brasileiros, a exploração e comércio ilegal de madeira e a biopirataria no País".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>25/08/2004</dataEntrada>
+        <dataSaida>15/09/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526324</idOrgaoLegislativoCD>
+        <siglaComissao>PEC536-A</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 536-A, de 1997, que "modifica o artigo 60 do Ato das Disposições Constitucionais Transitórias" (estabelecendo que a União complementará os recursos dos Fundos de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério, de modo a que seja atingido o valor mínimo por aluno definido nacionalmente e não haja redução do gasto por aluno do ensino fundamental que foi praticado até dezembro do ano de 1997, em cada Município, Estado ou DF, alterando a nova Constituição Federal).</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>29/11/2005</dataEntrada>
+        <dataSaida>30/11/2005</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526341</idOrgaoLegislativoCD>
+        <siglaComissao>REP-1205</siglaComissao>
+        <nomeComissao>Comissão Representativa do Congresso Nacional prevista no § 4º do art. 58 da Constituição Federal (dezembro de 2005 a fevereiro de 2006).</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>16/12/2005</dataEntrada>
+        <dataSaida>14/02/2006</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2010</idOrgaoLegislativoCD>
+        <siglaComissao>CFT</siglaComissao>
+        <nomeComissao>Comissão de Finanças e Tributação</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>14/02/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2002</idOrgaoLegislativoCD>
+        <siglaComissao>CCTCI</siglaComissao>
+        <nomeComissao>Comissão de Ciência e Tecnologia, Comunicação e Informática</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>08/07/2008</dataEntrada>
+        <dataSaida>08/07/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2015</idOrgaoLegislativoCD>
+        <siglaComissao>CTASP</siglaComissao>
+        <nomeComissao>Comissão de Trabalho, de Administração e Serviço Público</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>04/03/2009</dataEntrada>
+        <dataSaida>10/03/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>5438</idOrgaoLegislativoCD>
+        <siglaComissao>CLP</siglaComissao>
+        <nomeComissao>Comissão de Legislação Participativa</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>10/03/2009</dataEntrada>
+        <dataSaida>01/02/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2007</idOrgaoLegislativoCD>
+        <siglaComissao>CDHM</siglaComissao>
+        <nomeComissao>Comissão de Direitos Humanos e Minorias</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>09/03/2010</dataEntrada>
+        <dataSaida>31/03/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2015</idOrgaoLegislativoCD>
+        <siglaComissao>CTASP</siglaComissao>
+        <nomeComissao>Comissão de Trabalho, de Administração e Serviço Público</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>08/03/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2014</idOrgaoLegislativoCD>
+        <siglaComissao>CSSF</siglaComissao>
+        <nomeComissao>Comissão de Seguridade Social e Família</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>04/03/2008</dataEntrada>
+        <dataSaida>08/07/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2002</idOrgaoLegislativoCD>
+        <siglaComissao>CCTCI</siglaComissao>
+        <nomeComissao>Comissão de Ciência e Tecnologia, Comunicação e Informática</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>08/07/2008</dataEntrada>
+        <dataSaida>11/07/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2002</idOrgaoLegislativoCD>
+        <siglaComissao>CCTCI</siglaComissao>
+        <nomeComissao>Comissão de Ciência e Tecnologia, Comunicação e Informática</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>16/07/2008</dataEntrada>
+        <dataSaida>17/07/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2011</idOrgaoLegislativoCD>
+        <siglaComissao>CFFC</siglaComissao>
+        <nomeComissao>Comissão de Fiscalização Financeira e Controle</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>04/03/2009</dataEntrada>
+        <dataSaida>01/02/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536739</idOrgaoLegislativoCD>
+        <siglaComissao>SUBCOPA</siglaComissao>
+        <nomeComissao>Subcomissão Permanente para acompanhamento, fiscalização e controle dos Recursos Públicos Federais destinados à Copa de 2014 e das Olimpíadas de 2016.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>27/03/2009</dataEntrada>
+        <dataSaida>10/03/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536745</idOrgaoLegislativoCD>
+        <siglaComissao>SUBFIPAC</siglaComissao>
+        <nomeComissao>Subcomissão Permanente de Acompanhamento, Fiscalização e Controle da Execução Orçamentária e Financeira  do Programa de Aceleração do Crescimento - PAC</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>02/04/2009</dataEntrada>
+        <dataSaida>10/03/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536807</idOrgaoLegislativoCD>
+        <siglaComissao>PL250207</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2502, de 2007, do Sr. Eduardo Valverde, que "altera a Lei nº 9.478, de 06 de agosto de 1997,que dispõe sobre a política energética nacional, as atividades relativas ao monopólio do petróleo, institui o Conselho Nacional de Política Energética e a Agência Nacional do Petróleo".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>16/09/2009</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2011</idOrgaoLegislativoCD>
+        <siglaComissao>CFFC</siglaComissao>
+        <nomeComissao>Comissão de Fiscalização Financeira e Controle</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>03/03/2010</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536858</idOrgaoLegislativoCD>
+        <siglaComissao>CEXEMEND</siglaComissao>
+        <nomeComissao>Comissão Externa integrada pelos Deputados do Rio de Janeiro e Espírito Santo, para participarem  de ato público, em decorrência da aprovação da emenda nº 387 ao Projeto de Lei nº 2502, de 2007, que redistribuiu a divisão dos royalties do petróleo, a realizar-se no Rio de Janeiro.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>16/03/2010</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2002</idOrgaoLegislativoCD>
+        <siglaComissao>CCTCI</siglaComissao>
+        <nomeComissao>Comissão de Ciência e Tecnologia, Comunicação e Informática</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>01/03/2011</dataEntrada>
+        <dataSaida>31/01/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6972</idOrgaoLegislativoCD>
+        <siglaComissao>SUBRETRI</siglaComissao>
+        <nomeComissao>Subcomissão Especial da Reforma Tributária</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>13/04/2011</dataEntrada>
+        <dataSaida>01/04/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2009</idOrgaoLegislativoCD>
+        <siglaComissao>CE</siglaComissao>
+        <nomeComissao>Comissão de Educação</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>12/07/2011</dataEntrada>
+        <dataSaida>13/07/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2011</idOrgaoLegislativoCD>
+        <siglaComissao>CFFC</siglaComissao>
+        <nomeComissao>Comissão de Fiscalização Financeira e Controle</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>07/03/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2010</idOrgaoLegislativoCD>
+        <siglaComissao>CFT</siglaComissao>
+        <nomeComissao>Comissão de Finanças e Tributação</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>05/03/2013</dataEntrada>
+        <dataSaida>12/12/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537105</idOrgaoLegislativoCD>
+        <siglaComissao>PEC09011</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 90-A, de 2011, da Sra Luiza Erundina, que "dá nova redação ao art. 6º da Constituição Federal, para introduzir o transporte como direito social"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>28/08/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537199</idOrgaoLegislativoCD>
+        <siglaComissao>PL520113</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 5201, de 2013, do Sr.  André Figueiredo, que "altera a Lei nº 11.345, de 14 de setembro de 2006, para modificar a destinação dos valores arrecadados no concurso de prognóstico denominado Timemania com o objetivo de torná-la mais atraente para seus apostadores e de aumentar a capacidade de pagamento das entidades desportivas quanto às suas dívidas fiscais junto à União, e dá outras providências " e apensado</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>26/11/2013</dataEntrada>
+        <dataSaida>11/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2010</idOrgaoLegislativoCD>
+        <siglaComissao>CFT</siglaComissao>
+        <nomeComissao>Comissão de Finanças e Tributação</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>12/12/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2010</idOrgaoLegislativoCD>
+        <siglaComissao>CFT</siglaComissao>
+        <nomeComissao>Comissão de Finanças e Tributação</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>25/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537103</idOrgaoLegislativoCD>
+        <siglaComissao>CMCLF</siglaComissao>
+        <nomeComissao>Comissão Mista destinada a consolidar a legislação federal e a regulamentar dispositivos da Constituição Federal.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>11/03/2014</dataEntrada>
+        <dataSaida>11/11/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537110</idOrgaoLegislativoCD>
+        <siglaComissao>PL569213</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei  nº 5692, de 2013, do Sr. Sérgio Zveiter, que "dispõe sobre o monopólio da União na exploração das riquezas da Amazônia, com a criação do Conselho Nacional de Política da Amazônia e da Agência Nacional de Exploração dos Recursos Naturais da Amazônia, garantindo a proteção ao meio ambiente e a soberania nacional, e dá outras providências"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>02/04/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2008</idOrgaoLegislativoCD>
+        <siglaComissao>CDEIC</siglaComissao>
+        <nomeComissao>Comissão de Desenvolvimento Econômico, Indústria e Comércio</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>15/04/2014</dataEntrada>
+        <dataSaida>22/04/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2012</idOrgaoLegislativoCD>
+        <siglaComissao>CME</siglaComissao>
+        <nomeComissao>Comissão de Minas e Energia</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>29/04/2014</dataEntrada>
+        <dataSaida>16/07/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2010</idOrgaoLegislativoCD>
+        <siglaComissao>CFT</siglaComissao>
+        <nomeComissao>Comissão de Finanças e Tributação</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>01/03/2011</dataEntrada>
+        <dataSaida>03/05/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6722</idOrgaoLegislativoCD>
+        <siglaComissao>CMMC</siglaComissao>
+        <nomeComissao>Comissão Mista Permanente sobre Mudanças Climáticas - CMMC</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>30/03/2011</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6973</idOrgaoLegislativoCD>
+        <siglaComissao>SUBASFED</siglaComissao>
+        <nomeComissao>Subcomissão Permanente de Assuntos Federativos</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>13/04/2011</dataEntrada>
+        <dataSaida>01/04/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2011</idOrgaoLegislativoCD>
+        <siglaComissao>CFFC</siglaComissao>
+        <nomeComissao>Comissão de Fiscalização Financeira e Controle</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>03/05/2011</dataEntrada>
+        <dataSaida>13/05/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2011</idOrgaoLegislativoCD>
+        <siglaComissao>CFFC</siglaComissao>
+        <nomeComissao>Comissão de Fiscalização Financeira e Controle</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>17/05/2011</dataEntrada>
+        <dataSaida>27/05/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2010</idOrgaoLegislativoCD>
+        <siglaComissao>CFT</siglaComissao>
+        <nomeComissao>Comissão de Finanças e Tributação</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>27/05/2011</dataEntrada>
+        <dataSaida>07/06/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2011</idOrgaoLegislativoCD>
+        <siglaComissao>CFFC</siglaComissao>
+        <nomeComissao>Comissão de Fiscalização Financeira e Controle</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>07/06/2011</dataEntrada>
+        <dataSaida>09/06/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2010</idOrgaoLegislativoCD>
+        <siglaComissao>CFT</siglaComissao>
+        <nomeComissao>Comissão de Finanças e Tributação</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>09/06/2011</dataEntrada>
+        <dataSaida>02/08/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2011</idOrgaoLegislativoCD>
+        <siglaComissao>CFFC</siglaComissao>
+        <nomeComissao>Comissão de Fiscalização Financeira e Controle</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>02/08/2011</dataEntrada>
+        <dataSaida>04/08/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2010</idOrgaoLegislativoCD>
+        <siglaComissao>CFT</siglaComissao>
+        <nomeComissao>Comissão de Finanças e Tributação</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>04/08/2011</dataEntrada>
+        <dataSaida>16/08/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2011</idOrgaoLegislativoCD>
+        <siglaComissao>CFFC</siglaComissao>
+        <nomeComissao>Comissão de Fiscalização Financeira e Controle</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>16/08/2011</dataEntrada>
+        <dataSaida>23/08/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2010</idOrgaoLegislativoCD>
+        <siglaComissao>CFT</siglaComissao>
+        <nomeComissao>Comissão de Finanças e Tributação</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>23/08/2011</dataEntrada>
+        <dataSaida>07/12/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9076</idOrgaoLegislativoCD>
+        <siglaComissao>PEC06111</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 061-A, de 2011, do Poder Executivo, que "altera o art. 76 do Ato das Disposições Constitucionais Transitórias" (prorroga a vigência da DRU até 31 de dezembro de 2015).</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>27/09/2011</dataEntrada>
+        <dataSaida>19/10/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9109</idOrgaoLegislativoCD>
+        <siglaComissao>CEXJUVE</siglaComissao>
+        <nomeComissao>Comissão Externa para auxiliar, orientar, organizar, fiscalizar e acompanhar os preparativos da Jornada Mundial da Juventude 2013, que ocorrerá no Rio de Janeiro.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>04/10/2011</dataEntrada>
+        <dataSaida>28/07/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9098</idOrgaoLegislativoCD>
+        <siglaComissao>PL233011</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2330, de 2011, do Poder Executivo, que "dispõe sobre as medidas relativas à Copa das Confederações FIFA de 2013 e à Copa do Mundo FIFA de 2014, que serão realizadas no Brasil"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>10/10/2011</dataEntrada>
+        <dataSaida>25/10/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9098</idOrgaoLegislativoCD>
+        <siglaComissao>PL233011</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2330, de 2011, do Poder Executivo, que "dispõe sobre as medidas relativas à Copa das Confederações FIFA de 2013 e à Copa do Mundo FIFA de 2014, que serão realizadas no Brasil"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>26/10/2011</dataEntrada>
+        <dataSaida>05/06/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9120</idOrgaoLegislativoCD>
+        <siglaComissao>PL256511</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2565, de 2011, do Senado Federal, que "modifica as Leis nº 9.478, de 6 de agosto de 1997, e nº 12.351, de 22 de dezembro de 2010, para determinar novas regras de distribuição entre os entes da Federação dos royalties e da participação especial devidos em função da exploração de petróleo, gás natural e outros hidrocarbonetos fluidos, e para aprimorar o marco regulatório sobre a exploração desses recursos no regime de partilha"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>06/11/2012</dataEntrada>
+        <dataSaida>30/11/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2010</idOrgaoLegislativoCD>
+        <siglaComissao>CFT</siglaComissao>
+        <nomeComissao>Comissão de Finanças e Tributação</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>08/12/2011</dataEntrada>
+        <dataSaida>31/01/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2011</idOrgaoLegislativoCD>
+        <siglaComissao>CFFC</siglaComissao>
+        <nomeComissao>Comissão de Fiscalização Financeira e Controle</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>07/12/2011</dataEntrada>
+        <dataSaida>08/12/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2010</idOrgaoLegislativoCD>
+        <siglaComissao>CFT</siglaComissao>
+        <nomeComissao>Comissão de Finanças e Tributação</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>07/03/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9065</idOrgaoLegislativoCD>
+        <siglaComissao>PL157211</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 1572, de 2011, do Sr. Vicente Candido, que "institui o Código Comercial"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>20/03/2012</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2016</idOrgaoLegislativoCD>
+        <siglaComissao>CVT</siglaComissao>
+        <nomeComissao>Comissão de Viação e Transportes</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>05/03/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537114</idOrgaoLegislativoCD>
+        <siglaComissao>GTREFPOL</siglaComissao>
+        <nomeComissao>Grupo de Trabalho destinado a estudar e elaborar propostas referentes à Reforma Política e à consulta popular sobre o tema</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>09/07/2013</dataEntrada>
+        <dataSaida>05/11/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537098</idOrgaoLegislativoCD>
+        <siglaComissao>PEC14712</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 147-A, de 2012, do Sr. Amauri Teixeira, que "fixa parâmetros para a remuneração dos Auditores Fiscais da Receita Federal do Brasil, dos Auditores Fiscais do Trabalho e do grau ou nível máximo da carreira dos servidores do Banco Central do Brasil"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>28/11/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537199</idOrgaoLegislativoCD>
+        <siglaComissao>PL520113</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 5201, de 2013, do Sr.  André Figueiredo, que "altera a Lei nº 11.345, de 14 de setembro de 2006, para modificar a destinação dos valores arrecadados no concurso de prognóstico denominado Timemania com o objetivo de torná-la mais atraente para seus apostadores e de aumentar a capacidade de pagamento das entidades desportivas quanto às suas dívidas fiscais junto à União, e dá outras providências " e apensado</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>11/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537229</idOrgaoLegislativoCD>
+        <siglaComissao>CEXMORCI</siglaComissao>
+        <nomeComissao>Comissão Externa, sem ônus para a Câmara dos Deputados, destinada a acompanhar e se informar de todo o andamento do processo em relação ao crime que aconteceu com o cinegrafista da TV Bandeirantes, Santiago Ilídio Andrade.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>12/02/2014</dataEntrada>
+        <dataSaida>26/03/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2016</idOrgaoLegislativoCD>
+        <siglaComissao>CVT</siglaComissao>
+        <nomeComissao>Comissão de Viação e Transportes</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>25/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537110</idOrgaoLegislativoCD>
+        <siglaComissao>PL569213</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei  nº 5692, de 2013, do Sr. Sérgio Zveiter, que "dispõe sobre o monopólio da União na exploração das riquezas da Amazônia, com a criação do Conselho Nacional de Política da Amazônia e da Agência Nacional de Exploração dos Recursos Naturais da Amazônia, garantindo a proteção ao meio ambiente e a soberania nacional, e dá outras providências"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>17/03/2014</dataEntrada>
+        <dataSaida>02/04/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537197</idOrgaoLegislativoCD>
+        <siglaComissao>PEC30913</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 309-A, de 2013, do Sr. Padre João e outros, que  "altera o § 8º do art. 195 da Constituição Federal, para dispor sobre a contribuição para a seguridade social do catador de material reciclável que exerça suas atividades em regime de economia familiar"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>06/05/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537279</idOrgaoLegislativoCD>
+        <siglaComissao>CPMIPETR</siglaComissao>
+        <nomeComissao>Comissão Parlamentar Mista de Inquérito, com a finalidade de investigar irregularidades envolvendo a empresa Petróleo Brasileiro S/A (PETROBRAS), ocorridas entre os anos de 2005 e 2014 e relacionadas à compra da Refinaria de Pasadena, no Texas (EUA); ao lançamento de plataformas inacabadas; ao pagamento de propina a funcionário da estatal; e ao superfaturamento na construção de refinarias</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>28/05/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537256</idOrgaoLegislativoCD>
+        <siglaComissao>PL710814</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 7108, de 2014, do Senado Federal, que "altera a Lei nº 9.307, de 23 de setembro de 1996, e a Lei nº 6.404, de 15 de dezembro de 1976, para ampliar o  âmbito de aplicação da arbitragem e dispor sobre a escolha dos árbitros quando as partes recorrem a órgão arbitral, a interrupção da prescrição pela instituição da arbitragem, a concessão de tutelas cautelares e de urgência nos casos de arbitragem, a carta arbitral, a sentença arbitral e o incentivo ao estudo do instituto da arbitragem; e revoga dispositivos da Lei nº 9.307, de 23 de setembro de 1996".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>20/05/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+    </comissoes>
+    <cargosComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>2016</idOrgaoLegislativoCD>
+        <siglaComissao>CVT</siglaComissao>
+        <nomeComissao>Comissão de Viação e Transportes</nomeComissao>
+        <idCargo>1</idCargo>
+        <nomeCargo>Presidente</nomeCargo>
+        <dataEntrada>06/03/2013</dataEntrada>
+        <dataSaida>26/02/2014</dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>9109</idOrgaoLegislativoCD>
+        <siglaComissao>CEXJUVE</siglaComissao>
+        <nomeComissao>Comissão Externa para auxiliar, orientar, organizar, fiscalizar e acompanhar os preparativos da Jornada Mundial da Juventude 2013, que ocorrerá no Rio de Janeiro.</nomeComissao>
+        <idCargo>14</idCargo>
+        <nomeCargo>Coordenador</nomeCargo>
+        <dataEntrada>11/10/2011</dataEntrada>
+        <dataSaida>28/07/2013</dataSaida>
+      </cargoComissoes>
+    </cargosComissoes>
+    <periodosExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>RJ</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2003</dataInicio>
+        <dataFim>31/01/2007</dataFim>
+        <idCausaFimExercicio>99</idCausaFimExercicio>
+        <descricaoCausaFimExercicio>Término da Legislatura</descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>RJ</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2007</dataInicio>
+        <dataFim>31/01/2011</dataFim>
+        <idCausaFimExercicio>99</idCausaFimExercicio>
+        <descricaoCausaFimExercicio>Término da Legislatura</descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>RJ</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2011</dataInicio>
+        <dataFim>
+        </dataFim>
+        <idCausaFimExercicio>
+        </idCausaFimExercicio>
+        <descricaoCausaFimExercicio>
+        </descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+    </periodosExercicio>
+    <historicoNomeParlamentar />
+    <filiacoesPartidarias>
+      <filiacaoPartidaria>
+        <idPartidoAnterior>PFL</idPartidoAnterior>
+        <siglaPartidoAnterior>PFL</siglaPartidoAnterior>
+        <nomePartidoAnterior>Partido da Frente Liberal</nomePartidoAnterior>
+        <idPartidoPosterior>DEM</idPartidoPosterior>
+        <siglaPartidoPosterior>DEM</siglaPartidoPosterior>
+        <nomePartidoPosterior>Democratas</nomePartidoPosterior>
+        <dataFiliacaoPartidoPosterior>23/04/2007</dataFiliacaoPartidoPosterior>
+      </filiacaoPartidaria>
+    </filiacoesPartidarias>
+    <historicoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>74693</idHistoricoLider>
+        <idCargoLideranca>1</idCargoLideranca>
+        <descricaoCargoLideranca>1º Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>5</numOrdemCargo>
+        <dataDesignacao>18/02/2003</dataDesignacao>
+        <dataTermino>03/02/2005</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>DEM</siglaUnidadeLideranca>
+        <idBlocoPartido>DEM</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>74693</idHistoricoLider>
+        <idCargoLideranca>L</idCargoLideranca>
+        <descricaoCargoLideranca>Líder</descricaoCargoLideranca>
+        <numOrdemCargo>1</numOrdemCargo>
+        <dataDesignacao>19/10/2004</dataDesignacao>
+        <dataTermino>20/10/2004</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>DEM</siglaUnidadeLideranca>
+        <idBlocoPartido>DEM</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>74693</idHistoricoLider>
+        <idCargoLideranca>L</idCargoLideranca>
+        <descricaoCargoLideranca>Líder</descricaoCargoLideranca>
+        <numOrdemCargo>1</numOrdemCargo>
+        <dataDesignacao>03/02/2005</dataDesignacao>
+        <dataTermino>06/02/2007</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PFL</siglaUnidadeLideranca>
+        <idBlocoPartido>PFL</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>74693</idHistoricoLider>
+        <idCargoLideranca>L</idCargoLideranca>
+        <descricaoCargoLideranca>Líder</descricaoCargoLideranca>
+        <numOrdemCargo>1</numOrdemCargo>
+        <dataDesignacao>03/02/2005</dataDesignacao>
+        <dataTermino>31/01/2007</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>DEM</siglaUnidadeLideranca>
+        <idBlocoPartido>DEM</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>74693</idHistoricoLider>
+        <idCargoLideranca>V</idCargoLideranca>
+        <descricaoCargoLideranca>Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>5</numOrdemCargo>
+        <dataDesignacao>07/02/2007</dataDesignacao>
+        <dataTermino>06/03/2007</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PFL</siglaUnidadeLideranca>
+        <idBlocoPartido>PFL</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>74693</idHistoricoLider>
+        <idCargoLideranca>V</idCargoLideranca>
+        <descricaoCargoLideranca>Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>13</numOrdemCargo>
+        <dataDesignacao>07/04/2011</dataDesignacao>
+        <dataTermino>11/05/2011</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>DEM</siglaUnidadeLideranca>
+        <idBlocoPartido>DEM</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>74693</idHistoricoLider>
+        <idCargoLideranca>V</idCargoLideranca>
+        <descricaoCargoLideranca>Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>8</numOrdemCargo>
+        <dataDesignacao>17/05/2011</dataDesignacao>
+        <dataTermino>01/02/2013</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>DEM</siglaUnidadeLideranca>
+        <idBlocoPartido>DEM</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>74693</idHistoricoLider>
+        <idCargoLideranca>V</idCargoLideranca>
+        <descricaoCargoLideranca>Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>8</numOrdemCargo>
+        <dataDesignacao>05/02/2013</dataDesignacao>
+        <dataTermino>
+        </dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>DEM</siglaUnidadeLideranca>
+        <idBlocoPartido>DEM</idBlocoPartido>
+      </itemHistoricoLider>
+    </historicoLider>
+  </Deputado>
+  <Deputado>
+    <numLegislatura>54</numLegislatura>
+    <email>dep.rodrigomaia@camara.gov.br</email>
+    <nomeProfissao>Bancário</nomeProfissao>
+    <dataNascimento>12/06/1970</dataNascimento>
+    <dataFalecimento>
+    </dataFalecimento>
+    <ufRepresentacaoAtual>RJ</ufRepresentacaoAtual>
+    <situacaoNaLegislaturaAtual>Em Exercício</situacaoNaLegislaturaAtual>
+    <ideCadastro>74693</ideCadastro>
+    <idParlamentarDeprecated>3603</idParlamentarDeprecated>
+    <nomeParlamentarAtual>RODRIGO MAIA</nomeParlamentarAtual>
+    <nomeCivil>RODRIGO FELINTO IBARRA EPITÁCIO MAIA</nomeCivil>
+    <sexo>M</sexo>
+    <partidoAtual>
+      <idPartido>DEM</idPartido>
+      <sigla>DEM</sigla>
+      <nome>Democratas</nome>
+    </partidoAtual>
+    <gabinete>
+      <numero>308</numero>
+      <anexo>4</anexo>
+      <telefone>3215-5308</telefone>
+    </gabinete>
+    <comissoes>
+      <comissao>
+        <idOrgaoLegislativoCD>2010</idOrgaoLegislativoCD>
+        <siglaComissao>CFT</siglaComissao>
+        <nomeComissao>Comissão de Finanças e Tributação</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>26/02/2003</dataEntrada>
+        <dataSaida>15/02/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>525968</idOrgaoLegislativoCD>
+        <siglaComissao>REFPOLIT</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a efetuar estudo em relação às matérias em tramitação na Casa, cujo tema abranja a Reforma Política.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>26/02/2003</dataEntrada>
+        <dataSaida>05/03/2003</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526020</idOrgaoLegislativoCD>
+        <siglaComissao>PEC04103</siglaComissao>
+        <nomeComissao>Altera o Sistema Tributário Nacional e dá outras providências.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>22/08/2003</dataEntrada>
+        <dataSaida>25/08/2003</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526081</idOrgaoLegislativoCD>
+        <siglaComissao>CPIGRUPO</siglaComissao>
+        <nomeComissao>Comissão Parlamentar de Inquérito destinada a "investigar a ação criminosa das milícias privadas e dos grupos de extermínio em toda a Região Nordeste".</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>14/11/2003</dataEntrada>
+        <dataSaida>22/11/2005</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>525360</idOrgaoLegislativoCD>
+        <siglaComissao>PEC00399</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição, nº 3-A, de 1999, que "altera os arts. 27, 28, 29, 44 e 82 da Constituição Federal, e introduz disposições transitórias, de forma a fazer coincidir os mandatos eletivos que menciona e atribuir-lhes novo período de duração" e apensadas.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>11/12/2003</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526122</idOrgaoLegislativoCD>
+        <siglaComissao>PEC10103</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 101-A, de 2003, que "dá nova redação ao § 4º do art. 57 da Constituição Federal" (autorizando a reeleição dos membros das Mesas Diretoras da Câmara dos Deputados e do Senado Federal).</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>24/03/2004</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>24/03/2004</dataEntrada>
+        <dataSaida>22/04/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2011</idOrgaoLegislativoCD>
+        <siglaComissao>CFFC</siglaComissao>
+        <nomeComissao>Comissão de Fiscalização Financeira e Controle</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>24/03/2004</dataEntrada>
+        <dataSaida>26/03/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526139</idOrgaoLegislativoCD>
+        <siglaComissao>PL487401</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a oferecer parecer às emendas de Plenário recebidas pelo Projeto de Lei nº 4874, de 2001, que "institui o Estatuto do Desporto".</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>19/05/2004</dataEntrada>
+        <dataSaida>11/05/2005</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526189</idOrgaoLegislativoCD>
+        <siglaComissao>PL333704</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 3.337, de 2004, que "dispõe sobre a gestão, a organização e o controle social das Agências Reguladoras, acresce e altera dispositivos das Leis nº 9.472, de 16 de julho de 1997, nº 9.478, de 6 de agosto de 1997, nº 9.782, de 26 de janeiro de 1999, nº 9.961, de 28 de janeiro de 2000, nº 9.984, de 17 de julho de 2000, nº 9.986, de 18 de julho de 2000, e nº 10.233, de 5 de junho de 2001, da Medida Provisória nº 2.228-1, de 6 de setembro de 2001, e dá outras providências".</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>11/05/2004</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6165</idOrgaoLegislativoCD>
+        <siglaComissao>CMO-04</siglaComissao>
+        <nomeComissao>Comissão Mista de Planos, Orçamentos Públicos e Fiscalização.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>18/05/2004</dataEntrada>
+        <dataSaida>30/05/2005</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526102</idOrgaoLegislativoCD>
+        <siglaComissao>PL210999</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2109, de 1999, que "dispõe sobre a constituição de patrimônio de afetação nas incorporações imobiliárias de que trata a Lei nº 4.591, de 16 de dezembro de 1964".</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>13/05/2004</dataEntrada>
+        <dataSaida>02/08/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526301</idOrgaoLegislativoCD>
+        <siglaComissao>PEC54802</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 548-A, de 2002, que "dá nova redação ao § 1º do art. 17 da Constituição Federal, para disciplinar as coligações eleitorais".</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>02/06/2005</dataEntrada>
+        <dataSaida>08/02/2006</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2010</idOrgaoLegislativoCD>
+        <siglaComissao>CFT</siglaComissao>
+        <nomeComissao>Comissão de Finanças e Tributação</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>14/07/2005</dataEntrada>
+        <dataSaida>28/03/2006</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2011</idOrgaoLegislativoCD>
+        <siglaComissao>CFFC</siglaComissao>
+        <nomeComissao>Comissão de Fiscalização Financeira e Controle</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>14/07/2005</dataEntrada>
+        <dataSaida>28/03/2006</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2015</idOrgaoLegislativoCD>
+        <siglaComissao>CTASP</siglaComissao>
+        <nomeComissao>Comissão de Trabalho, de Administração e Serviço Público</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>26/02/2003</dataEntrada>
+        <dataSaida>03/06/2003</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>525997</idOrgaoLegislativoCD>
+        <siglaComissao>CPIPIRAT</siglaComissao>
+        <nomeComissao>Comissão Parlamentar de Inquérito  com a finalidade de investigar fatos relacionados à pirataria de produtos industrializados e sonegação fiscal.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>30/05/2003</dataEntrada>
+        <dataSaida>11/06/2003</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>03/06/2003</dataEntrada>
+        <dataSaida>28/08/2003</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526045</idOrgaoLegislativoCD>
+        <siglaComissao>CPMIDIVI</siglaComissao>
+        <nomeComissao>Comissão Parlamentar Mista de Inquérito com a finalidade de " apurar as responsabilidades sobre a evasão de divisas do Brasil, especificamente para os chamados paraísos fiscais, em razão de denúncias veiculadas pela imprensa, reveladas pela Operação Macuco, realizada pela Polícia Federal, a qual  apurou a evasão de US$ 30 bilhões"efetuada entre 1996 e 2002, por meio das chamadas contas CC5".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>18/06/2003</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2015</idOrgaoLegislativoCD>
+        <siglaComissao>CTASP</siglaComissao>
+        <nomeComissao>Comissão de Trabalho, de Administração e Serviço Público</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>28/08/2003</dataEntrada>
+        <dataSaida>10/09/2003</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526072</idOrgaoLegislativoCD>
+        <siglaComissao>PLP07603</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei Complementar nº 76, de 2003, que "institui, na forma do art. 43 da Constituição, a Superintendência do Desenvolvimento do Nordeste - SUDENE, estabelece a sua composição, natureza jurídica, objetivos, área de competência e instrumentos de ação".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>03/09/2003</dataEntrada>
+        <dataSaida>17/09/2003</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>10/09/2003</dataEntrada>
+        <dataSaida>03/11/2003</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526081</idOrgaoLegislativoCD>
+        <siglaComissao>CPIGRUPO</siglaComissao>
+        <nomeComissao>Comissão Parlamentar de Inquérito destinada a "investigar a ação criminosa das milícias privadas e dos grupos de extermínio em toda a Região Nordeste".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>23/09/2003</dataEntrada>
+        <dataSaida>14/11/2003</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2015</idOrgaoLegislativoCD>
+        <siglaComissao>CTASP</siglaComissao>
+        <nomeComissao>Comissão de Trabalho, de Administração e Serviço Público</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>03/11/2003</dataEntrada>
+        <dataSaida>15/02/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526118</idOrgaoLegislativoCD>
+        <siglaComissao>PL240103</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2401, de 2003, que "estabelece normas de segurança e mecanismos de fiscalização de atividades que envolvam organismos geneticamente modificados - OGM e seus derivados, cria o Conselho Nacional de Biossegurança - CNBS, reestrutura a Comissão Técnica Nacional de Biossegurança - CTNBio, dispõe sobre a Política Nacional de Biossegurança e dá outras providências".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>12/11/2003</dataEntrada>
+        <dataSaida>13/11/2003</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526124</idOrgaoLegislativoCD>
+        <siglaComissao>REP-1203</siglaComissao>
+        <nomeComissao>Comissão Representativa do Congresso Nacional prevista no § 4º do art. 58 da Constituição Federal (período de 16 de dezembro de 2003 a 14 de fevereiro de 2004).</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>24/12/2003</dataEntrada>
+        <dataSaida>19/01/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526140</idOrgaoLegislativoCD>
+        <siglaComissao>PL254603</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2546, de 2003, que "institui normas gerais para licitação e contratação de parceria público-privada, no âmbito da Administração Pública".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>21/01/2004</dataEntrada>
+        <dataSaida>05/02/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526122</idOrgaoLegislativoCD>
+        <siglaComissao>PEC10103</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 101-A, de 2003, que "dá nova redação ao § 4º do art. 57 da Constituição Federal" (autorizando a reeleição dos membros das Mesas Diretoras da Câmara dos Deputados e do Senado Federal).</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>23/03/2004</dataEntrada>
+        <dataSaida>24/03/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2015</idOrgaoLegislativoCD>
+        <siglaComissao>CTASP</siglaComissao>
+        <nomeComissao>Comissão de Trabalho, de Administração e Serviço Público</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>24/03/2004</dataEntrada>
+        <dataSaida>01/03/2005</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526102</idOrgaoLegislativoCD>
+        <siglaComissao>PL210999</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2109, de 1999, que "dispõe sobre a constituição de patrimônio de afetação nas incorporações imobiliárias de que trata a Lei nº 4.591, de 16 de dezembro de 1964".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>11/05/2004</dataEntrada>
+        <dataSaida>13/05/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526199</idOrgaoLegislativoCD>
+        <siglaComissao>PL347604</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 3.476, de 2004, que "dispõe sobre incentivos à inovação e à pesquisa científica e tecnológica no ambiente produtivo, e dá outras providências".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>08/06/2004</dataEntrada>
+        <dataSaida>02/12/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526123</idOrgaoLegislativoCD>
+        <siglaComissao>CPIBIOPI</siglaComissao>
+        <nomeComissao>Comissão Parlamentar de Inquérito destinada a "investigar o tráfico de animais e plantas silvestres brasileiros, a exploração e comércio ilegal de madeira e a biopirataria no País".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>25/08/2004</dataEntrada>
+        <dataSaida>15/09/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526324</idOrgaoLegislativoCD>
+        <siglaComissao>PEC536-A</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 536-A, de 1997, que "modifica o artigo 60 do Ato das Disposições Constitucionais Transitórias" (estabelecendo que a União complementará os recursos dos Fundos de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério, de modo a que seja atingido o valor mínimo por aluno definido nacionalmente e não haja redução do gasto por aluno do ensino fundamental que foi praticado até dezembro do ano de 1997, em cada Município, Estado ou DF, alterando a nova Constituição Federal).</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>29/11/2005</dataEntrada>
+        <dataSaida>30/11/2005</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526341</idOrgaoLegislativoCD>
+        <siglaComissao>REP-1205</siglaComissao>
+        <nomeComissao>Comissão Representativa do Congresso Nacional prevista no § 4º do art. 58 da Constituição Federal (dezembro de 2005 a fevereiro de 2006).</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>16/12/2005</dataEntrada>
+        <dataSaida>14/02/2006</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2010</idOrgaoLegislativoCD>
+        <siglaComissao>CFT</siglaComissao>
+        <nomeComissao>Comissão de Finanças e Tributação</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>14/02/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2002</idOrgaoLegislativoCD>
+        <siglaComissao>CCTCI</siglaComissao>
+        <nomeComissao>Comissão de Ciência e Tecnologia, Comunicação e Informática</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>08/07/2008</dataEntrada>
+        <dataSaida>08/07/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2015</idOrgaoLegislativoCD>
+        <siglaComissao>CTASP</siglaComissao>
+        <nomeComissao>Comissão de Trabalho, de Administração e Serviço Público</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>04/03/2009</dataEntrada>
+        <dataSaida>10/03/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>5438</idOrgaoLegislativoCD>
+        <siglaComissao>CLP</siglaComissao>
+        <nomeComissao>Comissão de Legislação Participativa</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>10/03/2009</dataEntrada>
+        <dataSaida>01/02/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2007</idOrgaoLegislativoCD>
+        <siglaComissao>CDHM</siglaComissao>
+        <nomeComissao>Comissão de Direitos Humanos e Minorias</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>09/03/2010</dataEntrada>
+        <dataSaida>31/03/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2015</idOrgaoLegislativoCD>
+        <siglaComissao>CTASP</siglaComissao>
+        <nomeComissao>Comissão de Trabalho, de Administração e Serviço Público</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>08/03/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2014</idOrgaoLegislativoCD>
+        <siglaComissao>CSSF</siglaComissao>
+        <nomeComissao>Comissão de Seguridade Social e Família</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>04/03/2008</dataEntrada>
+        <dataSaida>08/07/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2002</idOrgaoLegislativoCD>
+        <siglaComissao>CCTCI</siglaComissao>
+        <nomeComissao>Comissão de Ciência e Tecnologia, Comunicação e Informática</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>08/07/2008</dataEntrada>
+        <dataSaida>11/07/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2002</idOrgaoLegislativoCD>
+        <siglaComissao>CCTCI</siglaComissao>
+        <nomeComissao>Comissão de Ciência e Tecnologia, Comunicação e Informática</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>16/07/2008</dataEntrada>
+        <dataSaida>17/07/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2011</idOrgaoLegislativoCD>
+        <siglaComissao>CFFC</siglaComissao>
+        <nomeComissao>Comissão de Fiscalização Financeira e Controle</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>04/03/2009</dataEntrada>
+        <dataSaida>01/02/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536739</idOrgaoLegislativoCD>
+        <siglaComissao>SUBCOPA</siglaComissao>
+        <nomeComissao>Subcomissão Permanente para acompanhamento, fiscalização e controle dos Recursos Públicos Federais destinados à Copa de 2014 e das Olimpíadas de 2016.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>27/03/2009</dataEntrada>
+        <dataSaida>10/03/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536745</idOrgaoLegislativoCD>
+        <siglaComissao>SUBFIPAC</siglaComissao>
+        <nomeComissao>Subcomissão Permanente de Acompanhamento, Fiscalização e Controle da Execução Orçamentária e Financeira  do Programa de Aceleração do Crescimento - PAC</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>02/04/2009</dataEntrada>
+        <dataSaida>10/03/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536807</idOrgaoLegislativoCD>
+        <siglaComissao>PL250207</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2502, de 2007, do Sr. Eduardo Valverde, que "altera a Lei nº 9.478, de 06 de agosto de 1997,que dispõe sobre a política energética nacional, as atividades relativas ao monopólio do petróleo, institui o Conselho Nacional de Política Energética e a Agência Nacional do Petróleo".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>16/09/2009</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2011</idOrgaoLegislativoCD>
+        <siglaComissao>CFFC</siglaComissao>
+        <nomeComissao>Comissão de Fiscalização Financeira e Controle</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>03/03/2010</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536858</idOrgaoLegislativoCD>
+        <siglaComissao>CEXEMEND</siglaComissao>
+        <nomeComissao>Comissão Externa integrada pelos Deputados do Rio de Janeiro e Espírito Santo, para participarem  de ato público, em decorrência da aprovação da emenda nº 387 ao Projeto de Lei nº 2502, de 2007, que redistribuiu a divisão dos royalties do petróleo, a realizar-se no Rio de Janeiro.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>16/03/2010</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2002</idOrgaoLegislativoCD>
+        <siglaComissao>CCTCI</siglaComissao>
+        <nomeComissao>Comissão de Ciência e Tecnologia, Comunicação e Informática</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>01/03/2011</dataEntrada>
+        <dataSaida>31/01/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6972</idOrgaoLegislativoCD>
+        <siglaComissao>SUBRETRI</siglaComissao>
+        <nomeComissao>Subcomissão Especial da Reforma Tributária</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>13/04/2011</dataEntrada>
+        <dataSaida>01/04/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2009</idOrgaoLegislativoCD>
+        <siglaComissao>CE</siglaComissao>
+        <nomeComissao>Comissão de Educação</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>12/07/2011</dataEntrada>
+        <dataSaida>13/07/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2011</idOrgaoLegislativoCD>
+        <siglaComissao>CFFC</siglaComissao>
+        <nomeComissao>Comissão de Fiscalização Financeira e Controle</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>07/03/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2010</idOrgaoLegislativoCD>
+        <siglaComissao>CFT</siglaComissao>
+        <nomeComissao>Comissão de Finanças e Tributação</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>05/03/2013</dataEntrada>
+        <dataSaida>12/12/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537105</idOrgaoLegislativoCD>
+        <siglaComissao>PEC09011</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 90-A, de 2011, da Sra Luiza Erundina, que "dá nova redação ao art. 6º da Constituição Federal, para introduzir o transporte como direito social"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>28/08/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537199</idOrgaoLegislativoCD>
+        <siglaComissao>PL520113</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 5201, de 2013, do Sr.  André Figueiredo, que "altera a Lei nº 11.345, de 14 de setembro de 2006, para modificar a destinação dos valores arrecadados no concurso de prognóstico denominado Timemania com o objetivo de torná-la mais atraente para seus apostadores e de aumentar a capacidade de pagamento das entidades desportivas quanto às suas dívidas fiscais junto à União, e dá outras providências " e apensado</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>26/11/2013</dataEntrada>
+        <dataSaida>11/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2010</idOrgaoLegislativoCD>
+        <siglaComissao>CFT</siglaComissao>
+        <nomeComissao>Comissão de Finanças e Tributação</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>12/12/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2010</idOrgaoLegislativoCD>
+        <siglaComissao>CFT</siglaComissao>
+        <nomeComissao>Comissão de Finanças e Tributação</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>25/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537103</idOrgaoLegislativoCD>
+        <siglaComissao>CMCLF</siglaComissao>
+        <nomeComissao>Comissão Mista destinada a consolidar a legislação federal e a regulamentar dispositivos da Constituição Federal.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>11/03/2014</dataEntrada>
+        <dataSaida>11/11/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537110</idOrgaoLegislativoCD>
+        <siglaComissao>PL569213</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei  nº 5692, de 2013, do Sr. Sérgio Zveiter, que "dispõe sobre o monopólio da União na exploração das riquezas da Amazônia, com a criação do Conselho Nacional de Política da Amazônia e da Agência Nacional de Exploração dos Recursos Naturais da Amazônia, garantindo a proteção ao meio ambiente e a soberania nacional, e dá outras providências"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>02/04/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2008</idOrgaoLegislativoCD>
+        <siglaComissao>CDEIC</siglaComissao>
+        <nomeComissao>Comissão de Desenvolvimento Econômico, Indústria e Comércio</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>15/04/2014</dataEntrada>
+        <dataSaida>22/04/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2012</idOrgaoLegislativoCD>
+        <siglaComissao>CME</siglaComissao>
+        <nomeComissao>Comissão de Minas e Energia</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>29/04/2014</dataEntrada>
+        <dataSaida>16/07/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2010</idOrgaoLegislativoCD>
+        <siglaComissao>CFT</siglaComissao>
+        <nomeComissao>Comissão de Finanças e Tributação</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>01/03/2011</dataEntrada>
+        <dataSaida>03/05/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6722</idOrgaoLegislativoCD>
+        <siglaComissao>CMMC</siglaComissao>
+        <nomeComissao>Comissão Mista Permanente sobre Mudanças Climáticas - CMMC</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>30/03/2011</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6973</idOrgaoLegislativoCD>
+        <siglaComissao>SUBASFED</siglaComissao>
+        <nomeComissao>Subcomissão Permanente de Assuntos Federativos</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>13/04/2011</dataEntrada>
+        <dataSaida>01/04/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2011</idOrgaoLegislativoCD>
+        <siglaComissao>CFFC</siglaComissao>
+        <nomeComissao>Comissão de Fiscalização Financeira e Controle</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>03/05/2011</dataEntrada>
+        <dataSaida>13/05/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2011</idOrgaoLegislativoCD>
+        <siglaComissao>CFFC</siglaComissao>
+        <nomeComissao>Comissão de Fiscalização Financeira e Controle</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>17/05/2011</dataEntrada>
+        <dataSaida>27/05/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2010</idOrgaoLegislativoCD>
+        <siglaComissao>CFT</siglaComissao>
+        <nomeComissao>Comissão de Finanças e Tributação</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>27/05/2011</dataEntrada>
+        <dataSaida>07/06/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2011</idOrgaoLegislativoCD>
+        <siglaComissao>CFFC</siglaComissao>
+        <nomeComissao>Comissão de Fiscalização Financeira e Controle</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>07/06/2011</dataEntrada>
+        <dataSaida>09/06/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2010</idOrgaoLegislativoCD>
+        <siglaComissao>CFT</siglaComissao>
+        <nomeComissao>Comissão de Finanças e Tributação</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>09/06/2011</dataEntrada>
+        <dataSaida>02/08/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2011</idOrgaoLegislativoCD>
+        <siglaComissao>CFFC</siglaComissao>
+        <nomeComissao>Comissão de Fiscalização Financeira e Controle</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>02/08/2011</dataEntrada>
+        <dataSaida>04/08/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2010</idOrgaoLegislativoCD>
+        <siglaComissao>CFT</siglaComissao>
+        <nomeComissao>Comissão de Finanças e Tributação</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>04/08/2011</dataEntrada>
+        <dataSaida>16/08/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2011</idOrgaoLegislativoCD>
+        <siglaComissao>CFFC</siglaComissao>
+        <nomeComissao>Comissão de Fiscalização Financeira e Controle</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>16/08/2011</dataEntrada>
+        <dataSaida>23/08/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2010</idOrgaoLegislativoCD>
+        <siglaComissao>CFT</siglaComissao>
+        <nomeComissao>Comissão de Finanças e Tributação</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>23/08/2011</dataEntrada>
+        <dataSaida>07/12/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9076</idOrgaoLegislativoCD>
+        <siglaComissao>PEC06111</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 061-A, de 2011, do Poder Executivo, que "altera o art. 76 do Ato das Disposições Constitucionais Transitórias" (prorroga a vigência da DRU até 31 de dezembro de 2015).</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>27/09/2011</dataEntrada>
+        <dataSaida>19/10/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9109</idOrgaoLegislativoCD>
+        <siglaComissao>CEXJUVE</siglaComissao>
+        <nomeComissao>Comissão Externa para auxiliar, orientar, organizar, fiscalizar e acompanhar os preparativos da Jornada Mundial da Juventude 2013, que ocorrerá no Rio de Janeiro.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>04/10/2011</dataEntrada>
+        <dataSaida>28/07/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9098</idOrgaoLegislativoCD>
+        <siglaComissao>PL233011</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2330, de 2011, do Poder Executivo, que "dispõe sobre as medidas relativas à Copa das Confederações FIFA de 2013 e à Copa do Mundo FIFA de 2014, que serão realizadas no Brasil"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>10/10/2011</dataEntrada>
+        <dataSaida>25/10/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9098</idOrgaoLegislativoCD>
+        <siglaComissao>PL233011</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2330, de 2011, do Poder Executivo, que "dispõe sobre as medidas relativas à Copa das Confederações FIFA de 2013 e à Copa do Mundo FIFA de 2014, que serão realizadas no Brasil"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>26/10/2011</dataEntrada>
+        <dataSaida>05/06/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9120</idOrgaoLegislativoCD>
+        <siglaComissao>PL256511</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2565, de 2011, do Senado Federal, que "modifica as Leis nº 9.478, de 6 de agosto de 1997, e nº 12.351, de 22 de dezembro de 2010, para determinar novas regras de distribuição entre os entes da Federação dos royalties e da participação especial devidos em função da exploração de petróleo, gás natural e outros hidrocarbonetos fluidos, e para aprimorar o marco regulatório sobre a exploração desses recursos no regime de partilha"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>06/11/2012</dataEntrada>
+        <dataSaida>30/11/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2010</idOrgaoLegislativoCD>
+        <siglaComissao>CFT</siglaComissao>
+        <nomeComissao>Comissão de Finanças e Tributação</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>08/12/2011</dataEntrada>
+        <dataSaida>31/01/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2011</idOrgaoLegislativoCD>
+        <siglaComissao>CFFC</siglaComissao>
+        <nomeComissao>Comissão de Fiscalização Financeira e Controle</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>07/12/2011</dataEntrada>
+        <dataSaida>08/12/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2010</idOrgaoLegislativoCD>
+        <siglaComissao>CFT</siglaComissao>
+        <nomeComissao>Comissão de Finanças e Tributação</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>07/03/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9065</idOrgaoLegislativoCD>
+        <siglaComissao>PL157211</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 1572, de 2011, do Sr. Vicente Candido, que "institui o Código Comercial"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>20/03/2012</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2016</idOrgaoLegislativoCD>
+        <siglaComissao>CVT</siglaComissao>
+        <nomeComissao>Comissão de Viação e Transportes</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>05/03/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537114</idOrgaoLegislativoCD>
+        <siglaComissao>GTREFPOL</siglaComissao>
+        <nomeComissao>Grupo de Trabalho destinado a estudar e elaborar propostas referentes à Reforma Política e à consulta popular sobre o tema</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>09/07/2013</dataEntrada>
+        <dataSaida>05/11/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537098</idOrgaoLegislativoCD>
+        <siglaComissao>PEC14712</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 147-A, de 2012, do Sr. Amauri Teixeira, que "fixa parâmetros para a remuneração dos Auditores Fiscais da Receita Federal do Brasil, dos Auditores Fiscais do Trabalho e do grau ou nível máximo da carreira dos servidores do Banco Central do Brasil"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>28/11/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537199</idOrgaoLegislativoCD>
+        <siglaComissao>PL520113</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 5201, de 2013, do Sr.  André Figueiredo, que "altera a Lei nº 11.345, de 14 de setembro de 2006, para modificar a destinação dos valores arrecadados no concurso de prognóstico denominado Timemania com o objetivo de torná-la mais atraente para seus apostadores e de aumentar a capacidade de pagamento das entidades desportivas quanto às suas dívidas fiscais junto à União, e dá outras providências " e apensado</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>11/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537229</idOrgaoLegislativoCD>
+        <siglaComissao>CEXMORCI</siglaComissao>
+        <nomeComissao>Comissão Externa, sem ônus para a Câmara dos Deputados, destinada a acompanhar e se informar de todo o andamento do processo em relação ao crime que aconteceu com o cinegrafista da TV Bandeirantes, Santiago Ilídio Andrade.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>12/02/2014</dataEntrada>
+        <dataSaida>26/03/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2016</idOrgaoLegislativoCD>
+        <siglaComissao>CVT</siglaComissao>
+        <nomeComissao>Comissão de Viação e Transportes</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>25/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537110</idOrgaoLegislativoCD>
+        <siglaComissao>PL569213</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei  nº 5692, de 2013, do Sr. Sérgio Zveiter, que "dispõe sobre o monopólio da União na exploração das riquezas da Amazônia, com a criação do Conselho Nacional de Política da Amazônia e da Agência Nacional de Exploração dos Recursos Naturais da Amazônia, garantindo a proteção ao meio ambiente e a soberania nacional, e dá outras providências"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>17/03/2014</dataEntrada>
+        <dataSaida>02/04/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537197</idOrgaoLegislativoCD>
+        <siglaComissao>PEC30913</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 309-A, de 2013, do Sr. Padre João e outros, que  "altera o § 8º do art. 195 da Constituição Federal, para dispor sobre a contribuição para a seguridade social do catador de material reciclável que exerça suas atividades em regime de economia familiar"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>06/05/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537279</idOrgaoLegislativoCD>
+        <siglaComissao>CPMIPETR</siglaComissao>
+        <nomeComissao>Comissão Parlamentar Mista de Inquérito, com a finalidade de investigar irregularidades envolvendo a empresa Petróleo Brasileiro S/A (PETROBRAS), ocorridas entre os anos de 2005 e 2014 e relacionadas à compra da Refinaria de Pasadena, no Texas (EUA); ao lançamento de plataformas inacabadas; ao pagamento de propina a funcionário da estatal; e ao superfaturamento na construção de refinarias</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>28/05/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537256</idOrgaoLegislativoCD>
+        <siglaComissao>PL710814</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 7108, de 2014, do Senado Federal, que "altera a Lei nº 9.307, de 23 de setembro de 1996, e a Lei nº 6.404, de 15 de dezembro de 1976, para ampliar o  âmbito de aplicação da arbitragem e dispor sobre a escolha dos árbitros quando as partes recorrem a órgão arbitral, a interrupção da prescrição pela instituição da arbitragem, a concessão de tutelas cautelares e de urgência nos casos de arbitragem, a carta arbitral, a sentença arbitral e o incentivo ao estudo do instituto da arbitragem; e revoga dispositivos da Lei nº 9.307, de 23 de setembro de 1996".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>20/05/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+    </comissoes>
+    <cargosComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>2016</idOrgaoLegislativoCD>
+        <siglaComissao>CVT</siglaComissao>
+        <nomeComissao>Comissão de Viação e Transportes</nomeComissao>
+        <idCargo>1</idCargo>
+        <nomeCargo>Presidente</nomeCargo>
+        <dataEntrada>06/03/2013</dataEntrada>
+        <dataSaida>26/02/2014</dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>9109</idOrgaoLegislativoCD>
+        <siglaComissao>CEXJUVE</siglaComissao>
+        <nomeComissao>Comissão Externa para auxiliar, orientar, organizar, fiscalizar e acompanhar os preparativos da Jornada Mundial da Juventude 2013, que ocorrerá no Rio de Janeiro.</nomeComissao>
+        <idCargo>14</idCargo>
+        <nomeCargo>Coordenador</nomeCargo>
+        <dataEntrada>11/10/2011</dataEntrada>
+        <dataSaida>28/07/2013</dataSaida>
+      </cargoComissoes>
+    </cargosComissoes>
+    <periodosExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>RJ</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2003</dataInicio>
+        <dataFim>31/01/2007</dataFim>
+        <idCausaFimExercicio>99</idCausaFimExercicio>
+        <descricaoCausaFimExercicio>Término da Legislatura</descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>RJ</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2007</dataInicio>
+        <dataFim>31/01/2011</dataFim>
+        <idCausaFimExercicio>99</idCausaFimExercicio>
+        <descricaoCausaFimExercicio>Término da Legislatura</descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>RJ</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2011</dataInicio>
+        <dataFim>
+        </dataFim>
+        <idCausaFimExercicio>
+        </idCausaFimExercicio>
+        <descricaoCausaFimExercicio>
+        </descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+    </periodosExercicio>
+    <historicoNomeParlamentar />
+    <filiacoesPartidarias>
+      <filiacaoPartidaria>
+        <idPartidoAnterior>PFL</idPartidoAnterior>
+        <siglaPartidoAnterior>PFL</siglaPartidoAnterior>
+        <nomePartidoAnterior>Partido da Frente Liberal</nomePartidoAnterior>
+        <idPartidoPosterior>DEM</idPartidoPosterior>
+        <siglaPartidoPosterior>DEM</siglaPartidoPosterior>
+        <nomePartidoPosterior>Democratas</nomePartidoPosterior>
+        <dataFiliacaoPartidoPosterior>23/04/2007</dataFiliacaoPartidoPosterior>
+      </filiacaoPartidaria>
+    </filiacoesPartidarias>
+    <historicoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>74693</idHistoricoLider>
+        <idCargoLideranca>1</idCargoLideranca>
+        <descricaoCargoLideranca>1º Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>5</numOrdemCargo>
+        <dataDesignacao>18/02/2003</dataDesignacao>
+        <dataTermino>03/02/2005</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>DEM</siglaUnidadeLideranca>
+        <idBlocoPartido>DEM</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>74693</idHistoricoLider>
+        <idCargoLideranca>L</idCargoLideranca>
+        <descricaoCargoLideranca>Líder</descricaoCargoLideranca>
+        <numOrdemCargo>1</numOrdemCargo>
+        <dataDesignacao>19/10/2004</dataDesignacao>
+        <dataTermino>20/10/2004</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>DEM</siglaUnidadeLideranca>
+        <idBlocoPartido>DEM</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>74693</idHistoricoLider>
+        <idCargoLideranca>L</idCargoLideranca>
+        <descricaoCargoLideranca>Líder</descricaoCargoLideranca>
+        <numOrdemCargo>1</numOrdemCargo>
+        <dataDesignacao>03/02/2005</dataDesignacao>
+        <dataTermino>06/02/2007</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PFL</siglaUnidadeLideranca>
+        <idBlocoPartido>PFL</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>74693</idHistoricoLider>
+        <idCargoLideranca>L</idCargoLideranca>
+        <descricaoCargoLideranca>Líder</descricaoCargoLideranca>
+        <numOrdemCargo>1</numOrdemCargo>
+        <dataDesignacao>03/02/2005</dataDesignacao>
+        <dataTermino>31/01/2007</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>DEM</siglaUnidadeLideranca>
+        <idBlocoPartido>DEM</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>74693</idHistoricoLider>
+        <idCargoLideranca>V</idCargoLideranca>
+        <descricaoCargoLideranca>Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>5</numOrdemCargo>
+        <dataDesignacao>07/02/2007</dataDesignacao>
+        <dataTermino>06/03/2007</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PFL</siglaUnidadeLideranca>
+        <idBlocoPartido>PFL</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>74693</idHistoricoLider>
+        <idCargoLideranca>V</idCargoLideranca>
+        <descricaoCargoLideranca>Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>13</numOrdemCargo>
+        <dataDesignacao>07/04/2011</dataDesignacao>
+        <dataTermino>11/05/2011</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>DEM</siglaUnidadeLideranca>
+        <idBlocoPartido>DEM</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>74693</idHistoricoLider>
+        <idCargoLideranca>V</idCargoLideranca>
+        <descricaoCargoLideranca>Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>8</numOrdemCargo>
+        <dataDesignacao>17/05/2011</dataDesignacao>
+        <dataTermino>01/02/2013</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>DEM</siglaUnidadeLideranca>
+        <idBlocoPartido>DEM</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>74693</idHistoricoLider>
+        <idCargoLideranca>V</idCargoLideranca>
+        <descricaoCargoLideranca>Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>8</numOrdemCargo>
+        <dataDesignacao>05/02/2013</dataDesignacao>
+        <dataTermino>
+        </dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>DEM</siglaUnidadeLideranca>
+        <idBlocoPartido>DEM</idBlocoPartido>
+      </itemHistoricoLider>
+    </historicoLider>
+  </Deputado>
+</Deputados>

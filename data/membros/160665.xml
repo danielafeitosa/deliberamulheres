@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Deputados>
+  <Deputado>
+    <numLegislatura>54</numLegislatura>
+    <email>dep.augustocoutinho@camara.gov.br</email>
+    <nomeProfissao>Engenheiro Civil</nomeProfissao>
+    <dataNascimento>22/10/1962</dataNascimento>
+    <dataFalecimento>
+    </dataFalecimento>
+    <ufRepresentacaoAtual>PE</ufRepresentacaoAtual>
+    <situacaoNaLegislaturaAtual>Em Exercício</situacaoNaLegislaturaAtual>
+    <ideCadastro>160665</ideCadastro>
+    <idParlamentarDeprecated>10092</idParlamentarDeprecated>
+    <nomeParlamentarAtual>AUGUSTO COUTINHO</nomeParlamentarAtual>
+    <nomeCivil>AUGUSTO RODRIGUES COUTINHO DE MELO</nomeCivil>
+    <sexo>M</sexo>
+    <partidoAtual>
+      <idPartido>SD</idPartido>
+      <sigla>SD</sigla>
+      <nome>Solidariedade</nome>
+    </partidoAtual>
+    <gabinete>
+      <numero>835</numero>
+      <anexo>4</anexo>
+      <telefone>3215-5835</telefone>
+    </gabinete>
+    <comissoes>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>01/03/2011</dataEntrada>
+        <dataSaida>30/03/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6914</idOrgaoLegislativoCD>
+        <siglaComissao>CEDROGA</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a promover estudos e proposições de políticas públicas e de Projetos de Lei destinados a combater e prevenir os efeitos do Crack e de outras drogas ilícitas.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>28/03/2011</dataEntrada>
+        <dataSaida>07/12/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2004</idOrgaoLegislativoCD>
+        <siglaComissao>CDC</siglaComissao>
+        <nomeComissao>Comissão de Defesa do Consumidor</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>05/04/2011</dataEntrada>
+        <dataSaida>31/01/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>8908</idOrgaoLegislativoCD>
+        <siglaComissao>PL602505</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 6025, de 2005, ao Projeto de Lei nº 8046, de 2010, ambos do Senado Federal, e outros, que tratam do "Código de Processo Civil" (revogam a Lei nº 5.869, de 1973)</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>17/08/2011</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>5973</idOrgaoLegislativoCD>
+        <siglaComissao>MERCOSUL</siglaComissao>
+        <nomeComissao>Representação Brasileira no Parlamento do Mercosul.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>31/08/2011</dataEntrada>
+        <dataSaida>21/05/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9098</idOrgaoLegislativoCD>
+        <siglaComissao>PL233011</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2330, de 2011, do Poder Executivo, que "dispõe sobre as medidas relativas à Copa das Confederações FIFA de 2013 e à Copa do Mundo FIFA de 2014, que serão realizadas no Brasil"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>18/10/2011</dataEntrada>
+        <dataSaida>05/06/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2002</idOrgaoLegislativoCD>
+        <siglaComissao>CCTCI</siglaComissao>
+        <nomeComissao>Comissão de Ciência e Tecnologia, Comunicação e Informática</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>26/10/2011</dataEntrada>
+        <dataSaida>31/01/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2002</idOrgaoLegislativoCD>
+        <siglaComissao>CCTCI</siglaComissao>
+        <nomeComissao>Comissão de Ciência e Tecnologia, Comunicação e Informática</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>07/03/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2004</idOrgaoLegislativoCD>
+        <siglaComissao>CDC</siglaComissao>
+        <nomeComissao>Comissão de Defesa do Consumidor</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>07/03/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6855</idOrgaoLegislativoCD>
+        <siglaComissao>CMO</siglaComissao>
+        <nomeComissao>Comissão Mista de Planos, Orçamentos Públicos e Fiscalização</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>27/03/2012</dataEntrada>
+        <dataSaida>12/04/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2004</idOrgaoLegislativoCD>
+        <siglaComissao>CDC</siglaComissao>
+        <nomeComissao>Comissão de Defesa do Consumidor</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>05/03/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2015</idOrgaoLegislativoCD>
+        <siglaComissao>CTASP</siglaComissao>
+        <nomeComissao>Comissão de Trabalho, de Administração e Serviço Público</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>25/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2004</idOrgaoLegislativoCD>
+        <siglaComissao>CDC</siglaComissao>
+        <nomeComissao>Comissão de Defesa do Consumidor</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>26/11/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6912</idOrgaoLegislativoCD>
+        <siglaComissao>CEREFPOL</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a efetuar estudo e apresentar propostas em relação à Reforma Política.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>02/03/2011</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2015</idOrgaoLegislativoCD>
+        <siglaComissao>CTASP</siglaComissao>
+        <nomeComissao>Comissão de Trabalho, de Administração e Serviço Público</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>01/03/2011</dataEntrada>
+        <dataSaida>31/01/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6504</idOrgaoLegislativoCD>
+        <siglaComissao>PEC01095</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 10-A, de 1995, do Sr. Adhemar de Barros Filho, que "modifica o art. 45 da Constituição Federal e acrescenta parágrafos ao mesmo artigo", criando o sistema distrital misto</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>26/05/2011</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6943</idOrgaoLegislativoCD>
+        <siglaComissao>CETERCE</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a promover estudos e proposições voltadas à regulamentação do trabalho terceirizado no Brasil.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>01/06/2011</dataEntrada>
+        <dataSaida>23/11/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>5971</idOrgaoLegislativoCD>
+        <siglaComissao>COETICA</siglaComissao>
+        <nomeComissao>Conselho de Ética e Decoro Parlamentar da Câmara dos Deputados</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>09/06/2011</dataEntrada>
+        <dataSaida>25/03/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>8872</idOrgaoLegislativoCD>
+        <siglaComissao>PEC44509</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 445-A, de 2009, do Senado Federal, que "altera os arts. 21, 22 e 48 da Constituição Federal, para transferir da União para o Distrito Federal as atribuições de organizar e manter a Defensoria Pública do Distrito Federal"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>13/09/2011</dataEntrada>
+        <dataSaida>29/03/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2015</idOrgaoLegislativoCD>
+        <siglaComissao>CTASP</siglaComissao>
+        <nomeComissao>Comissão de Trabalho, de Administração e Serviço Público</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>07/03/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9018</idOrgaoLegislativoCD>
+        <siglaComissao>PEC00511</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a apreciar e  proferir parecer à Proposta de Emenda à Constituição nº 005-A, de 2011, do Sr. Nelson Marquezelli, que "altera o inciso XV do art. 48 e revoga os incisos VII e VIII do art. 49 para estabelecer que os subsídios do Presidente e Vice-Presidente da República, Ministros de Estado, Senadores e Deputados Federais são idênticos aos dos Ministros do Supremo Tribunal Federal"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>10/05/2012</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6855</idOrgaoLegislativoCD>
+        <siglaComissao>CMO</siglaComissao>
+        <nomeComissao>Comissão Mista de Planos, Orçamentos Públicos e Fiscalização</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>12/04/2012</dataEntrada>
+        <dataSaida>25/03/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536963</idOrgaoLegislativoCD>
+        <siglaComissao>PEC20712</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 207-A de 2012, do Senado Federal, que "altera o art. 134 da Constituição Federal" (garante às Defensorias Públicas da União e do Distrito Federal autonomia funcional e administrativa e a iniciativa de sua proposta orçamentária).</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>18/12/2012</dataEntrada>
+        <dataSaida>06/08/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9068</idOrgaoLegislativoCD>
+        <siglaComissao>PEC36809</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 368, de 2009, do Sr. Carlos Bezerra, que "dá nova redação ao art. 42 do Ato das Disposições Constitucionais Transitórias, ampliando o prazo em que a União deverá destinar às regiões Centro-Oeste e Nordeste percentuais mínimos dos recursos destinados à irrigação"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>08/05/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536983</idOrgaoLegislativoCD>
+        <siglaComissao>CEXSANTA</siglaComissao>
+        <nomeComissao>Comissão Externa destinada a acompanhar a apuração dos fatos relacionados à tragédia que vitimou centenas de jovens em um incêndio no município de Santa Maria, Rio Grande do Sul, e oferecer sugestão de aperfeiçoamento da legislação sobre o tema.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>29/01/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2015</idOrgaoLegislativoCD>
+        <siglaComissao>CTASP</siglaComissao>
+        <nomeComissao>Comissão de Trabalho, de Administração e Serviço Público</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>05/03/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537089</idOrgaoLegislativoCD>
+        <siglaComissao>PL562713</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 5627, de 2013, do Poder Executivo, que "altera o Decreto-Lei nº 9.760, de 5 de setembro de 1946, o Decreto-Lei nº 2.398, de 21 de dezembro de 1987, a Lei nº 9.636, de 15 de maio de 1998, dispõe sobre o parcelamento e a remissão de dívidas patrimoniais com a União, e dá outras providências"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>10/07/2013</dataEntrada>
+        <dataSaida>13/11/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2008</idOrgaoLegislativoCD>
+        <siglaComissao>CDEIC</siglaComissao>
+        <nomeComissao>Comissão de Desenvolvimento Econômico, Indústria e Comércio</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>25/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+    </comissoes>
+    <cargosComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>2008</idOrgaoLegislativoCD>
+        <siglaComissao>CDEIC</siglaComissao>
+        <nomeComissao>Comissão de Desenvolvimento Econômico, Indústria e Comércio</nomeComissao>
+        <idCargo>1</idCargo>
+        <nomeCargo>Presidente</nomeCargo>
+        <dataEntrada>26/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>2015</idOrgaoLegislativoCD>
+        <siglaComissao>CTASP</siglaComissao>
+        <nomeComissao>Comissão de Trabalho, de Administração e Serviço Público</nomeComissao>
+        <idCargo>4</idCargo>
+        <nomeCargo>3º Vice-Presidente</nomeCargo>
+        <dataEntrada>02/03/2011</dataEntrada>
+        <dataSaida>07/03/2012</dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>6943</idOrgaoLegislativoCD>
+        <siglaComissao>CETERCE</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a promover estudos e proposições voltadas à regulamentação do trabalho terceirizado no Brasil.</nomeComissao>
+        <idCargo>4</idCargo>
+        <nomeCargo>3º Vice-Presidente</nomeCargo>
+        <dataEntrada>06/07/2011</dataEntrada>
+        <dataSaida>23/11/2011</dataSaida>
+      </cargoComissoes>
+    </cargosComissoes>
+    <periodosExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>PE</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2011</dataInicio>
+        <dataFim>
+        </dataFim>
+        <idCausaFimExercicio>
+        </idCausaFimExercicio>
+        <descricaoCausaFimExercicio>
+        </descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+    </periodosExercicio>
+    <historicoNomeParlamentar />
+    <filiacoesPartidarias>
+      <filiacaoPartidaria>
+        <idPartidoAnterior>DEM</idPartidoAnterior>
+        <siglaPartidoAnterior>DEM</siglaPartidoAnterior>
+        <nomePartidoAnterior>Democratas</nomePartidoAnterior>
+        <idPartidoPosterior>SDD</idPartidoPosterior>
+        <siglaPartidoPosterior>SDD</siglaPartidoPosterior>
+        <nomePartidoPosterior>Solidariedade</nomePartidoPosterior>
+        <dataFiliacaoPartidoPosterior>01/10/2013</dataFiliacaoPartidoPosterior>
+      </filiacaoPartidaria>
+      <filiacaoPartidaria>
+        <idPartidoAnterior>SDD</idPartidoAnterior>
+        <siglaPartidoAnterior>SDD</siglaPartidoAnterior>
+        <nomePartidoAnterior>Solidariedade</nomePartidoAnterior>
+        <idPartidoPosterior>SD</idPartidoPosterior>
+        <siglaPartidoPosterior>SD</siglaPartidoPosterior>
+        <nomePartidoPosterior>Solidariedade</nomePartidoPosterior>
+        <dataFiliacaoPartidoPosterior>24/04/2014</dataFiliacaoPartidoPosterior>
+      </filiacaoPartidaria>
+    </filiacoesPartidarias>
+    <historicoLider />
+  </Deputado>
+</Deputados>

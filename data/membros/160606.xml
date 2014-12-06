@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Deputados>
+  <Deputado>
+    <numLegislatura>54</numLegislatura>
+    <email>dep.delegadoprotogenes@camara.gov.br</email>
+    <nomeProfissao>Delegado de Polícia Federal</nomeProfissao>
+    <dataNascimento>20/05/1959</dataNascimento>
+    <dataFalecimento>
+    </dataFalecimento>
+    <ufRepresentacaoAtual>SP</ufRepresentacaoAtual>
+    <situacaoNaLegislaturaAtual>Em Exercício</situacaoNaLegislaturaAtual>
+    <ideCadastro>160606</ideCadastro>
+    <idParlamentarDeprecated>10184</idParlamentarDeprecated>
+    <nomeParlamentarAtual>DELEGADO PROTÓGENES</nomeParlamentarAtual>
+    <nomeCivil>PROTÓGENES PINHEIRO DE QUEIROZ</nomeCivil>
+    <sexo>M</sexo>
+    <partidoAtual>
+      <idPartido>PCdoB</idPartido>
+      <sigla>PCdoB</sigla>
+      <nome>Partido Comunista do Brasil</nome>
+    </partidoAtual>
+    <gabinete>
+      <numero>745</numero>
+      <anexo>4</anexo>
+      <telefone>3215-5745</telefone>
+    </gabinete>
+    <comissoes>
+      <comissao>
+        <idOrgaoLegislativoCD>6912</idOrgaoLegislativoCD>
+        <siglaComissao>CEREFPOL</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a efetuar estudo e apresentar propostas em relação à Reforma Política.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>02/03/2011</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>5503</idOrgaoLegislativoCD>
+        <siglaComissao>CSPCCO</siglaComissao>
+        <nomeComissao>Comissão de Segurança Pública e Combate ao Crime Organizado</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>01/03/2011</dataEntrada>
+        <dataSaida>31/01/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6066</idOrgaoLegislativoCD>
+        <siglaComissao>CTUR</siglaComissao>
+        <nomeComissao>Comissão de Turismo</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>01/03/2011</dataEntrada>
+        <dataSaida>31/01/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6983</idOrgaoLegislativoCD>
+        <siglaComissao>SUBSISTE</siglaComissao>
+        <nomeComissao>Subcomissão Permanente para Tratar do Sistema de Segurança Pública, seus Órgãos Institucionais, Carreiras e Programas de Valorização dos Policiais.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>02/05/2011</dataEntrada>
+        <dataSaida>04/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6982</idOrgaoLegislativoCD>
+        <siglaComissao>SUBSEGPU</siglaComissao>
+        <nomeComissao>Subcomissão Permanente para estudar Políticas, Orçamento e Financiamento da Segurança Pública.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>03/05/2011</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6504</idOrgaoLegislativoCD>
+        <siglaComissao>PEC01095</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 10-A, de 1995, do Sr. Adhemar de Barros Filho, que "modifica o art. 45 da Constituição Federal e acrescenta parágrafos ao mesmo artigo", criando o sistema distrital misto</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>26/05/2011</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6914</idOrgaoLegislativoCD>
+        <siglaComissao>CEDROGA</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a promover estudos e proposições de políticas públicas e de Projetos de Lei destinados a combater e prevenir os efeitos do Crack e de outras drogas ilícitas.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>18/05/2011</dataEntrada>
+        <dataSaida>07/12/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9098</idOrgaoLegislativoCD>
+        <siglaComissao>PL233011</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2330, de 2011, do Poder Executivo, que "dispõe sobre as medidas relativas à Copa das Confederações FIFA de 2013 e à Copa do Mundo FIFA de 2014, que serão realizadas no Brasil"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>10/10/2011</dataEntrada>
+        <dataSaida>05/06/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9122</idOrgaoLegislativoCD>
+        <siglaComissao>REP-1211</siglaComissao>
+        <nomeComissao>Comissão Representativa do Congresso Nacional prevista no § 4º do art. 58 da Constituição Federal (período 23 de dezembro de 2011 a 1º de fevereiro de 2012).</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>08/11/2011</dataEntrada>
+        <dataSaida>02/02/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>5503</idOrgaoLegislativoCD>
+        <siglaComissao>CSPCCO</siglaComissao>
+        <nomeComissao>Comissão de Segurança Pública e Combate ao Crime Organizado</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>07/03/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2010</idOrgaoLegislativoCD>
+        <siglaComissao>CFT</siglaComissao>
+        <nomeComissao>Comissão de Finanças e Tributação</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>13/03/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6066</idOrgaoLegislativoCD>
+        <siglaComissao>CTUR</siglaComissao>
+        <nomeComissao>Comissão de Turismo</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>20/04/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9145</idOrgaoLegislativoCD>
+        <siglaComissao>PEC19712</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 197-A, de 2012, do Senado Federal, que "altera o § 2º do art. 155 da Constituição Federal, para modificar a sistemática de cobrança do imposto sobre operações relativas à circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e de comunicação incidente sobre as operações e prestações realizadas de forma não presencial e que destinem bens e serviços a consumidor final localizado em outro Estado"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>08/08/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536971</idOrgaoLegislativoCD>
+        <siglaComissao>REP-1212</siglaComissao>
+        <nomeComissao>Comissão Representativa do Congresso Nacional prevista no § 4º do art. 58 da Constituição Federal (período de 25 de dezembro de 2012 a 03 de fevereiro de 2013)</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>25/12/2012</dataEntrada>
+        <dataSaida>04/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6066</idOrgaoLegislativoCD>
+        <siglaComissao>CTUR</siglaComissao>
+        <nomeComissao>Comissão de Turismo</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>05/03/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>8805</idOrgaoLegislativoCD>
+        <siglaComissao>PL355504</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a analisar e proferir parecer ao Projeto de Lei nº 3555-A, de 2004, do Sr. José Eduardo Cardozo, que "estabelece normas gerais em contratos de seguro privado e revoga dispositivos do Código Civil, do Código Comercial Brasileiro e do Decreto-Lei nº 73 de 1966" (revoga dispositivos das Leis nºs 556, de 1850 e 10.406, de 2002)</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>12/03/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537151</idOrgaoLegislativoCD>
+        <siglaComissao>SUBMEMOR</siglaComissao>
+        <nomeComissao>Subcomissão da Memória, Verdade e Justiça.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>15/10/2013</dataEntrada>
+        <dataSaida>20/05/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537236</idOrgaoLegislativoCD>
+        <siglaComissao>CESPO</siglaComissao>
+        <nomeComissao>Comissão do Esporte</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>25/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537253</idOrgaoLegislativoCD>
+        <siglaComissao>SUBTRAHU</siglaComissao>
+        <nomeComissao>Subcomissão Especial de Combate ao Tráfico Humano</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>01/04/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>01/03/2011</dataEntrada>
+        <dataSaida>31/01/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6977</idOrgaoLegislativoCD>
+        <siglaComissao>CEXPARA</siglaComissao>
+        <nomeComissao>Comissão Externa para acompanhar as investigações sobre os fatos e as circunstâncias que envolvem os desvios de recursos públicos ocorridos na Assembleia Legislativa do Estado do Pará.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>27/04/2011</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>8951</idOrgaoLegislativoCD>
+        <siglaComissao>CESEGUR</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a analisar as Propostas de Emenda à Constituição que versem sobre Segurança Pública.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>28/06/2011</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6981</idOrgaoLegislativoCD>
+        <siglaComissao>SUBOPOL</siglaComissao>
+        <nomeComissao>Subcomissão Permanente para a Investigação de Denúncias e Acompanhamento de Operações Policiais sobre Crime Organizado, Tráfico de Drogas e Armas, Contrabando, Crimes em Fronteiras, Pirataria, Corrupção, Lavagem de Dinheiro, Violência Rural e Urbana e Situações Conexas Pertinentes à Segurança Pública.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>03/05/2011</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6156</idOrgaoLegislativoCD>
+        <siglaComissao>GTCL</siglaComissao>
+        <nomeComissao>Grupo de Trabalho de Consolidação das Leis</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>06/07/2011</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>8908</idOrgaoLegislativoCD>
+        <siglaComissao>PL602505</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 6025, de 2005, ao Projeto de Lei nº 8046, de 2010, ambos do Senado Federal, e outros, que tratam do "Código de Processo Civil" (revogam a Lei nº 5.869, de 1973)</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>17/08/2011</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>8857</idOrgaoLegislativoCD>
+        <siglaComissao>PL682610</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 6826, de 2010, do Poder Executivo, que "dispõe sobre a responsabilização administrativa e cívil de pessoas jurídicas  pela prática de atos contra a administração pública, nacional ou estrangeira e dá outras providências"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>03/10/2011</dataEntrada>
+        <dataSaida>01/08/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9115</idOrgaoLegislativoCD>
+        <siglaComissao>CEXLXHOS</siglaComissao>
+        <nomeComissao>Comissão Externa para acompanhar e fiscalizar as investigações e ações que estão sendo desenvolvidas no Estado de Pernambuco acerca das apreensões de Lixo Hospitalar, no Porto de SUAPE/PE, importado dos Estados Unidos da América por uma empresa pernambucana</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>19/10/2011</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9128</idOrgaoLegislativoCD>
+        <siglaComissao>CEXCHEVR</siglaComissao>
+        <nomeComissao>Comissão Externa destinada a acompanhar o processo de estancamento do vazamento de óleo ocorrido no campo do Frade na bacia de Campos, bem como averiguar os danos ambientais e à saúde decorrentes do vazamento do óleo.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>24/11/2011</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>07/03/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9184</idOrgaoLegislativoCD>
+        <siglaComissao>CPMIOPCA</siglaComissao>
+        <nomeComissao>Comissão Parlamentar Mista de Inquérito destinada a investigar práticas criminosas do senhor Carlos Augusto Ramos, conhecido vulgarmente como Carlinhos Cachoeira, desvendadas pelas operações "Vegas" e "Monte Carlo", da Polícia Federal.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>24/04/2012</dataEntrada>
+        <dataSaida>04/11/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9127</idOrgaoLegislativoCD>
+        <siglaComissao>PEC05511</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 55-A, de 2011, do Sr. Hugo Motta, que "dá nova redação ao § 8º do art. 144, da Constituição Federal, para disciplinar a carreira dos agentes públicos responsáveis pelo policiamento de trânsito, em âmbito municipal"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>04/05/2013</dataEntrada>
+        <dataSaida>16/07/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>05/03/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>5503</idOrgaoLegislativoCD>
+        <siglaComissao>CSPCCO</siglaComissao>
+        <nomeComissao>Comissão de Segurança Pública e Combate ao Crime Organizado</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>05/03/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536986</idOrgaoLegislativoCD>
+        <siglaComissao>CEXCOMP</siglaComissao>
+        <nomeComissao>Comissão Externa destinada a acompanhar a execução das medidas de internação compulsória de dependentes no Estado de São Paulo</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>26/03/2013</dataEntrada>
+        <dataSaida>02/04/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537080</idOrgaoLegislativoCD>
+        <siglaComissao>SUBSEGCO</siglaComissao>
+        <nomeComissao>Subcomissão Especial para Acompanhamento Técnico dos Sistemas de Segurança Pública e Privada a serem Implantados na Copa do Mundo e Olimpíadas.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>13/05/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537146</idOrgaoLegislativoCD>
+        <siglaComissao>CEXSAOFE</siglaComissao>
+        <nomeComissao>Comissão Externa, sem ônus para esta Casa, destinada a verificar denúncias sobre o assassinato de trabalhador rural no município de São Félix do Xingu - PA, bem como, avaliar que providencias estão sendo tomadas sobre o caso.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>22/08/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537182</idOrgaoLegislativoCD>
+        <siglaComissao>CEXMALTR</siglaComissao>
+        <nomeComissao>Comissão Externa para acompanhar as investigações dos possíveis maus tratos do laboratório do Instituto Royal na cidade de São Roque, São Paulo, sem ônus para a Câmara dos Deputados</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>22/10/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>25/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>5503</idOrgaoLegislativoCD>
+        <siglaComissao>CSPCCO</siglaComissao>
+        <nomeComissao>Comissão de Segurança Pública e Combate ao Crime Organizado</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>25/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+    </comissoes>
+    <cargosComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>537146</idOrgaoLegislativoCD>
+        <siglaComissao>CEXSAOFE</siglaComissao>
+        <nomeComissao>Comissão Externa, sem ônus para esta Casa, destinada a verificar denúncias sobre o assassinato de trabalhador rural no município de São Félix do Xingu - PA, bem como, avaliar que providencias estão sendo tomadas sobre o caso.</nomeComissao>
+        <idCargo>50</idCargo>
+        <nomeCargo>Relator</nomeCargo>
+        <dataEntrada>12/09/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>537182</idOrgaoLegislativoCD>
+        <siglaComissao>CEXMALTR</siglaComissao>
+        <nomeComissao>Comissão Externa para acompanhar as investigações dos possíveis maus tratos do laboratório do Instituto Royal na cidade de São Roque, São Paulo, sem ônus para a Câmara dos Deputados</nomeComissao>
+        <idCargo>14</idCargo>
+        <nomeCargo>Coordenador</nomeCargo>
+        <dataEntrada>22/10/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>6981</idOrgaoLegislativoCD>
+        <siglaComissao>SUBOPOL</siglaComissao>
+        <nomeComissao>Subcomissão Permanente para a Investigação de Denúncias e Acompanhamento de Operações Policiais sobre Crime Organizado, Tráfico de Drogas e Armas, Contrabando, Crimes em Fronteiras, Pirataria, Corrupção, Lavagem de Dinheiro, Violência Rural e Urbana e Situações Conexas Pertinentes à Segurança Pública.</nomeComissao>
+        <idCargo>50</idCargo>
+        <nomeCargo>Relator</nomeCargo>
+        <dataEntrada>03/05/2011</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </cargoComissoes>
+    </cargosComissoes>
+    <periodosExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>SP</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2011</dataInicio>
+        <dataFim>
+        </dataFim>
+        <idCausaFimExercicio>
+        </idCausaFimExercicio>
+        <descricaoCausaFimExercicio>
+        </descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+    </periodosExercicio>
+    <historicoNomeParlamentar />
+    <filiacoesPartidarias />
+    <historicoLider />
+  </Deputado>
+</Deputados>

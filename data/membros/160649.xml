@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Deputados>
+  <Deputado>
+    <numLegislatura>54</numLegislatura>
+    <email>dep.esperidiaoamin@camara.gov.br</email>
+    <nomeProfissao>Administrador, Advogado, Professor Universitário</nomeProfissao>
+    <dataNascimento>21/12/1947</dataNascimento>
+    <dataFalecimento>
+    </dataFalecimento>
+    <ufRepresentacaoAtual>SC</ufRepresentacaoAtual>
+    <situacaoNaLegislaturaAtual>Em Exercício</situacaoNaLegislaturaAtual>
+    <ideCadastro>160649</ideCadastro>
+    <idParlamentarDeprecated>1287</idParlamentarDeprecated>
+    <nomeParlamentarAtual>ESPERIDIÃO AMIN</nomeParlamentarAtual>
+    <nomeCivil>ESPERIDIÃO AMIN HELOU FILHO</nomeCivil>
+    <sexo>M</sexo>
+    <partidoAtual>
+      <idPartido>PP</idPartido>
+      <sigla>PP</sigla>
+      <nome>Partido Progressista</nome>
+    </partidoAtual>
+    <gabinete>
+      <numero>252</numero>
+      <anexo>4</anexo>
+      <telefone>3215-5252</telefone>
+    </gabinete>
+    <comissoes>
+      <comissao>
+        <idOrgaoLegislativoCD>6913</idOrgaoLegislativoCD>
+        <siglaComissao>CECATAST</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a efetuar estudo e apresentar propostas em relação às medidas preventivas e saneadoras diante de catástrofes climáticas.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>10/03/2011</dataEntrada>
+        <dataSaida>06/12/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2009</idOrgaoLegislativoCD>
+        <siglaComissao>CE</siglaComissao>
+        <nomeComissao>Comissão de Educação</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>01/03/2011</dataEntrada>
+        <dataSaida>31/01/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6940</idOrgaoLegislativoCD>
+        <siglaComissao>PL803510</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 8035, de 2010, do Poder Executivo, que "aprova o Plano Nacional de Educação para o decênio 2011-2020 e dá outras providências"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>07/04/2011</dataEntrada>
+        <dataSaida>26/06/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>8805</idOrgaoLegislativoCD>
+        <siglaComissao>PL355504</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a analisar e proferir parecer ao Projeto de Lei nº 3555-A, de 2004, do Sr. José Eduardo Cardozo, que "estabelece normas gerais em contratos de seguro privado e revoga dispositivos do Código Civil, do Código Comercial Brasileiro e do Decreto-Lei nº 73 de 1966" (revoga dispositivos das Leis nºs 556, de 1850 e 10.406, de 2002)</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>12/07/2012</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2002</idOrgaoLegislativoCD>
+        <siglaComissao>CCTCI</siglaComissao>
+        <nomeComissao>Comissão de Ciência e Tecnologia, Comunicação e Informática</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>07/03/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2008</idOrgaoLegislativoCD>
+        <siglaComissao>CDEIC</siglaComissao>
+        <nomeComissao>Comissão de Desenvolvimento Econômico, Indústria e Comércio</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>14/03/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9144</idOrgaoLegislativoCD>
+        <siglaComissao>PEC03711</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 37-A, de 2011, do Sr. Lourival Mendes, que "acrescenta o § 10 ao Art. 144 da Constituição Federal para definir a competência para a investigação criminal pelas polícias federal e civis dos Estados e do Distrito Federal"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>11/04/2012</dataEntrada>
+        <dataSaida>25/06/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9136</idOrgaoLegislativoCD>
+        <siglaComissao>SUBPETRO</siglaComissao>
+        <nomeComissao>Subcomissão especial destinada a acompanhar, estudar e propor políticas públicas para promover e ampliar a participação do setor produtivo nacional na cadeia de exploração e refino do petróleo, especialmente na camada do pré-sal.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>24/04/2012</dataEntrada>
+        <dataSaida>22/12/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2009</idOrgaoLegislativoCD>
+        <siglaComissao>CE</siglaComissao>
+        <nomeComissao>Comissão de Educação</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>05/03/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537089</idOrgaoLegislativoCD>
+        <siglaComissao>PL562713</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 5627, de 2013, do Poder Executivo, que "altera o Decreto-Lei nº 9.760, de 5 de setembro de 1946, o Decreto-Lei nº 2.398, de 21 de dezembro de 1987, a Lei nº 9.636, de 15 de maio de 1998, dispõe sobre o parcelamento e a remissão de dívidas patrimoniais com a União, e dá outras providências"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>29/08/2013</dataEntrada>
+        <dataSaida>26/11/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537103</idOrgaoLegislativoCD>
+        <siglaComissao>CMCLF</siglaComissao>
+        <nomeComissao>Comissão Mista destinada a consolidar a legislação federal e a regulamentar dispositivos da Constituição Federal.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>03/12/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2009</idOrgaoLegislativoCD>
+        <siglaComissao>CE</siglaComissao>
+        <nomeComissao>Comissão de Educação</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>25/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537222</idOrgaoLegislativoCD>
+        <siglaComissao>PL684013</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 6840, de 2013, da Comissão Especial destinada a promover estudos e proposições para a reformulação do ensino médio, que "altera a Lei nº 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional, para instituir a jornada em tempo integral no ensino médio, dispor sobre a organização dos currículos do ensino médio em áreas do conhecimento e dá outras providências"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>02/04/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6912</idOrgaoLegislativoCD>
+        <siglaComissao>CEREFPOL</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a efetuar estudo e apresentar propostas em relação à Reforma Política.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>02/03/2011</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>01/03/2011</dataEntrada>
+        <dataSaida>31/01/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6504</idOrgaoLegislativoCD>
+        <siglaComissao>PEC01095</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 10-A, de 1995, do Sr. Adhemar de Barros Filho, que "modifica o art. 45 da Constituição Federal e acrescenta parágrafos ao mesmo artigo", criando o sistema distrital misto</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>26/05/2011</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6156</idOrgaoLegislativoCD>
+        <siglaComissao>GTCL</siglaComissao>
+        <nomeComissao>Grupo de Trabalho de Consolidação das Leis</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>09/06/2011</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>8908</idOrgaoLegislativoCD>
+        <siglaComissao>PL602505</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 6025, de 2005, ao Projeto de Lei nº 8046, de 2010, ambos do Senado Federal, e outros, que tratam do "Código de Processo Civil" (revogam a Lei nº 5.869, de 1973)</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>17/08/2011</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>8526</idOrgaoLegislativoCD>
+        <siglaComissao>PL742006</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 7420, de 2006, da Sra. Professora Raquel Teixeira, que "dispõe sobre a qualidade da educação básica e a responsabilidade dos gestores públicos na sua promoção"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>13/10/2011</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9066</idOrgaoLegislativoCD>
+        <siglaComissao>SUBCRIPE</siglaComissao>
+        <nomeComissao>Subcomissão Especial de Crimes e Penas</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>03/08/2011</dataEntrada>
+        <dataSaida>20/05/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9076</idOrgaoLegislativoCD>
+        <siglaComissao>PEC06111</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 061-A, de 2011, do Poder Executivo, que "altera o art. 76 do Ato das Disposições Constitucionais Transitórias" (prorroga a vigência da DRU até 31 de dezembro de 2015).</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>27/09/2011</dataEntrada>
+        <dataSaida>21/12/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>07/03/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9154</idOrgaoLegislativoCD>
+        <siglaComissao>GTROY</siglaComissao>
+        <nomeComissao>Grupo de trabalho que promove a Câmara de Negociação destinada a viabilizar a discussão do Projeto de Lei nº 2565, de 2011, do Senado Federal, que "modifica as Leis nº 9.478, de 6 de agosto de 1997, e nº 12.351, de 22 de dezembro de 2010, para determinar novas regras de distribuição entre os entes da Federação dos royalties e da participação especial devidos em função da exploração de petróleo, gás natural e outros hidrocarbonetos fluidos, e para aprimorar o marco regulatório sobre a exploração desses recursos no regime de partilha"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>13/03/2012</dataEntrada>
+        <dataSaida>30/11/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9121</idOrgaoLegislativoCD>
+        <siglaComissao>PEC01011</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 10-A, de 2011, do Sr. Luiz Fernando Machado, que "altera os arts. 28, 29 e 84 da Constituição Federal para instituir a obrigatoriedade de elaboração e cumprimento do plano de metas pelo Poder Executivo municipal, estadual e federal, com base nas propostas da campanha eleitoral"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>11/04/2012</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9155</idOrgaoLegislativoCD>
+        <siglaComissao>CEESTA</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a efetuar estudos, levantar as proposições em tramitação e apresentar propostas em relação à temática envolvendo o aprimoramento do Estado, das Instituições e da Democracia brasileira</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>11/07/2012</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9103</idOrgaoLegislativoCD>
+        <siglaComissao>PL217711</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2.177, de 2011, do Sr. Bruno Araújo, que "institui o Código Nacional de Ciência,Tecnologia e Inovação"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>09/04/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>05/03/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537015</idOrgaoLegislativoCD>
+        <siglaComissao>CEPENAL</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a efetuar estudo e apresentar propostas em relação à Reforma do Código Penal</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>28/08/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537046</idOrgaoLegislativoCD>
+        <siglaComissao>PEC56506</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 565-A, de 2006, do Senado Federal, que "altera os arts. 57, 165, 166, e acrescenta art. 165-A, todos da Constituição Federal, tornando de execução obrigatória a programação constante da lei orçamentária anual"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>23/04/2013</dataEntrada>
+        <dataSaida>13/11/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537047</idOrgaoLegislativoCD>
+        <siglaComissao>GTELEIT</siglaComissao>
+        <nomeComissao>Grupo de Trabalho para análise, estudo e formulação de proposições relacionadas à Lei Eleitoral</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>17/04/2013</dataEntrada>
+        <dataSaida>22/10/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536952</idOrgaoLegislativoCD>
+        <siglaComissao>PEC07011</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a apreciar e proferir parecer à Proposta de Emenda à Constituição nº 70-A, de 2011, do Senado Federal, que "altera o procedimento de apreciação das medidas provisórias pelo Congresso Nacional"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>20/08/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537114</idOrgaoLegislativoCD>
+        <siglaComissao>GTREFPOL</siglaComissao>
+        <nomeComissao>Grupo de Trabalho destinado a estudar e elaborar propostas referentes à Reforma Política e à consulta popular sobre o tema</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>09/07/2013</dataEntrada>
+        <dataSaida>05/11/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537152</idOrgaoLegislativoCD>
+        <siglaComissao>PEC29013</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 290-A, de 2013, da Sra. Margarida Salomão e outros, que "altera e adiciona dispositivos na Constituição Federal para atualizar o tratamento das atividades de ciência, tecnologia e inovação"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>03/09/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537159</idOrgaoLegislativoCD>
+        <siglaComissao>PEC20412</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 204-A, de 2012, do Sr. João Caldas e outros, que "dá nova redação aos arts. 94, 104, 119 e 120 da Constituição Federal, para alterar a forma de indicação de membros do Ministério Público e advogados às vagas nos Tribunais"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>15/10/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9145</idOrgaoLegislativoCD>
+        <siglaComissao>PEC19712</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 197-A, de 2012, do Senado Federal, que "altera o § 2º do art. 155 da Constituição Federal, para modificar a sistemática de cobrança do imposto sobre operações relativas à circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e de comunicação incidente sobre as operações e prestações realizadas de forma não presencial e que destinem bens e serviços a consumidor final localizado em outro Estado"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>05/12/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537201</idOrgaoLegislativoCD>
+        <siglaComissao>GTREFTR</siglaComissao>
+        <nomeComissao>Grupo de Trabalho para análise, estudo e formulação de proposições relacionadas à Reforma da Legislação Tributária Nacional</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>04/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537211</idOrgaoLegislativoCD>
+        <siglaComissao>PEC35813</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 358-A, de 2013, do Senado Federal, que "altera os arts. 165 e 166 da Constituição Federal, para tornar obrigatória a execução da programação orçamentária que especifica", e apensada</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>18/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>25/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537256</idOrgaoLegislativoCD>
+        <siglaComissao>PL710814</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 7108, de 2014, do Senado Federal, que "altera a Lei nº 9.307, de 23 de setembro de 1996, e a Lei nº 6.404, de 15 de dezembro de 1976, para ampliar o  âmbito de aplicação da arbitragem e dispor sobre a escolha dos árbitros quando as partes recorrem a órgão arbitral, a interrupção da prescrição pela instituição da arbitragem, a concessão de tutelas cautelares e de urgência nos casos de arbitragem, a carta arbitral, a sentença arbitral e o incentivo ao estudo do instituto da arbitragem; e revoga dispositivos da Lei nº 9.307, de 23 de setembro de 1996".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>20/05/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537089</idOrgaoLegislativoCD>
+        <siglaComissao>PL562713</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 5627, de 2013, do Poder Executivo, que "altera o Decreto-Lei nº 9.760, de 5 de setembro de 1946, o Decreto-Lei nº 2.398, de 21 de dezembro de 1987, a Lei nº 9.636, de 15 de maio de 1998, dispõe sobre o parcelamento e a remissão de dívidas patrimoniais com a União, e dá outras providências"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>26/11/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+    </comissoes>
+    <cargosComissoes />
+    <periodosExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>SC</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2011</dataInicio>
+        <dataFim>
+        </dataFim>
+        <idCausaFimExercicio>
+        </idCausaFimExercicio>
+        <descricaoCausaFimExercicio>
+        </descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+    </periodosExercicio>
+    <historicoNomeParlamentar />
+    <filiacoesPartidarias />
+    <historicoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>160649</idHistoricoLider>
+        <idCargoLideranca>V</idCargoLideranca>
+        <descricaoCargoLideranca>Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>9</numOrdemCargo>
+        <dataDesignacao>17/08/2011</dataDesignacao>
+        <dataTermino>01/02/2013</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PP</siglaUnidadeLideranca>
+        <idBlocoPartido>PP</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>160649</idHistoricoLider>
+        <idCargoLideranca>L</idCargoLideranca>
+        <descricaoCargoLideranca>Líder</descricaoCargoLideranca>
+        <numOrdemCargo>1</numOrdemCargo>
+        <dataDesignacao>31/05/2012</dataDesignacao>
+        <dataTermino>31/05/2012</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PP</siglaUnidadeLideranca>
+        <idBlocoPartido>PP</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>160649</idHistoricoLider>
+        <idCargoLideranca>V</idCargoLideranca>
+        <descricaoCargoLideranca>Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>4</numOrdemCargo>
+        <dataDesignacao>05/03/2013</dataDesignacao>
+        <dataTermino>
+        </dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PP</siglaUnidadeLideranca>
+        <idBlocoPartido>PP</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>160649</idHistoricoLider>
+        <idCargoLideranca>V</idCargoLideranca>
+        <descricaoCargoLideranca>Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>5</numOrdemCargo>
+        <dataDesignacao>21/11/2013</dataDesignacao>
+        <dataTermino>
+        </dataTermino>
+        <codigoUnidadeLideranca>B</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PP, PROS</siglaUnidadeLideranca>
+        <idBlocoPartido>545</idBlocoPartido>
+      </itemHistoricoLider>
+    </historicoLider>
+  </Deputado>
+</Deputados>

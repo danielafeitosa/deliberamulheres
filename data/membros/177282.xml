@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Deputados>
+  <Deputado>
+    <numLegislatura>54</numLegislatura>
+    <email>dep.subtenentegonzaga@camara.gov.br</email>
+    <nomeProfissao>
+    </nomeProfissao>
+    <dataNascimento>31/05/1962</dataNascimento>
+    <dataFalecimento>
+    </dataFalecimento>
+    <ufRepresentacaoAtual>MG</ufRepresentacaoAtual>
+    <situacaoNaLegislaturaAtual>Em Exercício</situacaoNaLegislaturaAtual>
+    <ideCadastro>177282</ideCadastro>
+    <idParlamentarDeprecated>10276</idParlamentarDeprecated>
+    <nomeParlamentarAtual>SUBTENENTE GONZAGA</nomeParlamentarAtual>
+    <nomeCivil>LUIZ GONZAGA RIBEIRO</nomeCivil>
+    <sexo>M</sexo>
+    <partidoAtual>
+      <idPartido>PDT</idPartido>
+      <sigla>PDT</sigla>
+      <nome>Partido Democrático Trabalhista</nome>
+    </partidoAtual>
+    <gabinete>
+      <numero>568</numero>
+      <anexo>3</anexo>
+      <telefone>3215-5568</telefone>
+    </gabinete>
+    <comissoes>
+      <comissao>
+        <idOrgaoLegislativoCD>537091</idOrgaoLegislativoCD>
+        <siglaComissao>PL423812</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 4.238, de 2012, do Senado Federal, que "altera o art. 19 da Lei nº 7.102, de 20 de junho de 1983, para dispor sobre o piso nacional de salário dos empregados em empresas particulares que explorem serviços de vigilância e transporte de valores" (o piso varia de oitocentos reais, grau mínimo, a mil e cem reais, grau máximo), e apensados</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>21/05/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537139</idOrgaoLegislativoCD>
+        <siglaComissao>PEC32509</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a apreciar e  proferir parecer à Proposta de Emenda à Constituição nº 325-A, de 2009, do Sr. Valtenir Pereira e outros, que "acrescenta Seção ao Capítulo IV do Título IV da Constituição Federal, dispondo sobre a perícia oficial de natureza criminal", e apensada</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>21/05/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2007</idOrgaoLegislativoCD>
+        <siglaComissao>CDHM</siglaComissao>
+        <nomeComissao>Comissão de Direitos Humanos e Minorias</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>14/05/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+    </comissoes>
+    <cargosComissoes />
+    <periodosExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>MG</siglaUFRepresentacao>
+        <situacaoExercicio>Efetivado</situacaoExercicio>
+        <dataInicio>08/05/2014</dataInicio>
+        <dataFim>
+        </dataFim>
+        <idCausaFimExercicio>
+        </idCausaFimExercicio>
+        <descricaoCausaFimExercicio>
+        </descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>141390</idCadastroParlamentarAnterior>
+      </periodoExercicio>
+    </periodosExercicio>
+    <historicoNomeParlamentar />
+    <filiacoesPartidarias>
+      <filiacaoPartidaria>
+        <idPartidoAnterior>PV</idPartidoAnterior>
+        <siglaPartidoAnterior>PV</siglaPartidoAnterior>
+        <nomePartidoAnterior>Partido Verde</nomePartidoAnterior>
+        <idPartidoPosterior>PDT</idPartidoPosterior>
+        <siglaPartidoPosterior>PDT</siglaPartidoPosterior>
+        <nomePartidoPosterior>Partido Democrático Trabalhista</nomePartidoPosterior>
+        <dataFiliacaoPartidoPosterior>08/05/2014</dataFiliacaoPartidoPosterior>
+      </filiacaoPartidaria>
+    </filiacoesPartidarias>
+    <historicoLider />
+  </Deputado>
+</Deputados>

@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Deputados>
+  <Deputado>
+    <numLegislatura>54</numLegislatura>
+    <email>dep.anthonygarotinho@camara.gov.br</email>
+    <nomeProfissao>Radialista</nomeProfissao>
+    <dataNascimento>18/04/1960</dataNascimento>
+    <dataFalecimento>
+    </dataFalecimento>
+    <ufRepresentacaoAtual>RJ</ufRepresentacaoAtual>
+    <situacaoNaLegislaturaAtual>Em Exercício</situacaoNaLegislaturaAtual>
+    <ideCadastro>160539</ideCadastro>
+    <idParlamentarDeprecated>10118</idParlamentarDeprecated>
+    <nomeParlamentarAtual>ANTHONY GAROTINHO</nomeParlamentarAtual>
+    <nomeCivil>ANTHONY WILLIAM GAROTINHO MATHEUS DE OLIVEIRA</nomeCivil>
+    <sexo>M</sexo>
+    <partidoAtual>
+      <idPartido>PR</idPartido>
+      <sigla>PR</sigla>
+      <nome>Partido da República</nome>
+    </partidoAtual>
+    <gabinete>
+      <numero>714</numero>
+      <anexo>4</anexo>
+      <telefone>3215-5714</telefone>
+    </gabinete>
+    <comissoes>
+      <comissao>
+        <idOrgaoLegislativoCD>2011</idOrgaoLegislativoCD>
+        <siglaComissao>CFFC</siglaComissao>
+        <nomeComissao>Comissão de Fiscalização Financeira e Controle</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>01/03/2011</dataEntrada>
+        <dataSaida>31/01/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6945</idOrgaoLegislativoCD>
+        <siglaComissao>SUBDECIV</siglaComissao>
+        <nomeComissao>Subcomissão Permanente de Defesa Civil, visando a desburocratização na liberação dos recursos emergenciais, alterando a legislação vigente para atender estados e municípios atingidos por calamidades públicas.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>23/03/2011</dataEntrada>
+        <dataSaida>24/08/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6946</idOrgaoLegislativoCD>
+        <siglaComissao>SUBCOPA</siglaComissao>
+        <nomeComissao>Subcomissão Permanente para Acompanhamento, Fiscalização e Controle dos Recursos Públicos Federais Destinados à Copa de 2014 e às Olimpíadas de 2016.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>23/03/2011</dataEntrada>
+        <dataSaida>13/04/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6942</idOrgaoLegislativoCD>
+        <siglaComissao>CEALCOOL</siglaComissao>
+        <nomeComissao>Comissão Especial para efetuar estudo sobre as causas e consequências do consumo abusivo de álcool entre cidadãos brasileiros e, especialmente, as razões que determinam o aumento exponencial do consumo dessa substância nos últimos cinco anos.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>17/06/2011</dataEntrada>
+        <dataSaida>23/09/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>8908</idOrgaoLegislativoCD>
+        <siglaComissao>PL602505</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 6025, de 2005, ao Projeto de Lei nº 8046, de 2010, ambos do Senado Federal, e outros, que tratam do "Código de Processo Civil" (revogam a Lei nº 5.869, de 1973)</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>17/08/2011</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2011</idOrgaoLegislativoCD>
+        <siglaComissao>CFFC</siglaComissao>
+        <nomeComissao>Comissão de Fiscalização Financeira e Controle</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>07/03/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536963</idOrgaoLegislativoCD>
+        <siglaComissao>PEC20712</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 207-A de 2012, do Senado Federal, que "altera o art. 134 da Constituição Federal" (garante às Defensorias Públicas da União e do Distrito Federal autonomia funcional e administrativa e a iniciativa de sua proposta orçamentária).</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>18/12/2012</dataEntrada>
+        <dataSaida>06/08/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>05/03/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2011</idOrgaoLegislativoCD>
+        <siglaComissao>CFFC</siglaComissao>
+        <nomeComissao>Comissão de Fiscalização Financeira e Controle</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>05/03/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537046</idOrgaoLegislativoCD>
+        <siglaComissao>PEC56506</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 565-A, de 2006, do Senado Federal, que "altera os arts. 57, 165, 166, e acrescenta art. 165-A, todos da Constituição Federal, tornando de execução obrigatória a programação constante da lei orçamentária anual"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>23/04/2013</dataEntrada>
+        <dataSaida>13/11/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2011</idOrgaoLegislativoCD>
+        <siglaComissao>CFFC</siglaComissao>
+        <nomeComissao>Comissão de Fiscalização Financeira e Controle</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>25/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6913</idOrgaoLegislativoCD>
+        <siglaComissao>CECATAST</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a efetuar estudo e apresentar propostas em relação às medidas preventivas e saneadoras diante de catástrofes climáticas.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>10/03/2011</dataEntrada>
+        <dataSaida>01/09/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>01/03/2011</dataEntrada>
+        <dataSaida>31/01/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6722</idOrgaoLegislativoCD>
+        <siglaComissao>CMMC</siglaComissao>
+        <nomeComissao>Comissão Mista Permanente sobre Mudanças Climáticas - CMMC</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>30/03/2011</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6950</idOrgaoLegislativoCD>
+        <siglaComissao>CEXJOR</siglaComissao>
+        <nomeComissao>Comissão Externa com o objetivo de acompanhar e fiscalizar as investigações acerca dos autores dos disparos contra o jornalista Ricardo Gama , sem ônus para a Câmara dos Deputados.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>29/03/2011</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6946</idOrgaoLegislativoCD>
+        <siglaComissao>SUBCOPA</siglaComissao>
+        <nomeComissao>Subcomissão Permanente para Acompanhamento, Fiscalização e Controle dos Recursos Públicos Federais Destinados à Copa de 2014 e às Olimpíadas de 2016.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>13/04/2011</dataEntrada>
+        <dataSaida>02/04/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9109</idOrgaoLegislativoCD>
+        <siglaComissao>CEXJUVE</siglaComissao>
+        <nomeComissao>Comissão Externa para auxiliar, orientar, organizar, fiscalizar e acompanhar os preparativos da Jornada Mundial da Juventude 2013, que ocorrerá no Rio de Janeiro.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>04/10/2011</dataEntrada>
+        <dataSaida>28/07/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9120</idOrgaoLegislativoCD>
+        <siglaComissao>PL256511</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2565, de 2011, do Senado Federal, que "modifica as Leis nº 9.478, de 6 de agosto de 1997, e nº 12.351, de 22 de dezembro de 2010, para determinar novas regras de distribuição entre os entes da Federação dos royalties e da participação especial devidos em função da exploração de petróleo, gás natural e outros hidrocarbonetos fluidos, e para aprimorar o marco regulatório sobre a exploração desses recursos no regime de partilha"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>06/11/2012</dataEntrada>
+        <dataSaida>30/11/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>07/03/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>5438</idOrgaoLegislativoCD>
+        <siglaComissao>CLP</siglaComissao>
+        <nomeComissao>Comissão de Legislação Participativa</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>07/03/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9154</idOrgaoLegislativoCD>
+        <siglaComissao>GTROY</siglaComissao>
+        <nomeComissao>Grupo de trabalho que promove a Câmara de Negociação destinada a viabilizar a discussão do Projeto de Lei nº 2565, de 2011, do Senado Federal, que "modifica as Leis nº 9.478, de 6 de agosto de 1997, e nº 12.351, de 22 de dezembro de 2010, para determinar novas regras de distribuição entre os entes da Federação dos royalties e da participação especial devidos em função da exploração de petróleo, gás natural e outros hidrocarbonetos fluidos, e para aprimorar o marco regulatório sobre a exploração desses recursos no regime de partilha"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>13/03/2012</dataEntrada>
+        <dataSaida>30/11/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9173</idOrgaoLegislativoCD>
+        <siglaComissao>SUBREGIN</siglaComissao>
+        <nomeComissao>Subcomissão Especial destinada a estudar e propor alterações no Regimento Interno da Câmara dos Deputados.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>10/04/2012</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536971</idOrgaoLegislativoCD>
+        <siglaComissao>REP-1212</siglaComissao>
+        <nomeComissao>Comissão Representativa do Congresso Nacional prevista no § 4º do art. 58 da Constituição Federal (período de 25 de dezembro de 2012 a 03 de fevereiro de 2013)</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>25/12/2012</dataEntrada>
+        <dataSaida>04/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537009</idOrgaoLegislativoCD>
+        <siglaComissao>CEXDEST</siglaComissao>
+        <nomeComissao>Comissão Externa, com ônus para esta Casa, objetivando visitar a região serrana do Rio de Janeiro, para averiguar os danos sociais, ambientais e econômicos, decorrentes das enchentes, inundações e desmoronamentos, bem como verificar as providências que estão sendo tomadas no sentindo de atender as populações afetadas</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>27/03/2013</dataEntrada>
+        <dataSaida>10/12/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537047</idOrgaoLegislativoCD>
+        <siglaComissao>GTELEIT</siglaComissao>
+        <nomeComissao>Grupo de Trabalho para análise, estudo e formulação de proposições relacionadas à Lei Eleitoral</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>17/04/2013</dataEntrada>
+        <dataSaida>22/10/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537083</idOrgaoLegislativoCD>
+        <siglaComissao>PL032307</siglaComissao>
+        <nomeComissao>	Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 323, de 2007, do Sr. Brizola Neto, que "altera a Lei nº 9478, de 06 de agosto de 1997, que dispõe sobre a política energética nacional, as atividades relativas ao monopólio do petróleo, institui o Conselho Nacional de Política Energética e a Agência Nacional do Petróleo e dá outras providências" (dispõe sobre a aplicação de recursos provenientes de royalties do petróleo)</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>05/06/2013</dataEntrada>
+        <dataSaida>09/09/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536952</idOrgaoLegislativoCD>
+        <siglaComissao>PEC07011</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a apreciar e proferir parecer à Proposta de Emenda à Constituição nº 70-A, de 2011, do Senado Federal, que "altera o procedimento de apreciação das medidas provisórias pelo Congresso Nacional"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>20/08/2013</dataEntrada>
+        <dataSaida>27/08/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537088</idOrgaoLegislativoCD>
+        <siglaComissao>REP-0713</siglaComissao>
+        <nomeComissao>Comissão Representativa do Congresso Nacional prevista no § 4º do art. 58 da Constituição Federal (período 18 a 31 de julho de 2013).</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>18/07/2013</dataEntrada>
+        <dataSaida>31/07/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537116</idOrgaoLegislativoCD>
+        <siglaComissao>PL501313</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 5013, de 2013, do Senado Federal, que "estabelece normas gerais de política urbana e de proteção à saúde e ao meio ambiente associadas à implantação e ao compartilhamento da infraestrutura de telecomunicações" (altera a Lei nº 9.472, de 1997 e a Lei nº 11.934, de 2009), e apensados</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>11/09/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537202</idOrgaoLegislativoCD>
+        <siglaComissao>REP-1213</siglaComissao>
+        <nomeComissao>Comissão Representativa do Congresso Nacional prevista no § 4º do art. 58 da Constituição Federal (período de 24 de dezembro de 2013 a 02 de fevereiro de 2014)</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>24/12/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537211</idOrgaoLegislativoCD>
+        <siglaComissao>PEC35813</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 358-A, de 2013, do Senado Federal, que "altera os arts. 165 e 166 da Constituição Federal, para tornar obrigatória a execução da programação orçamentária que especifica", e apensada</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>18/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537229</idOrgaoLegislativoCD>
+        <siglaComissao>CEXMORCI</siglaComissao>
+        <nomeComissao>Comissão Externa, sem ônus para a Câmara dos Deputados, destinada a acompanhar e se informar de todo o andamento do processo em relação ao crime que aconteceu com o cinegrafista da TV Bandeirantes, Santiago Ilídio Andrade.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>12/02/2014</dataEntrada>
+        <dataSaida>26/03/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>25/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537232</idOrgaoLegislativoCD>
+        <siglaComissao>CEXPETRO</siglaComissao>
+        <nomeComissao>Comissão Externa para acompanhar as investigações efetuadas pelo Openbaar Ministerie, em Amsterdam, Holanda, acerca das operações e procedimentos no Brasil da Empresa SBM Offshore, cuja sede situa-se naquele País, e que envolvem possíveis práticas de suborno</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>25/03/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+    </comissoes>
+    <cargosComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>6946</idOrgaoLegislativoCD>
+        <siglaComissao>SUBCOPA</siglaComissao>
+        <nomeComissao>Subcomissão Permanente para Acompanhamento, Fiscalização e Controle dos Recursos Públicos Federais Destinados à Copa de 2014 e às Olimpíadas de 2016.</nomeComissao>
+        <idCargo>2</idCargo>
+        <nomeCargo>1º Vice-Presidente</nomeCargo>
+        <dataEntrada>26/08/2011</dataEntrada>
+        <dataSaida>02/04/2012</dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>6946</idOrgaoLegislativoCD>
+        <siglaComissao>SUBCOPA</siglaComissao>
+        <nomeComissao>Subcomissão Permanente para Acompanhamento, Fiscalização e Controle dos Recursos Públicos Federais Destinados à Copa de 2014 e às Olimpíadas de 2016.</nomeComissao>
+        <idCargo>2</idCargo>
+        <nomeCargo>1º Vice-Presidente</nomeCargo>
+        <dataEntrada>23/03/2011</dataEntrada>
+        <dataSaida>13/04/2011</dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>5438</idOrgaoLegislativoCD>
+        <siglaComissao>CLP</siglaComissao>
+        <nomeComissao>Comissão de Legislação Participativa</nomeComissao>
+        <idCargo>1</idCargo>
+        <nomeCargo>Presidente</nomeCargo>
+        <dataEntrada>07/03/2012</dataEntrada>
+        <dataSaida>06/03/2013</dataSaida>
+      </cargoComissoes>
+    </cargosComissoes>
+    <periodosExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>RJ</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2011</dataInicio>
+        <dataFim>
+        </dataFim>
+        <idCausaFimExercicio>
+        </idCausaFimExercicio>
+        <descricaoCausaFimExercicio>
+        </descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+    </periodosExercicio>
+    <historicoNomeParlamentar />
+    <filiacoesPartidarias />
+    <historicoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>160539</idHistoricoLider>
+        <idCargoLideranca>V</idCargoLideranca>
+        <descricaoCargoLideranca>Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>3</numOrdemCargo>
+        <dataDesignacao>08/02/2011</dataDesignacao>
+        <dataTermino>04/02/2013</dataTermino>
+        <codigoUnidadeLideranca>B</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PR, PTdoB, PRP</siglaUnidadeLideranca>
+        <idBlocoPartido>9</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>160539</idHistoricoLider>
+        <idCargoLideranca>L</idCargoLideranca>
+        <descricaoCargoLideranca>Líder</descricaoCargoLideranca>
+        <numOrdemCargo>1</numOrdemCargo>
+        <dataDesignacao>01/02/2013</dataDesignacao>
+        <dataTermino>27/02/2014</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PR</siglaUnidadeLideranca>
+        <idBlocoPartido>PR</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>160539</idHistoricoLider>
+        <idCargoLideranca>L</idCargoLideranca>
+        <descricaoCargoLideranca>Líder</descricaoCargoLideranca>
+        <numOrdemCargo>1</numOrdemCargo>
+        <dataDesignacao>04/02/2013</dataDesignacao>
+        <dataTermino>11/03/2014</dataTermino>
+        <codigoUnidadeLideranca>B</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PR, PTdoB, PRP</siglaUnidadeLideranca>
+        <idBlocoPartido>9</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>160539</idHistoricoLider>
+        <idCargoLideranca>V</idCargoLideranca>
+        <descricaoCargoLideranca>Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>5</numOrdemCargo>
+        <dataDesignacao>19/03/2014</dataDesignacao>
+        <dataTermino>
+        </dataTermino>
+        <codigoUnidadeLideranca>B</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PR, PTdoB, PRP</siglaUnidadeLideranca>
+        <idBlocoPartido>9</idBlocoPartido>
+      </itemHistoricoLider>
+    </historicoLider>
+  </Deputado>
+</Deputados>

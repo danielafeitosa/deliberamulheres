@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Deputados>
+  <Deputado>
+    <numLegislatura>53</numLegislatura>
+    <email>
+    </email>
+    <nomeProfissao>Engenheiro Civil</nomeProfissao>
+    <dataNascimento>08/10/1972</dataNascimento>
+    <dataFalecimento>
+    </dataFalecimento>
+    <ufRepresentacaoAtual>BA</ufRepresentacaoAtual>
+    <situacaoNaLegislaturaAtual>Em Exercício</situacaoNaLegislaturaAtual>
+    <ideCadastro>141458</ideCadastro>
+    <idParlamentarDeprecated>4486</idParlamentarDeprecated>
+    <nomeParlamentarAtual>JOÃO CARLOS BACELAR</nomeParlamentarAtual>
+    <nomeCivil>JOÃO CARLOS PAOLILO BACELAR FILHO</nomeCivil>
+    <sexo>M</sexo>
+    <partidoAtual>
+      <idPartido>PR</idPartido>
+      <sigla>PR</sigla>
+      <nome>Partido da República</nome>
+    </partidoAtual>
+    <gabinete>
+      <numero>
+      </numero>
+      <anexo>
+      </anexo>
+      <telefone>
+      </telefone>
+    </gabinete>
+    <comissoes>
+      <comissao>
+        <idOrgaoLegislativoCD>2002</idOrgaoLegislativoCD>
+        <siglaComissao>CCTCI</siglaComissao>
+        <nomeComissao>Comissão de Ciência e Tecnologia, Comunicação e Informática</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>14/02/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536353</idOrgaoLegislativoCD>
+        <siglaComissao>PL033407</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 334, de 2007, do Senado Federal, que "dispõe sobre a importação, exportação, processamento, transporte, armazenagem, liquefação, regaseificação, distribuição e comercialização de gás natural", alterando a Lei nº 9.478, de 1997, no que diz respeito ao gás natural, incluindo o gás canalizado.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>07/03/2007</dataEntrada>
+        <dataSaida>18/10/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>535967</idOrgaoLegislativoCD>
+        <siglaComissao>CMO-07</siglaComissao>
+        <nomeComissao>Comissão Mista de Planos, Orçamentos Públicos e Fiscalização.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>09/03/2007</dataEntrada>
+        <dataSaida>25/03/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536435</idOrgaoLegislativoCD>
+        <siglaComissao>SUBCIENC</siglaComissao>
+        <nomeComissao>Subcomissão Permanente de Ciência e Tecnologia e Informática</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>07/03/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536394</idOrgaoLegislativoCD>
+        <siglaComissao>PEC47105</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 471-A, de 2005, do Sr. João Campos, que "dá nova redação ao parágrafo 3º do artigo 236 da Constituição Federal", estabelecendo a efetivação para os atuais responsáveis e substitutos pelos serviços notariais, investidos na forma da lei.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>03/08/2007</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2012</idOrgaoLegislativoCD>
+        <siglaComissao>CME</siglaComissao>
+        <nomeComissao>Comissão de Minas e Energia</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>04/03/2008</dataEntrada>
+        <dataSaida>04/03/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>06/03/2008</dataEntrada>
+        <dataSaida>02/02/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2004</idOrgaoLegislativoCD>
+        <siglaComissao>CDC</siglaComissao>
+        <nomeComissao>Comissão de Defesa do Consumidor</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>04/03/2009</dataEntrada>
+        <dataSaida>01/02/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536807</idOrgaoLegislativoCD>
+        <siglaComissao>PL250207</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2502, de 2007, do Sr. Eduardo Valverde, que "altera a Lei nº 9.478, de 06 de agosto de 1997,que dispõe sobre a política energética nacional, as atividades relativas ao monopólio do petróleo, institui o Conselho Nacional de Política Energética e a Agência Nacional do Petróleo".</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>16/09/2009</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2006</idOrgaoLegislativoCD>
+        <siglaComissao>CDU</siglaComissao>
+        <nomeComissao>Comissão de Desenvolvimento Urbano</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>03/03/2010</dataEntrada>
+        <dataSaida>11/03/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2012</idOrgaoLegislativoCD>
+        <siglaComissao>CME</siglaComissao>
+        <nomeComissao>Comissão de Minas e Energia</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>02/06/2010</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2018</idOrgaoLegislativoCD>
+        <siglaComissao>CREDN</siglaComissao>
+        <nomeComissao>Comissão de Relações Exteriores e de Defesa Nacional</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>08/03/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2004</idOrgaoLegislativoCD>
+        <siglaComissao>CDC</siglaComissao>
+        <nomeComissao>Comissão de Defesa do Consumidor</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>05/03/2008</dataEntrada>
+        <dataSaida>02/02/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536720</idOrgaoLegislativoCD>
+        <siglaComissao>CMO-09</siglaComissao>
+        <nomeComissao>Comissão Mista de Planos, Orçamentos Públicos e Fiscalização - CMO</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>24/03/2009</dataEntrada>
+        <dataSaida>30/03/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2006</idOrgaoLegislativoCD>
+        <siglaComissao>CDU</siglaComissao>
+        <nomeComissao>Comissão de Desenvolvimento Urbano</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>04/03/2009</dataEntrada>
+        <dataSaida>01/02/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2006</idOrgaoLegislativoCD>
+        <siglaComissao>CDU</siglaComissao>
+        <nomeComissao>Comissão de Desenvolvimento Urbano</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>11/03/2010</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2006</idOrgaoLegislativoCD>
+        <siglaComissao>CDU</siglaComissao>
+        <nomeComissao>Comissão de Desenvolvimento Urbano</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>01/03/2011</dataEntrada>
+        <dataSaida>31/01/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>7014</idOrgaoLegislativoCD>
+        <siglaComissao>SUBRESOL</siglaComissao>
+        <nomeComissao>Subcomissão Especial para acompanhamento da regulamentação da Lei nº 12.305, de 2 de agosto de 2010, que institui a Política Nacional de Resíduos Sólidos.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>31/05/2011</dataEntrada>
+        <dataSaida>21/03/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2006</idOrgaoLegislativoCD>
+        <siglaComissao>CDU</siglaComissao>
+        <nomeComissao>Comissão de Desenvolvimento Urbano</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>07/03/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9174</idOrgaoLegislativoCD>
+        <siglaComissao>SUBCOPAC</siglaComissao>
+        <nomeComissao>Subcomissão Especial destinada a acompanhar as obras do PAC - Plano de Aceleração do Crescimento do Governo Federal.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>12/04/2012</dataEntrada>
+        <dataSaida>17/04/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>8736</idOrgaoLegislativoCD>
+        <siglaComissao>PL346004</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 3460, de 2004, do Sr. Walter Feldman, que "institui diretrizes para a Política Nacional de Planejamento Regional Urbano, cria o Sistema Nacional de Planejamento e Informações Regionais Urbanas e dá outras providências" (Estatuto da Metrópole)</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>20/04/2012</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2015</idOrgaoLegislativoCD>
+        <siglaComissao>CTASP</siglaComissao>
+        <nomeComissao>Comissão de Trabalho, de Administração e Serviço Público</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>11/06/2012</dataEntrada>
+        <dataSaida>11/06/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2012</idOrgaoLegislativoCD>
+        <siglaComissao>CME</siglaComissao>
+        <nomeComissao>Comissão de Minas e Energia</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>07/08/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>21/08/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2006</idOrgaoLegislativoCD>
+        <siglaComissao>CDU</siglaComissao>
+        <nomeComissao>Comissão de Desenvolvimento Urbano</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>25/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2010</idOrgaoLegislativoCD>
+        <siglaComissao>CFT</siglaComissao>
+        <nomeComissao>Comissão de Finanças e Tributação</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>25/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6855</idOrgaoLegislativoCD>
+        <siglaComissao>CMO</siglaComissao>
+        <nomeComissao>Comissão Mista de Planos, Orçamentos Públicos e Fiscalização</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>25/03/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2012</idOrgaoLegislativoCD>
+        <siglaComissao>CME</siglaComissao>
+        <nomeComissao>Comissão de Minas e Energia</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>01/03/2011</dataEntrada>
+        <dataSaida>31/01/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>8805</idOrgaoLegislativoCD>
+        <siglaComissao>PL355504</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a analisar e proferir parecer ao Projeto de Lei nº 3555-A, de 2004, do Sr. José Eduardo Cardozo, que "estabelece normas gerais em contratos de seguro privado e revoga dispositivos do Código Civil, do Código Comercial Brasileiro e do Decreto-Lei nº 73 de 1966" (revoga dispositivos das Leis nºs 556, de 1850 e 10.406, de 2002)</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>12/07/2012</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2012</idOrgaoLegislativoCD>
+        <siglaComissao>CME</siglaComissao>
+        <nomeComissao>Comissão de Minas e Energia</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>07/03/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536981</idOrgaoLegislativoCD>
+        <siglaComissao>SUBECOPA</siglaComissao>
+        <nomeComissao>Subcomissão Especial destinada a acompanhar o andamento das obras de construção e adequação da infraestrutura de Mobilidade Urbana para Copa do Mundo de 2014 e das Olimpíadas de 2016 e o respectivo legado que a realização desses eventos deixará para as cidades-sede.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>21/03/2012</dataEntrada>
+        <dataSaida>17/04/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537108</idOrgaoLegislativoCD>
+        <siglaComissao>PL003711</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 37, de 2011, do Sr. Welinton Prado, que "dispõe sobre o regime de aproveitamento das substâncias minerais, com exceção dos minérios nucleares, petróleo, gás natural e outros hidrocarbonetos fluidos e das substâncias minerais submetidas ao regime de licenciamento de que trata o inciso III do art. 2º do Decreto-lei nº 227, de 28 de fevereiro de 1967"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>16/07/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2006</idOrgaoLegislativoCD>
+        <siglaComissao>CDU</siglaComissao>
+        <nomeComissao>Comissão de Desenvolvimento Urbano</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>20/08/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2012</idOrgaoLegislativoCD>
+        <siglaComissao>CME</siglaComissao>
+        <nomeComissao>Comissão de Minas e Energia</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>25/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+    </comissoes>
+    <cargosComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>2012</idOrgaoLegislativoCD>
+        <siglaComissao>CME</siglaComissao>
+        <nomeComissao>Comissão de Minas e Energia</nomeComissao>
+        <idCargo>3</idCargo>
+        <nomeCargo>2º Vice-Presidente</nomeCargo>
+        <dataEntrada>14/03/2012</dataEntrada>
+        <dataSaida>06/03/2013</dataSaida>
+      </cargoComissoes>
+    </cargosComissoes>
+    <periodosExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>BA</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2007</dataInicio>
+        <dataFim>31/01/2011</dataFim>
+        <idCausaFimExercicio>99</idCausaFimExercicio>
+        <descricaoCausaFimExercicio>Término da Legislatura</descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>BA</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2011</dataInicio>
+        <dataFim>02/02/2013</dataFim>
+        <idCausaFimExercicio>20</idCausaFimExercicio>
+        <descricaoCausaFimExercicio>Licença Conjunta Consecutiva</descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>BA</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>03/06/2013</dataInicio>
+        <dataFim>
+        </dataFim>
+        <idCausaFimExercicio>
+        </idCausaFimExercicio>
+        <descricaoCausaFimExercicio>
+        </descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+    </periodosExercicio>
+    <historicoNomeParlamentar />
+    <filiacoesPartidarias />
+    <historicoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>141458</idHistoricoLider>
+        <idCargoLideranca>V</idCargoLideranca>
+        <descricaoCargoLideranca>Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>16</numOrdemCargo>
+        <dataDesignacao>08/07/2009</dataDesignacao>
+        <dataTermino>31/01/2011</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PR</siglaUnidadeLideranca>
+        <idBlocoPartido>PR</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>141458</idHistoricoLider>
+        <idCargoLideranca>V</idCargoLideranca>
+        <descricaoCargoLideranca>Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>4</numOrdemCargo>
+        <dataDesignacao>10/02/2011</dataDesignacao>
+        <dataTermino>07/02/2013</dataTermino>
+        <codigoUnidadeLideranca>B</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PR, PTdoB, PRP</siglaUnidadeLideranca>
+        <idBlocoPartido>9</idBlocoPartido>
+      </itemHistoricoLider>
+    </historicoLider>
+  </Deputado>
+  <Deputado>
+    <numLegislatura>54</numLegislatura>
+    <email>dep.joaocarlosbacelar@camara.gov.br</email>
+    <nomeProfissao>Engenheiro Civil</nomeProfissao>
+    <dataNascimento>08/10/1972</dataNascimento>
+    <dataFalecimento>
+    </dataFalecimento>
+    <ufRepresentacaoAtual>BA</ufRepresentacaoAtual>
+    <situacaoNaLegislaturaAtual>Em Exercício</situacaoNaLegislaturaAtual>
+    <ideCadastro>141458</ideCadastro>
+    <idParlamentarDeprecated>4486</idParlamentarDeprecated>
+    <nomeParlamentarAtual>JOÃO CARLOS BACELAR</nomeParlamentarAtual>
+    <nomeCivil>JOÃO CARLOS PAOLILO BACELAR FILHO</nomeCivil>
+    <sexo>M</sexo>
+    <partidoAtual>
+      <idPartido>PR</idPartido>
+      <sigla>PR</sigla>
+      <nome>Partido da República</nome>
+    </partidoAtual>
+    <gabinete>
+      <numero>928</numero>
+      <anexo>4</anexo>
+      <telefone>3215-5928</telefone>
+    </gabinete>
+    <comissoes>
+      <comissao>
+        <idOrgaoLegislativoCD>2002</idOrgaoLegislativoCD>
+        <siglaComissao>CCTCI</siglaComissao>
+        <nomeComissao>Comissão de Ciência e Tecnologia, Comunicação e Informática</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>14/02/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536353</idOrgaoLegislativoCD>
+        <siglaComissao>PL033407</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 334, de 2007, do Senado Federal, que "dispõe sobre a importação, exportação, processamento, transporte, armazenagem, liquefação, regaseificação, distribuição e comercialização de gás natural", alterando a Lei nº 9.478, de 1997, no que diz respeito ao gás natural, incluindo o gás canalizado.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>07/03/2007</dataEntrada>
+        <dataSaida>18/10/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>535967</idOrgaoLegislativoCD>
+        <siglaComissao>CMO-07</siglaComissao>
+        <nomeComissao>Comissão Mista de Planos, Orçamentos Públicos e Fiscalização.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>09/03/2007</dataEntrada>
+        <dataSaida>25/03/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536435</idOrgaoLegislativoCD>
+        <siglaComissao>SUBCIENC</siglaComissao>
+        <nomeComissao>Subcomissão Permanente de Ciência e Tecnologia e Informática</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>07/03/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536394</idOrgaoLegislativoCD>
+        <siglaComissao>PEC47105</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 471-A, de 2005, do Sr. João Campos, que "dá nova redação ao parágrafo 3º do artigo 236 da Constituição Federal", estabelecendo a efetivação para os atuais responsáveis e substitutos pelos serviços notariais, investidos na forma da lei.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>03/08/2007</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2012</idOrgaoLegislativoCD>
+        <siglaComissao>CME</siglaComissao>
+        <nomeComissao>Comissão de Minas e Energia</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>04/03/2008</dataEntrada>
+        <dataSaida>04/03/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>06/03/2008</dataEntrada>
+        <dataSaida>02/02/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2004</idOrgaoLegislativoCD>
+        <siglaComissao>CDC</siglaComissao>
+        <nomeComissao>Comissão de Defesa do Consumidor</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>04/03/2009</dataEntrada>
+        <dataSaida>01/02/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536807</idOrgaoLegislativoCD>
+        <siglaComissao>PL250207</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2502, de 2007, do Sr. Eduardo Valverde, que "altera a Lei nº 9.478, de 06 de agosto de 1997,que dispõe sobre a política energética nacional, as atividades relativas ao monopólio do petróleo, institui o Conselho Nacional de Política Energética e a Agência Nacional do Petróleo".</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>16/09/2009</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2006</idOrgaoLegislativoCD>
+        <siglaComissao>CDU</siglaComissao>
+        <nomeComissao>Comissão de Desenvolvimento Urbano</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>03/03/2010</dataEntrada>
+        <dataSaida>11/03/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2012</idOrgaoLegislativoCD>
+        <siglaComissao>CME</siglaComissao>
+        <nomeComissao>Comissão de Minas e Energia</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>02/06/2010</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2018</idOrgaoLegislativoCD>
+        <siglaComissao>CREDN</siglaComissao>
+        <nomeComissao>Comissão de Relações Exteriores e de Defesa Nacional</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>08/03/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2004</idOrgaoLegislativoCD>
+        <siglaComissao>CDC</siglaComissao>
+        <nomeComissao>Comissão de Defesa do Consumidor</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>05/03/2008</dataEntrada>
+        <dataSaida>02/02/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536720</idOrgaoLegislativoCD>
+        <siglaComissao>CMO-09</siglaComissao>
+        <nomeComissao>Comissão Mista de Planos, Orçamentos Públicos e Fiscalização - CMO</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>24/03/2009</dataEntrada>
+        <dataSaida>30/03/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2006</idOrgaoLegislativoCD>
+        <siglaComissao>CDU</siglaComissao>
+        <nomeComissao>Comissão de Desenvolvimento Urbano</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>04/03/2009</dataEntrada>
+        <dataSaida>01/02/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2006</idOrgaoLegislativoCD>
+        <siglaComissao>CDU</siglaComissao>
+        <nomeComissao>Comissão de Desenvolvimento Urbano</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>11/03/2010</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2006</idOrgaoLegislativoCD>
+        <siglaComissao>CDU</siglaComissao>
+        <nomeComissao>Comissão de Desenvolvimento Urbano</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>01/03/2011</dataEntrada>
+        <dataSaida>31/01/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>7014</idOrgaoLegislativoCD>
+        <siglaComissao>SUBRESOL</siglaComissao>
+        <nomeComissao>Subcomissão Especial para acompanhamento da regulamentação da Lei nº 12.305, de 2 de agosto de 2010, que institui a Política Nacional de Resíduos Sólidos.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>31/05/2011</dataEntrada>
+        <dataSaida>21/03/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2006</idOrgaoLegislativoCD>
+        <siglaComissao>CDU</siglaComissao>
+        <nomeComissao>Comissão de Desenvolvimento Urbano</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>07/03/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9174</idOrgaoLegislativoCD>
+        <siglaComissao>SUBCOPAC</siglaComissao>
+        <nomeComissao>Subcomissão Especial destinada a acompanhar as obras do PAC - Plano de Aceleração do Crescimento do Governo Federal.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>12/04/2012</dataEntrada>
+        <dataSaida>17/04/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>8736</idOrgaoLegislativoCD>
+        <siglaComissao>PL346004</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 3460, de 2004, do Sr. Walter Feldman, que "institui diretrizes para a Política Nacional de Planejamento Regional Urbano, cria o Sistema Nacional de Planejamento e Informações Regionais Urbanas e dá outras providências" (Estatuto da Metrópole)</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>20/04/2012</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2015</idOrgaoLegislativoCD>
+        <siglaComissao>CTASP</siglaComissao>
+        <nomeComissao>Comissão de Trabalho, de Administração e Serviço Público</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>11/06/2012</dataEntrada>
+        <dataSaida>11/06/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2012</idOrgaoLegislativoCD>
+        <siglaComissao>CME</siglaComissao>
+        <nomeComissao>Comissão de Minas e Energia</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>07/08/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>21/08/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2006</idOrgaoLegislativoCD>
+        <siglaComissao>CDU</siglaComissao>
+        <nomeComissao>Comissão de Desenvolvimento Urbano</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>25/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2010</idOrgaoLegislativoCD>
+        <siglaComissao>CFT</siglaComissao>
+        <nomeComissao>Comissão de Finanças e Tributação</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>25/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6855</idOrgaoLegislativoCD>
+        <siglaComissao>CMO</siglaComissao>
+        <nomeComissao>Comissão Mista de Planos, Orçamentos Públicos e Fiscalização</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>25/03/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2012</idOrgaoLegislativoCD>
+        <siglaComissao>CME</siglaComissao>
+        <nomeComissao>Comissão de Minas e Energia</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>01/03/2011</dataEntrada>
+        <dataSaida>31/01/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>8805</idOrgaoLegislativoCD>
+        <siglaComissao>PL355504</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a analisar e proferir parecer ao Projeto de Lei nº 3555-A, de 2004, do Sr. José Eduardo Cardozo, que "estabelece normas gerais em contratos de seguro privado e revoga dispositivos do Código Civil, do Código Comercial Brasileiro e do Decreto-Lei nº 73 de 1966" (revoga dispositivos das Leis nºs 556, de 1850 e 10.406, de 2002)</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>12/07/2012</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2012</idOrgaoLegislativoCD>
+        <siglaComissao>CME</siglaComissao>
+        <nomeComissao>Comissão de Minas e Energia</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>07/03/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536981</idOrgaoLegislativoCD>
+        <siglaComissao>SUBECOPA</siglaComissao>
+        <nomeComissao>Subcomissão Especial destinada a acompanhar o andamento das obras de construção e adequação da infraestrutura de Mobilidade Urbana para Copa do Mundo de 2014 e das Olimpíadas de 2016 e o respectivo legado que a realização desses eventos deixará para as cidades-sede.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>21/03/2012</dataEntrada>
+        <dataSaida>17/04/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537108</idOrgaoLegislativoCD>
+        <siglaComissao>PL003711</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 37, de 2011, do Sr. Welinton Prado, que "dispõe sobre o regime de aproveitamento das substâncias minerais, com exceção dos minérios nucleares, petróleo, gás natural e outros hidrocarbonetos fluidos e das substâncias minerais submetidas ao regime de licenciamento de que trata o inciso III do art. 2º do Decreto-lei nº 227, de 28 de fevereiro de 1967"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>16/07/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2006</idOrgaoLegislativoCD>
+        <siglaComissao>CDU</siglaComissao>
+        <nomeComissao>Comissão de Desenvolvimento Urbano</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>20/08/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2012</idOrgaoLegislativoCD>
+        <siglaComissao>CME</siglaComissao>
+        <nomeComissao>Comissão de Minas e Energia</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>25/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+    </comissoes>
+    <cargosComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>2012</idOrgaoLegislativoCD>
+        <siglaComissao>CME</siglaComissao>
+        <nomeComissao>Comissão de Minas e Energia</nomeComissao>
+        <idCargo>3</idCargo>
+        <nomeCargo>2º Vice-Presidente</nomeCargo>
+        <dataEntrada>14/03/2012</dataEntrada>
+        <dataSaida>06/03/2013</dataSaida>
+      </cargoComissoes>
+    </cargosComissoes>
+    <periodosExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>BA</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2007</dataInicio>
+        <dataFim>31/01/2011</dataFim>
+        <idCausaFimExercicio>99</idCausaFimExercicio>
+        <descricaoCausaFimExercicio>Término da Legislatura</descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>BA</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2011</dataInicio>
+        <dataFim>02/02/2013</dataFim>
+        <idCausaFimExercicio>20</idCausaFimExercicio>
+        <descricaoCausaFimExercicio>Licença Conjunta Consecutiva</descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>BA</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>03/06/2013</dataInicio>
+        <dataFim>
+        </dataFim>
+        <idCausaFimExercicio>
+        </idCausaFimExercicio>
+        <descricaoCausaFimExercicio>
+        </descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+    </periodosExercicio>
+    <historicoNomeParlamentar />
+    <filiacoesPartidarias />
+    <historicoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>141458</idHistoricoLider>
+        <idCargoLideranca>V</idCargoLideranca>
+        <descricaoCargoLideranca>Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>16</numOrdemCargo>
+        <dataDesignacao>08/07/2009</dataDesignacao>
+        <dataTermino>31/01/2011</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PR</siglaUnidadeLideranca>
+        <idBlocoPartido>PR</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>141458</idHistoricoLider>
+        <idCargoLideranca>V</idCargoLideranca>
+        <descricaoCargoLideranca>Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>4</numOrdemCargo>
+        <dataDesignacao>10/02/2011</dataDesignacao>
+        <dataTermino>07/02/2013</dataTermino>
+        <codigoUnidadeLideranca>B</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PR, PTdoB, PRP</siglaUnidadeLideranca>
+        <idBlocoPartido>9</idBlocoPartido>
+      </itemHistoricoLider>
+    </historicoLider>
+  </Deputado>
+</Deputados>

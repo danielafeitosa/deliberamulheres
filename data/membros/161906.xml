@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Deputados>
+  <Deputado>
+    <numLegislatura>54</numLegislatura>
+    <email>dep.luizotavio@camara.gov.br</email>
+    <nomeProfissao>
+    </nomeProfissao>
+    <dataNascimento>27/05/1954</dataNascimento>
+    <dataFalecimento>
+    </dataFalecimento>
+    <ufRepresentacaoAtual>PA</ufRepresentacaoAtual>
+    <situacaoNaLegislaturaAtual>Em Exercício</situacaoNaLegislaturaAtual>
+    <ideCadastro>161906</ideCadastro>
+    <idParlamentarDeprecated>10194</idParlamentarDeprecated>
+    <nomeParlamentarAtual>LUIZ OTAVIO</nomeParlamentarAtual>
+    <nomeCivil>LUIZ OTAVIO OLIVEIRA CAMPOS</nomeCivil>
+    <sexo>M</sexo>
+    <partidoAtual>
+      <idPartido>PMDB</idPartido>
+      <sigla>PMDB</sigla>
+      <nome>Partido do Movimento Democrático Brasileiro</nome>
+    </partidoAtual>
+    <gabinete>
+      <numero>410</numero>
+      <anexo>4</anexo>
+      <telefone>3215-5410</telefone>
+    </gabinete>
+    <comissoes>
+      <comissao>
+        <idOrgaoLegislativoCD>2012</idOrgaoLegislativoCD>
+        <siglaComissao>CME</siglaComissao>
+        <nomeComissao>Comissão de Minas e Energia</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>01/03/2011</dataEntrada>
+        <dataSaida>29/08/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6978</idOrgaoLegislativoCD>
+        <siglaComissao>SUBROYAL</siglaComissao>
+        <nomeComissao>Subcomissão Especial royalties e participação especial sobre recursos oriundos da exploração mineral.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>27/04/2011</dataEntrada>
+        <dataSaida>29/08/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9027</idOrgaoLegislativoCD>
+        <siglaComissao>SUBMIHPA</siglaComissao>
+        <nomeComissao>Subcomissão Permanente de acompanhamento da implantação de grandes projetos minerais e hidrelétricos no Estado do Pará, as condicionantes sócio-ambientais e suas consequências.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>15/06/2011</dataEntrada>
+        <dataSaida>29/08/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2012</idOrgaoLegislativoCD>
+        <siglaComissao>CME</siglaComissao>
+        <nomeComissao>Comissão de Minas e Energia</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>10/04/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+    </comissoes>
+    <cargosComissoes />
+    <periodosExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>PA</siglaUFRepresentacao>
+        <situacaoExercicio>Efetivado</situacaoExercicio>
+        <dataInicio>03/02/2011</dataInicio>
+        <dataFim>29/08/2011</dataFim>
+        <idCausaFimExercicio>53</idCausaFimExercicio>
+        <descricaoCausaFimExercicio>Afastamento</descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>74222</idCadastroParlamentarAnterior>
+      </periodoExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>PA</siglaUFRepresentacao>
+        <situacaoExercicio>Efetivado</situacaoExercicio>
+        <dataInicio>27/03/2014</dataInicio>
+        <dataFim>
+        </dataFim>
+        <idCausaFimExercicio>
+        </idCausaFimExercicio>
+        <descricaoCausaFimExercicio>
+        </descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>74222</idCadastroParlamentarAnterior>
+      </periodoExercicio>
+    </periodosExercicio>
+    <historicoNomeParlamentar />
+    <filiacoesPartidarias />
+    <historicoLider />
+  </Deputado>
+</Deputados>

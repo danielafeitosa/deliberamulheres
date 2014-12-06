@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Deputados>
+  <Deputado>
+    <numLegislatura>54</numLegislatura>
+    <email>dep.gustavopetta@camara.gov.br</email>
+    <nomeProfissao>
+    </nomeProfissao>
+    <dataNascimento>25/12/1980</dataNascimento>
+    <dataFalecimento>
+    </dataFalecimento>
+    <ufRepresentacaoAtual>SP</ufRepresentacaoAtual>
+    <situacaoNaLegislaturaAtual>Em Exercício</situacaoNaLegislaturaAtual>
+    <ideCadastro>176120</ideCadastro>
+    <idParlamentarDeprecated>10273</idParlamentarDeprecated>
+    <nomeParlamentarAtual>GUSTAVO PETTA</nomeParlamentarAtual>
+    <nomeCivil>GUSTAVO LEMOS PETTA</nomeCivil>
+    <sexo>M</sexo>
+    <partidoAtual>
+      <idPartido>PCdoB</idPartido>
+      <sigla>PCdoB</sigla>
+      <nome>Partido Comunista do Brasil</nome>
+    </partidoAtual>
+    <gabinete>
+      <numero>385</numero>
+      <anexo>3</anexo>
+      <telefone>3215-5385</telefone>
+    </gabinete>
+    <comissoes>
+      <comissao>
+        <idOrgaoLegislativoCD>537236</idOrgaoLegislativoCD>
+        <siglaComissao>CESPO</siglaComissao>
+        <nomeComissao>Comissão do Esporte</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>25/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537222</idOrgaoLegislativoCD>
+        <siglaComissao>PL684013</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 6840, de 2013, da Comissão Especial destinada a promover estudos e proposições para a reformulação do ensino médio, que "altera a Lei nº 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional, para instituir a jornada em tempo integral no ensino médio, dispor sobre a organização dos currículos do ensino médio em áreas do conhecimento e dá outras providências"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>27/03/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537190</idOrgaoLegislativoCD>
+        <siglaComissao>PL658313</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 6583, de 2013, do Sr. Anderson Ferreira, que "dispõe sobre o Estatuto da Família e dá outras providências", e apensado</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>10/04/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2009</idOrgaoLegislativoCD>
+        <siglaComissao>CE</siglaComissao>
+        <nomeComissao>Comissão de Educação</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>25/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537219</idOrgaoLegislativoCD>
+        <siglaComissao>PL737014</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 7370, de 2014, do Senado Federal, que "dispõe sobre prevenção e repressão ao tráfico interno e internacional de pessoas e sobre medidas de atenção às vítimas; altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), e as Leis nºs 6.815, de 19 de agosto de 1980, e 7.998, de 11 de janeiro de 1990; e revoga dispositivos do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal)", e apensados</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>15/05/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>8669</idOrgaoLegislativoCD>
+        <siglaComissao>PEC05307</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 53-A, de 2007, do Sr. Jofran Frejat, que "dá nova redação ao § 3º do Art. 39 da Constituição Federal" (garante ao servidor de cargo em comissão de livre nomeação e exoneração, direito a aviso prévio, seguro desemprego, FGTS, entre outros)</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>05/08/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+    </comissoes>
+    <cargosComissoes />
+    <periodosExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>SP</siglaUFRepresentacao>
+        <situacaoExercicio>Suplente</situacaoExercicio>
+        <dataInicio>17/02/2014</dataInicio>
+        <dataFim>
+        </dataFim>
+        <idCausaFimExercicio>
+        </idCausaFimExercicio>
+        <descricaoCausaFimExercicio>
+        </descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>73534</idCadastroParlamentarAnterior>
+      </periodoExercicio>
+    </periodosExercicio>
+    <historicoNomeParlamentar />
+    <filiacoesPartidarias />
+    <historicoLider />
+  </Deputado>
+</Deputados>

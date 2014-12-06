@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Deputados>
+  <Deputado>
+    <numLegislatura>54</numLegislatura>
+    <email>dep.policarpo@camara.gov.br</email>
+    <nomeProfissao>Servidor Público e Agrônomo</nomeProfissao>
+    <dataNascimento>22/02/1967</dataNascimento>
+    <dataFalecimento>
+    </dataFalecimento>
+    <ufRepresentacaoAtual>DF</ufRepresentacaoAtual>
+    <situacaoNaLegislaturaAtual>Em Exercício</situacaoNaLegislaturaAtual>
+    <ideCadastro>162174</ideCadastro>
+    <idParlamentarDeprecated>10200</idParlamentarDeprecated>
+    <nomeParlamentarAtual>POLICARPO</nomeParlamentarAtual>
+    <nomeCivil>ROBERTO POLICARPO FAGUNDES</nomeCivil>
+    <sexo>M</sexo>
+    <partidoAtual>
+      <idPartido>PT</idPartido>
+      <sigla>PT</sigla>
+      <nome>Partido dos Trabalhadores</nome>
+    </partidoAtual>
+    <gabinete>
+      <numero>352</numero>
+      <anexo>4</anexo>
+      <telefone>3215-5352</telefone>
+    </gabinete>
+    <comissoes>
+      <comissao>
+        <idOrgaoLegislativoCD>2010</idOrgaoLegislativoCD>
+        <siglaComissao>CFT</siglaComissao>
+        <nomeComissao>Comissão de Finanças e Tributação</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>01/03/2011</dataEntrada>
+        <dataSaida>31/01/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>8873</idOrgaoLegislativoCD>
+        <siglaComissao>PEC44309</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 443-A, de 2009, do Sr. Bonifácio de Andrada, estabelecendo que "o subsídio do grau ou nível máximo das carreiras da Advocacia-Geral da União, das Procuradorias dos Estados e do Distrito Federal corresponderá a noventa inteiros e vinte e cinco centésimos por cento do subsídio mensal, fixado para os Ministros do Supremo Tribunal Federal, e os subsídios dos demais integrantes das respectivas categorias da estrutura da advocacia pública serão fixados em lei e escalonados, não podendo a diferença entre um e outro ser superior a dez por centro ou inferior a cinco por cento, nem exceder a noventa inteiros e vinte e cinco centésimos por cento do subsídio mensal fixado para os Ministros do Supremo Tribunal Federal, obedecido, em qualquer caso, o disposto nos artigos 37, XI, e 39, § 4º"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>17/08/2011</dataEntrada>
+        <dataSaida>05/06/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9076</idOrgaoLegislativoCD>
+        <siglaComissao>PEC06111</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 061-A, de 2011, do Poder Executivo, que "altera o art. 76 do Ato das Disposições Constitucionais Transitórias" (prorroga a vigência da DRU até 31 de dezembro de 2015).</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>20/10/2011</dataEntrada>
+        <dataSaida>21/12/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9122</idOrgaoLegislativoCD>
+        <siglaComissao>REP-1211</siglaComissao>
+        <nomeComissao>Comissão Representativa do Congresso Nacional prevista no § 4º do art. 58 da Constituição Federal (período 23 de dezembro de 2011 a 1º de fevereiro de 2012).</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>08/11/2011</dataEntrada>
+        <dataSaida>05/06/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2010</idOrgaoLegislativoCD>
+        <siglaComissao>CFT</siglaComissao>
+        <nomeComissao>Comissão de Finanças e Tributação</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>07/03/2012</dataEntrada>
+        <dataSaida>05/06/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9138</idOrgaoLegislativoCD>
+        <siglaComissao>CPITRAES</siglaComissao>
+        <nomeComissao>Comissão Parlamentar de Inquérito destinada a investigar a exploração do trabalho escravo ou análogo ao de escravo, em atividades rurais e urbanas, de todo o território nacional.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>28/03/2012</dataEntrada>
+        <dataSaida>05/06/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6066</idOrgaoLegislativoCD>
+        <siglaComissao>CTUR</siglaComissao>
+        <nomeComissao>Comissão de Turismo</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>31/07/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536971</idOrgaoLegislativoCD>
+        <siglaComissao>REP-1212</siglaComissao>
+        <nomeComissao>Comissão Representativa do Congresso Nacional prevista no § 4º do art. 58 da Constituição Federal (período de 25 de dezembro de 2012 a 03 de fevereiro de 2013)</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>25/12/2012</dataEntrada>
+        <dataSaida>04/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536963</idOrgaoLegislativoCD>
+        <siglaComissao>PEC20712</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 207-A de 2012, do Senado Federal, que "altera o art. 134 da Constituição Federal" (garante às Defensorias Públicas da União e do Distrito Federal autonomia funcional e administrativa e a iniciativa de sua proposta orçamentária).</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>18/12/2012</dataEntrada>
+        <dataSaida>06/08/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6066</idOrgaoLegislativoCD>
+        <siglaComissao>CTUR</siglaComissao>
+        <nomeComissao>Comissão de Turismo</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>05/03/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536982</idOrgaoLegislativoCD>
+        <siglaComissao>CEMOTOR</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a debater e propor modificações à Lei 12.619, de 30 de abril de 2012, que regulamenta a Profissão de Motorista</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>13/03/2013</dataEntrada>
+        <dataSaida>09/07/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9068</idOrgaoLegislativoCD>
+        <siglaComissao>PEC36809</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 368, de 2009, do Sr. Carlos Bezerra, que "dá nova redação ao art. 42 do Ato das Disposições Constitucionais Transitórias, ampliando o prazo em que a União deverá destinar às regiões Centro-Oeste e Nordeste percentuais mínimos dos recursos destinados à irrigação"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>08/05/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537088</idOrgaoLegislativoCD>
+        <siglaComissao>REP-0713</siglaComissao>
+        <nomeComissao>Comissão Representativa do Congresso Nacional prevista no § 4º do art. 58 da Constituição Federal (período 18 a 31 de julho de 2013).</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>18/07/2013</dataEntrada>
+        <dataSaida>31/07/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537116</idOrgaoLegislativoCD>
+        <siglaComissao>PL501313</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 5013, de 2013, do Senado Federal, que "estabelece normas gerais de política urbana e de proteção à saúde e ao meio ambiente associadas à implantação e ao compartilhamento da infraestrutura de telecomunicações" (altera a Lei nº 9.472, de 1997 e a Lei nº 11.934, de 2009), e apensados</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>11/09/2013</dataEntrada>
+        <dataSaida>17/09/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>8631</idOrgaoLegislativoCD>
+        <siglaComissao>PEC08207</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 82-A, de 2007, do Sr. Flávio Dino e outros, que "acresce os arts. 132-A e 135-A e altera o art. 168 da Constituição Federal"  (atribui autonomia funcional e prerrogativas aos membros da Defensoria Pública, Advocacia da União, Procuradoria da Fazenda Nacional, Procuradoria-Geral Federal, Procuradorias das autarquias e às Procuradorias dos Estados, do Distrito Federal e dos Municípios) e apensada</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>30/10/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537133</idOrgaoLegislativoCD>
+        <siglaComissao>PEC17012</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 170-A, de 2012, da Srª Andreia Zito e outros, que "dá nova redação ao inciso I do § 1º do art. 40 da Constituição Federal" (garante proventos integrais ao servidor que se aposentar por invalidez)</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>03/12/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537199</idOrgaoLegislativoCD>
+        <siglaComissao>PL520113</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 5201, de 2013, do Sr.  André Figueiredo, que "altera a Lei nº 11.345, de 14 de setembro de 2006, para modificar a destinação dos valores arrecadados no concurso de prognóstico denominado Timemania com o objetivo de torná-la mais atraente para seus apostadores e de aumentar a capacidade de pagamento das entidades desportivas quanto às suas dívidas fiscais junto à União, e dá outras providências " e apensado</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>26/11/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537202</idOrgaoLegislativoCD>
+        <siglaComissao>REP-1213</siglaComissao>
+        <nomeComissao>Comissão Representativa do Congresso Nacional prevista no § 4º do art. 58 da Constituição Federal (período de 24 de dezembro de 2013 a 02 de fevereiro de 2014)</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>24/12/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537197</idOrgaoLegislativoCD>
+        <siglaComissao>PEC30913</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 309-A, de 2013, do Sr. Padre João e outros, que  "altera o § 8º do art. 195 da Constituição Federal, para dispor sobre a contribuição para a seguridade social do catador de material reciclável que exerça suas atividades em regime de economia familiar"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>06/05/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6066</idOrgaoLegislativoCD>
+        <siglaComissao>CTUR</siglaComissao>
+        <nomeComissao>Comissão de Turismo</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>25/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537236</idOrgaoLegislativoCD>
+        <siglaComissao>CESPO</siglaComissao>
+        <nomeComissao>Comissão do Esporte</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>25/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537301</idOrgaoLegislativoCD>
+        <siglaComissao>REP-0714</siglaComissao>
+        <nomeComissao>Comissão Representativa do Congresso Nacional prevista no § 4º do art. 58 da Constituição Federal (período 18 a 31 de julho de 2014).</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>16/07/2014</dataEntrada>
+        <dataSaida>01/08/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2015</idOrgaoLegislativoCD>
+        <siglaComissao>CTASP</siglaComissao>
+        <nomeComissao>Comissão de Trabalho, de Administração e Serviço Público</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>01/03/2011</dataEntrada>
+        <dataSaida>31/01/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6943</idOrgaoLegislativoCD>
+        <siglaComissao>CETERCE</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a promover estudos e proposições voltadas à regulamentação do trabalho terceirizado no Brasil.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>31/05/2011</dataEntrada>
+        <dataSaida>23/11/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>8917</idOrgaoLegislativoCD>
+        <siglaComissao>CEANISTI</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a acompanhar a aplicação das seguintes Leis de Anistia: Lei nº 8878/1994, que "dispõe sobre a concessão de anistia"; Lei nº 10.790/2003, que "concede anistia a dirigentes ou representantes sindicais e trabalhadores punidos por participação em movimento reivindicatório"; Lei nº 11.282/2006, que "anistia os trabalhadores da Empresa Brasileira de Correios e Telégrafos-ECT punidos em razão da participação em movimento grevista"; e Lei nº 10.559/2002, que "regulamenta o artigo 8º do Ato das Disposições Constitucionais Transitórias e dá outras providências"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>17/08/2011</dataEntrada>
+        <dataSaida>05/06/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9030</idOrgaoLegislativoCD>
+        <siglaComissao>REP-0711</siglaComissao>
+        <nomeComissao>Comissão Representativa do Congresso Nacional prevista no § 4º do art. 58 da Constituição Federal (período 19 de julho de 2011 a 31 de julho de 2011).</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>06/07/2011</dataEntrada>
+        <dataSaida>05/06/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>8872</idOrgaoLegislativoCD>
+        <siglaComissao>PEC44509</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 445-A, de 2009, do Senado Federal, que "altera os arts. 21, 22 e 48 da Constituição Federal, para transferir da União para o Distrito Federal as atribuições de organizar e manter a Defensoria Pública do Distrito Federal"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>13/09/2011</dataEntrada>
+        <dataSaida>29/03/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2015</idOrgaoLegislativoCD>
+        <siglaComissao>CTASP</siglaComissao>
+        <nomeComissao>Comissão de Trabalho, de Administração e Serviço Público</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>07/03/2012</dataEntrada>
+        <dataSaida>05/06/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9121</idOrgaoLegislativoCD>
+        <siglaComissao>PEC01011</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 10-A, de 2011, do Sr. Luiz Fernando Machado, que "altera os arts. 28, 29 e 84 da Constituição Federal para instituir a obrigatoriedade de elaboração e cumprimento do plano de metas pelo Poder Executivo municipal, estadual e federal, com base nas propostas da campanha eleitoral"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>11/04/2012</dataEntrada>
+        <dataSaida>05/06/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9018</idOrgaoLegislativoCD>
+        <siglaComissao>PEC00511</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a apreciar e  proferir parecer à Proposta de Emenda à Constituição nº 005-A, de 2011, do Sr. Nelson Marquezelli, que "altera o inciso XV do art. 48 e revoga os incisos VII e VIII do art. 49 para estabelecer que os subsídios do Presidente e Vice-Presidente da República, Ministros de Estado, Senadores e Deputados Federais são idênticos aos dos Ministros do Supremo Tribunal Federal"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>10/05/2012</dataEntrada>
+        <dataSaida>05/06/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536920</idOrgaoLegislativoCD>
+        <siglaComissao>SUBTRAPE</siglaComissao>
+        <nomeComissao>Subcomissão Permanente para realizar Estudos visando à Criação de Postos de Trabalho Perenes através da Copa do Mundo de 2014 e para as demais Grandes Competições Esportivas.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>09/05/2012</dataEntrada>
+        <dataSaida>05/06/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2015</idOrgaoLegislativoCD>
+        <siglaComissao>CTASP</siglaComissao>
+        <nomeComissao>Comissão de Trabalho, de Administração e Serviço Público</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>31/07/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536980</idOrgaoLegislativoCD>
+        <siglaComissao>SUBJARI</siglaComissao>
+        <nomeComissao>Subcomissão Temporária criada para acompanhar as relações de trabalho e o impacto social das demissões da Jari Celulose S/A, nas comunidades do Vale do Jari.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>06/12/2012</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2015</idOrgaoLegislativoCD>
+        <siglaComissao>CTASP</siglaComissao>
+        <nomeComissao>Comissão de Trabalho, de Administração e Serviço Público</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>05/03/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9127</idOrgaoLegislativoCD>
+        <siglaComissao>PEC05511</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 55-A, de 2011, do Sr. Hugo Motta, que "dá nova redação ao § 8º do art. 144, da Constituição Federal, para disciplinar a carreira dos agentes públicos responsáveis pelo policiamento de trânsito, em âmbito municipal"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>04/06/2013</dataEntrada>
+        <dataSaida>16/07/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9117</idOrgaoLegislativoCD>
+        <siglaComissao>PEC45409</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 454-A, de 2009, do Sr. Ronaldo Caiado, que "altera o Título VIII, Capítulo II, Seção II - Da Saúde -, da Constituição da República Federativa do Brasil de 1988" (estabelecendo diretrizes para a organização da carreira única de Médico de Estado)</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>05/06/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537024</idOrgaoLegislativoCD>
+        <siglaComissao>PEC20912</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 209-A, de 2012, da Srª Rose de Freitas, do Sr. Luiz Pitiman e outros, que "insere o § 1º ao art. 105, da Constituição Federal, e renumera o parágrafo único" (para atribuir requisito de admissibilidade ao recurso especial no âmbito do STJ)</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>03/07/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537098</idOrgaoLegislativoCD>
+        <siglaComissao>PEC14712</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 147-A, de 2012, do Sr. Amauri Teixeira, que "fixa parâmetros para a remuneração dos Auditores Fiscais da Receita Federal do Brasil, dos Auditores Fiscais do Trabalho e do grau ou nível máximo da carreira dos servidores do Banco Central do Brasil"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>29/08/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537097</idOrgaoLegislativoCD>
+        <siglaComissao>PEC18607</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a apreciar e  proferir parecer à Proposta de Emenda à Constituição nº 186-A, de 2007, do Sr. Décio Lima, que "acrescenta os § 13 e 14, ao art. 37 da Constituição Federal" (determina que lei complementar definirá as normas gerais aplicáveis à Administração Tributária da União, dos Estados, do Distrito Federal e dos Municípios)</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>25/09/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537116</idOrgaoLegislativoCD>
+        <siglaComissao>PL501313</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 5013, de 2013, do Senado Federal, que "estabelece normas gerais de política urbana e de proteção à saúde e ao meio ambiente associadas à implantação e ao compartilhamento da infraestrutura de telecomunicações" (altera a Lei nº 9.472, de 1997 e a Lei nº 11.934, de 2009), e apensados</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>17/09/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537159</idOrgaoLegislativoCD>
+        <siglaComissao>PEC20412</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 204-A, de 2012, do Sr. João Caldas e outros, que "dá nova redação aos arts. 94, 104, 119 e 120 da Constituição Federal, para alterar a forma de indicação de membros do Ministério Público e advogados às vagas nos Tribunais"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>15/10/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537203</idOrgaoLegislativoCD>
+        <siglaComissao>PL617013</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 6170, de 2013, do Sr. Silas Câmara, que "regulamenta as atividades de operador de Marketing Multinível no Brasil" e apensados</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>17/12/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2015</idOrgaoLegislativoCD>
+        <siglaComissao>CTASP</siglaComissao>
+        <nomeComissao>Comissão de Trabalho, de Administração e Serviço Público</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>25/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537091</idOrgaoLegislativoCD>
+        <siglaComissao>PL423812</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 4.238, de 2012, do Senado Federal, que "altera o art. 19 da Lei nº 7.102, de 20 de junho de 1983, para dispor sobre o piso nacional de salário dos empregados em empresas particulares que explorem serviços de vigilância e transporte de valores" (o piso varia de oitocentos reais, grau mínimo, a mil e cem reais, grau máximo), e apensados</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>14/05/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>8669</idOrgaoLegislativoCD>
+        <siglaComissao>PEC05307</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 53-A, de 2007, do Sr. Jofran Frejat, que "dá nova redação ao § 3º do Art. 39 da Constituição Federal" (garante ao servidor de cargo em comissão de livre nomeação e exoneração, direito a aviso prévio, seguro desemprego, FGTS, entre outros)</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>05/08/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537272</idOrgaoLegislativoCD>
+        <siglaComissao>PEC17612</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 176-A, de 2012, do Sr. Edson Pimenta e outros, que "introduz parágrafo no art. 100 da Constituição Federal, retirando idosos e portadores de doença grave ou incapacitante da ordem de precatórios", e apensada</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>06/08/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+    </comissoes>
+    <cargosComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>537097</idOrgaoLegislativoCD>
+        <siglaComissao>PEC18607</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a apreciar e  proferir parecer à Proposta de Emenda à Constituição nº 186-A, de 2007, do Sr. Décio Lima, que "acrescenta os § 13 e 14, ao art. 37 da Constituição Federal" (determina que lei complementar definirá as normas gerais aplicáveis à Administração Tributária da União, dos Estados, do Distrito Federal e dos Municípios)</nomeComissao>
+        <idCargo>1</idCargo>
+        <nomeCargo>Presidente</nomeCargo>
+        <dataEntrada>02/10/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>537116</idOrgaoLegislativoCD>
+        <siglaComissao>PL501313</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 5013, de 2013, do Senado Federal, que "estabelece normas gerais de política urbana e de proteção à saúde e ao meio ambiente associadas à implantação e ao compartilhamento da infraestrutura de telecomunicações" (altera a Lei nº 9.472, de 1997 e a Lei nº 11.934, de 2009), e apensados</nomeComissao>
+        <idCargo>4</idCargo>
+        <nomeCargo>3º Vice-Presidente</nomeCargo>
+        <dataEntrada>06/11/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </cargoComissoes>
+    </cargosComissoes>
+    <periodosExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>DF</siglaUFRepresentacao>
+        <situacaoExercicio>Efetivado</situacaoExercicio>
+        <dataInicio>07/02/2011</dataInicio>
+        <dataFim>05/06/2012</dataFim>
+        <idCausaFimExercicio>53</idCausaFimExercicio>
+        <descricaoCausaFimExercicio>Afastamento</descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>160658</idCadastroParlamentarAnterior>
+      </periodoExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>DF</siglaUFRepresentacao>
+        <situacaoExercicio>Efetivado</situacaoExercicio>
+        <dataInicio>25/07/2012</dataInicio>
+        <dataFim>
+        </dataFim>
+        <idCausaFimExercicio>
+        </idCausaFimExercicio>
+        <descricaoCausaFimExercicio>
+        </descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>74802</idCadastroParlamentarAnterior>
+      </periodoExercicio>
+    </periodosExercicio>
+    <historicoNomeParlamentar />
+    <filiacoesPartidarias />
+    <historicoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>162174</idHistoricoLider>
+        <idCargoLideranca>V</idCargoLideranca>
+        <descricaoCargoLideranca>Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>20</numOrdemCargo>
+        <dataDesignacao>12/03/2013</dataDesignacao>
+        <dataTermino>25/03/2014</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PT</siglaUnidadeLideranca>
+        <idBlocoPartido>PT</idBlocoPartido>
+      </itemHistoricoLider>
+    </historicoLider>
+  </Deputado>
+</Deputados>

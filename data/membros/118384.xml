@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Deputados>
+  <Deputado>
+    <numLegislatura>54</numLegislatura>
+    <email>dep.dr.carlosalberto@camara.gov.br</email>
+    <nomeProfissao>
+    </nomeProfissao>
+    <dataNascimento>29/09/1945</dataNascimento>
+    <dataFalecimento>
+    </dataFalecimento>
+    <ufRepresentacaoAtual>RJ</ufRepresentacaoAtual>
+    <situacaoNaLegislaturaAtual>Em Exercício</situacaoNaLegislaturaAtual>
+    <ideCadastro>118384</ideCadastro>
+    <idParlamentarDeprecated>10196</idParlamentarDeprecated>
+    <nomeParlamentarAtual>DR. CARLOS ALBERTO</nomeParlamentarAtual>
+    <nomeCivil>CARLOS ALBERTO LOPES</nomeCivil>
+    <sexo>M</sexo>
+    <partidoAtual>
+      <idPartido>PMN</idPartido>
+      <sigla>PMN</sigla>
+      <nome>Partido da Mobilização Nacional</nome>
+    </partidoAtual>
+    <gabinete>
+      <numero>639</numero>
+      <anexo>4</anexo>
+      <telefone>3215-5639</telefone>
+    </gabinete>
+    <comissoes>
+      <comissao>
+        <idOrgaoLegislativoCD>2004</idOrgaoLegislativoCD>
+        <siglaComissao>CDC</siglaComissao>
+        <nomeComissao>Comissão de Defesa do Consumidor</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>01/03/2011</dataEntrada>
+        <dataSaida>31/01/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6912</idOrgaoLegislativoCD>
+        <siglaComissao>CEREFPOL</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a efetuar estudo e apresentar propostas em relação à Reforma Política.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>09/03/2011</dataEntrada>
+        <dataSaida>18/04/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6983</idOrgaoLegislativoCD>
+        <siglaComissao>SUBSISTE</siglaComissao>
+        <nomeComissao>Subcomissão Permanente para Tratar do Sistema de Segurança Pública, seus Órgãos Institucionais, Carreiras e Programas de Valorização dos Policiais.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>02/05/2011</dataEntrada>
+        <dataSaida>14/06/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>8951</idOrgaoLegislativoCD>
+        <siglaComissao>CESEGUR</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a analisar as Propostas de Emenda à Constituição que versem sobre Segurança Pública.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>28/06/2011</dataEntrada>
+        <dataSaida>14/06/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>07/03/2012</dataEntrada>
+        <dataSaida>14/06/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2016</idOrgaoLegislativoCD>
+        <siglaComissao>CVT</siglaComissao>
+        <nomeComissao>Comissão de Viação e Transportes</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>13/03/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9127</idOrgaoLegislativoCD>
+        <siglaComissao>PEC05511</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 55-A, de 2011, do Sr. Hugo Motta, que "dá nova redação ao § 8º do art. 144, da Constituição Federal, para disciplinar a carreira dos agentes públicos responsáveis pelo policiamento de trânsito, em âmbito municipal"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>04/06/2013</dataEntrada>
+        <dataSaida>16/07/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2008</idOrgaoLegislativoCD>
+        <siglaComissao>CDEIC</siglaComissao>
+        <nomeComissao>Comissão de Desenvolvimento Econômico, Indústria e Comércio</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>01/03/2011</dataEntrada>
+        <dataSaida>12/08/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>5503</idOrgaoLegislativoCD>
+        <siglaComissao>CSPCCO</siglaComissao>
+        <nomeComissao>Comissão de Segurança Pública e Combate ao Crime Organizado</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>01/03/2011</dataEntrada>
+        <dataSaida>31/01/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6985</idOrgaoLegislativoCD>
+        <siglaComissao>SUBPROEX</siglaComissao>
+        <nomeComissao>Subcomissão Especial para Promover o Conhecimento e Difusão de Programas Exitosos Referentes a Segurança Pública, Combate ao Crime Organizado e Sistema Penitenciário, Implantados no País e no Exterior.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>20/05/2011</dataEntrada>
+        <dataSaida>14/06/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>5973</idOrgaoLegislativoCD>
+        <siglaComissao>MERCOSUL</siglaComissao>
+        <nomeComissao>Representação Brasileira no Parlamento do Mercosul.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>31/08/2011</dataEntrada>
+        <dataSaida>14/06/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2004</idOrgaoLegislativoCD>
+        <siglaComissao>CDC</siglaComissao>
+        <nomeComissao>Comissão de Defesa do Consumidor</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>07/03/2012</dataEntrada>
+        <dataSaida>14/06/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>5503</idOrgaoLegislativoCD>
+        <siglaComissao>CSPCCO</siglaComissao>
+        <nomeComissao>Comissão de Segurança Pública e Combate ao Crime Organizado</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>07/03/2012</dataEntrada>
+        <dataSaida>14/06/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9168</idOrgaoLegislativoCD>
+        <siglaComissao>SUBEERJ</siglaComissao>
+        <nomeComissao>Subcomissão Especial  encarregada de tratar de questões envolvendo energia elétrica no Estado do Rio de Janeiro</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>28/03/2012</dataEntrada>
+        <dataSaida>14/06/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6912</idOrgaoLegislativoCD>
+        <siglaComissao>CEREFPOL</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a efetuar estudo e apresentar propostas em relação à Reforma Política.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>18/04/2012</dataEntrada>
+        <dataSaida>14/06/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2007</idOrgaoLegislativoCD>
+        <siglaComissao>CDHM</siglaComissao>
+        <nomeComissao>Comissão de Direitos Humanos e Minorias</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>14/03/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9103</idOrgaoLegislativoCD>
+        <siglaComissao>PL217711</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2.177, de 2011, do Sr. Bruno Araújo, que "institui o Código Nacional de Ciência,Tecnologia e Inovação"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>10/04/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537152</idOrgaoLegislativoCD>
+        <siglaComissao>PEC29013</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 290-A, de 2013, da Sra. Margarida Salomão e outros, que "altera e adiciona dispositivos na Constituição Federal para atualizar o tratamento das atividades de ciência, tecnologia e inovação"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>03/09/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537195</idOrgaoLegislativoCD>
+        <siglaComissao>GTDIRHU</siglaComissao>
+        <nomeComissao>Grupo de Trabalho para elaboração de agenda com apresentações de trabalhos legislativos e sugestões de leis para serem apresentados no Fórum Mundial de Direitos Humanos que será realizado, em Brasília, no período de 10 a 13 de dezembro de 2013</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>12/11/2013</dataEntrada>
+        <dataSaida>13/12/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537229</idOrgaoLegislativoCD>
+        <siglaComissao>CEXMORCI</siglaComissao>
+        <nomeComissao>Comissão Externa, sem ônus para a Câmara dos Deputados, destinada a acompanhar e se informar de todo o andamento do processo em relação ao crime que aconteceu com o cinegrafista da TV Bandeirantes, Santiago Ilídio Andrade.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>12/02/2014</dataEntrada>
+        <dataSaida>26/03/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2007</idOrgaoLegislativoCD>
+        <siglaComissao>CDHM</siglaComissao>
+        <nomeComissao>Comissão de Direitos Humanos e Minorias</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>25/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+    </comissoes>
+    <cargosComissoes />
+    <periodosExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>RJ</siglaUFRepresentacao>
+        <situacaoExercicio>Efetivado</situacaoExercicio>
+        <dataInicio>03/02/2011</dataInicio>
+        <dataFim>14/06/2012</dataFim>
+        <idCausaFimExercicio>53</idCausaFimExercicio>
+        <descricaoCausaFimExercicio>Afastamento</descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>74829</idCadastroParlamentarAnterior>
+      </periodoExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>RJ</siglaUFRepresentacao>
+        <situacaoExercicio>Efetivado</situacaoExercicio>
+        <dataInicio>02/01/2013</dataInicio>
+        <dataFim>
+        </dataFim>
+        <idCausaFimExercicio>
+        </idCausaFimExercicio>
+        <descricaoCausaFimExercicio>
+        </descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>74829</idCadastroParlamentarAnterior>
+      </periodoExercicio>
+    </periodosExercicio>
+    <historicoNomeParlamentar />
+    <filiacoesPartidarias />
+    <historicoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>118384</idHistoricoLider>
+        <idCargoLideranca>R</idCargoLideranca>
+        <descricaoCargoLideranca>Representante</descricaoCargoLideranca>
+        <numOrdemCargo>2</numOrdemCargo>
+        <dataDesignacao>28/02/2012</dataDesignacao>
+        <dataTermino>14/06/2012</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PMN</siglaUnidadeLideranca>
+        <idBlocoPartido>PMN</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>118384</idHistoricoLider>
+        <idCargoLideranca>R</idCargoLideranca>
+        <descricaoCargoLideranca>Representante</descricaoCargoLideranca>
+        <numOrdemCargo>1</numOrdemCargo>
+        <dataDesignacao>01/02/2013</dataDesignacao>
+        <dataTermino>07/11/2013</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PMN</siglaUnidadeLideranca>
+        <idBlocoPartido>PMN</idBlocoPartido>
+      </itemHistoricoLider>
+    </historicoLider>
+  </Deputado>
+</Deputados>

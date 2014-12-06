@@ -1,0 +1,2398 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Deputados>
+  <Deputado>
+    <numLegislatura>53</numLegislatura>
+    <email>
+    </email>
+    <nomeProfissao>Matemático e Engenheiro.</nomeProfissao>
+    <dataNascimento>05/07/1946</dataNascimento>
+    <dataFalecimento>
+    </dataFalecimento>
+    <ufRepresentacaoAtual>SP</ufRepresentacaoAtual>
+    <situacaoNaLegislaturaAtual>Em Exercício</situacaoNaLegislaturaAtual>
+    <ideCadastro>73531</ideCadastro>
+    <idParlamentarDeprecated>3099</idParlamentarDeprecated>
+    <nomeParlamentarAtual>IVAN VALENTE</nomeParlamentarAtual>
+    <nomeCivil>IVAN VALENTE</nomeCivil>
+    <sexo>M</sexo>
+    <partidoAtual>
+      <idPartido>PSOL</idPartido>
+      <sigla>PSOL</sigla>
+      <nome>Partido Socialismo e Liberdade</nome>
+    </partidoAtual>
+    <gabinete>
+      <numero>
+      </numero>
+      <anexo>
+      </anexo>
+      <telefone>
+      </telefone>
+    </gabinete>
+    <comissoes>
+      <comissao>
+        <idOrgaoLegislativoCD>2004</idOrgaoLegislativoCD>
+        <siglaComissao>CDC</siglaComissao>
+        <nomeComissao>Comissão de Defesa do Consumidor</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>26/02/2003</dataEntrada>
+        <dataSaida>15/02/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>5974</idOrgaoLegislativoCD>
+        <siglaComissao>ALTOSE03</siglaComissao>
+        <nomeComissao>Conselho de Altos Estudos e Avaliação Tecnológica</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>15/05/2003</dataEntrada>
+        <dataSaida>18/03/2005</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526022</idOrgaoLegislativoCD>
+        <siglaComissao>PEC04003</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a apreciar e proferir parecer à Proposta de Emenda à Constituição nº 40-A, de 2003, que "modifica os arts. 37, 40, 42, 48, 96, 142 e 149 da Constituição Federal, o art. 8º da Emenda Constitucional nº 20, de 15 de dezembro de 1998, e dá outras providências" (Reforma da Previdência).</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>25/06/2003</dataEntrada>
+        <dataSaida>31/12/2003</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526071</idOrgaoLegislativoCD>
+        <siglaComissao>CEALCA</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a "acompanhar as negociações da Área de Livre Comércio das Américas".</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>08/10/2003</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526149</idOrgaoLegislativoCD>
+        <siglaComissao>PEC22704</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 227-A, de 2004, que "altera os artigos 37, 40, 144, 194, 195 e 201 da Constituição Federal, para dispor sobre a Previdência Social, e dá outras providências" ( PEC Paralela - Alterando a Emenda Constitucional nº 41, de 2003 - Reforma da Previdência).</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>11/02/2004</dataEntrada>
+        <dataSaida>22/03/2005</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>23/03/2004</dataEntrada>
+        <dataSaida>01/03/2005</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2018</idOrgaoLegislativoCD>
+        <siglaComissao>CREDN</siglaComissao>
+        <nomeComissao>Comissão de Relações Exteriores e de Defesa Nacional</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>02/03/2005</dataEntrada>
+        <dataSaida>28/03/2006</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6266</idOrgaoLegislativoCD>
+        <siglaComissao>CMO-05</siglaComissao>
+        <nomeComissao>Comissão Mista de Planos, Orçamentos Públicos e Fiscalização (2005).</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>31/05/2005</dataEntrada>
+        <dataSaida>17/04/2006</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2002</idOrgaoLegislativoCD>
+        <siglaComissao>CCTCI</siglaComissao>
+        <nomeComissao>Comissão de Ciência e Tecnologia, Comunicação e Informática</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>29/03/2006</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526395</idOrgaoLegislativoCD>
+        <siglaComissao>PEC536-E</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao substitutivo do Senado Federal  à Proposta de Emenda à Constituição nº 536-E, de 1997, do Sr. Valdemar Costa Neto, que "modifica o artigo 60 do Ato das Disposições Constitucionais Transitórias" (recursos para o desenvolvimento do ensino fundamental).</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>03/08/2006</dataEntrada>
+        <dataSaida>06/12/2006</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2009</idOrgaoLegislativoCD>
+        <siglaComissao>CE</siglaComissao>
+        <nomeComissao>Comissão de Educação</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>26/02/2003</dataEntrada>
+        <dataSaida>15/02/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>525966</idOrgaoLegislativoCD>
+        <siglaComissao>REFPREVI</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a efetuar estudo em relação às matérias em tramitação na Casa, cujo tema abranja a Reforma Previdenciária.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>17/03/2003</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526051</idOrgaoLegislativoCD>
+        <siglaComissao>PEC30600</siglaComissao>
+        <nomeComissao>Comissão Especial criada para fim do disposto no art. 197 do RICD, para a PEC 306-B, de 2000, que "acrescenta § 3° ao art. 215 da Constituição Federal, instituindo o Plano Nacional de Cultura".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>14/07/2003</dataEntrada>
+        <dataSaida>31/07/2003</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526149</idOrgaoLegislativoCD>
+        <siglaComissao>PEC22704</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 227-A, de 2004, que "altera os artigos 37, 40, 144, 194, 195 e 201 da Constituição Federal, para dispor sobre a Previdência Social, e dá outras providências" ( PEC Paralela - Alterando a Emenda Constitucional nº 41, de 2003 - Reforma da Previdência).</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>10/02/2004</dataEntrada>
+        <dataSaida>11/02/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2009</idOrgaoLegislativoCD>
+        <siglaComissao>CE</siglaComissao>
+        <nomeComissao>Comissão de Educação</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>23/03/2004</dataEntrada>
+        <dataSaida>01/03/2005</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2009</idOrgaoLegislativoCD>
+        <siglaComissao>CE</siglaComissao>
+        <nomeComissao>Comissão de Educação</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>02/03/2005</dataEntrada>
+        <dataSaida>28/03/2006</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2009</idOrgaoLegislativoCD>
+        <siglaComissao>CE</siglaComissao>
+        <nomeComissao>Comissão de Educação</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>29/03/2006</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526388</idOrgaoLegislativoCD>
+        <siglaComissao>PL421204</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 4.212, de 2004, do Sr. Átila Lira, que "altera dispositivos da Lei nº 9.394, de 20 de dezembro de 1996, que estabelece as Diretrizes e Bases da Educação Nacional, e dá outras providências" (fixando normas para a educação superior das instituições públicas e privadas de ensino).</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>12/07/2006</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526404</idOrgaoLegislativoCD>
+        <siglaComissao>CEXAEREO</siglaComissao>
+        <nomeComissao>Comissão Externa destinada a averiguar, "in loco", a questão do controle de tráfego aéreo.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>13/12/2006</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2004</idOrgaoLegislativoCD>
+        <siglaComissao>CDC</siglaComissao>
+        <nomeComissao>Comissão de Defesa do Consumidor</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>14/02/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536415</idOrgaoLegislativoCD>
+        <siglaComissao>CPIAEREO</siglaComissao>
+        <nomeComissao>Comissão Parlamentar de Inquérito para investigar as causas, conseqüências e responsáveis pela crise do sistema de tráfego aéreo brasileiro, desencadeada após o acidente aéreo ocorrido no dia 29 de setembro de 2006, envolvendo um Boeing 737-800, da Gol (vôo 1907), e um jato Legacy, da América ExcelAire, com mais de uma centena de vítimas.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>03/05/2007</dataEntrada>
+        <dataSaida>03/10/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536176</idOrgaoLegislativoCD>
+        <siglaComissao>PEC27200</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 272-A, de 2000, que "dá nova redação à alínea "c" do inciso I do art. 12 da Constituição e acrescenta artigo ao Ato das Disposições Constitucionais Transitórias, assegurando o registro nos consulados de brasileiros nascidos no estrangeiro".</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>25/05/2007</dataEntrada>
+        <dataSaida>20/09/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536297</idOrgaoLegislativoCD>
+        <siglaComissao>PL518605</siglaComissao>
+        <nomeComissao>Comissão especial destinada a proferir parecer ao Projeto de Lei nº 5.186, de 2005, do Poder Executivo, que "altera a Lei nº 9.615, de 24 de março de 1998, que institui normas gerais sobre desporto e dá outras providências".</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>24/06/2008</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2004</idOrgaoLegislativoCD>
+        <siglaComissao>CDC</siglaComissao>
+        <nomeComissao>Comissão de Defesa do Consumidor</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>12/03/2008</dataEntrada>
+        <dataSaida>02/02/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536572</idOrgaoLegislativoCD>
+        <siglaComissao>PEC03107</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 31-A, de 2007, do Sr. Virgílio Guimarães, que "altera o Sistema Tributário Nacional, unifica a legislação do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação, dentre outras providências".</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>23/04/2008</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536511</idOrgaoLegislativoCD>
+        <siglaComissao>PEC55506</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 555-A, de 2006, do Sr. Carlos Mota, que "revoga o art. 4º da Emenda Constitucional nº 41, de 2003", acabando com a cobrança de contribuição previdenciária sobre os proventos dos servidores públicos aposentados (Contribuição de Inativos).</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>24/03/2010</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2004</idOrgaoLegislativoCD>
+        <siglaComissao>CDC</siglaComissao>
+        <nomeComissao>Comissão de Defesa do Consumidor</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>05/03/2009</dataEntrada>
+        <dataSaida>01/02/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536497</idOrgaoLegislativoCD>
+        <siglaComissao>PEC09807</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 98-A, de 2007, do Senhor Otávio Leite, que  "acrescenta a alínea (e) ao inciso VI do art. 150 da Constituição Federal", instituindo imunidade tributária sobre os Fonogramas e Videofonogramas musicais produzidos no Brasil, contendo obras musicais ou lítero-musicais de autores brasileiros, e/ou obras em geral interpretadas por artistas brasileiros, bem como os suportes materiais ou arquivos digitais que os contenham.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>17/06/2009</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2004</idOrgaoLegislativoCD>
+        <siglaComissao>CDC</siglaComissao>
+        <nomeComissao>Comissão de Defesa do Consumidor</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>03/03/2010</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536898</idOrgaoLegislativoCD>
+        <siglaComissao>PEC50710</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 507-A, de 2010, do Senado Federal, que "prorroga, por tempo indeterminado, o prazo de vigência do Fundo de Combate e Erradicação da Pobreza".</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>14/12/2010</dataEntrada>
+        <dataSaida>14/12/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2009</idOrgaoLegislativoCD>
+        <siglaComissao>CE</siglaComissao>
+        <nomeComissao>Comissão de Educação</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>14/02/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>535967</idOrgaoLegislativoCD>
+        <siglaComissao>CMO-07</siglaComissao>
+        <nomeComissao>Comissão Mista de Planos, Orçamentos Públicos e Fiscalização.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>09/03/2007</dataEntrada>
+        <dataSaida>25/03/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536353</idOrgaoLegislativoCD>
+        <siglaComissao>PL033407</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 334, de 2007, do Senado Federal, que "dispõe sobre a importação, exportação, processamento, transporte, armazenagem, liquefação, regaseificação, distribuição e comercialização de gás natural", alterando a Lei nº 9.478, de 1997, no que diz respeito ao gás natural, incluindo o gás canalizado.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>22/03/2007</dataEntrada>
+        <dataSaida>18/10/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536412</idOrgaoLegislativoCD>
+        <siglaComissao>PL305700</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 3057, de 2000, do Senhor Bispo Wanderval, que "inclui  § 2º no art. 41, da Lei nº 6.766, de 19 de dezembro de 1979, numerando-se como parágrafo 1º o atual parágrafo único", estabelecendo que para o registro de loteamento suburbano de pequeno valor  implantado irregularmente até 31 de dezembro de 1999 e regularizado por lei municipal, não há necessidade de aprovação da documentação por outro órgão.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>01/06/2007</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536534</idOrgaoLegislativoCD>
+        <siglaComissao>REP-1207</siglaComissao>
+        <nomeComissao>Comissão Representativa do Congresso Nacional prevista no § 4º do art. 58 da Constituição Federal (período de 23 de dezembro de 2007 a 1º de fevereiro de 2008).</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>23/12/2007</dataEntrada>
+        <dataSaida>05/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536509</idOrgaoLegislativoCD>
+        <siglaComissao>PEC35701</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 357-A, de 2001, do Senado Federal, que "altera a alínea "d" do inciso VI do art. 150 da Constituição Federal, para instituir imunidade tributária para cadernos escolares".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>15/09/2009</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2009</idOrgaoLegislativoCD>
+        <siglaComissao>CE</siglaComissao>
+        <nomeComissao>Comissão de Educação</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>04/03/2008</dataEntrada>
+        <dataSaida>02/02/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2018</idOrgaoLegislativoCD>
+        <siglaComissao>CREDN</siglaComissao>
+        <nomeComissao>Comissão de Relações Exteriores e de Defesa Nacional</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>04/03/2009</dataEntrada>
+        <dataSaida>01/02/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536727</idOrgaoLegislativoCD>
+        <siglaComissao>CRISE-SF</siglaComissao>
+        <nomeComissao>Comissão Especial destinada ao exame e a avaliação da Crise Econômico-Financeira e, ao final, formular propostas ao Poder Executivo e ao País, especificamente no que diz respeito à repercussão no Sistema Financeiro e Mercado.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>24/03/2009</dataEntrada>
+        <dataSaida>15/07/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536698</idOrgaoLegislativoCD>
+        <siglaComissao>CPI-DIVI</siglaComissao>
+        <nomeComissao>Comissão Parlamentar de Inquérito destinada a investigar a dívida pública da União, Estados e Municípios, o pagamento de juros da mesma, os beneficiários destes pagamentos e o seu impacto nas políticas sociais e no desenvolvimento sustentável do País.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>19/08/2009</dataEntrada>
+        <dataSaida>11/05/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536807</idOrgaoLegislativoCD>
+        <siglaComissao>PL250207</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2502, de 2007, do Sr. Eduardo Valverde, que "altera a Lei nº 9.478, de 06 de agosto de 1997,que dispõe sobre a política energética nacional, as atividades relativas ao monopólio do petróleo, institui o Conselho Nacional de Política Energética e a Agência Nacional do Petróleo".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>16/09/2009</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536799</idOrgaoLegislativoCD>
+        <siglaComissao>PL187699</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 1876, de 1999, do Sr. Sérgio Carvalho, que "dispõe sobre Áreas de Preservação Permanente, Reserva Legal, exploração florestal e dá outras providências" (revoga a Lei n. 4.771, de 1965 - Código Florestal; altera a Lei nº 9.605, de 1998)</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>29/09/2009</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536821</idOrgaoLegislativoCD>
+        <siglaComissao>CEXHONDU</siglaComissao>
+        <nomeComissao>Comissão Externa para verificar, in loco, a situação da Embaixada brasileira em Honduras e colaborar com os esforços da comunidade internacional para a resolução da controvérsia que envolve o acolhimento do Presidente Manoel Zelaya nas dependências da legação do Brasil nesse País.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>29/09/2009</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536811</idOrgaoLegislativoCD>
+        <siglaComissao>PEC35109</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 351-A, de 2009, do Senado Federal, que "altera o art. 100 da Constituição Federal e acrescenta o art. 97 ao Ato das Disposições Constitucionais Transitórias, instituindo regime especial de pagamento de precatórios pelos Estados, Distrito Federal e Municípios"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>27/10/2009</dataEntrada>
+        <dataSaida>09/12/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2018</idOrgaoLegislativoCD>
+        <siglaComissao>CREDN</siglaComissao>
+        <nomeComissao>Comissão de Relações Exteriores e de Defesa Nacional</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>03/03/2010</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2009</idOrgaoLegislativoCD>
+        <siglaComissao>CE</siglaComissao>
+        <nomeComissao>Comissão de Educação</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>02/03/2011</dataEntrada>
+        <dataSaida>31/01/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6940</idOrgaoLegislativoCD>
+        <siglaComissao>PL803510</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 8035, de 2010, do Poder Executivo, que "aprova o Plano Nacional de Educação para o decênio 2011-2020 e dá outras providências"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>07/04/2011</dataEntrada>
+        <dataSaida>26/06/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2004</idOrgaoLegislativoCD>
+        <siglaComissao>CDC</siglaComissao>
+        <nomeComissao>Comissão de Defesa do Consumidor</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>12/03/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9138</idOrgaoLegislativoCD>
+        <siglaComissao>CPITRAES</siglaComissao>
+        <nomeComissao>Comissão Parlamentar de Inquérito destinada a investigar a exploração do trabalho escravo ou análogo ao de escravo, em atividades rurais e urbanas, de todo o território nacional.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>03/04/2012</dataEntrada>
+        <dataSaida>16/03/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2018</idOrgaoLegislativoCD>
+        <siglaComissao>CREDN</siglaComissao>
+        <nomeComissao>Comissão de Relações Exteriores e de Defesa Nacional</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>05/03/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537108</idOrgaoLegislativoCD>
+        <siglaComissao>PL003711</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 37, de 2011, do Sr. Welinton Prado, que "dispõe sobre o regime de aproveitamento das substâncias minerais, com exceção dos minérios nucleares, petróleo, gás natural e outros hidrocarbonetos fluidos e das substâncias minerais submetidas ao regime de licenciamento de que trata o inciso III do art. 2º do Decreto-lei nº 227, de 28 de fevereiro de 1967"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>16/07/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9161</idOrgaoLegislativoCD>
+        <siglaComissao>PEC21500</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a apreciar e proferir parecer à Proposta de Emenda à Constituição nº 215-A, de 2000, do Sr. Almir Sá e outros, que "acrescenta o inciso XVIII ao art. 49; modifica o § 4º e acrescenta o § 8º ambos no art. 231, da Constituição Federal" (inclui dentre as competências exclusivas do Congresso Nacional a aprovação de demarcação das terras tradicionalmente ocupadas pelos índios e a ratificação das demarcações já homologadas; estabelecendo que os critérios e procedimentos de demarcação serão regulamentados por lei), e apensadas</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>11/09/2013</dataEntrada>
+        <dataSaida>11/03/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9145</idOrgaoLegislativoCD>
+        <siglaComissao>PEC19712</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 197-A, de 2012, do Senado Federal, que "altera o § 2º do art. 155 da Constituição Federal, para modificar a sistemática de cobrança do imposto sobre operações relativas à circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e de comunicação incidente sobre as operações e prestações realizadas de forma não presencial e que destinem bens e serviços a consumidor final localizado em outro Estado"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>04/12/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2004</idOrgaoLegislativoCD>
+        <siglaComissao>CDC</siglaComissao>
+        <nomeComissao>Comissão de Defesa do Consumidor</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>25/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2018</idOrgaoLegislativoCD>
+        <siglaComissao>CREDN</siglaComissao>
+        <nomeComissao>Comissão de Relações Exteriores e de Defesa Nacional</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>01/03/2011</dataEntrada>
+        <dataSaida>31/01/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6912</idOrgaoLegislativoCD>
+        <siglaComissao>CEREFPOL</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a efetuar estudo e apresentar propostas em relação à Reforma Política.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>02/03/2011</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6930</idOrgaoLegislativoCD>
+        <siglaComissao>GTFLORES</siglaComissao>
+        <nomeComissao>Grupo de trabalho que promove a Câmara Conciliatória destinada a viabilizar a votação do Projeto de Lei nº 1876, de 1999, do Sr. Sérgio Carvalho, que trata do Código Florestal</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>15/03/2011</dataEntrada>
+        <dataSaida>24/05/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9023</idOrgaoLegislativoCD>
+        <siglaComissao>SUBRIO20</siglaComissao>
+        <nomeComissao>Subcomissão Especial Rio + 20</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>09/06/2011</dataEntrada>
+        <dataSaida>15/03/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2018</idOrgaoLegislativoCD>
+        <siglaComissao>CREDN</siglaComissao>
+        <nomeComissao>Comissão de Relações Exteriores e de Defesa Nacional</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>07/03/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9158</idOrgaoLegislativoCD>
+        <siglaComissao>GTDIVIDA</siglaComissao>
+        <nomeComissao>Grupo de Trabalho para analisar a questão da dívida dos Estados com a União.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>13/04/2012</dataEntrada>
+        <dataSaida>30/05/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536971</idOrgaoLegislativoCD>
+        <siglaComissao>REP-1212</siglaComissao>
+        <nomeComissao>Comissão Representativa do Congresso Nacional prevista no § 4º do art. 58 da Constituição Federal (período de 25 de dezembro de 2012 a 03 de fevereiro de 2013)</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>25/12/2012</dataEntrada>
+        <dataSaida>04/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2004</idOrgaoLegislativoCD>
+        <siglaComissao>CDC</siglaComissao>
+        <nomeComissao>Comissão de Defesa do Consumidor</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>05/03/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536986</idOrgaoLegislativoCD>
+        <siglaComissao>CEXCOMP</siglaComissao>
+        <nomeComissao>Comissão Externa destinada a acompanhar a execução das medidas de internação compulsória de dependentes no Estado de São Paulo</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>26/03/2013</dataEntrada>
+        <dataSaida>02/04/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536962</idOrgaoLegislativoCD>
+        <siglaComissao>PEC19612</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 196-A, de 2012, do Senado Federal, que "altera o § 2° do art. 55 da Constituição Federal, para estabelecer que a perda de mandato será decidida por voto aberto nos casos que especifica"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>20/08/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537133</idOrgaoLegislativoCD>
+        <siglaComissao>PEC17012</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 170-A, de 2012, da Srª Andreia Zito e outros, que "dá nova redação ao inciso I do § 1º do art. 40 da Constituição Federal" (garante proventos integrais ao servidor que se aposentar por invalidez)</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>03/12/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2018</idOrgaoLegislativoCD>
+        <siglaComissao>CREDN</siglaComissao>
+        <nomeComissao>Comissão de Relações Exteriores e de Defesa Nacional</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>25/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537248</idOrgaoLegislativoCD>
+        <siglaComissao>PL372212</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 3722, de 2012, do Sr. Rogério Peninha Mendonça, que "disciplina as normas sobre aquisição, posse, porte e circulação de armas de fogo e munições, cominando penalidades e dando providências correlatas" (altera o Decreto-lei nº 2.848, de 1940 e revoga a Lei nº 10.826, de 2003)</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>29/05/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+    </comissoes>
+    <cargosComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>536698</idOrgaoLegislativoCD>
+        <siglaComissao>CPI-DIVI</siglaComissao>
+        <nomeComissao>Comissão Parlamentar de Inquérito destinada a investigar a dívida pública da União, Estados e Municípios, o pagamento de juros da mesma, os beneficiários destes pagamentos e o seu impacto nas políticas sociais e no desenvolvimento sustentável do País.</nomeComissao>
+        <idCargo>3</idCargo>
+        <nomeCargo>2º Vice-Presidente</nomeCargo>
+        <dataEntrada>19/08/2009</dataEntrada>
+        <dataSaida>11/05/2010</dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>536962</idOrgaoLegislativoCD>
+        <siglaComissao>PEC19612</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 196-A, de 2012, do Senado Federal, que "altera o § 2° do art. 55 da Constituição Federal, para estabelecer que a perda de mandato será decidida por voto aberto nos casos que especifica"</nomeComissao>
+        <idCargo>4</idCargo>
+        <nomeCargo>3º Vice-Presidente</nomeCargo>
+        <dataEntrada>21/08/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </cargoComissoes>
+    </cargosComissoes>
+    <periodosExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>SP</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2003</dataInicio>
+        <dataFim>31/01/2007</dataFim>
+        <idCausaFimExercicio>99</idCausaFimExercicio>
+        <descricaoCausaFimExercicio>Término da Legislatura</descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>SP</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2007</dataInicio>
+        <dataFim>31/01/2011</dataFim>
+        <idCausaFimExercicio>99</idCausaFimExercicio>
+        <descricaoCausaFimExercicio>Término da Legislatura</descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>SP</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2011</dataInicio>
+        <dataFim>
+        </dataFim>
+        <idCausaFimExercicio>
+        </idCausaFimExercicio>
+        <descricaoCausaFimExercicio>
+        </descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+    </periodosExercicio>
+    <historicoNomeParlamentar />
+    <filiacoesPartidarias>
+      <filiacaoPartidaria>
+        <idPartidoAnterior>PT</idPartidoAnterior>
+        <siglaPartidoAnterior>PT</siglaPartidoAnterior>
+        <nomePartidoAnterior>Partido dos Trabalhadores</nomePartidoAnterior>
+        <idPartidoPosterior>PSOL</idPartidoPosterior>
+        <siglaPartidoPosterior>PSOL</siglaPartidoPosterior>
+        <nomePartidoPosterior>Partido Socialismo e Liberdade</nomePartidoPosterior>
+        <dataFiliacaoPartidoPosterior>04/10/2005</dataFiliacaoPartidoPosterior>
+      </filiacaoPartidaria>
+    </filiacoesPartidarias>
+    <historicoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>73531</idHistoricoLider>
+        <idCargoLideranca>V</idCargoLideranca>
+        <descricaoCargoLideranca>Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>55</numOrdemCargo>
+        <dataDesignacao>13/03/2003</dataDesignacao>
+        <dataTermino>18/03/2004</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PT</siglaUnidadeLideranca>
+        <idBlocoPartido>PT</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>73531</idHistoricoLider>
+        <idCargoLideranca>V</idCargoLideranca>
+        <descricaoCargoLideranca>Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>45</numOrdemCargo>
+        <dataDesignacao>18/03/2004</dataDesignacao>
+        <dataTermino>30/03/2005</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PT</siglaUnidadeLideranca>
+        <idBlocoPartido>PT</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>73531</idHistoricoLider>
+        <idCargoLideranca>V</idCargoLideranca>
+        <descricaoCargoLideranca>Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>5</numOrdemCargo>
+        <dataDesignacao>21/02/2006</dataDesignacao>
+        <dataTermino>28/03/2006</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSOL</siglaUnidadeLideranca>
+        <idBlocoPartido>PSOL</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>73531</idHistoricoLider>
+        <idCargoLideranca>L</idCargoLideranca>
+        <descricaoCargoLideranca>Líder</descricaoCargoLideranca>
+        <numOrdemCargo>1</numOrdemCargo>
+        <dataDesignacao>28/03/2006</dataDesignacao>
+        <dataTermino>08/05/2006</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSOL</siglaUnidadeLideranca>
+        <idBlocoPartido>PSOL</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>73531</idHistoricoLider>
+        <idCargoLideranca>V</idCargoLideranca>
+        <descricaoCargoLideranca>Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>20</numOrdemCargo>
+        <dataDesignacao>04/10/2006</dataDesignacao>
+        <dataTermino>31/01/2007</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSOL</siglaUnidadeLideranca>
+        <idBlocoPartido>PSOL</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>73531</idHistoricoLider>
+        <idCargoLideranca>1</idCargoLideranca>
+        <descricaoCargoLideranca>1º Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>2</numOrdemCargo>
+        <dataDesignacao>18/02/2008</dataDesignacao>
+        <dataTermino>01/02/2009</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSOL</siglaUnidadeLideranca>
+        <idBlocoPartido>PSOL</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>73531</idHistoricoLider>
+        <idCargoLideranca>L</idCargoLideranca>
+        <descricaoCargoLideranca>Líder</descricaoCargoLideranca>
+        <numOrdemCargo>1</numOrdemCargo>
+        <dataDesignacao>02/04/2008</dataDesignacao>
+        <dataTermino>02/04/2008</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSOL</siglaUnidadeLideranca>
+        <idBlocoPartido>PSOL</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>73531</idHistoricoLider>
+        <idCargoLideranca>L</idCargoLideranca>
+        <descricaoCargoLideranca>Líder</descricaoCargoLideranca>
+        <numOrdemCargo>1</numOrdemCargo>
+        <dataDesignacao>01/02/2009</dataDesignacao>
+        <dataTermino>02/02/2011</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSOL</siglaUnidadeLideranca>
+        <idBlocoPartido>PSOL</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>73531</idHistoricoLider>
+        <idCargoLideranca>V</idCargoLideranca>
+        <descricaoCargoLideranca>Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>2</numOrdemCargo>
+        <dataDesignacao>02/02/2011</dataDesignacao>
+        <dataTermino>12/12/2012</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSOL</siglaUnidadeLideranca>
+        <idBlocoPartido>PSOL</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>73531</idHistoricoLider>
+        <idCargoLideranca>L</idCargoLideranca>
+        <descricaoCargoLideranca>Líder</descricaoCargoLideranca>
+        <numOrdemCargo>1</numOrdemCargo>
+        <dataDesignacao>02/08/2011</dataDesignacao>
+        <dataTermino>02/08/2011</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSOL</siglaUnidadeLideranca>
+        <idBlocoPartido>PSOL</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>73531</idHistoricoLider>
+        <idCargoLideranca>L</idCargoLideranca>
+        <descricaoCargoLideranca>Líder</descricaoCargoLideranca>
+        <numOrdemCargo>1</numOrdemCargo>
+        <dataDesignacao>22/11/2011</dataDesignacao>
+        <dataTermino>25/11/2011</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSOL</siglaUnidadeLideranca>
+        <idBlocoPartido>PSOL</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>73531</idHistoricoLider>
+        <idCargoLideranca>L</idCargoLideranca>
+        <descricaoCargoLideranca>Líder</descricaoCargoLideranca>
+        <numOrdemCargo>1</numOrdemCargo>
+        <dataDesignacao>01/10/2012</dataDesignacao>
+        <dataTermino>05/10/2012</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSOL</siglaUnidadeLideranca>
+        <idBlocoPartido>PSOL</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>73531</idHistoricoLider>
+        <idCargoLideranca>L</idCargoLideranca>
+        <descricaoCargoLideranca>Líder</descricaoCargoLideranca>
+        <numOrdemCargo>1</numOrdemCargo>
+        <dataDesignacao>08/10/2012</dataDesignacao>
+        <dataTermino>07/12/2012</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSOL</siglaUnidadeLideranca>
+        <idBlocoPartido>PSOL</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>73531</idHistoricoLider>
+        <idCargoLideranca>L</idCargoLideranca>
+        <descricaoCargoLideranca>Líder</descricaoCargoLideranca>
+        <numOrdemCargo>1</numOrdemCargo>
+        <dataDesignacao>12/12/2012</dataDesignacao>
+        <dataTermino>
+        </dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSOL</siglaUnidadeLideranca>
+        <idBlocoPartido>PSOL</idBlocoPartido>
+      </itemHistoricoLider>
+    </historicoLider>
+  </Deputado>
+  <Deputado>
+    <numLegislatura>52</numLegislatura>
+    <email>dep.ivanvalente@camara.gov.br</email>
+    <nomeProfissao>Matemático e Engenheiro.</nomeProfissao>
+    <dataNascimento>05/07/1946</dataNascimento>
+    <dataFalecimento>
+    </dataFalecimento>
+    <ufRepresentacaoAtual>SP</ufRepresentacaoAtual>
+    <situacaoNaLegislaturaAtual>Em Exercício</situacaoNaLegislaturaAtual>
+    <ideCadastro>73531</ideCadastro>
+    <idParlamentarDeprecated>3099</idParlamentarDeprecated>
+    <nomeParlamentarAtual>IVAN VALENTE</nomeParlamentarAtual>
+    <nomeCivil>IVAN VALENTE</nomeCivil>
+    <sexo>M</sexo>
+    <partidoAtual>
+      <idPartido>PSOL</idPartido>
+      <sigla>PSOL</sigla>
+      <nome>Partido Socialismo e Liberdade</nome>
+    </partidoAtual>
+    <gabinete>
+      <numero>
+      </numero>
+      <anexo>
+      </anexo>
+      <telefone>
+      </telefone>
+    </gabinete>
+    <comissoes>
+      <comissao>
+        <idOrgaoLegislativoCD>2004</idOrgaoLegislativoCD>
+        <siglaComissao>CDC</siglaComissao>
+        <nomeComissao>Comissão de Defesa do Consumidor</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>26/02/2003</dataEntrada>
+        <dataSaida>15/02/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>5974</idOrgaoLegislativoCD>
+        <siglaComissao>ALTOSE03</siglaComissao>
+        <nomeComissao>Conselho de Altos Estudos e Avaliação Tecnológica</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>15/05/2003</dataEntrada>
+        <dataSaida>18/03/2005</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526022</idOrgaoLegislativoCD>
+        <siglaComissao>PEC04003</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a apreciar e proferir parecer à Proposta de Emenda à Constituição nº 40-A, de 2003, que "modifica os arts. 37, 40, 42, 48, 96, 142 e 149 da Constituição Federal, o art. 8º da Emenda Constitucional nº 20, de 15 de dezembro de 1998, e dá outras providências" (Reforma da Previdência).</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>25/06/2003</dataEntrada>
+        <dataSaida>31/12/2003</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526071</idOrgaoLegislativoCD>
+        <siglaComissao>CEALCA</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a "acompanhar as negociações da Área de Livre Comércio das Américas".</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>08/10/2003</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526149</idOrgaoLegislativoCD>
+        <siglaComissao>PEC22704</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 227-A, de 2004, que "altera os artigos 37, 40, 144, 194, 195 e 201 da Constituição Federal, para dispor sobre a Previdência Social, e dá outras providências" ( PEC Paralela - Alterando a Emenda Constitucional nº 41, de 2003 - Reforma da Previdência).</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>11/02/2004</dataEntrada>
+        <dataSaida>22/03/2005</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>23/03/2004</dataEntrada>
+        <dataSaida>01/03/2005</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2018</idOrgaoLegislativoCD>
+        <siglaComissao>CREDN</siglaComissao>
+        <nomeComissao>Comissão de Relações Exteriores e de Defesa Nacional</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>02/03/2005</dataEntrada>
+        <dataSaida>28/03/2006</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6266</idOrgaoLegislativoCD>
+        <siglaComissao>CMO-05</siglaComissao>
+        <nomeComissao>Comissão Mista de Planos, Orçamentos Públicos e Fiscalização (2005).</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>31/05/2005</dataEntrada>
+        <dataSaida>17/04/2006</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2002</idOrgaoLegislativoCD>
+        <siglaComissao>CCTCI</siglaComissao>
+        <nomeComissao>Comissão de Ciência e Tecnologia, Comunicação e Informática</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>29/03/2006</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526395</idOrgaoLegislativoCD>
+        <siglaComissao>PEC536-E</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao substitutivo do Senado Federal  à Proposta de Emenda à Constituição nº 536-E, de 1997, do Sr. Valdemar Costa Neto, que "modifica o artigo 60 do Ato das Disposições Constitucionais Transitórias" (recursos para o desenvolvimento do ensino fundamental).</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>03/08/2006</dataEntrada>
+        <dataSaida>06/12/2006</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2009</idOrgaoLegislativoCD>
+        <siglaComissao>CE</siglaComissao>
+        <nomeComissao>Comissão de Educação</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>26/02/2003</dataEntrada>
+        <dataSaida>15/02/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>525966</idOrgaoLegislativoCD>
+        <siglaComissao>REFPREVI</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a efetuar estudo em relação às matérias em tramitação na Casa, cujo tema abranja a Reforma Previdenciária.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>17/03/2003</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526051</idOrgaoLegislativoCD>
+        <siglaComissao>PEC30600</siglaComissao>
+        <nomeComissao>Comissão Especial criada para fim do disposto no art. 197 do RICD, para a PEC 306-B, de 2000, que "acrescenta § 3° ao art. 215 da Constituição Federal, instituindo o Plano Nacional de Cultura".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>14/07/2003</dataEntrada>
+        <dataSaida>31/07/2003</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526149</idOrgaoLegislativoCD>
+        <siglaComissao>PEC22704</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 227-A, de 2004, que "altera os artigos 37, 40, 144, 194, 195 e 201 da Constituição Federal, para dispor sobre a Previdência Social, e dá outras providências" ( PEC Paralela - Alterando a Emenda Constitucional nº 41, de 2003 - Reforma da Previdência).</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>10/02/2004</dataEntrada>
+        <dataSaida>11/02/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2009</idOrgaoLegislativoCD>
+        <siglaComissao>CE</siglaComissao>
+        <nomeComissao>Comissão de Educação</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>23/03/2004</dataEntrada>
+        <dataSaida>01/03/2005</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2009</idOrgaoLegislativoCD>
+        <siglaComissao>CE</siglaComissao>
+        <nomeComissao>Comissão de Educação</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>02/03/2005</dataEntrada>
+        <dataSaida>28/03/2006</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2009</idOrgaoLegislativoCD>
+        <siglaComissao>CE</siglaComissao>
+        <nomeComissao>Comissão de Educação</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>29/03/2006</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526388</idOrgaoLegislativoCD>
+        <siglaComissao>PL421204</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 4.212, de 2004, do Sr. Átila Lira, que "altera dispositivos da Lei nº 9.394, de 20 de dezembro de 1996, que estabelece as Diretrizes e Bases da Educação Nacional, e dá outras providências" (fixando normas para a educação superior das instituições públicas e privadas de ensino).</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>12/07/2006</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526404</idOrgaoLegislativoCD>
+        <siglaComissao>CEXAEREO</siglaComissao>
+        <nomeComissao>Comissão Externa destinada a averiguar, "in loco", a questão do controle de tráfego aéreo.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>13/12/2006</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2004</idOrgaoLegislativoCD>
+        <siglaComissao>CDC</siglaComissao>
+        <nomeComissao>Comissão de Defesa do Consumidor</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>14/02/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536415</idOrgaoLegislativoCD>
+        <siglaComissao>CPIAEREO</siglaComissao>
+        <nomeComissao>Comissão Parlamentar de Inquérito para investigar as causas, conseqüências e responsáveis pela crise do sistema de tráfego aéreo brasileiro, desencadeada após o acidente aéreo ocorrido no dia 29 de setembro de 2006, envolvendo um Boeing 737-800, da Gol (vôo 1907), e um jato Legacy, da América ExcelAire, com mais de uma centena de vítimas.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>03/05/2007</dataEntrada>
+        <dataSaida>03/10/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536176</idOrgaoLegislativoCD>
+        <siglaComissao>PEC27200</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 272-A, de 2000, que "dá nova redação à alínea "c" do inciso I do art. 12 da Constituição e acrescenta artigo ao Ato das Disposições Constitucionais Transitórias, assegurando o registro nos consulados de brasileiros nascidos no estrangeiro".</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>25/05/2007</dataEntrada>
+        <dataSaida>20/09/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536297</idOrgaoLegislativoCD>
+        <siglaComissao>PL518605</siglaComissao>
+        <nomeComissao>Comissão especial destinada a proferir parecer ao Projeto de Lei nº 5.186, de 2005, do Poder Executivo, que "altera a Lei nº 9.615, de 24 de março de 1998, que institui normas gerais sobre desporto e dá outras providências".</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>24/06/2008</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2004</idOrgaoLegislativoCD>
+        <siglaComissao>CDC</siglaComissao>
+        <nomeComissao>Comissão de Defesa do Consumidor</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>12/03/2008</dataEntrada>
+        <dataSaida>02/02/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536572</idOrgaoLegislativoCD>
+        <siglaComissao>PEC03107</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 31-A, de 2007, do Sr. Virgílio Guimarães, que "altera o Sistema Tributário Nacional, unifica a legislação do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação, dentre outras providências".</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>23/04/2008</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536511</idOrgaoLegislativoCD>
+        <siglaComissao>PEC55506</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 555-A, de 2006, do Sr. Carlos Mota, que "revoga o art. 4º da Emenda Constitucional nº 41, de 2003", acabando com a cobrança de contribuição previdenciária sobre os proventos dos servidores públicos aposentados (Contribuição de Inativos).</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>24/03/2010</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2004</idOrgaoLegislativoCD>
+        <siglaComissao>CDC</siglaComissao>
+        <nomeComissao>Comissão de Defesa do Consumidor</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>05/03/2009</dataEntrada>
+        <dataSaida>01/02/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536497</idOrgaoLegislativoCD>
+        <siglaComissao>PEC09807</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 98-A, de 2007, do Senhor Otávio Leite, que  "acrescenta a alínea (e) ao inciso VI do art. 150 da Constituição Federal", instituindo imunidade tributária sobre os Fonogramas e Videofonogramas musicais produzidos no Brasil, contendo obras musicais ou lítero-musicais de autores brasileiros, e/ou obras em geral interpretadas por artistas brasileiros, bem como os suportes materiais ou arquivos digitais que os contenham.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>17/06/2009</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2004</idOrgaoLegislativoCD>
+        <siglaComissao>CDC</siglaComissao>
+        <nomeComissao>Comissão de Defesa do Consumidor</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>03/03/2010</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536898</idOrgaoLegislativoCD>
+        <siglaComissao>PEC50710</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 507-A, de 2010, do Senado Federal, que "prorroga, por tempo indeterminado, o prazo de vigência do Fundo de Combate e Erradicação da Pobreza".</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>14/12/2010</dataEntrada>
+        <dataSaida>14/12/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2009</idOrgaoLegislativoCD>
+        <siglaComissao>CE</siglaComissao>
+        <nomeComissao>Comissão de Educação</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>14/02/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>535967</idOrgaoLegislativoCD>
+        <siglaComissao>CMO-07</siglaComissao>
+        <nomeComissao>Comissão Mista de Planos, Orçamentos Públicos e Fiscalização.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>09/03/2007</dataEntrada>
+        <dataSaida>25/03/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536353</idOrgaoLegislativoCD>
+        <siglaComissao>PL033407</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 334, de 2007, do Senado Federal, que "dispõe sobre a importação, exportação, processamento, transporte, armazenagem, liquefação, regaseificação, distribuição e comercialização de gás natural", alterando a Lei nº 9.478, de 1997, no que diz respeito ao gás natural, incluindo o gás canalizado.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>22/03/2007</dataEntrada>
+        <dataSaida>18/10/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536412</idOrgaoLegislativoCD>
+        <siglaComissao>PL305700</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 3057, de 2000, do Senhor Bispo Wanderval, que "inclui  § 2º no art. 41, da Lei nº 6.766, de 19 de dezembro de 1979, numerando-se como parágrafo 1º o atual parágrafo único", estabelecendo que para o registro de loteamento suburbano de pequeno valor  implantado irregularmente até 31 de dezembro de 1999 e regularizado por lei municipal, não há necessidade de aprovação da documentação por outro órgão.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>01/06/2007</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536534</idOrgaoLegislativoCD>
+        <siglaComissao>REP-1207</siglaComissao>
+        <nomeComissao>Comissão Representativa do Congresso Nacional prevista no § 4º do art. 58 da Constituição Federal (período de 23 de dezembro de 2007 a 1º de fevereiro de 2008).</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>23/12/2007</dataEntrada>
+        <dataSaida>05/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536509</idOrgaoLegislativoCD>
+        <siglaComissao>PEC35701</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 357-A, de 2001, do Senado Federal, que "altera a alínea "d" do inciso VI do art. 150 da Constituição Federal, para instituir imunidade tributária para cadernos escolares".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>15/09/2009</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2009</idOrgaoLegislativoCD>
+        <siglaComissao>CE</siglaComissao>
+        <nomeComissao>Comissão de Educação</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>04/03/2008</dataEntrada>
+        <dataSaida>02/02/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2018</idOrgaoLegislativoCD>
+        <siglaComissao>CREDN</siglaComissao>
+        <nomeComissao>Comissão de Relações Exteriores e de Defesa Nacional</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>04/03/2009</dataEntrada>
+        <dataSaida>01/02/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536727</idOrgaoLegislativoCD>
+        <siglaComissao>CRISE-SF</siglaComissao>
+        <nomeComissao>Comissão Especial destinada ao exame e a avaliação da Crise Econômico-Financeira e, ao final, formular propostas ao Poder Executivo e ao País, especificamente no que diz respeito à repercussão no Sistema Financeiro e Mercado.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>24/03/2009</dataEntrada>
+        <dataSaida>15/07/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536698</idOrgaoLegislativoCD>
+        <siglaComissao>CPI-DIVI</siglaComissao>
+        <nomeComissao>Comissão Parlamentar de Inquérito destinada a investigar a dívida pública da União, Estados e Municípios, o pagamento de juros da mesma, os beneficiários destes pagamentos e o seu impacto nas políticas sociais e no desenvolvimento sustentável do País.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>19/08/2009</dataEntrada>
+        <dataSaida>11/05/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536807</idOrgaoLegislativoCD>
+        <siglaComissao>PL250207</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2502, de 2007, do Sr. Eduardo Valverde, que "altera a Lei nº 9.478, de 06 de agosto de 1997,que dispõe sobre a política energética nacional, as atividades relativas ao monopólio do petróleo, institui o Conselho Nacional de Política Energética e a Agência Nacional do Petróleo".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>16/09/2009</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536799</idOrgaoLegislativoCD>
+        <siglaComissao>PL187699</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 1876, de 1999, do Sr. Sérgio Carvalho, que "dispõe sobre Áreas de Preservação Permanente, Reserva Legal, exploração florestal e dá outras providências" (revoga a Lei n. 4.771, de 1965 - Código Florestal; altera a Lei nº 9.605, de 1998)</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>29/09/2009</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536821</idOrgaoLegislativoCD>
+        <siglaComissao>CEXHONDU</siglaComissao>
+        <nomeComissao>Comissão Externa para verificar, in loco, a situação da Embaixada brasileira em Honduras e colaborar com os esforços da comunidade internacional para a resolução da controvérsia que envolve o acolhimento do Presidente Manoel Zelaya nas dependências da legação do Brasil nesse País.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>29/09/2009</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536811</idOrgaoLegislativoCD>
+        <siglaComissao>PEC35109</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 351-A, de 2009, do Senado Federal, que "altera o art. 100 da Constituição Federal e acrescenta o art. 97 ao Ato das Disposições Constitucionais Transitórias, instituindo regime especial de pagamento de precatórios pelos Estados, Distrito Federal e Municípios"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>27/10/2009</dataEntrada>
+        <dataSaida>09/12/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2018</idOrgaoLegislativoCD>
+        <siglaComissao>CREDN</siglaComissao>
+        <nomeComissao>Comissão de Relações Exteriores e de Defesa Nacional</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>03/03/2010</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2009</idOrgaoLegislativoCD>
+        <siglaComissao>CE</siglaComissao>
+        <nomeComissao>Comissão de Educação</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>02/03/2011</dataEntrada>
+        <dataSaida>31/01/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6940</idOrgaoLegislativoCD>
+        <siglaComissao>PL803510</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 8035, de 2010, do Poder Executivo, que "aprova o Plano Nacional de Educação para o decênio 2011-2020 e dá outras providências"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>07/04/2011</dataEntrada>
+        <dataSaida>26/06/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2004</idOrgaoLegislativoCD>
+        <siglaComissao>CDC</siglaComissao>
+        <nomeComissao>Comissão de Defesa do Consumidor</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>12/03/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9138</idOrgaoLegislativoCD>
+        <siglaComissao>CPITRAES</siglaComissao>
+        <nomeComissao>Comissão Parlamentar de Inquérito destinada a investigar a exploração do trabalho escravo ou análogo ao de escravo, em atividades rurais e urbanas, de todo o território nacional.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>03/04/2012</dataEntrada>
+        <dataSaida>16/03/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2018</idOrgaoLegislativoCD>
+        <siglaComissao>CREDN</siglaComissao>
+        <nomeComissao>Comissão de Relações Exteriores e de Defesa Nacional</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>05/03/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537108</idOrgaoLegislativoCD>
+        <siglaComissao>PL003711</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 37, de 2011, do Sr. Welinton Prado, que "dispõe sobre o regime de aproveitamento das substâncias minerais, com exceção dos minérios nucleares, petróleo, gás natural e outros hidrocarbonetos fluidos e das substâncias minerais submetidas ao regime de licenciamento de que trata o inciso III do art. 2º do Decreto-lei nº 227, de 28 de fevereiro de 1967"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>16/07/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9161</idOrgaoLegislativoCD>
+        <siglaComissao>PEC21500</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a apreciar e proferir parecer à Proposta de Emenda à Constituição nº 215-A, de 2000, do Sr. Almir Sá e outros, que "acrescenta o inciso XVIII ao art. 49; modifica o § 4º e acrescenta o § 8º ambos no art. 231, da Constituição Federal" (inclui dentre as competências exclusivas do Congresso Nacional a aprovação de demarcação das terras tradicionalmente ocupadas pelos índios e a ratificação das demarcações já homologadas; estabelecendo que os critérios e procedimentos de demarcação serão regulamentados por lei), e apensadas</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>11/09/2013</dataEntrada>
+        <dataSaida>11/03/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9145</idOrgaoLegislativoCD>
+        <siglaComissao>PEC19712</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 197-A, de 2012, do Senado Federal, que "altera o § 2º do art. 155 da Constituição Federal, para modificar a sistemática de cobrança do imposto sobre operações relativas à circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e de comunicação incidente sobre as operações e prestações realizadas de forma não presencial e que destinem bens e serviços a consumidor final localizado em outro Estado"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>04/12/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2004</idOrgaoLegislativoCD>
+        <siglaComissao>CDC</siglaComissao>
+        <nomeComissao>Comissão de Defesa do Consumidor</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>25/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2018</idOrgaoLegislativoCD>
+        <siglaComissao>CREDN</siglaComissao>
+        <nomeComissao>Comissão de Relações Exteriores e de Defesa Nacional</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>01/03/2011</dataEntrada>
+        <dataSaida>31/01/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6912</idOrgaoLegislativoCD>
+        <siglaComissao>CEREFPOL</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a efetuar estudo e apresentar propostas em relação à Reforma Política.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>02/03/2011</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6930</idOrgaoLegislativoCD>
+        <siglaComissao>GTFLORES</siglaComissao>
+        <nomeComissao>Grupo de trabalho que promove a Câmara Conciliatória destinada a viabilizar a votação do Projeto de Lei nº 1876, de 1999, do Sr. Sérgio Carvalho, que trata do Código Florestal</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>15/03/2011</dataEntrada>
+        <dataSaida>24/05/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9023</idOrgaoLegislativoCD>
+        <siglaComissao>SUBRIO20</siglaComissao>
+        <nomeComissao>Subcomissão Especial Rio + 20</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>09/06/2011</dataEntrada>
+        <dataSaida>15/03/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2018</idOrgaoLegislativoCD>
+        <siglaComissao>CREDN</siglaComissao>
+        <nomeComissao>Comissão de Relações Exteriores e de Defesa Nacional</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>07/03/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9158</idOrgaoLegislativoCD>
+        <siglaComissao>GTDIVIDA</siglaComissao>
+        <nomeComissao>Grupo de Trabalho para analisar a questão da dívida dos Estados com a União.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>13/04/2012</dataEntrada>
+        <dataSaida>30/05/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536971</idOrgaoLegislativoCD>
+        <siglaComissao>REP-1212</siglaComissao>
+        <nomeComissao>Comissão Representativa do Congresso Nacional prevista no § 4º do art. 58 da Constituição Federal (período de 25 de dezembro de 2012 a 03 de fevereiro de 2013)</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>25/12/2012</dataEntrada>
+        <dataSaida>04/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2004</idOrgaoLegislativoCD>
+        <siglaComissao>CDC</siglaComissao>
+        <nomeComissao>Comissão de Defesa do Consumidor</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>05/03/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536986</idOrgaoLegislativoCD>
+        <siglaComissao>CEXCOMP</siglaComissao>
+        <nomeComissao>Comissão Externa destinada a acompanhar a execução das medidas de internação compulsória de dependentes no Estado de São Paulo</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>26/03/2013</dataEntrada>
+        <dataSaida>02/04/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536962</idOrgaoLegislativoCD>
+        <siglaComissao>PEC19612</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 196-A, de 2012, do Senado Federal, que "altera o § 2° do art. 55 da Constituição Federal, para estabelecer que a perda de mandato será decidida por voto aberto nos casos que especifica"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>20/08/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537133</idOrgaoLegislativoCD>
+        <siglaComissao>PEC17012</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 170-A, de 2012, da Srª Andreia Zito e outros, que "dá nova redação ao inciso I do § 1º do art. 40 da Constituição Federal" (garante proventos integrais ao servidor que se aposentar por invalidez)</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>03/12/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2018</idOrgaoLegislativoCD>
+        <siglaComissao>CREDN</siglaComissao>
+        <nomeComissao>Comissão de Relações Exteriores e de Defesa Nacional</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>25/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537248</idOrgaoLegislativoCD>
+        <siglaComissao>PL372212</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 3722, de 2012, do Sr. Rogério Peninha Mendonça, que "disciplina as normas sobre aquisição, posse, porte e circulação de armas de fogo e munições, cominando penalidades e dando providências correlatas" (altera o Decreto-lei nº 2.848, de 1940 e revoga a Lei nº 10.826, de 2003)</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>29/05/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+    </comissoes>
+    <cargosComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>536698</idOrgaoLegislativoCD>
+        <siglaComissao>CPI-DIVI</siglaComissao>
+        <nomeComissao>Comissão Parlamentar de Inquérito destinada a investigar a dívida pública da União, Estados e Municípios, o pagamento de juros da mesma, os beneficiários destes pagamentos e o seu impacto nas políticas sociais e no desenvolvimento sustentável do País.</nomeComissao>
+        <idCargo>3</idCargo>
+        <nomeCargo>2º Vice-Presidente</nomeCargo>
+        <dataEntrada>19/08/2009</dataEntrada>
+        <dataSaida>11/05/2010</dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>536962</idOrgaoLegislativoCD>
+        <siglaComissao>PEC19612</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 196-A, de 2012, do Senado Federal, que "altera o § 2° do art. 55 da Constituição Federal, para estabelecer que a perda de mandato será decidida por voto aberto nos casos que especifica"</nomeComissao>
+        <idCargo>4</idCargo>
+        <nomeCargo>3º Vice-Presidente</nomeCargo>
+        <dataEntrada>21/08/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </cargoComissoes>
+    </cargosComissoes>
+    <periodosExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>SP</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2003</dataInicio>
+        <dataFim>31/01/2007</dataFim>
+        <idCausaFimExercicio>99</idCausaFimExercicio>
+        <descricaoCausaFimExercicio>Término da Legislatura</descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>SP</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2007</dataInicio>
+        <dataFim>31/01/2011</dataFim>
+        <idCausaFimExercicio>99</idCausaFimExercicio>
+        <descricaoCausaFimExercicio>Término da Legislatura</descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>SP</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2011</dataInicio>
+        <dataFim>
+        </dataFim>
+        <idCausaFimExercicio>
+        </idCausaFimExercicio>
+        <descricaoCausaFimExercicio>
+        </descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+    </periodosExercicio>
+    <historicoNomeParlamentar />
+    <filiacoesPartidarias>
+      <filiacaoPartidaria>
+        <idPartidoAnterior>PT</idPartidoAnterior>
+        <siglaPartidoAnterior>PT</siglaPartidoAnterior>
+        <nomePartidoAnterior>Partido dos Trabalhadores</nomePartidoAnterior>
+        <idPartidoPosterior>PSOL</idPartidoPosterior>
+        <siglaPartidoPosterior>PSOL</siglaPartidoPosterior>
+        <nomePartidoPosterior>Partido Socialismo e Liberdade</nomePartidoPosterior>
+        <dataFiliacaoPartidoPosterior>04/10/2005</dataFiliacaoPartidoPosterior>
+      </filiacaoPartidaria>
+    </filiacoesPartidarias>
+    <historicoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>73531</idHistoricoLider>
+        <idCargoLideranca>V</idCargoLideranca>
+        <descricaoCargoLideranca>Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>55</numOrdemCargo>
+        <dataDesignacao>13/03/2003</dataDesignacao>
+        <dataTermino>18/03/2004</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PT</siglaUnidadeLideranca>
+        <idBlocoPartido>PT</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>73531</idHistoricoLider>
+        <idCargoLideranca>V</idCargoLideranca>
+        <descricaoCargoLideranca>Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>45</numOrdemCargo>
+        <dataDesignacao>18/03/2004</dataDesignacao>
+        <dataTermino>30/03/2005</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PT</siglaUnidadeLideranca>
+        <idBlocoPartido>PT</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>73531</idHistoricoLider>
+        <idCargoLideranca>V</idCargoLideranca>
+        <descricaoCargoLideranca>Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>5</numOrdemCargo>
+        <dataDesignacao>21/02/2006</dataDesignacao>
+        <dataTermino>28/03/2006</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSOL</siglaUnidadeLideranca>
+        <idBlocoPartido>PSOL</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>73531</idHistoricoLider>
+        <idCargoLideranca>L</idCargoLideranca>
+        <descricaoCargoLideranca>Líder</descricaoCargoLideranca>
+        <numOrdemCargo>1</numOrdemCargo>
+        <dataDesignacao>28/03/2006</dataDesignacao>
+        <dataTermino>08/05/2006</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSOL</siglaUnidadeLideranca>
+        <idBlocoPartido>PSOL</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>73531</idHistoricoLider>
+        <idCargoLideranca>V</idCargoLideranca>
+        <descricaoCargoLideranca>Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>20</numOrdemCargo>
+        <dataDesignacao>04/10/2006</dataDesignacao>
+        <dataTermino>31/01/2007</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSOL</siglaUnidadeLideranca>
+        <idBlocoPartido>PSOL</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>73531</idHistoricoLider>
+        <idCargoLideranca>1</idCargoLideranca>
+        <descricaoCargoLideranca>1º Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>2</numOrdemCargo>
+        <dataDesignacao>18/02/2008</dataDesignacao>
+        <dataTermino>01/02/2009</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSOL</siglaUnidadeLideranca>
+        <idBlocoPartido>PSOL</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>73531</idHistoricoLider>
+        <idCargoLideranca>L</idCargoLideranca>
+        <descricaoCargoLideranca>Líder</descricaoCargoLideranca>
+        <numOrdemCargo>1</numOrdemCargo>
+        <dataDesignacao>02/04/2008</dataDesignacao>
+        <dataTermino>02/04/2008</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSOL</siglaUnidadeLideranca>
+        <idBlocoPartido>PSOL</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>73531</idHistoricoLider>
+        <idCargoLideranca>L</idCargoLideranca>
+        <descricaoCargoLideranca>Líder</descricaoCargoLideranca>
+        <numOrdemCargo>1</numOrdemCargo>
+        <dataDesignacao>01/02/2009</dataDesignacao>
+        <dataTermino>02/02/2011</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSOL</siglaUnidadeLideranca>
+        <idBlocoPartido>PSOL</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>73531</idHistoricoLider>
+        <idCargoLideranca>V</idCargoLideranca>
+        <descricaoCargoLideranca>Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>2</numOrdemCargo>
+        <dataDesignacao>02/02/2011</dataDesignacao>
+        <dataTermino>12/12/2012</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSOL</siglaUnidadeLideranca>
+        <idBlocoPartido>PSOL</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>73531</idHistoricoLider>
+        <idCargoLideranca>L</idCargoLideranca>
+        <descricaoCargoLideranca>Líder</descricaoCargoLideranca>
+        <numOrdemCargo>1</numOrdemCargo>
+        <dataDesignacao>02/08/2011</dataDesignacao>
+        <dataTermino>02/08/2011</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSOL</siglaUnidadeLideranca>
+        <idBlocoPartido>PSOL</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>73531</idHistoricoLider>
+        <idCargoLideranca>L</idCargoLideranca>
+        <descricaoCargoLideranca>Líder</descricaoCargoLideranca>
+        <numOrdemCargo>1</numOrdemCargo>
+        <dataDesignacao>22/11/2011</dataDesignacao>
+        <dataTermino>25/11/2011</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSOL</siglaUnidadeLideranca>
+        <idBlocoPartido>PSOL</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>73531</idHistoricoLider>
+        <idCargoLideranca>L</idCargoLideranca>
+        <descricaoCargoLideranca>Líder</descricaoCargoLideranca>
+        <numOrdemCargo>1</numOrdemCargo>
+        <dataDesignacao>01/10/2012</dataDesignacao>
+        <dataTermino>05/10/2012</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSOL</siglaUnidadeLideranca>
+        <idBlocoPartido>PSOL</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>73531</idHistoricoLider>
+        <idCargoLideranca>L</idCargoLideranca>
+        <descricaoCargoLideranca>Líder</descricaoCargoLideranca>
+        <numOrdemCargo>1</numOrdemCargo>
+        <dataDesignacao>08/10/2012</dataDesignacao>
+        <dataTermino>07/12/2012</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSOL</siglaUnidadeLideranca>
+        <idBlocoPartido>PSOL</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>73531</idHistoricoLider>
+        <idCargoLideranca>L</idCargoLideranca>
+        <descricaoCargoLideranca>Líder</descricaoCargoLideranca>
+        <numOrdemCargo>1</numOrdemCargo>
+        <dataDesignacao>12/12/2012</dataDesignacao>
+        <dataTermino>
+        </dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSOL</siglaUnidadeLideranca>
+        <idBlocoPartido>PSOL</idBlocoPartido>
+      </itemHistoricoLider>
+    </historicoLider>
+  </Deputado>
+  <Deputado>
+    <numLegislatura>54</numLegislatura>
+    <email>dep.ivanvalente@camara.gov.br</email>
+    <nomeProfissao>Matemático e Engenheiro.</nomeProfissao>
+    <dataNascimento>05/07/1946</dataNascimento>
+    <dataFalecimento>
+    </dataFalecimento>
+    <ufRepresentacaoAtual>SP</ufRepresentacaoAtual>
+    <situacaoNaLegislaturaAtual>Em Exercício</situacaoNaLegislaturaAtual>
+    <ideCadastro>73531</ideCadastro>
+    <idParlamentarDeprecated>3099</idParlamentarDeprecated>
+    <nomeParlamentarAtual>IVAN VALENTE</nomeParlamentarAtual>
+    <nomeCivil>IVAN VALENTE</nomeCivil>
+    <sexo>M</sexo>
+    <partidoAtual>
+      <idPartido>PSOL</idPartido>
+      <sigla>PSOL</sigla>
+      <nome>Partido Socialismo e Liberdade</nome>
+    </partidoAtual>
+    <gabinete>
+      <numero>716</numero>
+      <anexo>4</anexo>
+      <telefone>3215-5716</telefone>
+    </gabinete>
+    <comissoes>
+      <comissao>
+        <idOrgaoLegislativoCD>2004</idOrgaoLegislativoCD>
+        <siglaComissao>CDC</siglaComissao>
+        <nomeComissao>Comissão de Defesa do Consumidor</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>26/02/2003</dataEntrada>
+        <dataSaida>15/02/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>5974</idOrgaoLegislativoCD>
+        <siglaComissao>ALTOSE03</siglaComissao>
+        <nomeComissao>Conselho de Altos Estudos e Avaliação Tecnológica</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>15/05/2003</dataEntrada>
+        <dataSaida>18/03/2005</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526022</idOrgaoLegislativoCD>
+        <siglaComissao>PEC04003</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a apreciar e proferir parecer à Proposta de Emenda à Constituição nº 40-A, de 2003, que "modifica os arts. 37, 40, 42, 48, 96, 142 e 149 da Constituição Federal, o art. 8º da Emenda Constitucional nº 20, de 15 de dezembro de 1998, e dá outras providências" (Reforma da Previdência).</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>25/06/2003</dataEntrada>
+        <dataSaida>31/12/2003</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526071</idOrgaoLegislativoCD>
+        <siglaComissao>CEALCA</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a "acompanhar as negociações da Área de Livre Comércio das Américas".</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>08/10/2003</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526149</idOrgaoLegislativoCD>
+        <siglaComissao>PEC22704</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 227-A, de 2004, que "altera os artigos 37, 40, 144, 194, 195 e 201 da Constituição Federal, para dispor sobre a Previdência Social, e dá outras providências" ( PEC Paralela - Alterando a Emenda Constitucional nº 41, de 2003 - Reforma da Previdência).</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>11/02/2004</dataEntrada>
+        <dataSaida>22/03/2005</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>23/03/2004</dataEntrada>
+        <dataSaida>01/03/2005</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2018</idOrgaoLegislativoCD>
+        <siglaComissao>CREDN</siglaComissao>
+        <nomeComissao>Comissão de Relações Exteriores e de Defesa Nacional</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>02/03/2005</dataEntrada>
+        <dataSaida>28/03/2006</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6266</idOrgaoLegislativoCD>
+        <siglaComissao>CMO-05</siglaComissao>
+        <nomeComissao>Comissão Mista de Planos, Orçamentos Públicos e Fiscalização (2005).</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>31/05/2005</dataEntrada>
+        <dataSaida>17/04/2006</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2002</idOrgaoLegislativoCD>
+        <siglaComissao>CCTCI</siglaComissao>
+        <nomeComissao>Comissão de Ciência e Tecnologia, Comunicação e Informática</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>29/03/2006</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526395</idOrgaoLegislativoCD>
+        <siglaComissao>PEC536-E</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao substitutivo do Senado Federal  à Proposta de Emenda à Constituição nº 536-E, de 1997, do Sr. Valdemar Costa Neto, que "modifica o artigo 60 do Ato das Disposições Constitucionais Transitórias" (recursos para o desenvolvimento do ensino fundamental).</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>03/08/2006</dataEntrada>
+        <dataSaida>06/12/2006</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2009</idOrgaoLegislativoCD>
+        <siglaComissao>CE</siglaComissao>
+        <nomeComissao>Comissão de Educação</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>26/02/2003</dataEntrada>
+        <dataSaida>15/02/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>525966</idOrgaoLegislativoCD>
+        <siglaComissao>REFPREVI</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a efetuar estudo em relação às matérias em tramitação na Casa, cujo tema abranja a Reforma Previdenciária.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>17/03/2003</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526051</idOrgaoLegislativoCD>
+        <siglaComissao>PEC30600</siglaComissao>
+        <nomeComissao>Comissão Especial criada para fim do disposto no art. 197 do RICD, para a PEC 306-B, de 2000, que "acrescenta § 3° ao art. 215 da Constituição Federal, instituindo o Plano Nacional de Cultura".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>14/07/2003</dataEntrada>
+        <dataSaida>31/07/2003</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526149</idOrgaoLegislativoCD>
+        <siglaComissao>PEC22704</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 227-A, de 2004, que "altera os artigos 37, 40, 144, 194, 195 e 201 da Constituição Federal, para dispor sobre a Previdência Social, e dá outras providências" ( PEC Paralela - Alterando a Emenda Constitucional nº 41, de 2003 - Reforma da Previdência).</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>10/02/2004</dataEntrada>
+        <dataSaida>11/02/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2009</idOrgaoLegislativoCD>
+        <siglaComissao>CE</siglaComissao>
+        <nomeComissao>Comissão de Educação</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>23/03/2004</dataEntrada>
+        <dataSaida>01/03/2005</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2009</idOrgaoLegislativoCD>
+        <siglaComissao>CE</siglaComissao>
+        <nomeComissao>Comissão de Educação</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>02/03/2005</dataEntrada>
+        <dataSaida>28/03/2006</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2009</idOrgaoLegislativoCD>
+        <siglaComissao>CE</siglaComissao>
+        <nomeComissao>Comissão de Educação</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>29/03/2006</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526388</idOrgaoLegislativoCD>
+        <siglaComissao>PL421204</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 4.212, de 2004, do Sr. Átila Lira, que "altera dispositivos da Lei nº 9.394, de 20 de dezembro de 1996, que estabelece as Diretrizes e Bases da Educação Nacional, e dá outras providências" (fixando normas para a educação superior das instituições públicas e privadas de ensino).</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>12/07/2006</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526404</idOrgaoLegislativoCD>
+        <siglaComissao>CEXAEREO</siglaComissao>
+        <nomeComissao>Comissão Externa destinada a averiguar, "in loco", a questão do controle de tráfego aéreo.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>13/12/2006</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2004</idOrgaoLegislativoCD>
+        <siglaComissao>CDC</siglaComissao>
+        <nomeComissao>Comissão de Defesa do Consumidor</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>14/02/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536415</idOrgaoLegislativoCD>
+        <siglaComissao>CPIAEREO</siglaComissao>
+        <nomeComissao>Comissão Parlamentar de Inquérito para investigar as causas, conseqüências e responsáveis pela crise do sistema de tráfego aéreo brasileiro, desencadeada após o acidente aéreo ocorrido no dia 29 de setembro de 2006, envolvendo um Boeing 737-800, da Gol (vôo 1907), e um jato Legacy, da América ExcelAire, com mais de uma centena de vítimas.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>03/05/2007</dataEntrada>
+        <dataSaida>03/10/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536176</idOrgaoLegislativoCD>
+        <siglaComissao>PEC27200</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 272-A, de 2000, que "dá nova redação à alínea "c" do inciso I do art. 12 da Constituição e acrescenta artigo ao Ato das Disposições Constitucionais Transitórias, assegurando o registro nos consulados de brasileiros nascidos no estrangeiro".</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>25/05/2007</dataEntrada>
+        <dataSaida>20/09/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536297</idOrgaoLegislativoCD>
+        <siglaComissao>PL518605</siglaComissao>
+        <nomeComissao>Comissão especial destinada a proferir parecer ao Projeto de Lei nº 5.186, de 2005, do Poder Executivo, que "altera a Lei nº 9.615, de 24 de março de 1998, que institui normas gerais sobre desporto e dá outras providências".</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>24/06/2008</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2004</idOrgaoLegislativoCD>
+        <siglaComissao>CDC</siglaComissao>
+        <nomeComissao>Comissão de Defesa do Consumidor</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>12/03/2008</dataEntrada>
+        <dataSaida>02/02/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536572</idOrgaoLegislativoCD>
+        <siglaComissao>PEC03107</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 31-A, de 2007, do Sr. Virgílio Guimarães, que "altera o Sistema Tributário Nacional, unifica a legislação do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação, dentre outras providências".</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>23/04/2008</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536511</idOrgaoLegislativoCD>
+        <siglaComissao>PEC55506</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 555-A, de 2006, do Sr. Carlos Mota, que "revoga o art. 4º da Emenda Constitucional nº 41, de 2003", acabando com a cobrança de contribuição previdenciária sobre os proventos dos servidores públicos aposentados (Contribuição de Inativos).</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>24/03/2010</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2004</idOrgaoLegislativoCD>
+        <siglaComissao>CDC</siglaComissao>
+        <nomeComissao>Comissão de Defesa do Consumidor</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>05/03/2009</dataEntrada>
+        <dataSaida>01/02/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536497</idOrgaoLegislativoCD>
+        <siglaComissao>PEC09807</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 98-A, de 2007, do Senhor Otávio Leite, que  "acrescenta a alínea (e) ao inciso VI do art. 150 da Constituição Federal", instituindo imunidade tributária sobre os Fonogramas e Videofonogramas musicais produzidos no Brasil, contendo obras musicais ou lítero-musicais de autores brasileiros, e/ou obras em geral interpretadas por artistas brasileiros, bem como os suportes materiais ou arquivos digitais que os contenham.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>17/06/2009</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2004</idOrgaoLegislativoCD>
+        <siglaComissao>CDC</siglaComissao>
+        <nomeComissao>Comissão de Defesa do Consumidor</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>03/03/2010</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536898</idOrgaoLegislativoCD>
+        <siglaComissao>PEC50710</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 507-A, de 2010, do Senado Federal, que "prorroga, por tempo indeterminado, o prazo de vigência do Fundo de Combate e Erradicação da Pobreza".</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>14/12/2010</dataEntrada>
+        <dataSaida>14/12/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2009</idOrgaoLegislativoCD>
+        <siglaComissao>CE</siglaComissao>
+        <nomeComissao>Comissão de Educação</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>14/02/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>535967</idOrgaoLegislativoCD>
+        <siglaComissao>CMO-07</siglaComissao>
+        <nomeComissao>Comissão Mista de Planos, Orçamentos Públicos e Fiscalização.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>09/03/2007</dataEntrada>
+        <dataSaida>25/03/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536353</idOrgaoLegislativoCD>
+        <siglaComissao>PL033407</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 334, de 2007, do Senado Federal, que "dispõe sobre a importação, exportação, processamento, transporte, armazenagem, liquefação, regaseificação, distribuição e comercialização de gás natural", alterando a Lei nº 9.478, de 1997, no que diz respeito ao gás natural, incluindo o gás canalizado.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>22/03/2007</dataEntrada>
+        <dataSaida>18/10/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536412</idOrgaoLegislativoCD>
+        <siglaComissao>PL305700</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 3057, de 2000, do Senhor Bispo Wanderval, que "inclui  § 2º no art. 41, da Lei nº 6.766, de 19 de dezembro de 1979, numerando-se como parágrafo 1º o atual parágrafo único", estabelecendo que para o registro de loteamento suburbano de pequeno valor  implantado irregularmente até 31 de dezembro de 1999 e regularizado por lei municipal, não há necessidade de aprovação da documentação por outro órgão.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>01/06/2007</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536534</idOrgaoLegislativoCD>
+        <siglaComissao>REP-1207</siglaComissao>
+        <nomeComissao>Comissão Representativa do Congresso Nacional prevista no § 4º do art. 58 da Constituição Federal (período de 23 de dezembro de 2007 a 1º de fevereiro de 2008).</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>23/12/2007</dataEntrada>
+        <dataSaida>05/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536509</idOrgaoLegislativoCD>
+        <siglaComissao>PEC35701</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 357-A, de 2001, do Senado Federal, que "altera a alínea "d" do inciso VI do art. 150 da Constituição Federal, para instituir imunidade tributária para cadernos escolares".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>15/09/2009</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2009</idOrgaoLegislativoCD>
+        <siglaComissao>CE</siglaComissao>
+        <nomeComissao>Comissão de Educação</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>04/03/2008</dataEntrada>
+        <dataSaida>02/02/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2018</idOrgaoLegislativoCD>
+        <siglaComissao>CREDN</siglaComissao>
+        <nomeComissao>Comissão de Relações Exteriores e de Defesa Nacional</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>04/03/2009</dataEntrada>
+        <dataSaida>01/02/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536727</idOrgaoLegislativoCD>
+        <siglaComissao>CRISE-SF</siglaComissao>
+        <nomeComissao>Comissão Especial destinada ao exame e a avaliação da Crise Econômico-Financeira e, ao final, formular propostas ao Poder Executivo e ao País, especificamente no que diz respeito à repercussão no Sistema Financeiro e Mercado.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>24/03/2009</dataEntrada>
+        <dataSaida>15/07/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536698</idOrgaoLegislativoCD>
+        <siglaComissao>CPI-DIVI</siglaComissao>
+        <nomeComissao>Comissão Parlamentar de Inquérito destinada a investigar a dívida pública da União, Estados e Municípios, o pagamento de juros da mesma, os beneficiários destes pagamentos e o seu impacto nas políticas sociais e no desenvolvimento sustentável do País.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>19/08/2009</dataEntrada>
+        <dataSaida>11/05/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536807</idOrgaoLegislativoCD>
+        <siglaComissao>PL250207</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2502, de 2007, do Sr. Eduardo Valverde, que "altera a Lei nº 9.478, de 06 de agosto de 1997,que dispõe sobre a política energética nacional, as atividades relativas ao monopólio do petróleo, institui o Conselho Nacional de Política Energética e a Agência Nacional do Petróleo".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>16/09/2009</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536799</idOrgaoLegislativoCD>
+        <siglaComissao>PL187699</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 1876, de 1999, do Sr. Sérgio Carvalho, que "dispõe sobre Áreas de Preservação Permanente, Reserva Legal, exploração florestal e dá outras providências" (revoga a Lei n. 4.771, de 1965 - Código Florestal; altera a Lei nº 9.605, de 1998)</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>29/09/2009</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536821</idOrgaoLegislativoCD>
+        <siglaComissao>CEXHONDU</siglaComissao>
+        <nomeComissao>Comissão Externa para verificar, in loco, a situação da Embaixada brasileira em Honduras e colaborar com os esforços da comunidade internacional para a resolução da controvérsia que envolve o acolhimento do Presidente Manoel Zelaya nas dependências da legação do Brasil nesse País.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>29/09/2009</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536811</idOrgaoLegislativoCD>
+        <siglaComissao>PEC35109</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 351-A, de 2009, do Senado Federal, que "altera o art. 100 da Constituição Federal e acrescenta o art. 97 ao Ato das Disposições Constitucionais Transitórias, instituindo regime especial de pagamento de precatórios pelos Estados, Distrito Federal e Municípios"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>27/10/2009</dataEntrada>
+        <dataSaida>09/12/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2018</idOrgaoLegislativoCD>
+        <siglaComissao>CREDN</siglaComissao>
+        <nomeComissao>Comissão de Relações Exteriores e de Defesa Nacional</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>03/03/2010</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2009</idOrgaoLegislativoCD>
+        <siglaComissao>CE</siglaComissao>
+        <nomeComissao>Comissão de Educação</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>02/03/2011</dataEntrada>
+        <dataSaida>31/01/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6940</idOrgaoLegislativoCD>
+        <siglaComissao>PL803510</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 8035, de 2010, do Poder Executivo, que "aprova o Plano Nacional de Educação para o decênio 2011-2020 e dá outras providências"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>07/04/2011</dataEntrada>
+        <dataSaida>26/06/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2004</idOrgaoLegislativoCD>
+        <siglaComissao>CDC</siglaComissao>
+        <nomeComissao>Comissão de Defesa do Consumidor</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>12/03/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9138</idOrgaoLegislativoCD>
+        <siglaComissao>CPITRAES</siglaComissao>
+        <nomeComissao>Comissão Parlamentar de Inquérito destinada a investigar a exploração do trabalho escravo ou análogo ao de escravo, em atividades rurais e urbanas, de todo o território nacional.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>03/04/2012</dataEntrada>
+        <dataSaida>16/03/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2018</idOrgaoLegislativoCD>
+        <siglaComissao>CREDN</siglaComissao>
+        <nomeComissao>Comissão de Relações Exteriores e de Defesa Nacional</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>05/03/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537108</idOrgaoLegislativoCD>
+        <siglaComissao>PL003711</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 37, de 2011, do Sr. Welinton Prado, que "dispõe sobre o regime de aproveitamento das substâncias minerais, com exceção dos minérios nucleares, petróleo, gás natural e outros hidrocarbonetos fluidos e das substâncias minerais submetidas ao regime de licenciamento de que trata o inciso III do art. 2º do Decreto-lei nº 227, de 28 de fevereiro de 1967"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>16/07/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9161</idOrgaoLegislativoCD>
+        <siglaComissao>PEC21500</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a apreciar e proferir parecer à Proposta de Emenda à Constituição nº 215-A, de 2000, do Sr. Almir Sá e outros, que "acrescenta o inciso XVIII ao art. 49; modifica o § 4º e acrescenta o § 8º ambos no art. 231, da Constituição Federal" (inclui dentre as competências exclusivas do Congresso Nacional a aprovação de demarcação das terras tradicionalmente ocupadas pelos índios e a ratificação das demarcações já homologadas; estabelecendo que os critérios e procedimentos de demarcação serão regulamentados por lei), e apensadas</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>11/09/2013</dataEntrada>
+        <dataSaida>11/03/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9145</idOrgaoLegislativoCD>
+        <siglaComissao>PEC19712</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 197-A, de 2012, do Senado Federal, que "altera o § 2º do art. 155 da Constituição Federal, para modificar a sistemática de cobrança do imposto sobre operações relativas à circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e de comunicação incidente sobre as operações e prestações realizadas de forma não presencial e que destinem bens e serviços a consumidor final localizado em outro Estado"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>04/12/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2004</idOrgaoLegislativoCD>
+        <siglaComissao>CDC</siglaComissao>
+        <nomeComissao>Comissão de Defesa do Consumidor</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>25/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2018</idOrgaoLegislativoCD>
+        <siglaComissao>CREDN</siglaComissao>
+        <nomeComissao>Comissão de Relações Exteriores e de Defesa Nacional</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>01/03/2011</dataEntrada>
+        <dataSaida>31/01/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6912</idOrgaoLegislativoCD>
+        <siglaComissao>CEREFPOL</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a efetuar estudo e apresentar propostas em relação à Reforma Política.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>02/03/2011</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6930</idOrgaoLegislativoCD>
+        <siglaComissao>GTFLORES</siglaComissao>
+        <nomeComissao>Grupo de trabalho que promove a Câmara Conciliatória destinada a viabilizar a votação do Projeto de Lei nº 1876, de 1999, do Sr. Sérgio Carvalho, que trata do Código Florestal</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>15/03/2011</dataEntrada>
+        <dataSaida>24/05/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9023</idOrgaoLegislativoCD>
+        <siglaComissao>SUBRIO20</siglaComissao>
+        <nomeComissao>Subcomissão Especial Rio + 20</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>09/06/2011</dataEntrada>
+        <dataSaida>15/03/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2018</idOrgaoLegislativoCD>
+        <siglaComissao>CREDN</siglaComissao>
+        <nomeComissao>Comissão de Relações Exteriores e de Defesa Nacional</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>07/03/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9158</idOrgaoLegislativoCD>
+        <siglaComissao>GTDIVIDA</siglaComissao>
+        <nomeComissao>Grupo de Trabalho para analisar a questão da dívida dos Estados com a União.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>13/04/2012</dataEntrada>
+        <dataSaida>30/05/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536971</idOrgaoLegislativoCD>
+        <siglaComissao>REP-1212</siglaComissao>
+        <nomeComissao>Comissão Representativa do Congresso Nacional prevista no § 4º do art. 58 da Constituição Federal (período de 25 de dezembro de 2012 a 03 de fevereiro de 2013)</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>25/12/2012</dataEntrada>
+        <dataSaida>04/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2004</idOrgaoLegislativoCD>
+        <siglaComissao>CDC</siglaComissao>
+        <nomeComissao>Comissão de Defesa do Consumidor</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>05/03/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536986</idOrgaoLegislativoCD>
+        <siglaComissao>CEXCOMP</siglaComissao>
+        <nomeComissao>Comissão Externa destinada a acompanhar a execução das medidas de internação compulsória de dependentes no Estado de São Paulo</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>26/03/2013</dataEntrada>
+        <dataSaida>02/04/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536962</idOrgaoLegislativoCD>
+        <siglaComissao>PEC19612</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 196-A, de 2012, do Senado Federal, que "altera o § 2° do art. 55 da Constituição Federal, para estabelecer que a perda de mandato será decidida por voto aberto nos casos que especifica"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>20/08/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537133</idOrgaoLegislativoCD>
+        <siglaComissao>PEC17012</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 170-A, de 2012, da Srª Andreia Zito e outros, que "dá nova redação ao inciso I do § 1º do art. 40 da Constituição Federal" (garante proventos integrais ao servidor que se aposentar por invalidez)</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>03/12/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2018</idOrgaoLegislativoCD>
+        <siglaComissao>CREDN</siglaComissao>
+        <nomeComissao>Comissão de Relações Exteriores e de Defesa Nacional</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>25/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537248</idOrgaoLegislativoCD>
+        <siglaComissao>PL372212</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 3722, de 2012, do Sr. Rogério Peninha Mendonça, que "disciplina as normas sobre aquisição, posse, porte e circulação de armas de fogo e munições, cominando penalidades e dando providências correlatas" (altera o Decreto-lei nº 2.848, de 1940 e revoga a Lei nº 10.826, de 2003)</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>29/05/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+    </comissoes>
+    <cargosComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>536698</idOrgaoLegislativoCD>
+        <siglaComissao>CPI-DIVI</siglaComissao>
+        <nomeComissao>Comissão Parlamentar de Inquérito destinada a investigar a dívida pública da União, Estados e Municípios, o pagamento de juros da mesma, os beneficiários destes pagamentos e o seu impacto nas políticas sociais e no desenvolvimento sustentável do País.</nomeComissao>
+        <idCargo>3</idCargo>
+        <nomeCargo>2º Vice-Presidente</nomeCargo>
+        <dataEntrada>19/08/2009</dataEntrada>
+        <dataSaida>11/05/2010</dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>536962</idOrgaoLegislativoCD>
+        <siglaComissao>PEC19612</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 196-A, de 2012, do Senado Federal, que "altera o § 2° do art. 55 da Constituição Federal, para estabelecer que a perda de mandato será decidida por voto aberto nos casos que especifica"</nomeComissao>
+        <idCargo>4</idCargo>
+        <nomeCargo>3º Vice-Presidente</nomeCargo>
+        <dataEntrada>21/08/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </cargoComissoes>
+    </cargosComissoes>
+    <periodosExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>SP</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2003</dataInicio>
+        <dataFim>31/01/2007</dataFim>
+        <idCausaFimExercicio>99</idCausaFimExercicio>
+        <descricaoCausaFimExercicio>Término da Legislatura</descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>SP</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2007</dataInicio>
+        <dataFim>31/01/2011</dataFim>
+        <idCausaFimExercicio>99</idCausaFimExercicio>
+        <descricaoCausaFimExercicio>Término da Legislatura</descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>SP</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2011</dataInicio>
+        <dataFim>
+        </dataFim>
+        <idCausaFimExercicio>
+        </idCausaFimExercicio>
+        <descricaoCausaFimExercicio>
+        </descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+    </periodosExercicio>
+    <historicoNomeParlamentar />
+    <filiacoesPartidarias>
+      <filiacaoPartidaria>
+        <idPartidoAnterior>PT</idPartidoAnterior>
+        <siglaPartidoAnterior>PT</siglaPartidoAnterior>
+        <nomePartidoAnterior>Partido dos Trabalhadores</nomePartidoAnterior>
+        <idPartidoPosterior>PSOL</idPartidoPosterior>
+        <siglaPartidoPosterior>PSOL</siglaPartidoPosterior>
+        <nomePartidoPosterior>Partido Socialismo e Liberdade</nomePartidoPosterior>
+        <dataFiliacaoPartidoPosterior>04/10/2005</dataFiliacaoPartidoPosterior>
+      </filiacaoPartidaria>
+    </filiacoesPartidarias>
+    <historicoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>73531</idHistoricoLider>
+        <idCargoLideranca>V</idCargoLideranca>
+        <descricaoCargoLideranca>Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>55</numOrdemCargo>
+        <dataDesignacao>13/03/2003</dataDesignacao>
+        <dataTermino>18/03/2004</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PT</siglaUnidadeLideranca>
+        <idBlocoPartido>PT</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>73531</idHistoricoLider>
+        <idCargoLideranca>V</idCargoLideranca>
+        <descricaoCargoLideranca>Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>45</numOrdemCargo>
+        <dataDesignacao>18/03/2004</dataDesignacao>
+        <dataTermino>30/03/2005</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PT</siglaUnidadeLideranca>
+        <idBlocoPartido>PT</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>73531</idHistoricoLider>
+        <idCargoLideranca>V</idCargoLideranca>
+        <descricaoCargoLideranca>Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>5</numOrdemCargo>
+        <dataDesignacao>21/02/2006</dataDesignacao>
+        <dataTermino>28/03/2006</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSOL</siglaUnidadeLideranca>
+        <idBlocoPartido>PSOL</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>73531</idHistoricoLider>
+        <idCargoLideranca>L</idCargoLideranca>
+        <descricaoCargoLideranca>Líder</descricaoCargoLideranca>
+        <numOrdemCargo>1</numOrdemCargo>
+        <dataDesignacao>28/03/2006</dataDesignacao>
+        <dataTermino>08/05/2006</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSOL</siglaUnidadeLideranca>
+        <idBlocoPartido>PSOL</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>73531</idHistoricoLider>
+        <idCargoLideranca>V</idCargoLideranca>
+        <descricaoCargoLideranca>Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>20</numOrdemCargo>
+        <dataDesignacao>04/10/2006</dataDesignacao>
+        <dataTermino>31/01/2007</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSOL</siglaUnidadeLideranca>
+        <idBlocoPartido>PSOL</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>73531</idHistoricoLider>
+        <idCargoLideranca>1</idCargoLideranca>
+        <descricaoCargoLideranca>1º Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>2</numOrdemCargo>
+        <dataDesignacao>18/02/2008</dataDesignacao>
+        <dataTermino>01/02/2009</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSOL</siglaUnidadeLideranca>
+        <idBlocoPartido>PSOL</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>73531</idHistoricoLider>
+        <idCargoLideranca>L</idCargoLideranca>
+        <descricaoCargoLideranca>Líder</descricaoCargoLideranca>
+        <numOrdemCargo>1</numOrdemCargo>
+        <dataDesignacao>02/04/2008</dataDesignacao>
+        <dataTermino>02/04/2008</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSOL</siglaUnidadeLideranca>
+        <idBlocoPartido>PSOL</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>73531</idHistoricoLider>
+        <idCargoLideranca>L</idCargoLideranca>
+        <descricaoCargoLideranca>Líder</descricaoCargoLideranca>
+        <numOrdemCargo>1</numOrdemCargo>
+        <dataDesignacao>01/02/2009</dataDesignacao>
+        <dataTermino>02/02/2011</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSOL</siglaUnidadeLideranca>
+        <idBlocoPartido>PSOL</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>73531</idHistoricoLider>
+        <idCargoLideranca>V</idCargoLideranca>
+        <descricaoCargoLideranca>Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>2</numOrdemCargo>
+        <dataDesignacao>02/02/2011</dataDesignacao>
+        <dataTermino>12/12/2012</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSOL</siglaUnidadeLideranca>
+        <idBlocoPartido>PSOL</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>73531</idHistoricoLider>
+        <idCargoLideranca>L</idCargoLideranca>
+        <descricaoCargoLideranca>Líder</descricaoCargoLideranca>
+        <numOrdemCargo>1</numOrdemCargo>
+        <dataDesignacao>02/08/2011</dataDesignacao>
+        <dataTermino>02/08/2011</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSOL</siglaUnidadeLideranca>
+        <idBlocoPartido>PSOL</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>73531</idHistoricoLider>
+        <idCargoLideranca>L</idCargoLideranca>
+        <descricaoCargoLideranca>Líder</descricaoCargoLideranca>
+        <numOrdemCargo>1</numOrdemCargo>
+        <dataDesignacao>22/11/2011</dataDesignacao>
+        <dataTermino>25/11/2011</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSOL</siglaUnidadeLideranca>
+        <idBlocoPartido>PSOL</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>73531</idHistoricoLider>
+        <idCargoLideranca>L</idCargoLideranca>
+        <descricaoCargoLideranca>Líder</descricaoCargoLideranca>
+        <numOrdemCargo>1</numOrdemCargo>
+        <dataDesignacao>01/10/2012</dataDesignacao>
+        <dataTermino>05/10/2012</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSOL</siglaUnidadeLideranca>
+        <idBlocoPartido>PSOL</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>73531</idHistoricoLider>
+        <idCargoLideranca>L</idCargoLideranca>
+        <descricaoCargoLideranca>Líder</descricaoCargoLideranca>
+        <numOrdemCargo>1</numOrdemCargo>
+        <dataDesignacao>08/10/2012</dataDesignacao>
+        <dataTermino>07/12/2012</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSOL</siglaUnidadeLideranca>
+        <idBlocoPartido>PSOL</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>73531</idHistoricoLider>
+        <idCargoLideranca>L</idCargoLideranca>
+        <descricaoCargoLideranca>Líder</descricaoCargoLideranca>
+        <numOrdemCargo>1</numOrdemCargo>
+        <dataDesignacao>12/12/2012</dataDesignacao>
+        <dataTermino>
+        </dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSOL</siglaUnidadeLideranca>
+        <idBlocoPartido>PSOL</idBlocoPartido>
+      </itemHistoricoLider>
+    </historicoLider>
+  </Deputado>
+</Deputados>

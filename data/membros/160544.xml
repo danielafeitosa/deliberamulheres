@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Deputados>
+  <Deputado>
+    <numLegislatura>54</numLegislatura>
+    <email>dep.junjiabe@camara.gov.br</email>
+    <nomeProfissao>Consultor, Empresário Rural</nomeProfissao>
+    <dataNascimento>15/12/1940</dataNascimento>
+    <dataFalecimento>
+    </dataFalecimento>
+    <ufRepresentacaoAtual>SP</ufRepresentacaoAtual>
+    <situacaoNaLegislaturaAtual>Em Exercício</situacaoNaLegislaturaAtual>
+    <ideCadastro>160544</ideCadastro>
+    <idParlamentarDeprecated>10170</idParlamentarDeprecated>
+    <nomeParlamentarAtual>JUNJI ABE</nomeParlamentarAtual>
+    <nomeCivil>JUNJI ABE</nomeCivil>
+    <sexo>M</sexo>
+    <partidoAtual>
+      <idPartido>PSD</idPartido>
+      <sigla>PSD</sigla>
+      <nome>Partido Social Democrático</nome>
+    </partidoAtual>
+    <gabinete>
+      <numero>340</numero>
+      <anexo>4</anexo>
+      <telefone>3215-5340</telefone>
+    </gabinete>
+    <comissoes>
+      <comissao>
+        <idOrgaoLegislativoCD>2009</idOrgaoLegislativoCD>
+        <siglaComissao>CE</siglaComissao>
+        <nomeComissao>Comissão de Educação</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>01/03/2011</dataEntrada>
+        <dataSaida>28/03/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2006</idOrgaoLegislativoCD>
+        <siglaComissao>CDU</siglaComissao>
+        <nomeComissao>Comissão de Desenvolvimento Urbano</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>16/03/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9138</idOrgaoLegislativoCD>
+        <siglaComissao>CPITRAES</siglaComissao>
+        <nomeComissao>Comissão Parlamentar de Inquérito destinada a investigar a exploração do trabalho escravo ou análogo ao de escravo, em atividades rurais e urbanas, de todo o território nacional.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>28/03/2012</dataEntrada>
+        <dataSaida>16/03/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9121</idOrgaoLegislativoCD>
+        <siglaComissao>PEC01011</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 10-A, de 2011, do Sr. Luiz Fernando Machado, que "altera os arts. 28, 29 e 84 da Constituição Federal para instituir a obrigatoriedade de elaboração e cumprimento do plano de metas pelo Poder Executivo municipal, estadual e federal, com base nas propostas da campanha eleitoral"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>16/11/2012</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9157</idOrgaoLegislativoCD>
+        <siglaComissao>CEENSI</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a promover estudos e proposições para a reformulação do ensino médio.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>16/11/2012</dataEntrada>
+        <dataSaida>26/11/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2006</idOrgaoLegislativoCD>
+        <siglaComissao>CDU</siglaComissao>
+        <nomeComissao>Comissão de Desenvolvimento Urbano</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>05/03/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>5503</idOrgaoLegislativoCD>
+        <siglaComissao>CSPCCO</siglaComissao>
+        <nomeComissao>Comissão de Segurança Pública e Combate ao Crime Organizado</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>05/03/2013</dataEntrada>
+        <dataSaida>13/03/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6855</idOrgaoLegislativoCD>
+        <siglaComissao>CMO</siglaComissao>
+        <nomeComissao>Comissão Mista de Planos, Orçamentos Públicos e Fiscalização</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>26/03/2013</dataEntrada>
+        <dataSaida>25/03/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537090</idOrgaoLegislativoCD>
+        <siglaComissao>PL719702</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 7197, de 2002, do Senado Federal, que "acrescenta §§ aos arts. 104 e 105 da Lei nº 8.069, de 13 de julho de 1990, que dispõe sobre o Estatuto da Criança e do Adolescente e dá outras providências, para permitir a aplicação de medidas sócio-educativas aos infratores que atingirem a maioridade penal"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>12/06/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2006</idOrgaoLegislativoCD>
+        <siglaComissao>CDU</siglaComissao>
+        <nomeComissao>Comissão de Desenvolvimento Urbano</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>25/02/2014</dataEntrada>
+        <dataSaida>22/04/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537228</idOrgaoLegislativoCD>
+        <siglaComissao>PL699813</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 6998, de 2013, do Sr. Osmar Terra e outros, que "altera o art. 1º e insere dispositivos sobre a Primeira Infância na Lei nº 8.069, de 1990, que dispõe sobre o Estatuto da Criança e do Adolescente e dá outras providências"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>13/03/2014</dataEntrada>
+        <dataSaida>19/03/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537253</idOrgaoLegislativoCD>
+        <siglaComissao>SUBTRAHU</siglaComissao>
+        <nomeComissao>Subcomissão Especial de Combate ao Tráfico Humano</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>08/04/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>5971</idOrgaoLegislativoCD>
+        <siglaComissao>COETICA</siglaComissao>
+        <nomeComissao>Conselho de Ética e Decoro Parlamentar da Câmara dos Deputados</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>22/04/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2006</idOrgaoLegislativoCD>
+        <siglaComissao>CDU</siglaComissao>
+        <nomeComissao>Comissão de Desenvolvimento Urbano</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>28/04/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>8669</idOrgaoLegislativoCD>
+        <siglaComissao>PEC05307</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 53-A, de 2007, do Sr. Jofran Frejat, que "dá nova redação ao § 3º do Art. 39 da Constituição Federal" (garante ao servidor de cargo em comissão de livre nomeação e exoneração, direito a aviso prévio, seguro desemprego, FGTS, entre outros)</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>05/08/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>01/03/2011</dataEntrada>
+        <dataSaida>28/03/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>14/03/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>5503</idOrgaoLegislativoCD>
+        <siglaComissao>CSPCCO</siglaComissao>
+        <nomeComissao>Comissão de Segurança Pública e Combate ao Crime Organizado</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>14/03/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6965</idOrgaoLegislativoCD>
+        <siglaComissao>SUBENDIV</siglaComissao>
+        <nomeComissao>Subcomissão destinada a acompanhar, fiscalizar, avaliar e propor medidas sobre o endividamento do setor agropecuário brasileiro e a efetivação pelos agentes financeiros das renegociações autorizadas por Leis e Resoluções do Conselho Monetário Nacional</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>20/03/2012</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9065</idOrgaoLegislativoCD>
+        <siglaComissao>PL157211</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 1572, de 2011, do Sr. Vicente Candido, que "institui o Código Comercial"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>21/03/2012</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6964</idOrgaoLegislativoCD>
+        <siglaComissao>SUBLEITE</siglaComissao>
+        <nomeComissao>Subcomissão destinada a acompanhar, avaliar e propor medidas sobre a produção de leite no mercado nacional incluindo: a fixação de preço justo para os produtores; o combate aos cartéis na produção dos insumos lácteos; o estabelecimento de mecanismos de proteção do mercado interno de importação de produtos subsidiados; e a redefinição da carga tributária sobre leite in natura.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>08/11/2012</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536983</idOrgaoLegislativoCD>
+        <siglaComissao>CEXSANTA</siglaComissao>
+        <nomeComissao>Comissão Externa destinada a acompanhar a apuração dos fatos relacionados à tragédia que vitimou centenas de jovens em um incêndio no município de Santa Maria, Rio Grande do Sul, e oferecer sugestão de aperfeiçoamento da legislação sobre o tema.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>26/02/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>05/03/2013</dataEntrada>
+        <dataSaida>26/11/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>5503</idOrgaoLegislativoCD>
+        <siglaComissao>CSPCCO</siglaComissao>
+        <nomeComissao>Comissão de Segurança Pública e Combate ao Crime Organizado</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>13/03/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536982</idOrgaoLegislativoCD>
+        <siglaComissao>CEMOTOR</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a debater e propor modificações à Lei 12.619, de 30 de abril de 2012, que regulamenta a Profissão de Motorista</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>13/03/2013</dataEntrada>
+        <dataSaida>09/07/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536952</idOrgaoLegislativoCD>
+        <siglaComissao>PEC07011</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a apreciar e proferir parecer à Proposta de Emenda à Constituição nº 70-A, de 2011, do Senado Federal, que "altera o procedimento de apreciação das medidas provisórias pelo Congresso Nacional"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>20/08/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9161</idOrgaoLegislativoCD>
+        <siglaComissao>PEC21500</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a apreciar e proferir parecer à Proposta de Emenda à Constituição nº 215-A, de 2000, do Sr. Almir Sá e outros, que "acrescenta o inciso XVIII ao art. 49; modifica o § 4º e acrescenta o § 8º ambos no art. 231, da Constituição Federal" (inclui dentre as competências exclusivas do Congresso Nacional a aprovação de demarcação das terras tradicionalmente ocupadas pelos índios e a ratificação das demarcações já homologadas; estabelecendo que os critérios e procedimentos de demarcação serão regulamentados por lei), e apensadas</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>17/09/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537133</idOrgaoLegislativoCD>
+        <siglaComissao>PEC17012</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 170-A, de 2012, da Srª Andreia Zito e outros, que "dá nova redação ao inciso I do § 1º do art. 40 da Constituição Federal" (garante proventos integrais ao servidor que se aposentar por invalidez)</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>03/12/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2003</idOrgaoLegislativoCD>
+        <siglaComissao>CCJC</siglaComissao>
+        <nomeComissao>Comissão de Constituição e Justiça e de Cidadania</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>26/11/2013</dataEntrada>
+        <dataSaida>27/11/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>27/11/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>25/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>5503</idOrgaoLegislativoCD>
+        <siglaComissao>CSPCCO</siglaComissao>
+        <nomeComissao>Comissão de Segurança Pública e Combate ao Crime Organizado</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>25/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537222</idOrgaoLegislativoCD>
+        <siglaComissao>PL684013</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 6840, de 2013, da Comissão Especial destinada a promover estudos e proposições para a reformulação do ensino médio, que "altera a Lei nº 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional, para instituir a jornada em tempo integral no ensino médio, dispor sobre a organização dos currículos do ensino médio em áreas do conhecimento e dá outras providências"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>27/03/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537213</idOrgaoLegislativoCD>
+        <siglaComissao>PEC49110</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 491, de 2010, do Sr. Luiz Carlos Hauly e outros, que "acresce incisos ao art. 150, VI e art. 155, X da Constituição Federal" (proíbe a criação de imposto incidente sobre insumos agrícolas, pecuária, alimentos para o consumo humano e medicamentos), e apensadas</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>12/05/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+    </comissoes>
+    <cargosComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>6964</idOrgaoLegislativoCD>
+        <siglaComissao>SUBLEITE</siglaComissao>
+        <nomeComissao>Subcomissão destinada a acompanhar, avaliar e propor medidas sobre a produção de leite no mercado nacional incluindo: a fixação de preço justo para os produtores; o combate aos cartéis na produção dos insumos lácteos; o estabelecimento de mecanismos de proteção do mercado interno de importação de produtos subsidiados; e a redefinição da carga tributária sobre leite in natura.</nomeComissao>
+        <idCargo>1</idCargo>
+        <nomeCargo>Presidente</nomeCargo>
+        <dataEntrada>26/05/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>537213</idOrgaoLegislativoCD>
+        <siglaComissao>PEC49110</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 491, de 2010, do Sr. Luiz Carlos Hauly e outros, que "acresce incisos ao art. 150, VI e art. 155, X da Constituição Federal" (proíbe a criação de imposto incidente sobre insumos agrícolas, pecuária, alimentos para o consumo humano e medicamentos), e apensadas</nomeComissao>
+        <idCargo>3</idCargo>
+        <nomeCargo>2º Vice-Presidente</nomeCargo>
+        <dataEntrada>14/05/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>9161</idOrgaoLegislativoCD>
+        <siglaComissao>PEC21500</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a apreciar e proferir parecer à Proposta de Emenda à Constituição nº 215-A, de 2000, do Sr. Almir Sá e outros, que "acrescenta o inciso XVIII ao art. 49; modifica o § 4º e acrescenta o § 8º ambos no art. 231, da Constituição Federal" (inclui dentre as competências exclusivas do Congresso Nacional a aprovação de demarcação das terras tradicionalmente ocupadas pelos índios e a ratificação das demarcações já homologadas; estabelecendo que os critérios e procedimentos de demarcação serão regulamentados por lei), e apensadas</nomeComissao>
+        <idCargo>4</idCargo>
+        <nomeCargo>3º Vice-Presidente</nomeCargo>
+        <dataEntrada>11/12/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>9065</idOrgaoLegislativoCD>
+        <siglaComissao>PL157211</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 1572, de 2011, do Sr. Vicente Candido, que "institui o Código Comercial"</nomeComissao>
+        <idCargo>2</idCargo>
+        <nomeCargo>1º Vice-Presidente</nomeCargo>
+        <dataEntrada>20/11/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>9065</idOrgaoLegislativoCD>
+        <siglaComissao>PL157211</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 1572, de 2011, do Sr. Vicente Candido, que "institui o Código Comercial"</nomeComissao>
+        <idCargo>3</idCargo>
+        <nomeCargo>2º Vice-Presidente</nomeCargo>
+        <dataEntrada>28/03/2012</dataEntrada>
+        <dataSaida>20/11/2013</dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>6965</idOrgaoLegislativoCD>
+        <siglaComissao>SUBENDIV</siglaComissao>
+        <nomeComissao>Subcomissão destinada a acompanhar, fiscalizar, avaliar e propor medidas sobre o endividamento do setor agropecuário brasileiro e a efetivação pelos agentes financeiros das renegociações autorizadas por Leis e Resoluções do Conselho Monetário Nacional</nomeComissao>
+        <idCargo>2</idCargo>
+        <nomeCargo>1º Vice-Presidente</nomeCargo>
+        <dataEntrada>20/03/2012</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </cargoComissoes>
+    </cargosComissoes>
+    <periodosExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>SP</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2011</dataInicio>
+        <dataFim>
+        </dataFim>
+        <idCausaFimExercicio>
+        </idCausaFimExercicio>
+        <descricaoCausaFimExercicio>
+        </descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+    </periodosExercicio>
+    <historicoNomeParlamentar />
+    <filiacoesPartidarias>
+      <filiacaoPartidaria>
+        <idPartidoAnterior>DEM</idPartidoAnterior>
+        <siglaPartidoAnterior>DEM</siglaPartidoAnterior>
+        <nomePartidoAnterior>Democratas</nomePartidoAnterior>
+        <idPartidoPosterior>PSD</idPartidoPosterior>
+        <siglaPartidoPosterior>PSD</siglaPartidoPosterior>
+        <nomePartidoPosterior>Partido Social Democrático</nomePartidoPosterior>
+        <dataFiliacaoPartidoPosterior>26/10/2011</dataFiliacaoPartidoPosterior>
+      </filiacaoPartidaria>
+    </filiacoesPartidarias>
+    <historicoLider />
+  </Deputado>
+</Deputados>

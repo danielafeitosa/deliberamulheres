@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Deputados>
+  <Deputado>
+    <numLegislatura>54</numLegislatura>
+    <email>dep.marcon@camara.gov.br</email>
+    <nomeProfissao>Agricultor</nomeProfissao>
+    <dataNascimento>21/09/1964</dataNascimento>
+    <dataFalecimento>
+    </dataFalecimento>
+    <ufRepresentacaoAtual>RS</ufRepresentacaoAtual>
+    <situacaoNaLegislaturaAtual>Em Exercício</situacaoNaLegislaturaAtual>
+    <ideCadastro>160535</ideCadastro>
+    <idParlamentarDeprecated>10140</idParlamentarDeprecated>
+    <nomeParlamentarAtual>MARCON</nomeParlamentarAtual>
+    <nomeCivil>DIONILSO MATEUS MARCON</nomeCivil>
+    <sexo>M</sexo>
+    <partidoAtual>
+      <idPartido>PT</idPartido>
+      <sigla>PT</sigla>
+      <nome>Partido dos Trabalhadores</nome>
+    </partidoAtual>
+    <gabinete>
+      <numero>569</numero>
+      <anexo>3</anexo>
+      <telefone>3215-5569</telefone>
+    </gabinete>
+    <comissoes>
+      <comissao>
+        <idOrgaoLegislativoCD>2007</idOrgaoLegislativoCD>
+        <siglaComissao>CDHM</siglaComissao>
+        <nomeComissao>Comissão de Direitos Humanos e Minorias</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>01/03/2011</dataEntrada>
+        <dataSaida>31/01/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>8906</idOrgaoLegislativoCD>
+        <siglaComissao>PL712310</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 7123, de 2010, do Sr. Assis do Couto, que "institui a Estrada-Parque Caminho do Colono, no Parque Nacional do Iguaçu"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>15/09/2011</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9029</idOrgaoLegislativoCD>
+        <siglaComissao>CEAGRIRU</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a efetuar estudos e apresentar propostas com relação ao Projeto de Lei nº 4378, de 1998, do Sr. Milton Mendes, que "regula as relações jurídicas entre a agroindústria e o produtor rural integrado e dá outras providências"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>07/11/2011</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2017</idOrgaoLegislativoCD>
+        <siglaComissao>CINDRA</siglaComissao>
+        <nomeComissao>Comissão de Integração Nacional, Desenvolvimento Regional e da Amazônia</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>07/03/2012</dataEntrada>
+        <dataSaida>14/03/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9138</idOrgaoLegislativoCD>
+        <siglaComissao>CPITRAES</siglaComissao>
+        <nomeComissao>Comissão Parlamentar de Inquérito destinada a investigar a exploração do trabalho escravo ou análogo ao de escravo, em atividades rurais e urbanas, de todo o território nacional.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>28/03/2012</dataEntrada>
+        <dataSaida>16/03/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2015</idOrgaoLegislativoCD>
+        <siglaComissao>CTASP</siglaComissao>
+        <nomeComissao>Comissão de Trabalho, de Administração e Serviço Público</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>14/03/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6965</idOrgaoLegislativoCD>
+        <siglaComissao>SUBENDIV</siglaComissao>
+        <nomeComissao>Subcomissão destinada a acompanhar, fiscalizar, avaliar e propor medidas sobre o endividamento do setor agropecuário brasileiro e a efetivação pelos agentes financeiros das renegociações autorizadas por Leis e Resoluções do Conselho Monetário Nacional</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>20/03/2012</dataEntrada>
+        <dataSaida>12/11/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2015</idOrgaoLegislativoCD>
+        <siglaComissao>CTASP</siglaComissao>
+        <nomeComissao>Comissão de Trabalho, de Administração e Serviço Público</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>05/03/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537145</idOrgaoLegislativoCD>
+        <siglaComissao>SUBMAQUI</siglaComissao>
+        <nomeComissao>Subcomissão Especial para tratar dos custos de produção, tributos e preços das máquinas, equipamentos e implementos agrícolas, praticados no Brasil.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>21/08/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2015</idOrgaoLegislativoCD>
+        <siglaComissao>CTASP</siglaComissao>
+        <nomeComissao>Comissão de Trabalho, de Administração e Serviço Público</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>25/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>01/03/2011</dataEntrada>
+        <dataSaida>31/01/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6965</idOrgaoLegislativoCD>
+        <siglaComissao>SUBENDIV</siglaComissao>
+        <nomeComissao>Subcomissão destinada a acompanhar, fiscalizar, avaliar e propor medidas sobre o endividamento do setor agropecuário brasileiro e a efetivação pelos agentes financeiros das renegociações autorizadas por Leis e Resoluções do Conselho Monetário Nacional</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>09/06/2011</dataEntrada>
+        <dataSaida>20/03/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>07/03/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>5438</idOrgaoLegislativoCD>
+        <siglaComissao>CLP</siglaComissao>
+        <nomeComissao>Comissão de Legislação Participativa</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>07/03/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>05/03/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>25/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6965</idOrgaoLegislativoCD>
+        <siglaComissao>SUBENDIV</siglaComissao>
+        <nomeComissao>Subcomissão destinada a acompanhar, fiscalizar, avaliar e propor medidas sobre o endividamento do setor agropecuário brasileiro e a efetivação pelos agentes financeiros das renegociações autorizadas por Leis e Resoluções do Conselho Monetário Nacional</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>12/11/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+    </comissoes>
+    <cargosComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>6965</idOrgaoLegislativoCD>
+        <siglaComissao>SUBENDIV</siglaComissao>
+        <nomeComissao>Subcomissão destinada a acompanhar, fiscalizar, avaliar e propor medidas sobre o endividamento do setor agropecuário brasileiro e a efetivação pelos agentes financeiros das renegociações autorizadas por Leis e Resoluções do Conselho Monetário Nacional</nomeComissao>
+        <idCargo>1</idCargo>
+        <nomeCargo>Presidente</nomeCargo>
+        <dataEntrada>12/11/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>6965</idOrgaoLegislativoCD>
+        <siglaComissao>SUBENDIV</siglaComissao>
+        <nomeComissao>Subcomissão destinada a acompanhar, fiscalizar, avaliar e propor medidas sobre o endividamento do setor agropecuário brasileiro e a efetivação pelos agentes financeiros das renegociações autorizadas por Leis e Resoluções do Conselho Monetário Nacional</nomeComissao>
+        <idCargo>1</idCargo>
+        <nomeCargo>Presidente</nomeCargo>
+        <dataEntrada>09/06/2011</dataEntrada>
+        <dataSaida>20/03/2012</dataSaida>
+      </cargoComissoes>
+    </cargosComissoes>
+    <periodosExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>RS</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2011</dataInicio>
+        <dataFim>
+        </dataFim>
+        <idCausaFimExercicio>
+        </idCausaFimExercicio>
+        <descricaoCausaFimExercicio>
+        </descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+    </periodosExercicio>
+    <historicoNomeParlamentar />
+    <filiacoesPartidarias />
+    <historicoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>160535</idHistoricoLider>
+        <idCargoLideranca>V</idCargoLideranca>
+        <descricaoCargoLideranca>Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>17</numOrdemCargo>
+        <dataDesignacao>12/03/2013</dataDesignacao>
+        <dataTermino>25/03/2014</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PT</siglaUnidadeLideranca>
+        <idBlocoPartido>PT</idBlocoPartido>
+      </itemHistoricoLider>
+    </historicoLider>
+  </Deputado>
+</Deputados>

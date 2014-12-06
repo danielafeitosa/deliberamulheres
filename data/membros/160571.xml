@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Deputados>
+  <Deputado>
+    <numLegislatura>54</numLegislatura>
+    <email>dep.joaorodrigues@camara.gov.br</email>
+    <nomeProfissao>Empresário, Radialista</nomeProfissao>
+    <dataNascimento>23/03/1967</dataNascimento>
+    <dataFalecimento>
+    </dataFalecimento>
+    <ufRepresentacaoAtual>SC</ufRepresentacaoAtual>
+    <situacaoNaLegislaturaAtual>Em Exercício</situacaoNaLegislaturaAtual>
+    <ideCadastro>160571</ideCadastro>
+    <idParlamentarDeprecated>10150</idParlamentarDeprecated>
+    <nomeParlamentarAtual>JOÃO RODRIGUES</nomeParlamentarAtual>
+    <nomeCivil>JOÃO RODRIGUES</nomeCivil>
+    <sexo>M</sexo>
+    <partidoAtual>
+      <idPartido>PSD</idPartido>
+      <sigla>PSD</sigla>
+      <nome>Partido Social Democrático</nome>
+    </partidoAtual>
+    <gabinete>
+      <numero>503</numero>
+      <anexo>4</anexo>
+      <telefone>3215-5503</telefone>
+    </gabinete>
+    <comissoes>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>19/11/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2001</idOrgaoLegislativoCD>
+        <siglaComissao>CAPADR</siglaComissao>
+        <nomeComissao>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>29/04/2014</dataEntrada>
+        <dataSaida>19/11/2014</dataSaida>
+      </comissao>
+    </comissoes>
+    <cargosComissoes />
+    <periodosExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>SC</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2011</dataInicio>
+        <dataFim>01/03/2011</dataFim>
+        <idCausaFimExercicio>12</idCausaFimExercicio>
+        <descricaoCausaFimExercicio>Secretário de Estado</descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>SC</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>25/10/2011</dataInicio>
+        <dataFim>27/10/2011</dataFim>
+        <idCausaFimExercicio>12</idCausaFimExercicio>
+        <descricaoCausaFimExercicio>Secretário de Estado</descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>SC</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>27/11/2012</dataInicio>
+        <dataFim>30/11/2012</dataFim>
+        <idCausaFimExercicio>12</idCausaFimExercicio>
+        <descricaoCausaFimExercicio>Secretário de Estado</descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>SC</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>27/11/2013</dataInicio>
+        <dataFim>05/12/2013</dataFim>
+        <idCausaFimExercicio>12</idCausaFimExercicio>
+        <descricaoCausaFimExercicio>Secretário de Estado</descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>SC</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>04/04/2014</dataInicio>
+        <dataFim>
+        </dataFim>
+        <idCausaFimExercicio>
+        </idCausaFimExercicio>
+        <descricaoCausaFimExercicio>
+        </descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+    </periodosExercicio>
+    <historicoNomeParlamentar />
+    <filiacoesPartidarias>
+      <filiacaoPartidaria>
+        <idPartidoAnterior>DEM</idPartidoAnterior>
+        <siglaPartidoAnterior>DEM</siglaPartidoAnterior>
+        <nomePartidoAnterior>Democratas</nomePartidoAnterior>
+        <idPartidoPosterior>PSD</idPartidoPosterior>
+        <siglaPartidoPosterior>PSD</siglaPartidoPosterior>
+        <nomePartidoPosterior>Partido Social Democrático</nomePartidoPosterior>
+        <dataFiliacaoPartidoPosterior>26/10/2011</dataFiliacaoPartidoPosterior>
+      </filiacaoPartidaria>
+    </filiacoesPartidarias>
+    <historicoLider />
+  </Deputado>
+</Deputados>

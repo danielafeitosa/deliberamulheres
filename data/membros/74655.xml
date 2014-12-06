@@ -1,0 +1,2935 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Deputados>
+  <Deputado>
+    <numLegislatura>53</numLegislatura>
+    <email>
+    </email>
+    <nomeProfissao>Médico</nomeProfissao>
+    <dataNascimento>25/08/1958</dataNascimento>
+    <dataFalecimento>
+    </dataFalecimento>
+    <ufRepresentacaoAtual>MG</ufRepresentacaoAtual>
+    <situacaoNaLegislaturaAtual>Em Exercício</situacaoNaLegislaturaAtual>
+    <ideCadastro>74655</ideCadastro>
+    <idParlamentarDeprecated>3157</idParlamentarDeprecated>
+    <nomeParlamentarAtual>EDUARDO BARBOSA</nomeParlamentarAtual>
+    <nomeCivil>EDUARDO LUIZ BARROS BARBOSA</nomeCivil>
+    <sexo>M</sexo>
+    <partidoAtual>
+      <idPartido>PSDB</idPartido>
+      <sigla>PSDB</sigla>
+      <nome>Partido da Social Democracia Brasileira</nome>
+    </partidoAtual>
+    <gabinete>
+      <numero>
+      </numero>
+      <anexo>
+      </anexo>
+      <telefone>
+      </telefone>
+    </gabinete>
+    <comissoes>
+      <comissao>
+        <idOrgaoLegislativoCD>2009</idOrgaoLegislativoCD>
+        <siglaComissao>CE</siglaComissao>
+        <nomeComissao>Comissão de Educação</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>26/02/2003</dataEntrada>
+        <dataSaida>15/02/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2015</idOrgaoLegislativoCD>
+        <siglaComissao>CTASP</siglaComissao>
+        <nomeComissao>Comissão de Trabalho, de Administração e Serviço Público</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>26/02/2003</dataEntrada>
+        <dataSaida>15/02/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>5438</idOrgaoLegislativoCD>
+        <siglaComissao>CLP</siglaComissao>
+        <nomeComissao>Comissão de Legislação Participativa</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>26/02/2003</dataEntrada>
+        <dataSaida>15/02/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>525982</idOrgaoLegislativoCD>
+        <siglaComissao>CEJUVENT</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a acompanhar e estudar propostas de Políticas Públicas para a Juventude.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>06/05/2003</dataEntrada>
+        <dataSaida>23/07/2003</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>525997</idOrgaoLegislativoCD>
+        <siglaComissao>CPIPIRAT</siglaComissao>
+        <nomeComissao>Comissão Parlamentar de Inquérito  com a finalidade de investigar fatos relacionados à pirataria de produtos industrializados e sonegação fiscal.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>30/05/2003</dataEntrada>
+        <dataSaida>09/06/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526051</idOrgaoLegislativoCD>
+        <siglaComissao>PEC30600</siglaComissao>
+        <nomeComissao>Comissão Especial criada para fim do disposto no art. 197 do RICD, para a PEC 306-B, de 2000, que "acrescenta § 3° ao art. 215 da Constituição Federal, instituindo o Plano Nacional de Cultura".</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>14/07/2003</dataEntrada>
+        <dataSaida>31/07/2003</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526067</idOrgaoLegislativoCD>
+        <siglaComissao>CEBACIA</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a efetuar estudo de projetos e ações com vistas à transposição e à integração das bacias hidrográficas para a região do Semi-Árido.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>16/11/2004</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526104</idOrgaoLegislativoCD>
+        <siglaComissao>PL139903</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 1399, de 2003, que "dispõe sobre o Estatuto da Mulher e dá outras providências".</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>09/03/2004</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526089</idOrgaoLegislativoCD>
+        <siglaComissao>PL622205</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 6222, de 2005, que "dá nova redação ao § 2º do art. 46 e ao caput do art. 52 da Lei nº 8.069, de 13 de julho de 1990 - Estatuto da Criança e do Adolescente, sobre adoção internacional".  (PL 1756/03 Apensado)</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>01/04/2004</dataEntrada>
+        <dataSaida>02/06/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526115</idOrgaoLegislativoCD>
+        <siglaComissao>CPIORGAO</siglaComissao>
+        <nomeComissao>Comissão Parlamentar de Inquérito com a finalidade de investigar a atuação de organizações criminosas atuantes no tráfico de órgãos humanos.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>30/03/2004</dataEntrada>
+        <dataSaida>09/11/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2009</idOrgaoLegislativoCD>
+        <siglaComissao>CE</siglaComissao>
+        <nomeComissao>Comissão de Educação</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>23/03/2004</dataEntrada>
+        <dataSaida>01/03/2005</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526099</idOrgaoLegislativoCD>
+        <siglaComissao>PL020391</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 203, de 1991, que "dispõe sobre o acondicionamento, a coleta, o tratamento, o transporte e a destinação final dos resíduos de serviços de saúde".</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>09/08/2005</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>5438</idOrgaoLegislativoCD>
+        <siglaComissao>CLP</siglaComissao>
+        <nomeComissao>Comissão de Legislação Participativa</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>15/12/2004</dataEntrada>
+        <dataSaida>01/03/2005</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2007</idOrgaoLegislativoCD>
+        <siglaComissao>CDHM</siglaComissao>
+        <nomeComissao>Comissão de Direitos Humanos e Minorias</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>02/03/2005</dataEntrada>
+        <dataSaida>28/03/2006</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2015</idOrgaoLegislativoCD>
+        <siglaComissao>CTASP</siglaComissao>
+        <nomeComissao>Comissão de Trabalho, de Administração e Serviço Público</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>02/03/2005</dataEntrada>
+        <dataSaida>28/03/2006</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526243</idOrgaoLegislativoCD>
+        <siglaComissao>PEC00703</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 007-A, de 2003, que "altera o Inciso II do art. 37 da Constituição Federal, permitindo a contratação, pela administração pública, de agentes comunitários de saúde através do processo seletivo público".</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>20/06/2005</dataEntrada>
+        <dataSaida>01/02/2006</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526311</idOrgaoLegislativoCD>
+        <siglaComissao>PL114403</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 1.144, de 2003, da Senhora Maria do Carmo Lara, que "institui a Política Nacional de Saneamento Ambiental, define diretrizes para a prestação dos serviços públicos de água e esgoto, e dá outras providências".</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>28/06/2005</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2015</idOrgaoLegislativoCD>
+        <siglaComissao>CTASP</siglaComissao>
+        <nomeComissao>Comissão de Trabalho, de Administração e Serviço Público</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>29/03/2006</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526404</idOrgaoLegislativoCD>
+        <siglaComissao>CEXAEREO</siglaComissao>
+        <nomeComissao>Comissão Externa destinada a averiguar, "in loco", a questão do controle de tráfego aéreo.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>13/12/2006</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2007</idOrgaoLegislativoCD>
+        <siglaComissao>CDHM</siglaComissao>
+        <nomeComissao>Comissão de Direitos Humanos e Minorias</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>26/02/2003</dataEntrada>
+        <dataSaida>15/02/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2014</idOrgaoLegislativoCD>
+        <siglaComissao>CSSF</siglaComissao>
+        <nomeComissao>Comissão de Seguridade Social e Família</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>26/02/2003</dataEntrada>
+        <dataSaida>15/02/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>525966</idOrgaoLegislativoCD>
+        <siglaComissao>REFPREVI</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a efetuar estudo em relação às matérias em tramitação na Casa, cujo tema abranja a Reforma Previdenciária.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>26/02/2003</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526022</idOrgaoLegislativoCD>
+        <siglaComissao>PEC04003</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a apreciar e proferir parecer à Proposta de Emenda à Constituição nº 40-A, de 2003, que "modifica os arts. 37, 40, 42, 48, 96, 142 e 149 da Constituição Federal, o art. 8º da Emenda Constitucional nº 20, de 15 de dezembro de 1998, e dá outras providências" (Reforma da Previdência).</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>10/06/2003</dataEntrada>
+        <dataSaida>31/12/2003</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>525982</idOrgaoLegislativoCD>
+        <siglaComissao>CEJUVENT</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a acompanhar e estudar propostas de Políticas Públicas para a Juventude.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>23/07/2003</dataEntrada>
+        <dataSaida>25/11/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526046</idOrgaoLegislativoCD>
+        <siglaComissao>PEC43101</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 431-A, de 2001, que "acrescenta parágrafos primeiro e segundo ao artigo 204 da Constituição Federal", destinando 5% dos recursos do orçamento da União Federal, Estados, DF e Municípios para custeio da assistência social.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>22/10/2003</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526069</idOrgaoLegislativoCD>
+        <siglaComissao>PEC05499</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 54-A, de 1999, que "acrescenta artigo ao Ato das Disposições Constitucionais Transitórias" (dispondo que o pessoal em exercício  que não tenha sido admitido por concurso público, estável ou não, passa a integrar quadro temporário em extinção à medida que vagarem os cargos ou empregos respectivos).</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>22/09/2003</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526131</idOrgaoLegislativoCD>
+        <siglaComissao>GTCRIANÇ</siglaComissao>
+        <nomeComissao>Grupo de Trabalho destinado a efetuar estudo em relação aos projetos em tramitação referentes ao Estatuto da Criança e do Adolescente e à redução da maioridade penal e oferecer indicativo à Casa sobre a matéria.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>26/11/2003</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526155</idOrgaoLegislativoCD>
+        <siglaComissao>CEXFISCA</siglaComissao>
+        <nomeComissao>Comissão Externa destinada a acompanhar as investigações do assassinato dos auditores fiscais e do motorista  do Ministério do Trabalho, na região noroeste de Minas Gerais, na cidade de Unaí.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>29/01/2004</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526149</idOrgaoLegislativoCD>
+        <siglaComissao>PEC22704</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 227-A, de 2004, que "altera os artigos 37, 40, 144, 194, 195 e 201 da Constituição Federal, para dispor sobre a Previdência Social, e dá outras providências" ( PEC Paralela - Alterando a Emenda Constitucional nº 41, de 2003 - Reforma da Previdência).</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>10/02/2004</dataEntrada>
+        <dataSaida>22/03/2005</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526162</idOrgaoLegislativoCD>
+        <siglaComissao>PEC43801</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 438-A, de 2001, que "dá nova redação ao art. 243 da Constituição Federal" (estabelecendo a pena de perdimento da gleba onde for constada a exploração de trabalho escravo; revertendo a área ao assentamento dos colonos que já trabalhavam na respectiva gleba).</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>02/03/2004</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2014</idOrgaoLegislativoCD>
+        <siglaComissao>CSSF</siglaComissao>
+        <nomeComissao>Comissão de Seguridade Social e Família</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>23/03/2004</dataEntrada>
+        <dataSaida>01/03/2005</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526117</idOrgaoLegislativoCD>
+        <siglaComissao>PL363800</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao PL nº 3638, de 2000, que "institui o Estatuto do Portador de Necessidades Especiais e dá outras providências".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>19/05/2004</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526089</idOrgaoLegislativoCD>
+        <siglaComissao>PL622205</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 6222, de 2005, que "dá nova redação ao § 2º do art. 46 e ao caput do art. 52 da Lei nº 8.069, de 13 de julho de 1990 - Estatuto da Criança e do Adolescente, sobre adoção internacional".  (PL 1756/03 Apensado)</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>02/06/2004</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526240</idOrgaoLegislativoCD>
+        <siglaComissao>PEC13803</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 138, de 2003, que "dispõe sobre a proteção dos direitos econômicos, sociais e culturais da juventude".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>03/06/2005</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2014</idOrgaoLegislativoCD>
+        <siglaComissao>CSSF</siglaComissao>
+        <nomeComissao>Comissão de Seguridade Social e Família</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>02/03/2005</dataEntrada>
+        <dataSaida>28/03/2006</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526282</idOrgaoLegislativoCD>
+        <siglaComissao>PL453004</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 4.530, de 2004, de autoria da  Comissão Especial destinada a acompanhar e estudar propostas de Políticas Públicas para a Juventude, que "aprova o Plano Nacional de Juventude e dá outras providências".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>01/06/2005</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526307</idOrgaoLegislativoCD>
+        <siglaComissao>PL523405</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 5234, de 2005, do Poder Executivo, que "institui a proteção especial às crianças ou adolescentes ameaçados de morte, cria o Programa Federal de Proteção Especial às Crianças e Adolescentes Ameaçados de Morte, e dá outras providências".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>24/05/2006</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2014</idOrgaoLegislativoCD>
+        <siglaComissao>CSSF</siglaComissao>
+        <nomeComissao>Comissão de Seguridade Social e Família</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>29/03/2006</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2007</idOrgaoLegislativoCD>
+        <siglaComissao>CDHM</siglaComissao>
+        <nomeComissao>Comissão de Direitos Humanos e Minorias</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>14/02/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2015</idOrgaoLegislativoCD>
+        <siglaComissao>CTASP</siglaComissao>
+        <nomeComissao>Comissão de Trabalho, de Administração e Serviço Público</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>14/02/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536456</idOrgaoLegislativoCD>
+        <siglaComissao>SUBSAUDE</siglaComissao>
+        <nomeComissao>Subcomissão Permanente de Saúde</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>28/02/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536458</idOrgaoLegislativoCD>
+        <siglaComissao>SUBPREVI</siglaComissao>
+        <nomeComissao>Subcomissão Permanente de Previdência Social</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>28/02/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536454</idOrgaoLegislativoCD>
+        <siglaComissao>PEC48305</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 483-A, de 2005, do Senado Federal, que "altera o art. 89 do Ato das Disposições Constitucionais Transitórias", incluindo os servidores públicos, civis e militares, custeados pela União até 31 de dezembro de 1991, no quadro em extinção da Administração Federal do ex - Território Federal de Rondônia.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>09/07/2007</dataEntrada>
+        <dataSaida>11/11/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2015</idOrgaoLegislativoCD>
+        <siglaComissao>CTASP</siglaComissao>
+        <nomeComissao>Comissão de Trabalho, de Administração e Serviço Público</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>04/03/2008</dataEntrada>
+        <dataSaida>02/02/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2007</idOrgaoLegislativoCD>
+        <siglaComissao>CDHM</siglaComissao>
+        <nomeComissao>Comissão de Direitos Humanos e Minorias</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>11/03/2008</dataEntrada>
+        <dataSaida>02/02/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536523</idOrgaoLegislativoCD>
+        <siglaComissao>CEANISTI</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a acompanhar, até o dia 30 de novembro de 2008, a aplicação das seguintes Leis de Anistia: Lei nº 8878/1994, que "dispõe sobre a concessão de anistia"; Lei nº 10.790/2003, que "concede anistia a dirigentes ou representantes sindicais e trabalhadores punidos por participação em movimento reivindicatório"; Lei nº 11.282/2006, que "anistia os trabalhadores da Empresa Brasileira de Correios e Telégrafos-ECT punidos em razão da participação em movimento grevista"; e Lei nº 10.559/2002, que "regulamenta o artigo 8º do Ato das Disposições Constitucionais Transitórias e dá outras providências".</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>31/03/2008</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>5438</idOrgaoLegislativoCD>
+        <siglaComissao>CLP</siglaComissao>
+        <nomeComissao>Comissão de Legislação Participativa</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>18/03/2008</dataEntrada>
+        <dataSaida>02/02/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2015</idOrgaoLegislativoCD>
+        <siglaComissao>CTASP</siglaComissao>
+        <nomeComissao>Comissão de Trabalho, de Administração e Serviço Público</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>04/03/2009</dataEntrada>
+        <dataSaida>19/08/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2007</idOrgaoLegislativoCD>
+        <siglaComissao>CDHM</siglaComissao>
+        <nomeComissao>Comissão de Direitos Humanos e Minorias</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>04/03/2009</dataEntrada>
+        <dataSaida>01/02/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2009</idOrgaoLegislativoCD>
+        <siglaComissao>CE</siglaComissao>
+        <nomeComissao>Comissão de Educação</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>04/03/2009</dataEntrada>
+        <dataSaida>01/02/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2015</idOrgaoLegislativoCD>
+        <siglaComissao>CTASP</siglaComissao>
+        <nomeComissao>Comissão de Trabalho, de Administração e Serviço Público</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>03/09/2009</dataEntrada>
+        <dataSaida>01/02/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536697</idOrgaoLegislativoCD>
+        <siglaComissao>CPI-DESA</siglaComissao>
+        <nomeComissao>Comissão Parlamentar de Inquérito  destinada a investigar as causas, conseqüências e responsáveis pelos desaparecimentos de crianças e adolescentes no Brasil no período de 2005 a 2007.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>03/09/2009</dataEntrada>
+        <dataSaida>09/11/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2009</idOrgaoLegislativoCD>
+        <siglaComissao>CE</siglaComissao>
+        <nomeComissao>Comissão de Educação</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>03/03/2010</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536855</idOrgaoLegislativoCD>
+        <siglaComissao>CMO-10</siglaComissao>
+        <nomeComissao>Comissão Mista de Planos, Orçamentos Públicos e Fiscalização - CMO</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>26/03/2010</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2014</idOrgaoLegislativoCD>
+        <siglaComissao>CSSF</siglaComissao>
+        <nomeComissao>Comissão de Seguridade Social e Família</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>14/02/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536457</idOrgaoLegislativoCD>
+        <siglaComissao>SUBASFAM</siglaComissao>
+        <nomeComissao>Subcomissão Permanente de Assistência Social e Família.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>28/02/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536460</idOrgaoLegislativoCD>
+        <siglaComissao>SUBIDOSO</siglaComissao>
+        <nomeComissao>Subcomissão especial do idoso.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>28/03/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536461</idOrgaoLegislativoCD>
+        <siglaComissao>SUBCONSO</siglaComissao>
+        <nomeComissao>Subcomissão especial de controle social e participação popular no âmbito das políticas da seguridade social.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>07/03/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536344</idOrgaoLegislativoCD>
+        <siglaComissao>PL626405</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 6.264, de 2005, do Senado Federal, que "institui o Estatuto da Igualdade Racial".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>10/03/2008</dataEntrada>
+        <dataSaida>20/05/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2014</idOrgaoLegislativoCD>
+        <siglaComissao>CSSF</siglaComissao>
+        <nomeComissao>Comissão de Seguridade Social e Família</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>04/03/2008</dataEntrada>
+        <dataSaida>02/02/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536521</idOrgaoLegislativoCD>
+        <siglaComissao>PL162707</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 1.627, de 2007, do Poder Executivo, que "dispõe sobre os sistemas de atendimento socioeducativo, regulamenta a execução das medidas destinadas ao adolescente, em razão de ato infracional, altera dispositivos da Lei no 8.069, de 13 de julho de 1990, que dispõe sobre o Estatuto da Criança e do Adolescente, e dá outras providências".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>25/06/2008</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2014</idOrgaoLegislativoCD>
+        <siglaComissao>CSSF</siglaComissao>
+        <nomeComissao>Comissão de Seguridade Social e Família</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>04/03/2009</dataEntrada>
+        <dataSaida>01/02/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536697</idOrgaoLegislativoCD>
+        <siglaComissao>CPI-DESA</siglaComissao>
+        <nomeComissao>Comissão Parlamentar de Inquérito  destinada a investigar as causas, conseqüências e responsáveis pelos desaparecimentos de crianças e adolescentes no Brasil no período de 2005 a 2007.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>18/08/2009</dataEntrada>
+        <dataSaida>20/08/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536796</idOrgaoLegislativoCD>
+        <siglaComissao>PEC34709</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição 347-A, de 2009,  da Sra. Rita Camata, que "altera a redação do inciso III do art. 208 da Constituição Federal" (garante acesso à educação especializada para portadores de deficiência sem imposição de limite de faixa etária e nível de instrução, preferencialmente na rede regular de ensino)</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>05/11/2009</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2014</idOrgaoLegislativoCD>
+        <siglaComissao>CSSF</siglaComissao>
+        <nomeComissao>Comissão de Seguridade Social e Família</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>03/03/2010</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2009</idOrgaoLegislativoCD>
+        <siglaComissao>CE</siglaComissao>
+        <nomeComissao>Comissão de Educação</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>01/03/2011</dataEntrada>
+        <dataSaida>31/01/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6914</idOrgaoLegislativoCD>
+        <siglaComissao>CEDROGA</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a promover estudos e proposições de políticas públicas e de Projetos de Lei destinados a combater e prevenir os efeitos do Crack e de outras drogas ilícitas.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>29/03/2011</dataEntrada>
+        <dataSaida>07/12/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2009</idOrgaoLegislativoCD>
+        <siglaComissao>CE</siglaComissao>
+        <nomeComissao>Comissão de Educação</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>07/03/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9123</idOrgaoLegislativoCD>
+        <siglaComissao>PL766310</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 7663, de 2010, do Sr. Osmar Terra, que "acrescenta e altera dispositivos à Lei nº 11.343, de 23 de agosto de 2006, para tratar do Sistema Nacional de Políticas sobre Drogas , dispor sobre a obrigatoriedade da classificação das drogas, introduzir circunstâncias qualificadoras dos crimes previstos nos arts. 33 a 37, definir as condições de atenção aos usuários  ou dependentes de drogas e dá outras providências"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>08/05/2012</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536923</idOrgaoLegislativoCD>
+        <siglaComissao>SUBSANCA</siglaComissao>
+        <nomeComissao>Subcomissão Especial destinada a analisar e diagnosticar a situação em que se encontram as Santas Casas, Hospitais e Entidades Filantrópicas na Área da Saúde.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>16/05/2012</dataEntrada>
+        <dataSaida>27/03/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2009</idOrgaoLegislativoCD>
+        <siglaComissao>CE</siglaComissao>
+        <nomeComissao>Comissão de Educação</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>05/03/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536996</idOrgaoLegislativoCD>
+        <siglaComissao>CCULT</siglaComissao>
+        <nomeComissao>Comissão de Cultura</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>21/03/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537228</idOrgaoLegislativoCD>
+        <siglaComissao>PL699813</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 6998, de 2013, do Sr. Osmar Terra e outros, que "altera o art. 1º e insere dispositivos sobre a Primeira Infância na Lei nº 8.069, de 1990, que dispõe sobre o Estatuto da Criança e do Adolescente e dá outras providências"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>13/03/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2014</idOrgaoLegislativoCD>
+        <siglaComissao>CSSF</siglaComissao>
+        <nomeComissao>Comissão de Seguridade Social e Família</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>25/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537139</idOrgaoLegislativoCD>
+        <siglaComissao>PEC32509</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a apreciar e  proferir parecer à Proposta de Emenda à Constituição nº 325-A, de 2009, do Sr. Valtenir Pereira e outros, que "acrescenta Seção ao Capítulo IV do Título IV da Constituição Federal, dispondo sobre a perícia oficial de natureza criminal", e apensada</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>08/05/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2014</idOrgaoLegislativoCD>
+        <siglaComissao>CSSF</siglaComissao>
+        <nomeComissao>Comissão de Seguridade Social e Família</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>01/03/2011</dataEntrada>
+        <dataSaida>31/01/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6914</idOrgaoLegislativoCD>
+        <siglaComissao>CEDROGA</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a promover estudos e proposições de políticas públicas e de Projetos de Lei destinados a combater e prevenir os efeitos do Crack e de outras drogas ilícitas.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>28/03/2011</dataEntrada>
+        <dataSaida>29/03/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6940</idOrgaoLegislativoCD>
+        <siglaComissao>PL803510</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 8035, de 2010, do Poder Executivo, que "aprova o Plano Nacional de Educação para o decênio 2011-2020 e dá outras providências"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>07/04/2011</dataEntrada>
+        <dataSaida>26/06/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>7006</idOrgaoLegislativoCD>
+        <siglaComissao>SUBSAUCO</siglaComissao>
+        <nomeComissao>Subcomissão especial destinada a avaliar o Sistema de Saúde Complementar.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>27/04/2011</dataEntrada>
+        <dataSaida>13/06/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>8526</idOrgaoLegislativoCD>
+        <siglaComissao>PL742006</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 7420, de 2006, da Sra. Professora Raquel Teixeira, que "dispõe sobre a qualidade da educação básica e a responsabilidade dos gestores públicos na sua promoção"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>13/10/2011</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>8905</idOrgaoLegislativoCD>
+        <siglaComissao>PL767210</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 7672, de 2010, do Poder Executivo, que "altera a Lei nº 8.069, de 13 de julho de 1990, que dispõe sobre o Estatuto da Criança e do Adolescente, para estabelecer o direito da criança e do adolescente de serem educados e cuidados sem o uso de castigos corporais ou de tratamento cruel ou degradante"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>30/08/2011</dataEntrada>
+        <dataSaida>26/06/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2014</idOrgaoLegislativoCD>
+        <siglaComissao>CSSF</siglaComissao>
+        <nomeComissao>Comissão de Seguridade Social e Família</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>07/03/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536935</idOrgaoLegislativoCD>
+        <siglaComissao>SUBFORCD</siglaComissao>
+        <nomeComissao>Subcomissão Permanente de Formação e Carreira Docente.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>09/05/2012</dataEntrada>
+        <dataSaida>04/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536934</idOrgaoLegislativoCD>
+        <siglaComissao>SUBFINED</siglaComissao>
+        <nomeComissao>Subcomissão Permanente de Financiamento da Educação.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>30/05/2012</dataEntrada>
+        <dataSaida>04/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9088</idOrgaoLegislativoCD>
+        <siglaComissao>PEC03299</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 32-A, de 1999, do Sr. Pompeo de Mattos, que "determina a concessão de bolsas de estudos e crédito educativo para o ensino médio e superior aos estudantes carentes em instituições privadas, acrescentando inciso VIII ao art. 208 da Constituição Federal"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>06/11/2012</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9100</idOrgaoLegislativoCD>
+        <siglaComissao>CESAUDE</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a discutir o Financiamento da Saúde Pública.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>26/03/2013</dataEntrada>
+        <dataSaida>12/11/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2014</idOrgaoLegislativoCD>
+        <siglaComissao>CSSF</siglaComissao>
+        <nomeComissao>Comissão de Seguridade Social e Família</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>05/03/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537030</idOrgaoLegislativoCD>
+        <siglaComissao>SUBDOPOB</siglaComissao>
+        <nomeComissao>Subcomissão Especial destinada a analisar e diagnostinar a situação em que se encontram as políticas de governo relacionadas às doenças determinadas pela pobreza.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>02/04/2013</dataEntrada>
+        <dataSaida>15/05/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537084</idOrgaoLegislativoCD>
+        <siglaComissao>SUBINEDU</siglaComissao>
+        <nomeComissao>Subcomissão Permanente de Indicadores e Qualidade da Educação</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>17/04/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537103</idOrgaoLegislativoCD>
+        <siglaComissao>CMCLF</siglaComissao>
+        <nomeComissao>Comissão Mista destinada a consolidar a legislação federal e a regulamentar dispositivos da Constituição Federal.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>21/05/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537105</idOrgaoLegislativoCD>
+        <siglaComissao>PEC09011</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 90-A, de 2011, da Sra Luiza Erundina, que "dá nova redação ao art. 6º da Constituição Federal, para introduzir o transporte como direito social"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>28/08/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537120</idOrgaoLegislativoCD>
+        <siglaComissao>SUBCUDHM</siglaComissao>
+        <nomeComissao>Subcomissão Especial para tratar dos assuntos afetos à Cultura, Direitos Humanos e Minorias.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>08/08/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2018</idOrgaoLegislativoCD>
+        <siglaComissao>CREDN</siglaComissao>
+        <nomeComissao>Comissão de Relações Exteriores e de Defesa Nacional</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>25/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537226</idOrgaoLegislativoCD>
+        <siglaComissao>CMPCCAI</siglaComissao>
+        <nomeComissao>Comissão Mista de Controle das Atividades de Inteligência (CCAI).</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>19/03/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537280</idOrgaoLegislativoCD>
+        <siglaComissao>SUBDIDEF</siglaComissao>
+        <nomeComissao>Subcomissão Especial para Monitoramento do Plano Nacional dos Direitos das Pessoas com Deficiência " Viver sem Limites".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>06/05/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+    </comissoes>
+    <cargosComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>2014</idOrgaoLegislativoCD>
+        <siglaComissao>CSSF</siglaComissao>
+        <nomeComissao>Comissão de Seguridade Social e Família</nomeComissao>
+        <idCargo>2</idCargo>
+        <nomeCargo>1º Vice-Presidente</nomeCargo>
+        <dataEntrada>23/03/2004</dataEntrada>
+        <dataSaida>01/03/2005</dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>526069</idOrgaoLegislativoCD>
+        <siglaComissao>PEC05499</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 54-A, de 1999, que "acrescenta artigo ao Ato das Disposições Constitucionais Transitórias" (dispondo que o pessoal em exercício  que não tenha sido admitido por concurso público, estável ou não, passa a integrar quadro temporário em extinção à medida que vagarem os cargos ou empregos respectivos).</nomeComissao>
+        <idCargo>4</idCargo>
+        <nomeCargo>3º Vice-Presidente</nomeCargo>
+        <dataEntrada>08/10/2003</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>526307</idOrgaoLegislativoCD>
+        <siglaComissao>PL523405</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 5234, de 2005, do Poder Executivo, que "institui a proteção especial às crianças ou adolescentes ameaçados de morte, cria o Programa Federal de Proteção Especial às Crianças e Adolescentes Ameaçados de Morte, e dá outras providências".</nomeComissao>
+        <idCargo>2</idCargo>
+        <nomeCargo>1º Vice-Presidente</nomeCargo>
+        <dataEntrada>31/05/2006</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>2014</idOrgaoLegislativoCD>
+        <siglaComissao>CSSF</siglaComissao>
+        <nomeComissao>Comissão de Seguridade Social e Família</nomeComissao>
+        <idCargo>3</idCargo>
+        <nomeCargo>2º Vice-Presidente</nomeCargo>
+        <dataEntrada>11/03/2009</dataEntrada>
+        <dataSaida>03/03/2010</dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>536344</idOrgaoLegislativoCD>
+        <siglaComissao>PL626405</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 6.264, de 2005, do Senado Federal, que "institui o Estatuto da Igualdade Racial".</nomeComissao>
+        <idCargo>3</idCargo>
+        <nomeCargo>2º Vice-Presidente</nomeCargo>
+        <dataEntrada>14/05/2008</dataEntrada>
+        <dataSaida>20/05/2009</dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>536521</idOrgaoLegislativoCD>
+        <siglaComissao>PL162707</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 1.627, de 2007, do Poder Executivo, que "dispõe sobre os sistemas de atendimento socioeducativo, regulamenta a execução das medidas destinadas ao adolescente, em razão de ato infracional, altera dispositivos da Lei no 8.069, de 13 de julho de 1990, que dispõe sobre o Estatuto da Criança e do Adolescente, e dá outras providências".</nomeComissao>
+        <idCargo>2</idCargo>
+        <nomeCargo>1º Vice-Presidente</nomeCargo>
+        <dataEntrada>02/07/2008</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>536796</idOrgaoLegislativoCD>
+        <siglaComissao>PEC34709</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição 347-A, de 2009,  da Sra. Rita Camata, que "altera a redação do inciso III do art. 208 da Constituição Federal" (garante acesso à educação especializada para portadores de deficiência sem imposição de limite de faixa etária e nível de instrução, preferencialmente na rede regular de ensino)</nomeComissao>
+        <idCargo>2</idCargo>
+        <nomeCargo>1º Vice-Presidente</nomeCargo>
+        <dataEntrada>11/11/2009</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>537280</idOrgaoLegislativoCD>
+        <siglaComissao>SUBDIDEF</siglaComissao>
+        <nomeComissao>Subcomissão Especial para Monitoramento do Plano Nacional dos Direitos das Pessoas com Deficiência " Viver sem Limites".</nomeComissao>
+        <idCargo>50</idCargo>
+        <nomeCargo>Relator</nomeCargo>
+        <dataEntrada>06/05/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>537030</idOrgaoLegislativoCD>
+        <siglaComissao>SUBDOPOB</siglaComissao>
+        <nomeComissao>Subcomissão Especial destinada a analisar e diagnostinar a situação em que se encontram as políticas de governo relacionadas às doenças determinadas pela pobreza.</nomeComissao>
+        <idCargo>2</idCargo>
+        <nomeCargo>1º Vice-Presidente</nomeCargo>
+        <dataEntrada>08/05/2013</dataEntrada>
+        <dataSaida>15/05/2014</dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>2018</idOrgaoLegislativoCD>
+        <siglaComissao>CREDN</siglaComissao>
+        <nomeComissao>Comissão de Relações Exteriores e de Defesa Nacional</nomeComissao>
+        <idCargo>1</idCargo>
+        <nomeCargo>Presidente</nomeCargo>
+        <dataEntrada>26/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>8905</idOrgaoLegislativoCD>
+        <siglaComissao>PL767210</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 7672, de 2010, do Poder Executivo, que "altera a Lei nº 8.069, de 13 de julho de 1990, que dispõe sobre o Estatuto da Criança e do Adolescente, para estabelecer o direito da criança e do adolescente de serem educados e cuidados sem o uso de castigos corporais ou de tratamento cruel ou degradante"</nomeComissao>
+        <idCargo>3</idCargo>
+        <nomeCargo>2º Vice-Presidente</nomeCargo>
+        <dataEntrada>30/08/2011</dataEntrada>
+        <dataSaida>26/06/2014</dataSaida>
+      </cargoComissoes>
+    </cargosComissoes>
+    <periodosExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>MG</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2003</dataInicio>
+        <dataFim>31/01/2007</dataFim>
+        <idCausaFimExercicio>99</idCausaFimExercicio>
+        <descricaoCausaFimExercicio>Término da Legislatura</descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>MG</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2007</dataInicio>
+        <dataFim>31/01/2011</dataFim>
+        <idCausaFimExercicio>99</idCausaFimExercicio>
+        <descricaoCausaFimExercicio>Término da Legislatura</descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>MG</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2011</dataInicio>
+        <dataFim>
+        </dataFim>
+        <idCausaFimExercicio>
+        </idCausaFimExercicio>
+        <descricaoCausaFimExercicio>
+        </descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+    </periodosExercicio>
+    <historicoNomeParlamentar />
+    <filiacoesPartidarias />
+    <historicoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>74655</idHistoricoLider>
+        <idCargoLideranca>V</idCargoLideranca>
+        <descricaoCargoLideranca>Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>25</numOrdemCargo>
+        <dataDesignacao>03/03/2005</dataDesignacao>
+        <dataTermino>31/01/2007</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSDB</siglaUnidadeLideranca>
+        <idBlocoPartido>PSDB</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>74655</idHistoricoLider>
+        <idCargoLideranca>V</idCargoLideranca>
+        <descricaoCargoLideranca>Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>2</numOrdemCargo>
+        <dataDesignacao>08/07/2009</dataDesignacao>
+        <dataTermino>31/01/2011</dataTermino>
+        <codigoUnidadeLideranca>I</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>Minoria no Congresso Nacional</siglaUnidadeLideranca>
+        <idBlocoPartido>I</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>74655</idHistoricoLider>
+        <idCargoLideranca>V</idCargoLideranca>
+        <descricaoCargoLideranca>Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>10</numOrdemCargo>
+        <dataDesignacao>22/02/2013</dataDesignacao>
+        <dataTermino>04/02/2014</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSDB</siglaUnidadeLideranca>
+        <idBlocoPartido>PSDB</idBlocoPartido>
+      </itemHistoricoLider>
+    </historicoLider>
+  </Deputado>
+  <Deputado>
+    <numLegislatura>52</numLegislatura>
+    <email>dep.eduardobarbosa@camara.gov.br</email>
+    <nomeProfissao>Médico</nomeProfissao>
+    <dataNascimento>25/08/1958</dataNascimento>
+    <dataFalecimento>
+    </dataFalecimento>
+    <ufRepresentacaoAtual>MG</ufRepresentacaoAtual>
+    <situacaoNaLegislaturaAtual>Em Exercício</situacaoNaLegislaturaAtual>
+    <ideCadastro>74655</ideCadastro>
+    <idParlamentarDeprecated>3157</idParlamentarDeprecated>
+    <nomeParlamentarAtual>EDUARDO BARBOSA</nomeParlamentarAtual>
+    <nomeCivil>EDUARDO LUIZ BARROS BARBOSA</nomeCivil>
+    <sexo>M</sexo>
+    <partidoAtual>
+      <idPartido>PSDB</idPartido>
+      <sigla>PSDB</sigla>
+      <nome>Partido da Social Democracia Brasileira</nome>
+    </partidoAtual>
+    <gabinete>
+      <numero>
+      </numero>
+      <anexo>
+      </anexo>
+      <telefone>
+      </telefone>
+    </gabinete>
+    <comissoes>
+      <comissao>
+        <idOrgaoLegislativoCD>2009</idOrgaoLegislativoCD>
+        <siglaComissao>CE</siglaComissao>
+        <nomeComissao>Comissão de Educação</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>26/02/2003</dataEntrada>
+        <dataSaida>15/02/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2015</idOrgaoLegislativoCD>
+        <siglaComissao>CTASP</siglaComissao>
+        <nomeComissao>Comissão de Trabalho, de Administração e Serviço Público</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>26/02/2003</dataEntrada>
+        <dataSaida>15/02/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>5438</idOrgaoLegislativoCD>
+        <siglaComissao>CLP</siglaComissao>
+        <nomeComissao>Comissão de Legislação Participativa</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>26/02/2003</dataEntrada>
+        <dataSaida>15/02/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>525982</idOrgaoLegislativoCD>
+        <siglaComissao>CEJUVENT</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a acompanhar e estudar propostas de Políticas Públicas para a Juventude.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>06/05/2003</dataEntrada>
+        <dataSaida>23/07/2003</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>525997</idOrgaoLegislativoCD>
+        <siglaComissao>CPIPIRAT</siglaComissao>
+        <nomeComissao>Comissão Parlamentar de Inquérito  com a finalidade de investigar fatos relacionados à pirataria de produtos industrializados e sonegação fiscal.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>30/05/2003</dataEntrada>
+        <dataSaida>09/06/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526051</idOrgaoLegislativoCD>
+        <siglaComissao>PEC30600</siglaComissao>
+        <nomeComissao>Comissão Especial criada para fim do disposto no art. 197 do RICD, para a PEC 306-B, de 2000, que "acrescenta § 3° ao art. 215 da Constituição Federal, instituindo o Plano Nacional de Cultura".</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>14/07/2003</dataEntrada>
+        <dataSaida>31/07/2003</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526067</idOrgaoLegislativoCD>
+        <siglaComissao>CEBACIA</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a efetuar estudo de projetos e ações com vistas à transposição e à integração das bacias hidrográficas para a região do Semi-Árido.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>16/11/2004</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526104</idOrgaoLegislativoCD>
+        <siglaComissao>PL139903</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 1399, de 2003, que "dispõe sobre o Estatuto da Mulher e dá outras providências".</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>09/03/2004</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526089</idOrgaoLegislativoCD>
+        <siglaComissao>PL622205</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 6222, de 2005, que "dá nova redação ao § 2º do art. 46 e ao caput do art. 52 da Lei nº 8.069, de 13 de julho de 1990 - Estatuto da Criança e do Adolescente, sobre adoção internacional".  (PL 1756/03 Apensado)</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>01/04/2004</dataEntrada>
+        <dataSaida>02/06/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526115</idOrgaoLegislativoCD>
+        <siglaComissao>CPIORGAO</siglaComissao>
+        <nomeComissao>Comissão Parlamentar de Inquérito com a finalidade de investigar a atuação de organizações criminosas atuantes no tráfico de órgãos humanos.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>30/03/2004</dataEntrada>
+        <dataSaida>09/11/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2009</idOrgaoLegislativoCD>
+        <siglaComissao>CE</siglaComissao>
+        <nomeComissao>Comissão de Educação</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>23/03/2004</dataEntrada>
+        <dataSaida>01/03/2005</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526099</idOrgaoLegislativoCD>
+        <siglaComissao>PL020391</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 203, de 1991, que "dispõe sobre o acondicionamento, a coleta, o tratamento, o transporte e a destinação final dos resíduos de serviços de saúde".</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>09/08/2005</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>5438</idOrgaoLegislativoCD>
+        <siglaComissao>CLP</siglaComissao>
+        <nomeComissao>Comissão de Legislação Participativa</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>15/12/2004</dataEntrada>
+        <dataSaida>01/03/2005</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2007</idOrgaoLegislativoCD>
+        <siglaComissao>CDHM</siglaComissao>
+        <nomeComissao>Comissão de Direitos Humanos e Minorias</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>02/03/2005</dataEntrada>
+        <dataSaida>28/03/2006</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2015</idOrgaoLegislativoCD>
+        <siglaComissao>CTASP</siglaComissao>
+        <nomeComissao>Comissão de Trabalho, de Administração e Serviço Público</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>02/03/2005</dataEntrada>
+        <dataSaida>28/03/2006</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526243</idOrgaoLegislativoCD>
+        <siglaComissao>PEC00703</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 007-A, de 2003, que "altera o Inciso II do art. 37 da Constituição Federal, permitindo a contratação, pela administração pública, de agentes comunitários de saúde através do processo seletivo público".</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>20/06/2005</dataEntrada>
+        <dataSaida>01/02/2006</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526311</idOrgaoLegislativoCD>
+        <siglaComissao>PL114403</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 1.144, de 2003, da Senhora Maria do Carmo Lara, que "institui a Política Nacional de Saneamento Ambiental, define diretrizes para a prestação dos serviços públicos de água e esgoto, e dá outras providências".</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>28/06/2005</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2015</idOrgaoLegislativoCD>
+        <siglaComissao>CTASP</siglaComissao>
+        <nomeComissao>Comissão de Trabalho, de Administração e Serviço Público</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>29/03/2006</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526404</idOrgaoLegislativoCD>
+        <siglaComissao>CEXAEREO</siglaComissao>
+        <nomeComissao>Comissão Externa destinada a averiguar, "in loco", a questão do controle de tráfego aéreo.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>13/12/2006</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2007</idOrgaoLegislativoCD>
+        <siglaComissao>CDHM</siglaComissao>
+        <nomeComissao>Comissão de Direitos Humanos e Minorias</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>26/02/2003</dataEntrada>
+        <dataSaida>15/02/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2014</idOrgaoLegislativoCD>
+        <siglaComissao>CSSF</siglaComissao>
+        <nomeComissao>Comissão de Seguridade Social e Família</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>26/02/2003</dataEntrada>
+        <dataSaida>15/02/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>525966</idOrgaoLegislativoCD>
+        <siglaComissao>REFPREVI</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a efetuar estudo em relação às matérias em tramitação na Casa, cujo tema abranja a Reforma Previdenciária.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>26/02/2003</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526022</idOrgaoLegislativoCD>
+        <siglaComissao>PEC04003</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a apreciar e proferir parecer à Proposta de Emenda à Constituição nº 40-A, de 2003, que "modifica os arts. 37, 40, 42, 48, 96, 142 e 149 da Constituição Federal, o art. 8º da Emenda Constitucional nº 20, de 15 de dezembro de 1998, e dá outras providências" (Reforma da Previdência).</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>10/06/2003</dataEntrada>
+        <dataSaida>31/12/2003</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>525982</idOrgaoLegislativoCD>
+        <siglaComissao>CEJUVENT</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a acompanhar e estudar propostas de Políticas Públicas para a Juventude.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>23/07/2003</dataEntrada>
+        <dataSaida>25/11/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526046</idOrgaoLegislativoCD>
+        <siglaComissao>PEC43101</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 431-A, de 2001, que "acrescenta parágrafos primeiro e segundo ao artigo 204 da Constituição Federal", destinando 5% dos recursos do orçamento da União Federal, Estados, DF e Municípios para custeio da assistência social.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>22/10/2003</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526069</idOrgaoLegislativoCD>
+        <siglaComissao>PEC05499</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 54-A, de 1999, que "acrescenta artigo ao Ato das Disposições Constitucionais Transitórias" (dispondo que o pessoal em exercício  que não tenha sido admitido por concurso público, estável ou não, passa a integrar quadro temporário em extinção à medida que vagarem os cargos ou empregos respectivos).</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>22/09/2003</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526131</idOrgaoLegislativoCD>
+        <siglaComissao>GTCRIANÇ</siglaComissao>
+        <nomeComissao>Grupo de Trabalho destinado a efetuar estudo em relação aos projetos em tramitação referentes ao Estatuto da Criança e do Adolescente e à redução da maioridade penal e oferecer indicativo à Casa sobre a matéria.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>26/11/2003</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526155</idOrgaoLegislativoCD>
+        <siglaComissao>CEXFISCA</siglaComissao>
+        <nomeComissao>Comissão Externa destinada a acompanhar as investigações do assassinato dos auditores fiscais e do motorista  do Ministério do Trabalho, na região noroeste de Minas Gerais, na cidade de Unaí.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>29/01/2004</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526149</idOrgaoLegislativoCD>
+        <siglaComissao>PEC22704</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 227-A, de 2004, que "altera os artigos 37, 40, 144, 194, 195 e 201 da Constituição Federal, para dispor sobre a Previdência Social, e dá outras providências" ( PEC Paralela - Alterando a Emenda Constitucional nº 41, de 2003 - Reforma da Previdência).</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>10/02/2004</dataEntrada>
+        <dataSaida>22/03/2005</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526162</idOrgaoLegislativoCD>
+        <siglaComissao>PEC43801</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 438-A, de 2001, que "dá nova redação ao art. 243 da Constituição Federal" (estabelecendo a pena de perdimento da gleba onde for constada a exploração de trabalho escravo; revertendo a área ao assentamento dos colonos que já trabalhavam na respectiva gleba).</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>02/03/2004</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2014</idOrgaoLegislativoCD>
+        <siglaComissao>CSSF</siglaComissao>
+        <nomeComissao>Comissão de Seguridade Social e Família</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>23/03/2004</dataEntrada>
+        <dataSaida>01/03/2005</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526117</idOrgaoLegislativoCD>
+        <siglaComissao>PL363800</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao PL nº 3638, de 2000, que "institui o Estatuto do Portador de Necessidades Especiais e dá outras providências".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>19/05/2004</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526089</idOrgaoLegislativoCD>
+        <siglaComissao>PL622205</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 6222, de 2005, que "dá nova redação ao § 2º do art. 46 e ao caput do art. 52 da Lei nº 8.069, de 13 de julho de 1990 - Estatuto da Criança e do Adolescente, sobre adoção internacional".  (PL 1756/03 Apensado)</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>02/06/2004</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526240</idOrgaoLegislativoCD>
+        <siglaComissao>PEC13803</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 138, de 2003, que "dispõe sobre a proteção dos direitos econômicos, sociais e culturais da juventude".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>03/06/2005</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2014</idOrgaoLegislativoCD>
+        <siglaComissao>CSSF</siglaComissao>
+        <nomeComissao>Comissão de Seguridade Social e Família</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>02/03/2005</dataEntrada>
+        <dataSaida>28/03/2006</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526282</idOrgaoLegislativoCD>
+        <siglaComissao>PL453004</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 4.530, de 2004, de autoria da  Comissão Especial destinada a acompanhar e estudar propostas de Políticas Públicas para a Juventude, que "aprova o Plano Nacional de Juventude e dá outras providências".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>01/06/2005</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526307</idOrgaoLegislativoCD>
+        <siglaComissao>PL523405</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 5234, de 2005, do Poder Executivo, que "institui a proteção especial às crianças ou adolescentes ameaçados de morte, cria o Programa Federal de Proteção Especial às Crianças e Adolescentes Ameaçados de Morte, e dá outras providências".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>24/05/2006</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2014</idOrgaoLegislativoCD>
+        <siglaComissao>CSSF</siglaComissao>
+        <nomeComissao>Comissão de Seguridade Social e Família</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>29/03/2006</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2007</idOrgaoLegislativoCD>
+        <siglaComissao>CDHM</siglaComissao>
+        <nomeComissao>Comissão de Direitos Humanos e Minorias</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>14/02/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2015</idOrgaoLegislativoCD>
+        <siglaComissao>CTASP</siglaComissao>
+        <nomeComissao>Comissão de Trabalho, de Administração e Serviço Público</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>14/02/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536456</idOrgaoLegislativoCD>
+        <siglaComissao>SUBSAUDE</siglaComissao>
+        <nomeComissao>Subcomissão Permanente de Saúde</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>28/02/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536458</idOrgaoLegislativoCD>
+        <siglaComissao>SUBPREVI</siglaComissao>
+        <nomeComissao>Subcomissão Permanente de Previdência Social</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>28/02/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536454</idOrgaoLegislativoCD>
+        <siglaComissao>PEC48305</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 483-A, de 2005, do Senado Federal, que "altera o art. 89 do Ato das Disposições Constitucionais Transitórias", incluindo os servidores públicos, civis e militares, custeados pela União até 31 de dezembro de 1991, no quadro em extinção da Administração Federal do ex - Território Federal de Rondônia.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>09/07/2007</dataEntrada>
+        <dataSaida>11/11/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2015</idOrgaoLegislativoCD>
+        <siglaComissao>CTASP</siglaComissao>
+        <nomeComissao>Comissão de Trabalho, de Administração e Serviço Público</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>04/03/2008</dataEntrada>
+        <dataSaida>02/02/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2007</idOrgaoLegislativoCD>
+        <siglaComissao>CDHM</siglaComissao>
+        <nomeComissao>Comissão de Direitos Humanos e Minorias</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>11/03/2008</dataEntrada>
+        <dataSaida>02/02/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536523</idOrgaoLegislativoCD>
+        <siglaComissao>CEANISTI</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a acompanhar, até o dia 30 de novembro de 2008, a aplicação das seguintes Leis de Anistia: Lei nº 8878/1994, que "dispõe sobre a concessão de anistia"; Lei nº 10.790/2003, que "concede anistia a dirigentes ou representantes sindicais e trabalhadores punidos por participação em movimento reivindicatório"; Lei nº 11.282/2006, que "anistia os trabalhadores da Empresa Brasileira de Correios e Telégrafos-ECT punidos em razão da participação em movimento grevista"; e Lei nº 10.559/2002, que "regulamenta o artigo 8º do Ato das Disposições Constitucionais Transitórias e dá outras providências".</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>31/03/2008</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>5438</idOrgaoLegislativoCD>
+        <siglaComissao>CLP</siglaComissao>
+        <nomeComissao>Comissão de Legislação Participativa</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>18/03/2008</dataEntrada>
+        <dataSaida>02/02/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2015</idOrgaoLegislativoCD>
+        <siglaComissao>CTASP</siglaComissao>
+        <nomeComissao>Comissão de Trabalho, de Administração e Serviço Público</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>04/03/2009</dataEntrada>
+        <dataSaida>19/08/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2007</idOrgaoLegislativoCD>
+        <siglaComissao>CDHM</siglaComissao>
+        <nomeComissao>Comissão de Direitos Humanos e Minorias</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>04/03/2009</dataEntrada>
+        <dataSaida>01/02/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2009</idOrgaoLegislativoCD>
+        <siglaComissao>CE</siglaComissao>
+        <nomeComissao>Comissão de Educação</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>04/03/2009</dataEntrada>
+        <dataSaida>01/02/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2015</idOrgaoLegislativoCD>
+        <siglaComissao>CTASP</siglaComissao>
+        <nomeComissao>Comissão de Trabalho, de Administração e Serviço Público</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>03/09/2009</dataEntrada>
+        <dataSaida>01/02/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536697</idOrgaoLegislativoCD>
+        <siglaComissao>CPI-DESA</siglaComissao>
+        <nomeComissao>Comissão Parlamentar de Inquérito  destinada a investigar as causas, conseqüências e responsáveis pelos desaparecimentos de crianças e adolescentes no Brasil no período de 2005 a 2007.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>03/09/2009</dataEntrada>
+        <dataSaida>09/11/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2009</idOrgaoLegislativoCD>
+        <siglaComissao>CE</siglaComissao>
+        <nomeComissao>Comissão de Educação</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>03/03/2010</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536855</idOrgaoLegislativoCD>
+        <siglaComissao>CMO-10</siglaComissao>
+        <nomeComissao>Comissão Mista de Planos, Orçamentos Públicos e Fiscalização - CMO</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>26/03/2010</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2014</idOrgaoLegislativoCD>
+        <siglaComissao>CSSF</siglaComissao>
+        <nomeComissao>Comissão de Seguridade Social e Família</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>14/02/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536457</idOrgaoLegislativoCD>
+        <siglaComissao>SUBASFAM</siglaComissao>
+        <nomeComissao>Subcomissão Permanente de Assistência Social e Família.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>28/02/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536460</idOrgaoLegislativoCD>
+        <siglaComissao>SUBIDOSO</siglaComissao>
+        <nomeComissao>Subcomissão especial do idoso.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>28/03/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536461</idOrgaoLegislativoCD>
+        <siglaComissao>SUBCONSO</siglaComissao>
+        <nomeComissao>Subcomissão especial de controle social e participação popular no âmbito das políticas da seguridade social.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>07/03/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536344</idOrgaoLegislativoCD>
+        <siglaComissao>PL626405</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 6.264, de 2005, do Senado Federal, que "institui o Estatuto da Igualdade Racial".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>10/03/2008</dataEntrada>
+        <dataSaida>20/05/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2014</idOrgaoLegislativoCD>
+        <siglaComissao>CSSF</siglaComissao>
+        <nomeComissao>Comissão de Seguridade Social e Família</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>04/03/2008</dataEntrada>
+        <dataSaida>02/02/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536521</idOrgaoLegislativoCD>
+        <siglaComissao>PL162707</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 1.627, de 2007, do Poder Executivo, que "dispõe sobre os sistemas de atendimento socioeducativo, regulamenta a execução das medidas destinadas ao adolescente, em razão de ato infracional, altera dispositivos da Lei no 8.069, de 13 de julho de 1990, que dispõe sobre o Estatuto da Criança e do Adolescente, e dá outras providências".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>25/06/2008</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2014</idOrgaoLegislativoCD>
+        <siglaComissao>CSSF</siglaComissao>
+        <nomeComissao>Comissão de Seguridade Social e Família</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>04/03/2009</dataEntrada>
+        <dataSaida>01/02/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536697</idOrgaoLegislativoCD>
+        <siglaComissao>CPI-DESA</siglaComissao>
+        <nomeComissao>Comissão Parlamentar de Inquérito  destinada a investigar as causas, conseqüências e responsáveis pelos desaparecimentos de crianças e adolescentes no Brasil no período de 2005 a 2007.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>18/08/2009</dataEntrada>
+        <dataSaida>20/08/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536796</idOrgaoLegislativoCD>
+        <siglaComissao>PEC34709</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição 347-A, de 2009,  da Sra. Rita Camata, que "altera a redação do inciso III do art. 208 da Constituição Federal" (garante acesso à educação especializada para portadores de deficiência sem imposição de limite de faixa etária e nível de instrução, preferencialmente na rede regular de ensino)</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>05/11/2009</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2014</idOrgaoLegislativoCD>
+        <siglaComissao>CSSF</siglaComissao>
+        <nomeComissao>Comissão de Seguridade Social e Família</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>03/03/2010</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2009</idOrgaoLegislativoCD>
+        <siglaComissao>CE</siglaComissao>
+        <nomeComissao>Comissão de Educação</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>01/03/2011</dataEntrada>
+        <dataSaida>31/01/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6914</idOrgaoLegislativoCD>
+        <siglaComissao>CEDROGA</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a promover estudos e proposições de políticas públicas e de Projetos de Lei destinados a combater e prevenir os efeitos do Crack e de outras drogas ilícitas.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>29/03/2011</dataEntrada>
+        <dataSaida>07/12/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2009</idOrgaoLegislativoCD>
+        <siglaComissao>CE</siglaComissao>
+        <nomeComissao>Comissão de Educação</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>07/03/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9123</idOrgaoLegislativoCD>
+        <siglaComissao>PL766310</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 7663, de 2010, do Sr. Osmar Terra, que "acrescenta e altera dispositivos à Lei nº 11.343, de 23 de agosto de 2006, para tratar do Sistema Nacional de Políticas sobre Drogas , dispor sobre a obrigatoriedade da classificação das drogas, introduzir circunstâncias qualificadoras dos crimes previstos nos arts. 33 a 37, definir as condições de atenção aos usuários  ou dependentes de drogas e dá outras providências"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>08/05/2012</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536923</idOrgaoLegislativoCD>
+        <siglaComissao>SUBSANCA</siglaComissao>
+        <nomeComissao>Subcomissão Especial destinada a analisar e diagnosticar a situação em que se encontram as Santas Casas, Hospitais e Entidades Filantrópicas na Área da Saúde.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>16/05/2012</dataEntrada>
+        <dataSaida>27/03/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2009</idOrgaoLegislativoCD>
+        <siglaComissao>CE</siglaComissao>
+        <nomeComissao>Comissão de Educação</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>05/03/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536996</idOrgaoLegislativoCD>
+        <siglaComissao>CCULT</siglaComissao>
+        <nomeComissao>Comissão de Cultura</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>21/03/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537228</idOrgaoLegislativoCD>
+        <siglaComissao>PL699813</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 6998, de 2013, do Sr. Osmar Terra e outros, que "altera o art. 1º e insere dispositivos sobre a Primeira Infância na Lei nº 8.069, de 1990, que dispõe sobre o Estatuto da Criança e do Adolescente e dá outras providências"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>13/03/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2014</idOrgaoLegislativoCD>
+        <siglaComissao>CSSF</siglaComissao>
+        <nomeComissao>Comissão de Seguridade Social e Família</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>25/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537139</idOrgaoLegislativoCD>
+        <siglaComissao>PEC32509</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a apreciar e  proferir parecer à Proposta de Emenda à Constituição nº 325-A, de 2009, do Sr. Valtenir Pereira e outros, que "acrescenta Seção ao Capítulo IV do Título IV da Constituição Federal, dispondo sobre a perícia oficial de natureza criminal", e apensada</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>08/05/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2014</idOrgaoLegislativoCD>
+        <siglaComissao>CSSF</siglaComissao>
+        <nomeComissao>Comissão de Seguridade Social e Família</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>01/03/2011</dataEntrada>
+        <dataSaida>31/01/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6914</idOrgaoLegislativoCD>
+        <siglaComissao>CEDROGA</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a promover estudos e proposições de políticas públicas e de Projetos de Lei destinados a combater e prevenir os efeitos do Crack e de outras drogas ilícitas.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>28/03/2011</dataEntrada>
+        <dataSaida>29/03/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6940</idOrgaoLegislativoCD>
+        <siglaComissao>PL803510</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 8035, de 2010, do Poder Executivo, que "aprova o Plano Nacional de Educação para o decênio 2011-2020 e dá outras providências"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>07/04/2011</dataEntrada>
+        <dataSaida>26/06/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>7006</idOrgaoLegislativoCD>
+        <siglaComissao>SUBSAUCO</siglaComissao>
+        <nomeComissao>Subcomissão especial destinada a avaliar o Sistema de Saúde Complementar.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>27/04/2011</dataEntrada>
+        <dataSaida>13/06/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>8526</idOrgaoLegislativoCD>
+        <siglaComissao>PL742006</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 7420, de 2006, da Sra. Professora Raquel Teixeira, que "dispõe sobre a qualidade da educação básica e a responsabilidade dos gestores públicos na sua promoção"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>13/10/2011</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>8905</idOrgaoLegislativoCD>
+        <siglaComissao>PL767210</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 7672, de 2010, do Poder Executivo, que "altera a Lei nº 8.069, de 13 de julho de 1990, que dispõe sobre o Estatuto da Criança e do Adolescente, para estabelecer o direito da criança e do adolescente de serem educados e cuidados sem o uso de castigos corporais ou de tratamento cruel ou degradante"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>30/08/2011</dataEntrada>
+        <dataSaida>26/06/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2014</idOrgaoLegislativoCD>
+        <siglaComissao>CSSF</siglaComissao>
+        <nomeComissao>Comissão de Seguridade Social e Família</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>07/03/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536935</idOrgaoLegislativoCD>
+        <siglaComissao>SUBFORCD</siglaComissao>
+        <nomeComissao>Subcomissão Permanente de Formação e Carreira Docente.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>09/05/2012</dataEntrada>
+        <dataSaida>04/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536934</idOrgaoLegislativoCD>
+        <siglaComissao>SUBFINED</siglaComissao>
+        <nomeComissao>Subcomissão Permanente de Financiamento da Educação.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>30/05/2012</dataEntrada>
+        <dataSaida>04/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9088</idOrgaoLegislativoCD>
+        <siglaComissao>PEC03299</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 32-A, de 1999, do Sr. Pompeo de Mattos, que "determina a concessão de bolsas de estudos e crédito educativo para o ensino médio e superior aos estudantes carentes em instituições privadas, acrescentando inciso VIII ao art. 208 da Constituição Federal"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>06/11/2012</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9100</idOrgaoLegislativoCD>
+        <siglaComissao>CESAUDE</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a discutir o Financiamento da Saúde Pública.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>26/03/2013</dataEntrada>
+        <dataSaida>12/11/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2014</idOrgaoLegislativoCD>
+        <siglaComissao>CSSF</siglaComissao>
+        <nomeComissao>Comissão de Seguridade Social e Família</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>05/03/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537030</idOrgaoLegislativoCD>
+        <siglaComissao>SUBDOPOB</siglaComissao>
+        <nomeComissao>Subcomissão Especial destinada a analisar e diagnostinar a situação em que se encontram as políticas de governo relacionadas às doenças determinadas pela pobreza.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>02/04/2013</dataEntrada>
+        <dataSaida>15/05/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537084</idOrgaoLegislativoCD>
+        <siglaComissao>SUBINEDU</siglaComissao>
+        <nomeComissao>Subcomissão Permanente de Indicadores e Qualidade da Educação</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>17/04/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537103</idOrgaoLegislativoCD>
+        <siglaComissao>CMCLF</siglaComissao>
+        <nomeComissao>Comissão Mista destinada a consolidar a legislação federal e a regulamentar dispositivos da Constituição Federal.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>21/05/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537105</idOrgaoLegislativoCD>
+        <siglaComissao>PEC09011</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 90-A, de 2011, da Sra Luiza Erundina, que "dá nova redação ao art. 6º da Constituição Federal, para introduzir o transporte como direito social"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>28/08/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537120</idOrgaoLegislativoCD>
+        <siglaComissao>SUBCUDHM</siglaComissao>
+        <nomeComissao>Subcomissão Especial para tratar dos assuntos afetos à Cultura, Direitos Humanos e Minorias.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>08/08/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2018</idOrgaoLegislativoCD>
+        <siglaComissao>CREDN</siglaComissao>
+        <nomeComissao>Comissão de Relações Exteriores e de Defesa Nacional</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>25/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537226</idOrgaoLegislativoCD>
+        <siglaComissao>CMPCCAI</siglaComissao>
+        <nomeComissao>Comissão Mista de Controle das Atividades de Inteligência (CCAI).</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>19/03/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537280</idOrgaoLegislativoCD>
+        <siglaComissao>SUBDIDEF</siglaComissao>
+        <nomeComissao>Subcomissão Especial para Monitoramento do Plano Nacional dos Direitos das Pessoas com Deficiência " Viver sem Limites".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>06/05/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+    </comissoes>
+    <cargosComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>2014</idOrgaoLegislativoCD>
+        <siglaComissao>CSSF</siglaComissao>
+        <nomeComissao>Comissão de Seguridade Social e Família</nomeComissao>
+        <idCargo>2</idCargo>
+        <nomeCargo>1º Vice-Presidente</nomeCargo>
+        <dataEntrada>23/03/2004</dataEntrada>
+        <dataSaida>01/03/2005</dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>526069</idOrgaoLegislativoCD>
+        <siglaComissao>PEC05499</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 54-A, de 1999, que "acrescenta artigo ao Ato das Disposições Constitucionais Transitórias" (dispondo que o pessoal em exercício  que não tenha sido admitido por concurso público, estável ou não, passa a integrar quadro temporário em extinção à medida que vagarem os cargos ou empregos respectivos).</nomeComissao>
+        <idCargo>4</idCargo>
+        <nomeCargo>3º Vice-Presidente</nomeCargo>
+        <dataEntrada>08/10/2003</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>526307</idOrgaoLegislativoCD>
+        <siglaComissao>PL523405</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 5234, de 2005, do Poder Executivo, que "institui a proteção especial às crianças ou adolescentes ameaçados de morte, cria o Programa Federal de Proteção Especial às Crianças e Adolescentes Ameaçados de Morte, e dá outras providências".</nomeComissao>
+        <idCargo>2</idCargo>
+        <nomeCargo>1º Vice-Presidente</nomeCargo>
+        <dataEntrada>31/05/2006</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>2014</idOrgaoLegislativoCD>
+        <siglaComissao>CSSF</siglaComissao>
+        <nomeComissao>Comissão de Seguridade Social e Família</nomeComissao>
+        <idCargo>3</idCargo>
+        <nomeCargo>2º Vice-Presidente</nomeCargo>
+        <dataEntrada>11/03/2009</dataEntrada>
+        <dataSaida>03/03/2010</dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>536344</idOrgaoLegislativoCD>
+        <siglaComissao>PL626405</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 6.264, de 2005, do Senado Federal, que "institui o Estatuto da Igualdade Racial".</nomeComissao>
+        <idCargo>3</idCargo>
+        <nomeCargo>2º Vice-Presidente</nomeCargo>
+        <dataEntrada>14/05/2008</dataEntrada>
+        <dataSaida>20/05/2009</dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>536521</idOrgaoLegislativoCD>
+        <siglaComissao>PL162707</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 1.627, de 2007, do Poder Executivo, que "dispõe sobre os sistemas de atendimento socioeducativo, regulamenta a execução das medidas destinadas ao adolescente, em razão de ato infracional, altera dispositivos da Lei no 8.069, de 13 de julho de 1990, que dispõe sobre o Estatuto da Criança e do Adolescente, e dá outras providências".</nomeComissao>
+        <idCargo>2</idCargo>
+        <nomeCargo>1º Vice-Presidente</nomeCargo>
+        <dataEntrada>02/07/2008</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>536796</idOrgaoLegislativoCD>
+        <siglaComissao>PEC34709</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição 347-A, de 2009,  da Sra. Rita Camata, que "altera a redação do inciso III do art. 208 da Constituição Federal" (garante acesso à educação especializada para portadores de deficiência sem imposição de limite de faixa etária e nível de instrução, preferencialmente na rede regular de ensino)</nomeComissao>
+        <idCargo>2</idCargo>
+        <nomeCargo>1º Vice-Presidente</nomeCargo>
+        <dataEntrada>11/11/2009</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>537280</idOrgaoLegislativoCD>
+        <siglaComissao>SUBDIDEF</siglaComissao>
+        <nomeComissao>Subcomissão Especial para Monitoramento do Plano Nacional dos Direitos das Pessoas com Deficiência " Viver sem Limites".</nomeComissao>
+        <idCargo>50</idCargo>
+        <nomeCargo>Relator</nomeCargo>
+        <dataEntrada>06/05/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>537030</idOrgaoLegislativoCD>
+        <siglaComissao>SUBDOPOB</siglaComissao>
+        <nomeComissao>Subcomissão Especial destinada a analisar e diagnostinar a situação em que se encontram as políticas de governo relacionadas às doenças determinadas pela pobreza.</nomeComissao>
+        <idCargo>2</idCargo>
+        <nomeCargo>1º Vice-Presidente</nomeCargo>
+        <dataEntrada>08/05/2013</dataEntrada>
+        <dataSaida>15/05/2014</dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>2018</idOrgaoLegislativoCD>
+        <siglaComissao>CREDN</siglaComissao>
+        <nomeComissao>Comissão de Relações Exteriores e de Defesa Nacional</nomeComissao>
+        <idCargo>1</idCargo>
+        <nomeCargo>Presidente</nomeCargo>
+        <dataEntrada>26/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>8905</idOrgaoLegislativoCD>
+        <siglaComissao>PL767210</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 7672, de 2010, do Poder Executivo, que "altera a Lei nº 8.069, de 13 de julho de 1990, que dispõe sobre o Estatuto da Criança e do Adolescente, para estabelecer o direito da criança e do adolescente de serem educados e cuidados sem o uso de castigos corporais ou de tratamento cruel ou degradante"</nomeComissao>
+        <idCargo>3</idCargo>
+        <nomeCargo>2º Vice-Presidente</nomeCargo>
+        <dataEntrada>30/08/2011</dataEntrada>
+        <dataSaida>26/06/2014</dataSaida>
+      </cargoComissoes>
+    </cargosComissoes>
+    <periodosExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>MG</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2003</dataInicio>
+        <dataFim>31/01/2007</dataFim>
+        <idCausaFimExercicio>99</idCausaFimExercicio>
+        <descricaoCausaFimExercicio>Término da Legislatura</descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>MG</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2007</dataInicio>
+        <dataFim>31/01/2011</dataFim>
+        <idCausaFimExercicio>99</idCausaFimExercicio>
+        <descricaoCausaFimExercicio>Término da Legislatura</descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>MG</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2011</dataInicio>
+        <dataFim>
+        </dataFim>
+        <idCausaFimExercicio>
+        </idCausaFimExercicio>
+        <descricaoCausaFimExercicio>
+        </descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+    </periodosExercicio>
+    <historicoNomeParlamentar />
+    <filiacoesPartidarias />
+    <historicoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>74655</idHistoricoLider>
+        <idCargoLideranca>V</idCargoLideranca>
+        <descricaoCargoLideranca>Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>25</numOrdemCargo>
+        <dataDesignacao>03/03/2005</dataDesignacao>
+        <dataTermino>31/01/2007</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSDB</siglaUnidadeLideranca>
+        <idBlocoPartido>PSDB</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>74655</idHistoricoLider>
+        <idCargoLideranca>V</idCargoLideranca>
+        <descricaoCargoLideranca>Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>2</numOrdemCargo>
+        <dataDesignacao>08/07/2009</dataDesignacao>
+        <dataTermino>31/01/2011</dataTermino>
+        <codigoUnidadeLideranca>I</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>Minoria no Congresso Nacional</siglaUnidadeLideranca>
+        <idBlocoPartido>I</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>74655</idHistoricoLider>
+        <idCargoLideranca>V</idCargoLideranca>
+        <descricaoCargoLideranca>Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>10</numOrdemCargo>
+        <dataDesignacao>22/02/2013</dataDesignacao>
+        <dataTermino>04/02/2014</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSDB</siglaUnidadeLideranca>
+        <idBlocoPartido>PSDB</idBlocoPartido>
+      </itemHistoricoLider>
+    </historicoLider>
+  </Deputado>
+  <Deputado>
+    <numLegislatura>54</numLegislatura>
+    <email>dep.eduardobarbosa@camara.gov.br</email>
+    <nomeProfissao>Médico</nomeProfissao>
+    <dataNascimento>25/08/1958</dataNascimento>
+    <dataFalecimento>
+    </dataFalecimento>
+    <ufRepresentacaoAtual>MG</ufRepresentacaoAtual>
+    <situacaoNaLegislaturaAtual>Em Exercício</situacaoNaLegislaturaAtual>
+    <ideCadastro>74655</ideCadastro>
+    <idParlamentarDeprecated>3157</idParlamentarDeprecated>
+    <nomeParlamentarAtual>EDUARDO BARBOSA</nomeParlamentarAtual>
+    <nomeCivil>EDUARDO LUIZ BARROS BARBOSA</nomeCivil>
+    <sexo>M</sexo>
+    <partidoAtual>
+      <idPartido>PSDB</idPartido>
+      <sigla>PSDB</sigla>
+      <nome>Partido da Social Democracia Brasileira</nome>
+    </partidoAtual>
+    <gabinete>
+      <numero>540</numero>
+      <anexo>4</anexo>
+      <telefone>3215-1540</telefone>
+    </gabinete>
+    <comissoes>
+      <comissao>
+        <idOrgaoLegislativoCD>2009</idOrgaoLegislativoCD>
+        <siglaComissao>CE</siglaComissao>
+        <nomeComissao>Comissão de Educação</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>26/02/2003</dataEntrada>
+        <dataSaida>15/02/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2015</idOrgaoLegislativoCD>
+        <siglaComissao>CTASP</siglaComissao>
+        <nomeComissao>Comissão de Trabalho, de Administração e Serviço Público</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>26/02/2003</dataEntrada>
+        <dataSaida>15/02/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>5438</idOrgaoLegislativoCD>
+        <siglaComissao>CLP</siglaComissao>
+        <nomeComissao>Comissão de Legislação Participativa</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>26/02/2003</dataEntrada>
+        <dataSaida>15/02/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>525982</idOrgaoLegislativoCD>
+        <siglaComissao>CEJUVENT</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a acompanhar e estudar propostas de Políticas Públicas para a Juventude.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>06/05/2003</dataEntrada>
+        <dataSaida>23/07/2003</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>525997</idOrgaoLegislativoCD>
+        <siglaComissao>CPIPIRAT</siglaComissao>
+        <nomeComissao>Comissão Parlamentar de Inquérito  com a finalidade de investigar fatos relacionados à pirataria de produtos industrializados e sonegação fiscal.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>30/05/2003</dataEntrada>
+        <dataSaida>09/06/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526051</idOrgaoLegislativoCD>
+        <siglaComissao>PEC30600</siglaComissao>
+        <nomeComissao>Comissão Especial criada para fim do disposto no art. 197 do RICD, para a PEC 306-B, de 2000, que "acrescenta § 3° ao art. 215 da Constituição Federal, instituindo o Plano Nacional de Cultura".</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>14/07/2003</dataEntrada>
+        <dataSaida>31/07/2003</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526067</idOrgaoLegislativoCD>
+        <siglaComissao>CEBACIA</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a efetuar estudo de projetos e ações com vistas à transposição e à integração das bacias hidrográficas para a região do Semi-Árido.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>16/11/2004</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526104</idOrgaoLegislativoCD>
+        <siglaComissao>PL139903</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 1399, de 2003, que "dispõe sobre o Estatuto da Mulher e dá outras providências".</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>09/03/2004</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526089</idOrgaoLegislativoCD>
+        <siglaComissao>PL622205</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 6222, de 2005, que "dá nova redação ao § 2º do art. 46 e ao caput do art. 52 da Lei nº 8.069, de 13 de julho de 1990 - Estatuto da Criança e do Adolescente, sobre adoção internacional".  (PL 1756/03 Apensado)</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>01/04/2004</dataEntrada>
+        <dataSaida>02/06/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526115</idOrgaoLegislativoCD>
+        <siglaComissao>CPIORGAO</siglaComissao>
+        <nomeComissao>Comissão Parlamentar de Inquérito com a finalidade de investigar a atuação de organizações criminosas atuantes no tráfico de órgãos humanos.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>30/03/2004</dataEntrada>
+        <dataSaida>09/11/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2009</idOrgaoLegislativoCD>
+        <siglaComissao>CE</siglaComissao>
+        <nomeComissao>Comissão de Educação</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>23/03/2004</dataEntrada>
+        <dataSaida>01/03/2005</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526099</idOrgaoLegislativoCD>
+        <siglaComissao>PL020391</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 203, de 1991, que "dispõe sobre o acondicionamento, a coleta, o tratamento, o transporte e a destinação final dos resíduos de serviços de saúde".</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>09/08/2005</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>5438</idOrgaoLegislativoCD>
+        <siglaComissao>CLP</siglaComissao>
+        <nomeComissao>Comissão de Legislação Participativa</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>15/12/2004</dataEntrada>
+        <dataSaida>01/03/2005</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2007</idOrgaoLegislativoCD>
+        <siglaComissao>CDHM</siglaComissao>
+        <nomeComissao>Comissão de Direitos Humanos e Minorias</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>02/03/2005</dataEntrada>
+        <dataSaida>28/03/2006</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2015</idOrgaoLegislativoCD>
+        <siglaComissao>CTASP</siglaComissao>
+        <nomeComissao>Comissão de Trabalho, de Administração e Serviço Público</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>02/03/2005</dataEntrada>
+        <dataSaida>28/03/2006</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526243</idOrgaoLegislativoCD>
+        <siglaComissao>PEC00703</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 007-A, de 2003, que "altera o Inciso II do art. 37 da Constituição Federal, permitindo a contratação, pela administração pública, de agentes comunitários de saúde através do processo seletivo público".</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>20/06/2005</dataEntrada>
+        <dataSaida>01/02/2006</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526311</idOrgaoLegislativoCD>
+        <siglaComissao>PL114403</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 1.144, de 2003, da Senhora Maria do Carmo Lara, que "institui a Política Nacional de Saneamento Ambiental, define diretrizes para a prestação dos serviços públicos de água e esgoto, e dá outras providências".</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>28/06/2005</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2015</idOrgaoLegislativoCD>
+        <siglaComissao>CTASP</siglaComissao>
+        <nomeComissao>Comissão de Trabalho, de Administração e Serviço Público</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>29/03/2006</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526404</idOrgaoLegislativoCD>
+        <siglaComissao>CEXAEREO</siglaComissao>
+        <nomeComissao>Comissão Externa destinada a averiguar, "in loco", a questão do controle de tráfego aéreo.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>13/12/2006</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2007</idOrgaoLegislativoCD>
+        <siglaComissao>CDHM</siglaComissao>
+        <nomeComissao>Comissão de Direitos Humanos e Minorias</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>26/02/2003</dataEntrada>
+        <dataSaida>15/02/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2014</idOrgaoLegislativoCD>
+        <siglaComissao>CSSF</siglaComissao>
+        <nomeComissao>Comissão de Seguridade Social e Família</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>26/02/2003</dataEntrada>
+        <dataSaida>15/02/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>525966</idOrgaoLegislativoCD>
+        <siglaComissao>REFPREVI</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a efetuar estudo em relação às matérias em tramitação na Casa, cujo tema abranja a Reforma Previdenciária.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>26/02/2003</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526022</idOrgaoLegislativoCD>
+        <siglaComissao>PEC04003</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a apreciar e proferir parecer à Proposta de Emenda à Constituição nº 40-A, de 2003, que "modifica os arts. 37, 40, 42, 48, 96, 142 e 149 da Constituição Federal, o art. 8º da Emenda Constitucional nº 20, de 15 de dezembro de 1998, e dá outras providências" (Reforma da Previdência).</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>10/06/2003</dataEntrada>
+        <dataSaida>31/12/2003</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>525982</idOrgaoLegislativoCD>
+        <siglaComissao>CEJUVENT</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a acompanhar e estudar propostas de Políticas Públicas para a Juventude.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>23/07/2003</dataEntrada>
+        <dataSaida>25/11/2004</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526046</idOrgaoLegislativoCD>
+        <siglaComissao>PEC43101</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 431-A, de 2001, que "acrescenta parágrafos primeiro e segundo ao artigo 204 da Constituição Federal", destinando 5% dos recursos do orçamento da União Federal, Estados, DF e Municípios para custeio da assistência social.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>22/10/2003</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526069</idOrgaoLegislativoCD>
+        <siglaComissao>PEC05499</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 54-A, de 1999, que "acrescenta artigo ao Ato das Disposições Constitucionais Transitórias" (dispondo que o pessoal em exercício  que não tenha sido admitido por concurso público, estável ou não, passa a integrar quadro temporário em extinção à medida que vagarem os cargos ou empregos respectivos).</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>22/09/2003</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526131</idOrgaoLegislativoCD>
+        <siglaComissao>GTCRIANÇ</siglaComissao>
+        <nomeComissao>Grupo de Trabalho destinado a efetuar estudo em relação aos projetos em tramitação referentes ao Estatuto da Criança e do Adolescente e à redução da maioridade penal e oferecer indicativo à Casa sobre a matéria.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>26/11/2003</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526155</idOrgaoLegislativoCD>
+        <siglaComissao>CEXFISCA</siglaComissao>
+        <nomeComissao>Comissão Externa destinada a acompanhar as investigações do assassinato dos auditores fiscais e do motorista  do Ministério do Trabalho, na região noroeste de Minas Gerais, na cidade de Unaí.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>29/01/2004</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526149</idOrgaoLegislativoCD>
+        <siglaComissao>PEC22704</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 227-A, de 2004, que "altera os artigos 37, 40, 144, 194, 195 e 201 da Constituição Federal, para dispor sobre a Previdência Social, e dá outras providências" ( PEC Paralela - Alterando a Emenda Constitucional nº 41, de 2003 - Reforma da Previdência).</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>10/02/2004</dataEntrada>
+        <dataSaida>22/03/2005</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526162</idOrgaoLegislativoCD>
+        <siglaComissao>PEC43801</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 438-A, de 2001, que "dá nova redação ao art. 243 da Constituição Federal" (estabelecendo a pena de perdimento da gleba onde for constada a exploração de trabalho escravo; revertendo a área ao assentamento dos colonos que já trabalhavam na respectiva gleba).</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>02/03/2004</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2014</idOrgaoLegislativoCD>
+        <siglaComissao>CSSF</siglaComissao>
+        <nomeComissao>Comissão de Seguridade Social e Família</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>23/03/2004</dataEntrada>
+        <dataSaida>01/03/2005</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526117</idOrgaoLegislativoCD>
+        <siglaComissao>PL363800</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao PL nº 3638, de 2000, que "institui o Estatuto do Portador de Necessidades Especiais e dá outras providências".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>19/05/2004</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526089</idOrgaoLegislativoCD>
+        <siglaComissao>PL622205</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 6222, de 2005, que "dá nova redação ao § 2º do art. 46 e ao caput do art. 52 da Lei nº 8.069, de 13 de julho de 1990 - Estatuto da Criança e do Adolescente, sobre adoção internacional".  (PL 1756/03 Apensado)</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>02/06/2004</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526240</idOrgaoLegislativoCD>
+        <siglaComissao>PEC13803</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 138, de 2003, que "dispõe sobre a proteção dos direitos econômicos, sociais e culturais da juventude".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>03/06/2005</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2014</idOrgaoLegislativoCD>
+        <siglaComissao>CSSF</siglaComissao>
+        <nomeComissao>Comissão de Seguridade Social e Família</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>02/03/2005</dataEntrada>
+        <dataSaida>28/03/2006</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526282</idOrgaoLegislativoCD>
+        <siglaComissao>PL453004</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 4.530, de 2004, de autoria da  Comissão Especial destinada a acompanhar e estudar propostas de Políticas Públicas para a Juventude, que "aprova o Plano Nacional de Juventude e dá outras providências".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>01/06/2005</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>526307</idOrgaoLegislativoCD>
+        <siglaComissao>PL523405</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 5234, de 2005, do Poder Executivo, que "institui a proteção especial às crianças ou adolescentes ameaçados de morte, cria o Programa Federal de Proteção Especial às Crianças e Adolescentes Ameaçados de Morte, e dá outras providências".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>24/05/2006</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2014</idOrgaoLegislativoCD>
+        <siglaComissao>CSSF</siglaComissao>
+        <nomeComissao>Comissão de Seguridade Social e Família</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>29/03/2006</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2007</idOrgaoLegislativoCD>
+        <siglaComissao>CDHM</siglaComissao>
+        <nomeComissao>Comissão de Direitos Humanos e Minorias</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>14/02/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2015</idOrgaoLegislativoCD>
+        <siglaComissao>CTASP</siglaComissao>
+        <nomeComissao>Comissão de Trabalho, de Administração e Serviço Público</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>14/02/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536456</idOrgaoLegislativoCD>
+        <siglaComissao>SUBSAUDE</siglaComissao>
+        <nomeComissao>Subcomissão Permanente de Saúde</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>28/02/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536458</idOrgaoLegislativoCD>
+        <siglaComissao>SUBPREVI</siglaComissao>
+        <nomeComissao>Subcomissão Permanente de Previdência Social</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>28/02/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536454</idOrgaoLegislativoCD>
+        <siglaComissao>PEC48305</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 483-A, de 2005, do Senado Federal, que "altera o art. 89 do Ato das Disposições Constitucionais Transitórias", incluindo os servidores públicos, civis e militares, custeados pela União até 31 de dezembro de 1991, no quadro em extinção da Administração Federal do ex - Território Federal de Rondônia.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>09/07/2007</dataEntrada>
+        <dataSaida>11/11/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2015</idOrgaoLegislativoCD>
+        <siglaComissao>CTASP</siglaComissao>
+        <nomeComissao>Comissão de Trabalho, de Administração e Serviço Público</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>04/03/2008</dataEntrada>
+        <dataSaida>02/02/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2007</idOrgaoLegislativoCD>
+        <siglaComissao>CDHM</siglaComissao>
+        <nomeComissao>Comissão de Direitos Humanos e Minorias</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>11/03/2008</dataEntrada>
+        <dataSaida>02/02/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536523</idOrgaoLegislativoCD>
+        <siglaComissao>CEANISTI</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a acompanhar, até o dia 30 de novembro de 2008, a aplicação das seguintes Leis de Anistia: Lei nº 8878/1994, que "dispõe sobre a concessão de anistia"; Lei nº 10.790/2003, que "concede anistia a dirigentes ou representantes sindicais e trabalhadores punidos por participação em movimento reivindicatório"; Lei nº 11.282/2006, que "anistia os trabalhadores da Empresa Brasileira de Correios e Telégrafos-ECT punidos em razão da participação em movimento grevista"; e Lei nº 10.559/2002, que "regulamenta o artigo 8º do Ato das Disposições Constitucionais Transitórias e dá outras providências".</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>31/03/2008</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>5438</idOrgaoLegislativoCD>
+        <siglaComissao>CLP</siglaComissao>
+        <nomeComissao>Comissão de Legislação Participativa</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>18/03/2008</dataEntrada>
+        <dataSaida>02/02/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2015</idOrgaoLegislativoCD>
+        <siglaComissao>CTASP</siglaComissao>
+        <nomeComissao>Comissão de Trabalho, de Administração e Serviço Público</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>04/03/2009</dataEntrada>
+        <dataSaida>19/08/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2007</idOrgaoLegislativoCD>
+        <siglaComissao>CDHM</siglaComissao>
+        <nomeComissao>Comissão de Direitos Humanos e Minorias</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>04/03/2009</dataEntrada>
+        <dataSaida>01/02/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2009</idOrgaoLegislativoCD>
+        <siglaComissao>CE</siglaComissao>
+        <nomeComissao>Comissão de Educação</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>04/03/2009</dataEntrada>
+        <dataSaida>01/02/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2015</idOrgaoLegislativoCD>
+        <siglaComissao>CTASP</siglaComissao>
+        <nomeComissao>Comissão de Trabalho, de Administração e Serviço Público</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>03/09/2009</dataEntrada>
+        <dataSaida>01/02/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536697</idOrgaoLegislativoCD>
+        <siglaComissao>CPI-DESA</siglaComissao>
+        <nomeComissao>Comissão Parlamentar de Inquérito  destinada a investigar as causas, conseqüências e responsáveis pelos desaparecimentos de crianças e adolescentes no Brasil no período de 2005 a 2007.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>03/09/2009</dataEntrada>
+        <dataSaida>09/11/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2009</idOrgaoLegislativoCD>
+        <siglaComissao>CE</siglaComissao>
+        <nomeComissao>Comissão de Educação</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>03/03/2010</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536855</idOrgaoLegislativoCD>
+        <siglaComissao>CMO-10</siglaComissao>
+        <nomeComissao>Comissão Mista de Planos, Orçamentos Públicos e Fiscalização - CMO</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>26/03/2010</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2014</idOrgaoLegislativoCD>
+        <siglaComissao>CSSF</siglaComissao>
+        <nomeComissao>Comissão de Seguridade Social e Família</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>14/02/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536457</idOrgaoLegislativoCD>
+        <siglaComissao>SUBASFAM</siglaComissao>
+        <nomeComissao>Subcomissão Permanente de Assistência Social e Família.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>28/02/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536460</idOrgaoLegislativoCD>
+        <siglaComissao>SUBIDOSO</siglaComissao>
+        <nomeComissao>Subcomissão especial do idoso.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>28/03/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536461</idOrgaoLegislativoCD>
+        <siglaComissao>SUBCONSO</siglaComissao>
+        <nomeComissao>Subcomissão especial de controle social e participação popular no âmbito das políticas da seguridade social.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>07/03/2007</dataEntrada>
+        <dataSaida>06/02/2008</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536344</idOrgaoLegislativoCD>
+        <siglaComissao>PL626405</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 6.264, de 2005, do Senado Federal, que "institui o Estatuto da Igualdade Racial".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>10/03/2008</dataEntrada>
+        <dataSaida>20/05/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2014</idOrgaoLegislativoCD>
+        <siglaComissao>CSSF</siglaComissao>
+        <nomeComissao>Comissão de Seguridade Social e Família</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>04/03/2008</dataEntrada>
+        <dataSaida>02/02/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536521</idOrgaoLegislativoCD>
+        <siglaComissao>PL162707</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 1.627, de 2007, do Poder Executivo, que "dispõe sobre os sistemas de atendimento socioeducativo, regulamenta a execução das medidas destinadas ao adolescente, em razão de ato infracional, altera dispositivos da Lei no 8.069, de 13 de julho de 1990, que dispõe sobre o Estatuto da Criança e do Adolescente, e dá outras providências".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>25/06/2008</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2014</idOrgaoLegislativoCD>
+        <siglaComissao>CSSF</siglaComissao>
+        <nomeComissao>Comissão de Seguridade Social e Família</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>04/03/2009</dataEntrada>
+        <dataSaida>01/02/2010</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536697</idOrgaoLegislativoCD>
+        <siglaComissao>CPI-DESA</siglaComissao>
+        <nomeComissao>Comissão Parlamentar de Inquérito  destinada a investigar as causas, conseqüências e responsáveis pelos desaparecimentos de crianças e adolescentes no Brasil no período de 2005 a 2007.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>18/08/2009</dataEntrada>
+        <dataSaida>20/08/2009</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536796</idOrgaoLegislativoCD>
+        <siglaComissao>PEC34709</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição 347-A, de 2009,  da Sra. Rita Camata, que "altera a redação do inciso III do art. 208 da Constituição Federal" (garante acesso à educação especializada para portadores de deficiência sem imposição de limite de faixa etária e nível de instrução, preferencialmente na rede regular de ensino)</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>05/11/2009</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2014</idOrgaoLegislativoCD>
+        <siglaComissao>CSSF</siglaComissao>
+        <nomeComissao>Comissão de Seguridade Social e Família</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>03/03/2010</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2009</idOrgaoLegislativoCD>
+        <siglaComissao>CE</siglaComissao>
+        <nomeComissao>Comissão de Educação</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>01/03/2011</dataEntrada>
+        <dataSaida>31/01/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6914</idOrgaoLegislativoCD>
+        <siglaComissao>CEDROGA</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a promover estudos e proposições de políticas públicas e de Projetos de Lei destinados a combater e prevenir os efeitos do Crack e de outras drogas ilícitas.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>29/03/2011</dataEntrada>
+        <dataSaida>07/12/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2009</idOrgaoLegislativoCD>
+        <siglaComissao>CE</siglaComissao>
+        <nomeComissao>Comissão de Educação</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>07/03/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9123</idOrgaoLegislativoCD>
+        <siglaComissao>PL766310</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 7663, de 2010, do Sr. Osmar Terra, que "acrescenta e altera dispositivos à Lei nº 11.343, de 23 de agosto de 2006, para tratar do Sistema Nacional de Políticas sobre Drogas , dispor sobre a obrigatoriedade da classificação das drogas, introduzir circunstâncias qualificadoras dos crimes previstos nos arts. 33 a 37, definir as condições de atenção aos usuários  ou dependentes de drogas e dá outras providências"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>08/05/2012</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536923</idOrgaoLegislativoCD>
+        <siglaComissao>SUBSANCA</siglaComissao>
+        <nomeComissao>Subcomissão Especial destinada a analisar e diagnosticar a situação em que se encontram as Santas Casas, Hospitais e Entidades Filantrópicas na Área da Saúde.</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>16/05/2012</dataEntrada>
+        <dataSaida>27/03/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2009</idOrgaoLegislativoCD>
+        <siglaComissao>CE</siglaComissao>
+        <nomeComissao>Comissão de Educação</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>05/03/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536996</idOrgaoLegislativoCD>
+        <siglaComissao>CCULT</siglaComissao>
+        <nomeComissao>Comissão de Cultura</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>21/03/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537228</idOrgaoLegislativoCD>
+        <siglaComissao>PL699813</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 6998, de 2013, do Sr. Osmar Terra e outros, que "altera o art. 1º e insere dispositivos sobre a Primeira Infância na Lei nº 8.069, de 1990, que dispõe sobre o Estatuto da Criança e do Adolescente e dá outras providências"</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>13/03/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2014</idOrgaoLegislativoCD>
+        <siglaComissao>CSSF</siglaComissao>
+        <nomeComissao>Comissão de Seguridade Social e Família</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>25/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537139</idOrgaoLegislativoCD>
+        <siglaComissao>PEC32509</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a apreciar e  proferir parecer à Proposta de Emenda à Constituição nº 325-A, de 2009, do Sr. Valtenir Pereira e outros, que "acrescenta Seção ao Capítulo IV do Título IV da Constituição Federal, dispondo sobre a perícia oficial de natureza criminal", e apensada</nomeComissao>
+        <condicaoMembro>Suplente</condicaoMembro>
+        <dataEntrada>08/05/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2014</idOrgaoLegislativoCD>
+        <siglaComissao>CSSF</siglaComissao>
+        <nomeComissao>Comissão de Seguridade Social e Família</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>01/03/2011</dataEntrada>
+        <dataSaida>31/01/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6914</idOrgaoLegislativoCD>
+        <siglaComissao>CEDROGA</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a promover estudos e proposições de políticas públicas e de Projetos de Lei destinados a combater e prevenir os efeitos do Crack e de outras drogas ilícitas.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>28/03/2011</dataEntrada>
+        <dataSaida>29/03/2011</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>6940</idOrgaoLegislativoCD>
+        <siglaComissao>PL803510</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 8035, de 2010, do Poder Executivo, que "aprova o Plano Nacional de Educação para o decênio 2011-2020 e dá outras providências"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>07/04/2011</dataEntrada>
+        <dataSaida>26/06/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>7006</idOrgaoLegislativoCD>
+        <siglaComissao>SUBSAUCO</siglaComissao>
+        <nomeComissao>Subcomissão especial destinada a avaliar o Sistema de Saúde Complementar.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>27/04/2011</dataEntrada>
+        <dataSaida>13/06/2012</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>8526</idOrgaoLegislativoCD>
+        <siglaComissao>PL742006</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 7420, de 2006, da Sra. Professora Raquel Teixeira, que "dispõe sobre a qualidade da educação básica e a responsabilidade dos gestores públicos na sua promoção"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>13/10/2011</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>8905</idOrgaoLegislativoCD>
+        <siglaComissao>PL767210</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 7672, de 2010, do Poder Executivo, que "altera a Lei nº 8.069, de 13 de julho de 1990, que dispõe sobre o Estatuto da Criança e do Adolescente, para estabelecer o direito da criança e do adolescente de serem educados e cuidados sem o uso de castigos corporais ou de tratamento cruel ou degradante"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>30/08/2011</dataEntrada>
+        <dataSaida>26/06/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2014</idOrgaoLegislativoCD>
+        <siglaComissao>CSSF</siglaComissao>
+        <nomeComissao>Comissão de Seguridade Social e Família</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>07/03/2012</dataEntrada>
+        <dataSaida>02/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536935</idOrgaoLegislativoCD>
+        <siglaComissao>SUBFORCD</siglaComissao>
+        <nomeComissao>Subcomissão Permanente de Formação e Carreira Docente.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>09/05/2012</dataEntrada>
+        <dataSaida>04/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>536934</idOrgaoLegislativoCD>
+        <siglaComissao>SUBFINED</siglaComissao>
+        <nomeComissao>Subcomissão Permanente de Financiamento da Educação.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>30/05/2012</dataEntrada>
+        <dataSaida>04/02/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9088</idOrgaoLegislativoCD>
+        <siglaComissao>PEC03299</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 32-A, de 1999, do Sr. Pompeo de Mattos, que "determina a concessão de bolsas de estudos e crédito educativo para o ensino médio e superior aos estudantes carentes em instituições privadas, acrescentando inciso VIII ao art. 208 da Constituição Federal"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>06/11/2012</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>9100</idOrgaoLegislativoCD>
+        <siglaComissao>CESAUDE</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a discutir o Financiamento da Saúde Pública.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>26/03/2013</dataEntrada>
+        <dataSaida>12/11/2013</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2014</idOrgaoLegislativoCD>
+        <siglaComissao>CSSF</siglaComissao>
+        <nomeComissao>Comissão de Seguridade Social e Família</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>05/03/2013</dataEntrada>
+        <dataSaida>03/02/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537030</idOrgaoLegislativoCD>
+        <siglaComissao>SUBDOPOB</siglaComissao>
+        <nomeComissao>Subcomissão Especial destinada a analisar e diagnostinar a situação em que se encontram as políticas de governo relacionadas às doenças determinadas pela pobreza.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>02/04/2013</dataEntrada>
+        <dataSaida>15/05/2014</dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537084</idOrgaoLegislativoCD>
+        <siglaComissao>SUBINEDU</siglaComissao>
+        <nomeComissao>Subcomissão Permanente de Indicadores e Qualidade da Educação</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>17/04/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537103</idOrgaoLegislativoCD>
+        <siglaComissao>CMCLF</siglaComissao>
+        <nomeComissao>Comissão Mista destinada a consolidar a legislação federal e a regulamentar dispositivos da Constituição Federal.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>21/05/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537105</idOrgaoLegislativoCD>
+        <siglaComissao>PEC09011</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 90-A, de 2011, da Sra Luiza Erundina, que "dá nova redação ao art. 6º da Constituição Federal, para introduzir o transporte como direito social"</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>28/08/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537120</idOrgaoLegislativoCD>
+        <siglaComissao>SUBCUDHM</siglaComissao>
+        <nomeComissao>Subcomissão Especial para tratar dos assuntos afetos à Cultura, Direitos Humanos e Minorias.</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>08/08/2013</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>2018</idOrgaoLegislativoCD>
+        <siglaComissao>CREDN</siglaComissao>
+        <nomeComissao>Comissão de Relações Exteriores e de Defesa Nacional</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>25/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537226</idOrgaoLegislativoCD>
+        <siglaComissao>CMPCCAI</siglaComissao>
+        <nomeComissao>Comissão Mista de Controle das Atividades de Inteligência (CCAI).</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>19/03/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+      <comissao>
+        <idOrgaoLegislativoCD>537280</idOrgaoLegislativoCD>
+        <siglaComissao>SUBDIDEF</siglaComissao>
+        <nomeComissao>Subcomissão Especial para Monitoramento do Plano Nacional dos Direitos das Pessoas com Deficiência " Viver sem Limites".</nomeComissao>
+        <condicaoMembro>Titular</condicaoMembro>
+        <dataEntrada>06/05/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </comissao>
+    </comissoes>
+    <cargosComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>2014</idOrgaoLegislativoCD>
+        <siglaComissao>CSSF</siglaComissao>
+        <nomeComissao>Comissão de Seguridade Social e Família</nomeComissao>
+        <idCargo>2</idCargo>
+        <nomeCargo>1º Vice-Presidente</nomeCargo>
+        <dataEntrada>23/03/2004</dataEntrada>
+        <dataSaida>01/03/2005</dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>526069</idOrgaoLegislativoCD>
+        <siglaComissao>PEC05499</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 54-A, de 1999, que "acrescenta artigo ao Ato das Disposições Constitucionais Transitórias" (dispondo que o pessoal em exercício  que não tenha sido admitido por concurso público, estável ou não, passa a integrar quadro temporário em extinção à medida que vagarem os cargos ou empregos respectivos).</nomeComissao>
+        <idCargo>4</idCargo>
+        <nomeCargo>3º Vice-Presidente</nomeCargo>
+        <dataEntrada>08/10/2003</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>526307</idOrgaoLegislativoCD>
+        <siglaComissao>PL523405</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 5234, de 2005, do Poder Executivo, que "institui a proteção especial às crianças ou adolescentes ameaçados de morte, cria o Programa Federal de Proteção Especial às Crianças e Adolescentes Ameaçados de Morte, e dá outras providências".</nomeComissao>
+        <idCargo>2</idCargo>
+        <nomeCargo>1º Vice-Presidente</nomeCargo>
+        <dataEntrada>31/05/2006</dataEntrada>
+        <dataSaida>31/01/2007</dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>2014</idOrgaoLegislativoCD>
+        <siglaComissao>CSSF</siglaComissao>
+        <nomeComissao>Comissão de Seguridade Social e Família</nomeComissao>
+        <idCargo>3</idCargo>
+        <nomeCargo>2º Vice-Presidente</nomeCargo>
+        <dataEntrada>11/03/2009</dataEntrada>
+        <dataSaida>03/03/2010</dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>536344</idOrgaoLegislativoCD>
+        <siglaComissao>PL626405</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 6.264, de 2005, do Senado Federal, que "institui o Estatuto da Igualdade Racial".</nomeComissao>
+        <idCargo>3</idCargo>
+        <nomeCargo>2º Vice-Presidente</nomeCargo>
+        <dataEntrada>14/05/2008</dataEntrada>
+        <dataSaida>20/05/2009</dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>536521</idOrgaoLegislativoCD>
+        <siglaComissao>PL162707</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 1.627, de 2007, do Poder Executivo, que "dispõe sobre os sistemas de atendimento socioeducativo, regulamenta a execução das medidas destinadas ao adolescente, em razão de ato infracional, altera dispositivos da Lei no 8.069, de 13 de julho de 1990, que dispõe sobre o Estatuto da Criança e do Adolescente, e dá outras providências".</nomeComissao>
+        <idCargo>2</idCargo>
+        <nomeCargo>1º Vice-Presidente</nomeCargo>
+        <dataEntrada>02/07/2008</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>536796</idOrgaoLegislativoCD>
+        <siglaComissao>PEC34709</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição 347-A, de 2009,  da Sra. Rita Camata, que "altera a redação do inciso III do art. 208 da Constituição Federal" (garante acesso à educação especializada para portadores de deficiência sem imposição de limite de faixa etária e nível de instrução, preferencialmente na rede regular de ensino)</nomeComissao>
+        <idCargo>2</idCargo>
+        <nomeCargo>1º Vice-Presidente</nomeCargo>
+        <dataEntrada>11/11/2009</dataEntrada>
+        <dataSaida>31/01/2011</dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>537280</idOrgaoLegislativoCD>
+        <siglaComissao>SUBDIDEF</siglaComissao>
+        <nomeComissao>Subcomissão Especial para Monitoramento do Plano Nacional dos Direitos das Pessoas com Deficiência " Viver sem Limites".</nomeComissao>
+        <idCargo>50</idCargo>
+        <nomeCargo>Relator</nomeCargo>
+        <dataEntrada>06/05/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>537030</idOrgaoLegislativoCD>
+        <siglaComissao>SUBDOPOB</siglaComissao>
+        <nomeComissao>Subcomissão Especial destinada a analisar e diagnostinar a situação em que se encontram as políticas de governo relacionadas às doenças determinadas pela pobreza.</nomeComissao>
+        <idCargo>2</idCargo>
+        <nomeCargo>1º Vice-Presidente</nomeCargo>
+        <dataEntrada>08/05/2013</dataEntrada>
+        <dataSaida>15/05/2014</dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>2018</idOrgaoLegislativoCD>
+        <siglaComissao>CREDN</siglaComissao>
+        <nomeComissao>Comissão de Relações Exteriores e de Defesa Nacional</nomeComissao>
+        <idCargo>1</idCargo>
+        <nomeCargo>Presidente</nomeCargo>
+        <dataEntrada>26/02/2014</dataEntrada>
+        <dataSaida>
+        </dataSaida>
+      </cargoComissoes>
+      <cargoComissoes>
+        <idOrgaoLegislativoCD>8905</idOrgaoLegislativoCD>
+        <siglaComissao>PL767210</siglaComissao>
+        <nomeComissao>Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 7672, de 2010, do Poder Executivo, que "altera a Lei nº 8.069, de 13 de julho de 1990, que dispõe sobre o Estatuto da Criança e do Adolescente, para estabelecer o direito da criança e do adolescente de serem educados e cuidados sem o uso de castigos corporais ou de tratamento cruel ou degradante"</nomeComissao>
+        <idCargo>3</idCargo>
+        <nomeCargo>2º Vice-Presidente</nomeCargo>
+        <dataEntrada>30/08/2011</dataEntrada>
+        <dataSaida>26/06/2014</dataSaida>
+      </cargoComissoes>
+    </cargosComissoes>
+    <periodosExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>MG</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2003</dataInicio>
+        <dataFim>31/01/2007</dataFim>
+        <idCausaFimExercicio>99</idCausaFimExercicio>
+        <descricaoCausaFimExercicio>Término da Legislatura</descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>MG</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2007</dataInicio>
+        <dataFim>31/01/2011</dataFim>
+        <idCausaFimExercicio>99</idCausaFimExercicio>
+        <descricaoCausaFimExercicio>Término da Legislatura</descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+      <periodoExercicio>
+        <siglaUFRepresentacao>MG</siglaUFRepresentacao>
+        <situacaoExercicio>Titular</situacaoExercicio>
+        <dataInicio>01/02/2011</dataInicio>
+        <dataFim>
+        </dataFim>
+        <idCausaFimExercicio>
+        </idCausaFimExercicio>
+        <descricaoCausaFimExercicio>
+        </descricaoCausaFimExercicio>
+        <idCadastroParlamentarAnterior>
+        </idCadastroParlamentarAnterior>
+      </periodoExercicio>
+    </periodosExercicio>
+    <historicoNomeParlamentar />
+    <filiacoesPartidarias />
+    <historicoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>74655</idHistoricoLider>
+        <idCargoLideranca>V</idCargoLideranca>
+        <descricaoCargoLideranca>Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>25</numOrdemCargo>
+        <dataDesignacao>03/03/2005</dataDesignacao>
+        <dataTermino>31/01/2007</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSDB</siglaUnidadeLideranca>
+        <idBlocoPartido>PSDB</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>74655</idHistoricoLider>
+        <idCargoLideranca>V</idCargoLideranca>
+        <descricaoCargoLideranca>Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>2</numOrdemCargo>
+        <dataDesignacao>08/07/2009</dataDesignacao>
+        <dataTermino>31/01/2011</dataTermino>
+        <codigoUnidadeLideranca>I</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>Minoria no Congresso Nacional</siglaUnidadeLideranca>
+        <idBlocoPartido>I</idBlocoPartido>
+      </itemHistoricoLider>
+      <itemHistoricoLider>
+        <idHistoricoLider>74655</idHistoricoLider>
+        <idCargoLideranca>V</idCargoLideranca>
+        <descricaoCargoLideranca>Vice-Líder</descricaoCargoLideranca>
+        <numOrdemCargo>10</numOrdemCargo>
+        <dataDesignacao>22/02/2013</dataDesignacao>
+        <dataTermino>04/02/2014</dataTermino>
+        <codigoUnidadeLideranca>P</codigoUnidadeLideranca>
+        <siglaUnidadeLideranca>PSDB</siglaUnidadeLideranca>
+        <idBlocoPartido>PSDB</idBlocoPartido>
+      </itemHistoricoLider>
+    </historicoLider>
+  </Deputado>
+</Deputados>

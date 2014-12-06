@@ -31,6 +31,7 @@ require 'open-uri'
 # tmp directory
 TMP_PATH = Rails.root.join('data')
 PAUTAS_BY_ORGAO_PATH = TMP_PATH.join('orgaos')
+MEMBROS_BY_ORGAO_PATH = TMP_PATH.join('membros')
 
 def get_deputados_xml
   'http://www.camara.gov.br/SitCamaraWS/Deputados.asmx/ObterDeputados'
@@ -41,7 +42,7 @@ def get_orgaos_xml
 end
 
 # Capturando detalhe do deputado no orgão
-def get_detalhe_deputado_orgao(ide_cadastro)
+def get_detalhe_deputado(ide_cadastro)
   "http://www.camara.gov.br/SitCamaraWS/Deputados.asmx/ObterDetalhesDeputado?ideCadastro=#{ide_cadastro}&numLegislatura="
 end
 
@@ -146,6 +147,36 @@ def load_pautas
   puts
 end
 
+def get_membros_comissoes
+  Deputado.all.each do |dep|
+    url = get_detalhe_deputado(dep.ide_cadastro)
+    system("wget --output-document=#{dep.ide_cadastro}.xml -P #{MEMBROS_BY_ORGAO_PATH} '#{url}'")
+  end
+end
+
+def load_membros_comissoes
+  Deputado.all.each do |dep|
+    file_path = Rails.root.join('data', 'membros',
+"#{dep.ide_cadastro}.xml")
+    dep_xml = Nokogiri::XML(open(file_path))
+
+    dep_xml.xpath('//Deputados/Deputado/comissoes/comissao[last()]').each do |link|
+    sigla = link.at_xpath('siglaComissao').text
+      unless Orgao.find_by_sigla(sigla).nil?
+        membro = MembroComissao.new(
+          :comissao => Orgao.find_by_sigla(sigla),
+          :deputado => dep,
+          :condicao_membro => link.at_xpath('condicaoMembro').text,
+          :data_entrada => link.at_xpath('dataEntrada').text.to_date,
+          :data_saida => link.at_xpath('dataSaida').text.to_date
+        )
+        membro.save
+        print '.'
+      end
+    end
+  end
+end
+
 #%w[get_deputados_xml get_orgaos_xml].each do |m|
 #  url = send(m)
 #  system("wget -P #{TMP_PATH} #{url}")
@@ -155,7 +186,9 @@ end
 
 #load_deputados
 #load_orgaos
-load_pautas
+#load_pautas
+#get_membros_comissoes
+load_membros_comissoes
 
 ####################################################
 #class CamaraService
