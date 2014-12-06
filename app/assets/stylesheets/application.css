@@ -32,7 +32,7 @@ url('../../assets/logo-deliberamulheres-horizontal.png') no-repeat 10px 5px;
 
 .navbar-inner {
   position: absolute;
-  bottom: -30px;
+  bottom: -40px;
   width: 100%;
   background-image: none !important;
   background-color: #fcac36 !important;
@@ -50,10 +50,16 @@ url('../../assets/logo-deliberamulheres-horizontal.png') no-repeat 10px 5px;
   text-shadow: unset !important;
 }
 
+.navbar-inner .container.nav-collapse {
+  line-height: 0px;
+  position: relative;
+}
+
 .game-goal {
-  text-align: center;
   font-size: 18px;
-  padding-top: 10px;
+  position: absolute;
+  right: 0px;
+  bottom: 18px;
 }
 
 .scrolled-gt30 .game-goal {
