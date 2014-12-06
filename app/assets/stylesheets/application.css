@@ -12,7 +12,7 @@
  *= require_tree .
  */
 
-footer { margin-top: 100px; }
+footer { margin-top: 10px; }
 table, td, th { vertical-align: middle !important; border: none !important; }
 th { border-bottom: 1px solid #DDD !important; }
 
@@ -126,4 +126,24 @@ a.download span {
 object {
   width: 32em;
   height: 24em;
+  border: 2px solid #EEE;
+}
+
+footer {
+  background-color: #e7dcea;
+}
+
+a.github {
+  background: transparent url('../../assets/github-32px.png') no-repeat center center;
+  width: 32px;
+  height: 32px;
+  display: inline-block;
+}
+
+a.github:hover {
+  background-color: transparent;
+}
+
+.github span {
+  display: none;
 }
