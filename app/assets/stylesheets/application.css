@@ -122,3 +122,8 @@ a.download:hover {
 a.download span {
   font-size: 18px;
 }
+
+object {
+  width: 32em;
+  height: 24em;
+}

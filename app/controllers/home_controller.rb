@@ -23,4 +23,10 @@ class HomeController < ApplicationController
     end
   end
 
+  def sobre
+    respond_to do |format|
+      format.html # notas.html.erb
+    end
+  end
+
 end
