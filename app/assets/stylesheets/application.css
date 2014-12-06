@@ -50,6 +50,11 @@ url('../../assets/logo-deliberamulheres-horizontal.png') no-repeat 10px 5px;
   text-shadow: unset !important;
 }
 
+#content .nav > li > a:hover,
+#content .nav > li > a:focus {
+  background-color: #57016d !important;
+}
+
 .navbar-inner .container.nav-collapse {
   line-height: 0px;
   position: relative;

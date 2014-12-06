@@ -1,0 +1,80 @@
+<h2>Documentação</h2>
+
+<h3>O que é o Delibera Mulheres?</h3>
+<p>O Delibera Mulheres é um jogo de cartas em que o objetivo é a aprovação de
+PL's voltados para o temas do gênero feminino. O jogo simula o trabalho dos
+congressistas para a aprovação de projetos de lei na Câmara dos Deputados.</p>
+
+<h3>Objetivo do jogo</h3>
+<p>Com o Delibera, além de aprender noções de como funciona a aprovação de uma
+lei, o jogador ainda ficará sabendo dos últimos projetos de lei que têm como
+foco as questões que estão sendo debatidas sobre o gênero feminino na Câmara dos
+Deputados.</p>
+
+<h3>Diferenciais do Delibera</h3>
+<p>O Delibera Mulheres é um jogo baseado no <a
+href='http://deliberatorio.com.br'>Deliberatório</a>. Os diferenciais em relação ao jogo original são as seguintes:
+<h4>Interface web para gerar e administrar as cartas do jogo.<h4/>
+
+<p>Gestão das cartas: o administrador do jogo pode editar todas as informações
+utilizadas para a geração das cartas. Os dados dos Deputados, Pautas e Comissões
+são fornecidas pela API da Câmara dos Deputados. Os Objetivos e Eventos que
+serão utilizados no jogo podem ser gerenciadas (criadas/editadas/removidas)
+pelos administradores do jogo. </p>
+
+<h4>Cartas de objetivos</h4>
+<p>Ganha o jogo quem cumprir o objetivo primeiro. Somente o jogador conhece o
+objetivo dele e o objetivo do outro fica oculto. Alguns exemplos:</p>
+<p><span class='highlight'>Bancada Feminina:</span> Aprovar 5 PL's propostos que diminuem desigualdade<br/>
+<span class='highlight'>Articuladora Noob:</span> Conseguir 50 pontos em propostas aprovadas;<br/>
+<span class='highlight'>Militante:</span> Aprovar 3 PL's que envolvam violência contra mulher;<br/>
+<span class='highlight'>Articuladora e Militante:</span> Conseguir 30 pontos em
+propostas que envolvam violência contra a mulher;<br/>
+<span class='highlight'>Articuladora:</span> Aprovar propostas de 4 PL's comissões diferentes;<br/>
+<span class='highlight'>Articuladora Experiente:</span> Aprovar 40 pontos em
+pelo menos 3 comissões diferentes;<br/>
+<span class='highlight'>Determinada:</span> Jogador que aprova 2 propostas
+seguidas somando pelo menos 20 pontos;<br/>
+<span class='highlight'>Lobbysta:</span> Aprovar 2 PL's de uma mesma comissão.</p>
+
+<h3>Disposição das cartas</h3>
+<p>O jogo pode ser jogado por <span class="highlight">2 a 4 jogadores</span>.<p>
+<p><span class="highlight">As cartas de PL's</span> devem ser embaralhadas e colocadas para cima em um monte
+separado.<p>
+<p><span class="highlight">As cartas de objetivos</span> devem ser embaralhadas e escolhidas de forma que um
+jogador não saiba do objetivo do outro. Quem alcançar o objetivo primeiro, ganha
+o jogo.</p>
+<p><span class="highlight">As cartas de comissões, de eventos e de
+deputados</span> devem ser embaralhadas
+juntas e colocadas em um monte único, viradas de cabeça para baixo.</p>
+<p><span class="highlight">Na primeira rodada</span>, cada jogador pega 4 cartas. Porém nas outras rodadas,
+cada jogador pega apenas uma.</p>
+<p><span class="highlight">1 PL</span> deve ser retirado do monte e cada jogador deve jogar a fim de
+conseguir a pontuação indicada em cada PL.</p>
+<p>Em cada rodada, <span class="highlight">o jogador pode baixar uma carta de deputado e uma carta de
+comissão ou de evento. O jogador nunca pode baixar uma carta de comissão e de
+evento na mesma rodada</span>. O jogador também pode optar por não baixar nenhuma
+carta.
+<p><span class="highlight">Cartas de eventos</span> interferem no processo de
+deliberação podendo atrasar ou adiar a aprovação do PL dentre outros efeitos.</p>
+<p><span class="highlight">Cartas de comissões</span> podem ser baixadas
+quando o PL da vez for da mesma comissão que o jogador tem em mãos. <span
+class="highlight">A carta de plenário pode ser baixada quando o PL tiver
+indicação de plenário.</p>
+<p><span class="highlight">Cartas de deputados</span> em geral valem 3 pontos, porém quando o deputado for
+da mesma comissão do PL da vez, o deputado valerá 5 pontos.</p>
+
+<h3>Dados utilizados</h3>
+
+<p>API ObterDeputados:<br/>
+http://www.camara.gov.br/SitCamaraWS/Deputados.asmx/ObterDeputados</p>
+
+<p>API ObterOrgaos:<br/>
+http://www.camara.gov.br/SitCamaraWS/Orgaos.asmx/ObterOrgaos</p>
+
+<p>API Orgao ObterPauta:</p>
+http://www.camara.gov.br/SitCamaraWS/Orgaos.asmx/ObterPauta?IDOrgao=2004&datIni=01/01/2014&datFim=23/11/2014</p>
+
+<p>API Orgao DetalhesDeputado:<br/>
+http://www.camara.gov.br/SitCamaraWS/Deputados.asmx/ObterDetalhesDeputado?ideCadastro=#{ide_cadastro}&numLegislatura=
+</p>

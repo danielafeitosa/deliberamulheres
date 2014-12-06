@@ -27,6 +27,9 @@ Deliberatorio::Application.routes.draw do
 
   resources :partidos
 
+  get 'home/dados' => 'home#dados'
+  get 'home/doc' => 'home#doc'
+  get 'home/notas' => 'home#notas'
 
   # The priority is based upon order of creation:
   # first created -> highest priority.
