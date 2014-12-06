@@ -177,6 +177,33 @@ def load_membros_comissoes
   end
 end
 
+def generate_cards
+  generate_deputados
+  generate_events
+  generate_comissoes
+  generate_pl
+  generate_goal
+end
+
+def generate_deputados
+  Deputado.all.each do |dep|
+  end
+ide_cadastro, nome_parlamentar, partido.sigla, uf, commissao_principal, url_foto, sexo
+  
+end
+def generate_events
+  category, title, description
+end
+def generate_comissoes
+  id_orgao_legislativo, sigla, name
+end
+def generate_pl
+  id_proposicao, sigla, resultado, ementa
+end
+def generate_goal
+  description, title
+end
+
 #%w[get_deputados_xml get_orgaos_xml].each do |m|
 #  url = send(m)
 #  system("wget -P #{TMP_PATH} #{url}")
@@ -188,7 +215,8 @@ end
 #load_orgaos
 #load_pautas
 #get_membros_comissoes
-load_membros_comissoes
+#load_membros_comissoes
+generate_cards
 
 ####################################################
 #class CamaraService

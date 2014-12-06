@@ -98,5 +98,22 @@ input[type="search"], input[type="tel"], input[type="color"], .uneditable-input
   font-size: 12px !important;
 }
 
-footer {
+a.download,
+a.download:visited {
+  background-color: #e7dcea;
+  border: 2px solid #57016d;
+  border-radius: 5px;
+  padding: 10px 15px;
+  color: #333;
+  font-weight: bold;
+}
+
+a.download:hover {
+  background-color: #FCAC36;
+  color: #57015D;
+  text-decoration: none;
+}
+
+a.download span {
+  font-size: 18px;
 }
