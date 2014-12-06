@@ -12,13 +12,11 @@
  *= require_tree .
  */
 
-footer { margin-top: 10px; }
 table, td, th { vertical-align: middle !important; border: none !important; }
-th { border-bottom: 1px solid #DDD !important; }
 
 .navbar {
   height: 200px;
-  border-top: 2px solid #800080;
+  border: none !important;
   background: #e7dcea url('../../assets/top-bg.png') no-repeat center center;
 }
 
@@ -36,8 +34,8 @@ url('../../assets/logo-deliberamulheres-horizontal.png') no-repeat 10px 5px;
   width: 100%;
   background-image: none !important;
   background-color: #fcac36 !important;
-  border-top: 2px solid #a44ea5 !important;
-  border-bottom: 2px solid #a44ea5 !important;
+  border: none !important;
+  box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.3) !important;
 }
 
 .scrolled-gt30 .navbar-inner {
@@ -48,6 +46,10 @@ url('../../assets/logo-deliberamulheres-horizontal.png') no-repeat 10px 5px;
   color: #666 !important;
   font-size: 14px;
   text-shadow: unset !important;
+}
+
+.navbar .nav > li > a:hover {
+  text-shadow: 0px 0px 1px #B52, 1px 1px 1px #FED !important;
 }
 
 #content .nav > li > a:hover,
@@ -62,9 +64,8 @@ url('../../assets/logo-deliberamulheres-horizontal.png') no-repeat 10px 5px;
 
 .game-goal {
   font-size: 18px;
-  position: absolute;
-  right: 0px;
-  bottom: 18px;
+  text-align: center;
+  color: #BBB;
 }
 
 .scrolled-gt30 .game-goal {
@@ -72,14 +73,15 @@ url('../../assets/logo-deliberamulheres-horizontal.png') no-repeat 10px 5px;
 }
 
 #content.container {
-  margin-top: 240px;
+  margin-top: 250px;
+  min-height: 300px;
 }
 
 .scrolled-gt30 #content.container {
-  margin-top: 170px;
+  margin-top: 140px;
 }
 
-#content .col-xs-4 h2 {
+#content h2 {
   color: #a44ea5;
 }
 
@@ -94,6 +96,15 @@ url('../../assets/logo-deliberamulheres-horizontal.png') no-repeat 10px 5px;
   color: #fc7002;
 }
 
+#content a .highlight {
+  text-decoration: underline;
+}
+
+#content a:hover .highlight {
+  color: #FFF;
+  background-color: #FC7002;
+}
+
 select, textarea, input[type="text"], input[type="password"],
 input[type="datetime"], input[type="datetime-local"], input[type="date"],
 input[type="month"], input[type="time"], input[type="week"],
@@ -105,32 +116,27 @@ input[type="search"], input[type="tel"], input[type="color"], .uneditable-input
 
 a.download,
 a.download:visited {
-  background-color: #e7dcea;
-  border: 2px solid #57016d;
-  border-radius: 5px;
-  padding: 10px 15px;
-  color: #333;
-  font-weight: bold;
+  background: linear-gradient(to bottom, #E7DCEA, #A44EA5) repeat scroll 0% 0% #E7DCEA;
+  border-radius: 6px;
+  color: #FFF;
+  font-size: 20px;
+  padding: 10px 20px;
+  height: auto;
+  text-decoration: none;
+  text-align: center;
+  margin-bottom: 20px;
+  display: block;
 }
 
 a.download:hover {
-  background-color: #FCAC36;
-  color: #57015D;
+  box-shadow: 0px 0px 2px #A44EA5;
   text-decoration: none;
-}
-
-a.download span {
-  font-size: 18px;
 }
 
 object {
   width: 32em;
   height: 24em;
   border: 2px solid #EEE;
-}
-
-footer {
-  background-color: #e7dcea;
 }
 
 a.github {
@@ -146,4 +152,15 @@ a.github:hover {
 
 .github span {
   display: none;
+}
+
+footer {
+  margin-top: 10px;
+  border-top: 1px solid #CCC;
+  padding: 10px;
+}
+
+footer span {
+  display: inline-block;
+  vertical-align: super;
 }
